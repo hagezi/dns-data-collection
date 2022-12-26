@@ -1,0 +1,23 @@
+# xp.apple.com
+acfeedbackws.icloud.com
+api-adservices.apple.com
+books-analytics-events.apple.com
+books-analytics-events.news.apple-dns.net
+ca.iadsdk.apple.com
+cf.iadsdk.apple.com
+dzc-metrics.mzstatic.com
+feedbackws.icloud.com
+iadsdk.apple.com
+metrics.apple.com
+metrics.icloud.com
+metrics.mzstatic.com
+notes-analytics-events.apple.com
+notes-analytics-events.news.apple-dns.net
+securemetrics.apple.com
+securemvt.apple.com
+stocks-analytics-events.apple.com
+stocks-analytics-events.news.apple-dns.net
+supportmetrics.apple.com
+tr.iadsdk.apple.com
+weather-analytics-events.apple.com
+weather-analytics-events.news.apple-dns.net

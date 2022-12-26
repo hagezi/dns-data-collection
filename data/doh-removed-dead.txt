@@ -1,0 +1,16 @@
+dns.alekberg.net
+dns2.alekberg.net
+doh.armadillodns.net
+i.233py.com.a.bdydns.com
+dns.bitgeek.in
+dns.containerpi.co
+dns.containerpi.com
+jit.ddns.net
+dns.developer.li
+dns2.developer.li
+dns.larsdebruin.net
+doh.libredns.org
+adblock.mydns.network
+doh.netweaver.uk
+fi.doh.dns.snopyta.org
+doh.gslb2.xfinity.com

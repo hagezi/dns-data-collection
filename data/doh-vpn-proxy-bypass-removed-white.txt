@@ -1,0 +1,3 @@
+apple-dns.net
+proxy.safebrowsing.apple
+token.safebrowsing.apple

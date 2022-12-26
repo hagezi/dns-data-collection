@@ -1,0 +1,778 @@
+# title: verbraucherzentrale niedersachsen - vorsicht falle - fake-shop-list
+# source: https://www.verbraucherzentrale-niedersachsen.de/vorsicht-falle
+# homepage: https://github.com/hagezi/dns-blocklists
+
+#D <domain> = dead
+#W <domain> = whitelisted
+
+# 2022
+
+meinbau24.net
+fomozo.de
+hamsterkiste.de
+wwwhamsterkiste.de
+alvensleben.net
+hiziel.de
+heimeiche.de
+smallrig.com.de
+xn--polenbller-jcb.net
+kernrad.de
+gold-handel-n.de
+pyro-expression.com
+vomovi.de
+momo-reifen.de
+backenkneifer.com
+virdigo-reifen.de
+gratis-produkttests.de
+lifebeautyme.com
+gartenland-martens.de
+modehaus-muenchen.de
+betterlife24.store
+handwerker-katalog.net
+uesthermaina.shop
+reifen-glaser.de
+haushaltswaren-vries.de
+e-thg.de
+dirkelektro.com
+schmitt-drogerie.com
+#D gogobadgets.io
+fl-handel.net
+holzelektro.com
+lightsaber.com
+lightsaberuniverse.com
+alfistore.de
+hannover-mode.de
+stammholz-experten.com
+elektro-beuss.de
+#W de.justfashionnow.com
+#W justfashionnow.com
+schmitt-drogerie.com
+#D gogobadgets.io
+fl-handel.net
+holzelektro.com
+lightsaber.com
+lightsaberuniverse.com
+alfistore.de
+rosenberg-drogerie.net
+fritzelektro.de
+wowperucken.de
+qeridoo-kids.de
+milzy.de
+alfonsa.de
+#D de-brennstoffe.com
+schmitt-drogerie.com
+deutschetroniks.com
+ecco-sale-deutschland.com
+media-heinemann.com
+giondo.de
+manualsguru.com
+ventatech.de
+#W arbeitskleidung-shop.net
+dein-croozer.de
+zoomil.de
+#D bitterlich-brennholz.com
+#D buhler-energie.com
+julhouse.shop
+glitzermoment.com
+haushaltswaren-thiel.de
+haushaltswaren-vries.de
+thaisawadee.de
+m-heizungs.com
+#D diebuchten.com
+kramerversand.de
+rivando.de
+khujo-neu.de
+modeboutique.store
+rheinwing.de
+autoabdeckungsfabrik.com
+grisino.de
+therapieschaukel.com
+versandhandel-decker.de
+dein-gartenheld.de
+sooloo.shop
+screenwithenvy.de
+giesler-drogerie.com
+#W zaful.com
+kamoni.de
+meldebescheinigung.eu
+lamario.de
+#D golo-handel.de
+hellostella.de
+gartengenosse.de
+lornajanedeutschland.de
+xn--parfm-probe-whb.de
+ellameyer.de
+comfie.de
+#W nuubu.com
+fastigeriptv.live
+onyx-versand.de
+blaudonau.de
+dein-gartenmarkt.de
+hte-handel.de
+berando.de
+garten-steckby.de
+docsmartensdeutschland.de
+zoomil.de
+retro-stage.de
+getvoltbox.com
+#W noracora.com
+dorsch-gartenhandel.com
+strandkorbia.com
+outdoor-repel.de
+autoteilepreisvergleich.org
+gartenshop-deutschland.de
+nordiccoastgames.de
+boned-handels.de
+gluckbox.com
+#D josh-shop.de
+bagomi-versand.net
+keil-versand.com
+bestes-brennholz.com
+energfahrrad.com
+roleo.net
+fahrrad-freunde.com
+wernerzapp.de
+spainhealthtravel.net
+zasamo.com
+trencystore.com
+agrejt.com
+heike-store.com
+matthiastierheim.com
+bonbelle.store
+emiliameyer.de
+mmfit.eu
+dogandliving.de
+livoda.de
+marashhome.de
+casapadrinos.de
+debica-reifen.de
+kickersdeutschland.top
+schroedern.com
+autolinie.de
+gamestop-markt.de
+caterpillardeutschland.de
+mavvella.de
+thamaro.net
+watenbuettel-bs.de
+lusto.de
+rezeptfrei-24.com
+reginaop.com
+#W greentec-handel.de
+getecodriver.com
+karchgeraete.com
+shopjox.de
+mc-miner.com
+modehaus-reuter.com
+maxiquercy.com
+#D looth.net
+designerdna.net
+garderobeheuser.de
+#D fahrrad-handels.net
+computerzubehoer22.de
+#D goldscheideanstalt-testsieger.de
+kaffee-verliebt.de
+brennholzshop24.com
+shopjox.de
+axscards.de
+getvoltbox.com
+getecotex.com
+varonet.store
+hundeliebee.de
+sonnenlit.de
+zefreya.com
+#D goldscheideanstalt-testsieger.de
+mehrwerken.de
+samofotografie.de
+#D ytqlbb.shop
+lavinchi.de
+#D gamestopeurodeat.com
+schwabler.com
+bysusannekling.de
+leopold-mode.com
+#D loominor.com
+#W de.aukey.com
+#D consum-mercado.com
+#D happenor.top
+zmr-handel.de
+ernotechnik.de
+herzens-mensch.de
+modehaus-weickert.de
+#D cmaschine.shop
+schifke-zeltverleih.de
+#D kshakeshc.com
+altraschuhe.de
+screenacy.co
+mokasy.de
+staubsauger-testsieger.net
+#D www.venics.net
+venics.net
+werkzeug-store24gmbh.com
+knuft.de
+modellbahn-versandhaus.de
+handschellen.deveri.de
+urban-patterns.de
+#W vevor.de
+bc-rheine.de
+#D gymwav.de
+giesswein-outdoor.de
+windwoodsigh.club
+thunderissa.com
+#D elektronikbilliger.com
+#D wrongian.top
+#D universetools.de
+#D nchaixo.com
+bundeszentralregisterwegweiser.de
+#D elvshoping.com
+
+# 2021
+
+vsygu.top
+beschlaegeprofi.de
+xn--polenbller-jcb.net
+pyro-expression.com
+pyro-effects.com
+polenboeller-deutschland.com
+#D mikida.net
+delhihurricanes.com
+reborntraumland.de
+tcgsonlineshop.com
+pokestores.com
+traumwolke.shop
+tvidler.com
+#W nuubu.com
+#D ullmann-versand.net
+#D reisebuero24.co
+#D fitness-gorilla.com
+durona.de
+stoeberlaedele.de
+#D winklerversand.net
+#D cowboyk.com
+#D gfiberon.com
+comfy-max.de
+fahrrad-loewe24.de
+jagute.de
+meladen.de
+hibote.de
+combojoy.com
+#D medialieferant.de
+breitenbacher.shop
+vpselektro.com
+#W cotosen.com
+vtg-elektronik.de
+#D varonet.de
+konrad-mode.com
+lecker-box.de
+#D fjhs.gedars.shop
+dransay.com
+fahrra-landau.com
+audosi.net
+#D amarego.com
+#D shop.onlineoutlet2021.ru
+ked-rad.de
+auditstandart.ru
+#D paleoward.top
+umia-gmbh.com
+pmf24.com
+kleine-freundin.com
+#D noval-store.com
+dobetom.com
+modovia.de
+goldhandel-heute.de
+#D rsversand.com
+#D kuhlmannbekleidung.de
+teichmann-fashion.de
+lozoro.de
+#D goldhandel-preisliste.de
+vera-mode.com
+exodermin.eu
+exodermin.com
+winkler-elektronik.de
+#D haushalt-henninger.net
+#D grungabau.com
+#D techexpert24.com
+#W vernaschediewelt.com
+#D tiseplay.de
+mosano.de
+#D haushaltswaren-mangold.net
+haushalt-jansen.net
+bach24.net
+#W vevor.de
+cvmaker.de
+#D gamestop-eu.com
+#D buxplay.de
+#D traciebunny.com
+baumarktguenstiger.de
+alben-mode.com
+#D technikexpress24.de
+#D kief-electronics.com
+#D fahrrad-hansen.com
+#D porco-office.de
+#D trinkherz.com
+#D isosmart.de
+#D ryjalew.com
+#D veloca.de
+#D batesmedia.net
+zefreya.com
+#D zergia.com
+#D drahtesel-xl.net
+#D donoyo.net
+#D golaplay.de
+#D ronuplay.de
+#D gerplay.de
+herzensnotiz.de
+#D gaming-xpress.com
+#D softjobs.eu
+supersofabezug.com
+lasuperhousse.com
+#D medianlokal.com
+#D bybande.de
+lehmann-versand.de
+pogelos.de
+dorat.de
+kingseven-shop.com
+fluremoda.com
+#D finoplay.de
+comfy-max.de
+alben-mode.com
+kleine-freundin.com
+elencoco.com
+#D goxplay.de
+beautifulcity365.top
+#D gartenaktion.net
+#D werkzeugshop-wagner.de
+infodir.net
+#D kukkesc.com
+#D hhg-ludwig.de
+#D east-bike.de
+#D euphorial.de
+#D doloplay.de
+#D tagaplay.de
+#D smartfit-pro.de
+jojolikes.com
+#D janyproblem.com
+#D remoplay.de
+#D biopedics.de
+imalent.net
+moebelhaus-clovis.de
+vinemos.de
+#D sport-lay.de
+#D lodoplay.de
+breitenbacher.shop
+dealviral.de
+#D rodoplay.de
+myfaktory.com
+#D haustechnik-kant-pfeiler.de
+#D vivomarkt.com
+#D net-elektronika.com
+#D pfs-bestemarkte.com
+#D gartenhero.net
+#D bikesporthauf.de
+#D x-treme-multimedia.de
+#D catwebh.com
+#D rcesetc.com
+media-voigt.de
+#D garten-karl.de
+#D beisimple.de
+elektropanda.de
+#D amarezashop.com
+waworld.de
+#D store4cars.nl
+#D mein-heimtrainer.de
+amellys-damenboutique.de
+#D victormartincollection.com
+#D ateris-versandhandel.de
+#D kiatajhizd.com
+#D wunderlandwelpenhaus.com
+kangaltree.com
+#D 2rad-kern.de
+ninoplay.de
+#D djfkracing.com
+#D kameraexperten.de
+#D elektrofachgeschaft.com
+all4you-fashion.com
+#D adenberger-damenmode.com
+kizaro.de
+#D irhumdmama.com
+inkjet.de
+#D mooxy.de
+#D infunnelg.com
+#D weettr.com
+#D rbasenbox.com
+#D pomplay.de
+#D foplay.de
+elektro-ecke.de
+#D tech-vario.de
+#D willhaben24.com
+#D elektro-titan.de
+auvoria.de
+#D runaplay.de
+#D handelshaus-dietz.de
+#D shops-disney-uk.com
+#D pawnature.de
+#D ellepretty.com
+#D konrad-versand.de
+#D frohzeit.de
+b-und-h.com
+hallobh.de
+#W 2rad-hanke.de
+#D ferienpartner.co
+#D heldonies.de
+azur-teck.de
+#D wkyasystems.com
+byberlin.de
+#W wickss.de
+hyperblue.de
+#D shopping123.store
+sport-handel24.de
+kruegers-hausgeraete.de
+#D playviva.de
+#D techfisch-elektro.com
+#D spielwaren-guenstig4you.de
+#D boguso.de
+#D playre.de
+#D staachen.de
+collstein.com
+ekomfort.de
+lakihair.com
+#D wali-bevano.com
+#D bike-hagers.de
+busblech-shop.de
+#D heosda.com
+elektora.de
+radlersport.com
+#D aern-inkasso.de
+#D playgom.de
+designer-dream.com
+#D alistir-inkasso.eu
+#D playlid.de
+e-bikeexperten.de
+de.fordeals24.com
+#D lakino.de
+#D haushaltsjokel.de
+tago-gewuerzplanet.de
+karmavana.de
+#D kaufhaus-mayer.de
+#D shoppingcart-markt.com
+#D cmsbooku.com
+#D playshe.de
+ingbert-unruh.de
+#D lovua.de
+swatpants.com
+fashion-traum.com
+#D vaporizerd.com
+#D karismalabel.de
+#D panteha-market.de
+#D mein-gaertner24.de
+slewo.com
+#D marti-bosom.net
+evo-pharmacy.com
+#D heimkino-versand.de
+#D villena.shop
+#D rafplay.de
+#D trendsexperten.de
+#D texaniuml.top
+lorenz-kurreisen.de
+truuly.de
+#D yadaplay.de
+#D starryshops.com
+german.zeelool.com
+#D kids-transporter.de
+#D preisbrecher.shop
+pinkkola.com
+#D preis365bikes.de
+#D protronika.de
+#D tonobi.de
+#D umiplay.de
+#D markgraefler-art.de
+#D bybowie.de
+inoplay.de
+#D brucknermuehl.de
+#D majority-tech.de
+grecoguitars.de
+#D events52.de
+#D schoeppne.de
+#D balimba.de
+#D hankrademacher.de
+#D pullach-evangelisch.de
+#D sandhaus-net.de
+#D fogoplay.de
+wellensteynjacket.com
+#D timegem.net
+#D gaming-sky.de
+#D dodplay.de
+#D zumlangenheinrich.de
+#D lidora.de
+#D tartel-onlinestore.com
+#D warenhaus-behling.de
+#D dirndlliebes.de
+#D preis-bikes.de
+weelux.de
+premium-garderobe.com
+#D gammy-world.de
+#D mode-stern.com
+#D euro.pgonclothing.live
+#D jona-jule.com
+#D gutes-produkt.com
+#D comfy-bra.store
+trend-helden.com
+#D baumarkt-braun.de
+#D thelucybra.com
+produceshop.de
+#D schatzauge.de
+#D ambiar.de
+jagute.de
+modell-spielzeuge.club
+motiofit.shop
+silkbers.com
+myhomica.com
+firalo.de
+woodoclock.de
+#D de24tech.website
+#D elektro-parc.de
+terkos.de
+#D winter.patagonaclothing.shop
+#D handelshaus-kruse.de
+#D vozada.de
+wotoba.de
+#D mcrittter.com
+casa-padrino.de
+#D feragano.de
+iamkamu.de
+#D jgsipro.com
+marvinmartin.de
+gutesbestes.com
+#D expressfracht.at
+#D hamburg-stores.com
+#D modell-eisenbahn.shop
+designparlament.de
+#D panura.de
+# 2020
+#D guloplay.de
+#D spikes-tech.com
+happy-shopy.de
+#D visualframe.de
+#D bigusenet.de
+#D topado.shop
+#D sport-fuxx.de
+#D martinde.online
+#D fellmeier.de
+#D kuechen-riener.de
+#D pearlsgo.com
+#D mediahardy.de
+#D onisio.de
+#D kuechenecke24.de
+bekleidungsoutlet.com
+#D bw-wg.de
+#D dewe-versando.de
+heimprofis.de
+#D app-associates.com
+#D wagner-versandhaus.de
+#D pouffyshop.com
+#D blackoffers.de
+#D sporttastic24.de
+#D shoprado.de
+#D sport-karl.de
+#D funfitiano.com
+#D hausmeile.de
+#D games-front.de
+#D werkzeug-24.shop
+#D playmov.de
+#D ohnegrenze.com
+#D pandoraschmuckoutlet.de
+#D applestoreairpodspro.com
+#D kunzmann24.de
+#D prerugo.com
+#D wmrgaston.com
+#D dsl24-shop.de
+#D ehrkgroup.com
+#D playgera.de
+filmara.de
+#D game-pop.de
+#D dacsanhuem.top
+#D fahrrad-sers.de
+konsale-konsolen.com
+#D sportmaximal.de
+#D deinkuechenbedarf.de
+boomaya.com
+#D kaffeesmart.de
+kuechen-xxl.de
+marianneposa.de
+#D marylinposa.de
+#D meinhandy24.xyz
+glueckstore.de
+#D zwickl-frankfurt.de
+#D gartenoo.eu
+#D huthcommunication.de
+#D playvidy.de
+#D feelhome24.net
+#D lobrecht.net
+#D markttrens.com
+liebesfreud.de
+#D homesweeethome.de
+#D earlydike.de
+#D playrush.de
+#D pogodo.net
+sport-titan.de
+floritita.com
+#D colorinko.com
+#D travodo.net
+#D cgbanks.com
+#D buecher-scout24.at
+#D playsat.de
+#D playtory.de
+#D 2rad-berlin.com
+#D mobil-glas-wetzlar.de
+#D playbobo.de
+#D manubox.de
+#D baumento.net
+hudabeauty-lagen.com
+#D welkoo.de
+#D playcine.de
+#D playdon.de
+#D playder.de
+#D homariss.com
+#W terrific.de
+#D stylesonia.com
+augennstern.com
+#D bullplay.de
+hundekrone.de
+supersocken.de
+#D benoza-mode.de
+comgat.com
+#D staubsauger-online.com
+#D www.npnar.com
+#D npnar.com
+#D tomorrowloves.com
+#D nonaplay.de
+#D nunuplay.de
+#D gartenundco24.de
+#D steinberg-handel.de
+#D todoplay.de
+#D kue-fritz.de
+#D applesell.de
+#D losflix.de
+#D kamaflix.de
+#D badernate.de
+#D keishav.com
+#D sokicks.de
+andeking.de
+#D sport-fritz.de
+bestronik.com
+pandoracharmsausverkauf.de
+bau-profis24.de
+#D fjtaleme.site
+#D noubella.de
+#D bikerado.de
+#D gogflix.de
+pfarrei-herz-mariae-igb.de
+#D lomindo24.de
+#D lomido24.de
+#D domatechnik.de
+#D hygienisch-frisch.de
+malawitreff.de
+hederich-co.de
+keksa.de
+handlemylife.info
+#D sport4friends.store
+#D idealsofsweden.de
+flipflix.de
+#D omegaflix.de
+#D daheim-shop.net
+#D elektropreisrakete.de
+#D mcfit24.com
+#D bobs-bau.de
+#D grill-star24.de
+smushgame.com
+cullgame.com
+#D versandhaus-ziegler.de
+#D shoperazo.com
+#D kammy.eu
+hebero.de
+#D gartenscout24.net
+shg-media.at
+#D technicor.store
+buerozauber.de
+#D nurflix.de
+#D rayflix.de
+#D jimboo.de
+intaliof.com
+buechner-handel.de
+neroo.de
+#D behrends-handel.de
+#D linsflix.de
+#D silberstein-shop.de
+volkersheim-bockenem.de
+netsiclothing.com
+mimty.de
+corona-testkit.shop
+miniflix.de
+#D personalimwandel.de
+shoperando.com
+#D duckflix.de
+guterkauf.com
+#D justintralli.com
+#W medirezept.net
+#D streamjuno.de
+wowperucken.de
+chictogerther.com
+#D giroflix.de
+#D roxflix.de
+apotheke-rezeptfrei.net
+modetalente.com
+game.toys
+#D ihroertlichestelefonbuch.de
+# 2019
+#D bauzeug.net
+bauzeug.de
+#W grandado.com
+#D technikfabrik.store
+#D strahlfeind.de
+#D zubehor-haushaltsgerate.com
+#D media-outlet24.com
+vinusnow.com
+loovincy.com
+#D haustrends.net
+#D kaffeza.de
+digitech-shop.com
+#D billige-reiseorte.info
+#D weinseminar-bonn.de
+#D modellbau-billiger.de
+#D sportbaron.de
+guterkauf.com.de
+lieblings-mensch.com
+#D moisse.de
+pumacredit.de
+#D media-sky.store
+#D klettertreff-roethenbach.de
+toplily.com
+#D mrelektroshop.com
+#D coffeemybean.com
+#D streamim.de
+#D streamwolf.de
+#D bogflix.de
+#D valentinowerk.com
+#D nhlartikelkaufen.com
+#D guckflix.de
+#D domeflix.de
+#D laolaevents.de
+foxflix.de
+koogoshop.com
+consolestar.de
+stuhlgaeng.de
+#D ins-hispanico.de
+#D hf-spindeln.de
+#D hugostream.de
+#D daftstream.de
+whatsexy.de
+#D seitensrprung.cc
+#D flixway.de
+#D flixday.de
+#D siwanns.com
+#D hifi-spot.de
+#D digit-markt.de
+#D seitensprung.tv
+#D kafelia.de
+#D discounted.bike
+#D tech-hero.eu
+#D fitnesstime-irrel.de
+borrelioseweb.de
