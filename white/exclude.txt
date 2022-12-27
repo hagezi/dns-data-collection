@@ -1468,6 +1468,7 @@ api.bilibili.tv
 api.binance.com
 api.bitumconference.ru
 api.box.com
+*.api.brightcove.com
 api.brightcove.com
 api.browser.yandex.ru
 api.bufferapp.com
@@ -2682,6 +2683,7 @@ bst.bz
 bsun.md
 bsvideos.com
 bt1.archive.org
+bt1.letpo.com
 bt251.com
 bt2.54new.com
 bt2.archive.org
@@ -3102,6 +3104,7 @@ cds.b5g9b8e4.hwcdn.net
 cds.connatix.com
 cds.h8d7y3k5.hwcdn.net
 cdws.eu-west-1.amazonaws.com
+*.cdx.cedexis.net
 ce5.at
 ceconline.ro
 cec.ro
@@ -3169,6 +3172,7 @@ chausport.com
 chb.com.tw
 chbrr.crimea.com
 cheatengine.org
+check2.tsb.co.uk
 check.ddos-guard.net
 checkout.bambora.com
 checkout.gateline.net
@@ -6346,6 +6350,7 @@ groupees.com
 group-ib.ru
 group.pictet
 groups.google.com
+growth-pa.googleapis.com
 grp07.ias.rakuten.co.jp
 gr.pn
 grupaonet.pl
@@ -6704,6 +6709,7 @@ htmlmail.pro
 htn.to
 htpm.com.cn
 htp.re
+h-tsb.online-metrix.net
 http1.netflix.com
 httpslink.com
 httptoolkit.tech
@@ -8131,6 +8137,7 @@ leopard-raws.org
 leparisien.fr
 letobank.ru
 letop10.
+letpo.com
 letsdecentralize.org
 letsencrypt.org
 letterboxd.com
@@ -8638,7 +8645,6 @@ mastodon.uno
 mastodon.world
 mastodon.zaclys.com
 masto.es
-masto.nobigtech.es
 masto.nu
 masto.pt
 mastouille.fr
@@ -9538,7 +9544,6 @@ nn.de
 nnmstatic.win
 noaa.gov
 nobaeg.de
-nobigtech.es
 nobledesktop.com
 noc.social
 *.no-go.kelkoogroup.net
@@ -10780,6 +10785,7 @@ posten.no
 postfinance.ch
 post.gov.tw
 postil.com
+post.japanpost.jp
 postmediamontrealgazette2.files.wordpress.com
 *.postsign.docusign.com
 postsign.docusign.com
@@ -12084,6 +12090,7 @@ search.sensefuel.live
 search.twitter.com
 search.us.com
 search.yahoo.com
+searx.li
 seatguru.com
 sebank.se
 sebbank.ru
@@ -13177,6 +13184,7 @@ static.fastpic.ru
 staticflickr.com
 static.gmlinteractive.com
 static.go3.tv
+static.iterable.com
 static.jaatama.fi
 static.kickstarter.com
 static.klaviyo.com
@@ -14312,6 +14320,7 @@ tracking.epicgames.com
 tracking.exposed
 tracking.magnetmail.net
 trackingmore.com
+tracking.post.japanpost.jp
 tracking-protection.cdn.mozilla.net
 tracking-protection.prod.mozaws.net
 *.tracking.publicidees.com
@@ -20278,6 +20287,7 @@ www.leomoney.com
 www.leopard-raws.org
 www.leparisien.fr
 www.letobank.ru
+www.letpo.com
 www.letsdecentralize.org
 www.letsencrypt.org
 www.letterboxd.com
@@ -21175,7 +21185,6 @@ www.nn.de
 www.nnmstatic.win
 www.noaa.gov
 www.nobaeg.de
-www.nobigtech.es
 www.nobledesktop.com
 www.noc.social
 www.noho.st
@@ -22823,6 +22832,7 @@ www.seal-one.com
 www.searchanise.com
 www.searchencrypt.com
 www.searchlab.eu
+www.searx.li
 www.seatguru.com
 www.sebank.se
 www.sebbank.ru

@@ -1282,7 +1282,9 @@ accounts.adjust.com
 accounts-demo-4-accounts-preview.adjust.com
 accounts-pfuckyeahnailartview.adjust.com
 accounts.pkr.com
+accounts-preview.adjust.com
 accounts-preview-fra-mon-1.adjust.com
+accounts-staging.adjust.com
 accuweather.us.intellitxt.com
 ace.adoftheyear.com
 aceasuite.112.2o7.net
@@ -3974,6 +3976,7 @@ amsimg.daum-img.net
 ams-mon-1.adjust.com
 ams.toxity.biz
 amswebproduction.112.2o7.net
+ams-zabbix.adjust.com
 amung.us
 amusive.com
 amygrindhouse.uk.intellitxt.com
@@ -3984,6 +3987,7 @@ ana2.tatsumi-sys.jp
 an.adhood.com
 analytic.337.com
 analytic.ae.com
+analytics-1.adjust.com
 analytics-api-samples.googlecode.com
 analytics.apnewsregistry.com
 analytics.app-adforce.jp
@@ -4191,6 +4195,7 @@ apiconfig.adwo.com
 api.cupid.qiyi.com
 api.d2pass.com
 api.demandbase.com
+api-demo-2.adjust.com
 api.domob.cn
 api.doumob.com
 api.elasticemail.com
@@ -4206,8 +4211,12 @@ api.mb-click.jp
 api.mixpanel.com
 api.nend.net
 api.plaza.rakuten.co.jp
+api-preview.adjust.com
 api.primecaster.net
+api-qa-1.adjust.com
+api-qa-2.adjust.com
 api.smartnews-ads.com
+api-staging.adjust.com
 api.suizong.com
 api.torimochi-ad.net
 api.unthem.com
@@ -12427,7 +12436,6 @@ priusonline.us.intellitxt.com
 privacy.adcolony.com
 privatamateure.com
 privatecash.com
-prize.5i8xkqjmqubv.top
 prizeamerica.aavalue.com
 prizee.com
 prizemachine.games.iwon.com

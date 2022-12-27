@@ -527,6 +527,7 @@ ipstack.com
 istripper.com
 www.istripper.com
 iterable.com
+static.iterable.com
 itsfogo.com
 itslive.com
 iwin.com
@@ -601,6 +602,7 @@ uid.mavencoalition.io
 maxmind.com
 me.sv
 www.me.sv
+survey.medallia.com
 s.media-imdb.com
 apps.media-lab.ai
 mediametrics.ru
@@ -717,6 +719,7 @@ onesignal.com
 cdn.onesignal.com
 online-metrix.net
 h-sdk.online-metrix.net
+h-tsb.online-metrix.net
 onlinepbx.ru
 onthe.io
 opecloud.com

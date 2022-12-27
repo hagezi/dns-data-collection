@@ -1240,6 +1240,7 @@ adsalvo.com
 adsame.com
 ad.samsungadhub.com
 adsandcomputer.com
+ads-api.twitter.com
 ads.audio.thisisdax.com
 adsbtrk.com
 adscale.de

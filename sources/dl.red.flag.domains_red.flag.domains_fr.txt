@@ -192,6 +192,7 @@ acces-securite-societegenerale.fr
 access-netflix.fr
 acces-societe-generale.fr
 acces-societegenerale.fr
+acces-suivi.fr
 acces-voscompte.fr
 acceuil-ameli.fr
 acceuil-caf.fr
@@ -2310,6 +2311,7 @@ certificat-critair-public.fr
 certificat-crit-airs.fr
 certificat-critairs.fr
 certificat-critair-vignette.fr
+certificat-denongage.fr
 certificate-air.fr
 certificateair.fr
 certificateairgouv.fr
@@ -2555,6 +2557,7 @@ chronopostparticulier.fr
 chronopost-pickup.fr
 chronopostpickup.fr
 chronopost-plateforme.fr
+chronopostransport.fr
 chronopost-reception.fr
 chronopost-registre.fr
 chronopost-reglement.fr
@@ -2582,9 +2585,11 @@ chronoposts-livraison.fr
 chronopost-sms.fr
 chronopost-stock.fr
 chronopost-suiviacheminement.fr
+chronopost-suivi-client.fr
 chronopost-suivi-coiis.fr
 chronopost-suivi-colis.fr
 chronopostsuivi-colis.fr
+chronopostsuivicolis.fr
 chronopost-suivicommande.fr
 chronopost-suividecommande.fr
 chronopost-suividucolis.fr
@@ -2597,6 +2602,7 @@ chronopost-suivi-livraison.fr
 chronopost-suivis-colis.fr
 chronopost-suivis.fr
 chronopostsuivis.fr
+chronopostsuivisms.fr
 chronopost-suivit.fr
 chronopost-suivre-colis.fr
 chronopost-suivrecolis.fr
@@ -2616,6 +2622,7 @@ chronopost-tracking.fr
 chronopost-traffic.fr
 chronopost-transport.fr
 chronopost-verif.fr
+chronopostweb.fr
 chronopst-client-support.fr
 chronopstservice.fr
 chronop-suivi.fr
@@ -2628,6 +2635,7 @@ chronosuivi.fr
 chrono-suivi-france.fr
 chronosuivis.fr
 chrono-suivre.fr
+chrono-support.fr
 chronotopost.fr
 chrono-verif.fr
 chru-brest.fr
@@ -2695,6 +2703,7 @@ client-esim-sfr.fr
 client-facturation.fr
 clientfr.fr
 clientinfo-ameli.fr
+client-informa.fr
 client-information.fr
 client-informations.fr
 client-informs.fr
@@ -3557,6 +3566,7 @@ ecantal.fr
 eccochaussures.fr
 eccoshoesshop.fr
 echeclivraison-chronopost.fr
+e-chronopost-colis.fr
 ecirque.fr
 eckosport.fr
 ecosolaris.fr
@@ -3933,6 +3943,7 @@ facebooklogin.fr
 facebook-marketing.fr
 facebool.fr
 facturation-abonnement.fr
+facturation-client.fr
 facturation-impayer.fr
 facturation-litige.fr
 facturation-netflix.fr
@@ -5762,6 +5773,7 @@ moncolischronopost.fr
 mon-colis-colissimo.fr
 mon-colissimo.fr
 mon-colissimo-suivi.fr
+mon-colis-suivi-chronopost.fr
 moncommisariat.fr
 moncompte-abonnement.fr
 mon-compte-amazon.fr
@@ -6447,6 +6459,7 @@ noella-voyance.fr
 nordbanquepopulaire.fr
 nord-cybertek.fr
 nordlocker.fr
+nordparisien.fr
 nordpass.fr
 nord-vpn.fr
 noreply-assistance-bouyguestelecom.fr
@@ -6801,6 +6814,7 @@ paylink-online.fr
 payment3descurelimited.fr
 paymentboncoin.fr
 payment-leboncoin.fr
+paymentnetfix.fr
 paymentsecure.fr
 paymentsecuriseleboncoin.fr
 paymenty-netflix.fr
@@ -8188,6 +8202,7 @@ societegeneraleinfo.fr
 societegeneraleinfos.fr
 societegeneraleladefense.fr
 societegeneralelogin.fr
+societe-generale-mobile.fr
 societegenerale-mobile.fr
 societegeneralemobile.fr
 societe-generale-moncompte.fr
@@ -8340,6 +8355,7 @@ suivi-chronoservice.fr
 suiviclient-chronopost.fr
 suiviclients-chronopost.fr
 suivi-colis-chrono.fr
+suivi-colischrono.fr
 suivi-colis-chronoposte.fr
 suivi-colis-chrono-post.fr
 suivi-colis-chronopost.fr
@@ -9105,6 +9121,7 @@ web-credit-agricole.fr
 web-dlsneyplus.fr
 webecoute-vocale-sfr.fr
 web-info-assurance-maladie.fr
+webinsta.fr
 webmailfree.fr
 webmail-ssfr.fr
 webmedic.fr
@@ -9232,6 +9249,7 @@ xn--espace-assur-meb.fr
 xn--espacesantameli-knb.fr
 xn--espacesant-ameli-kqb.fr
 xn--espace-sant-ameli-ltb.fr
+xn--formulaire-sant-pnb.fr
 xn--francetlcom-hbbb.fr
 xn--freevidozoo-hbb.fr
 xn--googleactualits-onb.fr
@@ -9310,6 +9328,7 @@ xn--servicesant-lbb.fr
 xn--sfrimpay-i1a.fr
 xn--societegnrale-secu-iwbb.fr
 xn--societegnrales-ikbb.fr
+xn--socit-general-ehbb.fr
 xn--socitgeneraleparticulier-efcb.fr
 xn--socitgenerales-ekbb.fr
 xn--socitgnral-36akdb.fr

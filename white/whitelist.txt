@@ -2215,3 +2215,6 @@ h-tsb.online-metrix.net
 # https://github.com/hagezi/dns-blocklists/issues/127
 tracking.post.japanpost.jp
 
+# Images in Mails - e.g. NordVPN
+static.iterable.com
+

@@ -544,7 +544,6 @@ alecclause.com
 alephd.com
 alertlogsemployer.com
 alexametrics.com
-algolia.com
 alightbornbell.com
 allawnos.com
 alleviatepracticableaddicted.com
@@ -572,7 +571,6 @@ ampmetrics.techcrunch.com
 amp.services
 amptrack.bild.de
 ampugi334f.com
-amusemystic.com
 analitycs.net
 analysing.email
 analysis.polarisoffice.com
@@ -581,6 +579,7 @@ analytics.163.com
 analytics.300624.com
 analytics.74.ru
 analytics.adcanvas.com
+analytics.algolia.com
 analytics-api.dvdfab.cn
 analytics-api.samsunghealthcn.com
 analytics.api.vatominc.com
@@ -718,6 +717,7 @@ analytics.trovit.com
 analytics.twitter.com
 analytics.typedream.com
 analytics.unibuddy.co
+analytics.us.algolia.com
 analytics.valiuz.com
 analyticsweb.net
 analytics.webpushr.com
@@ -873,6 +873,7 @@ audioeye.com
 auditioningborder.com
 auditorius.ru
 auditude.com
+audrte.com
 audtd.com
 augur.io
 auntietraumatizemobile.com
@@ -925,6 +926,7 @@ bailifftent.com
 bakeronerousfollowing.com
 bal8ntrk.com
 balconypeer.com
+bambarmedia.com
 bam-x.com
 bande2az.com
 bandsaislevow.com
@@ -1497,6 +1499,7 @@ data-id-ads.realmemobile.com
 data.mistat.intl.xiaomi.com
 data.mistat.xiaomi.com
 data-private.samsunghealth.com
+dataroid.com
 data.sec.intl.miui.com
 data.sec.miui.com
 datatracking.ru
@@ -2739,6 +2742,7 @@ medialytics.com
 mediamond.it
 media.net
 mediaplex.com
+mediarithmics.com
 mediative.com
 mediavine.com
 mediavoice.com
@@ -13751,6 +13755,7 @@ nt.vc
 ntv.io
 nuffnang.com.sg
 nuggad.net
+nullsrefilliron.com
 numerino.cz
 nuniceberg.com
 nursecompellingsmother.com
@@ -13764,7 +13769,6 @@ o333o.com
 oatmealaspectpulp.com
 oatmeallump.com
 obashwmzrfofi.com
-obedientrock.com
 obituaryfuneral.com
 objectionsdomesticatednagging.com
 obnoxiouspatrolassault.com
@@ -13786,6 +13790,7 @@ okayarab.com
 olapic.com
 oldrrb.bid
 om.au
+omeda.com
 omessage.com
 ometria.com
 ometria.email
@@ -14365,7 +14370,6 @@ rm0009.net
 rm02.net
 rm04.net
 rndmusharnar.com
-roadmappenal.com
 robberyinscription.com
 rockabox.co
 roia.biz
@@ -14532,7 +14536,6 @@ shared1.ad-lister.co.uk
 sharepaoint.com
 sharethis.com
 sharethrough.com
-sharpphysicallyupcoming.com
 shealth-analytics-api.samsunghealth.com
 shemedia.com
 shepherd.ff.avast.com
@@ -15820,6 +15823,7 @@ teenyreligious.com
 tekblue.net
 telematicsdirect.com
 telemetry.acronis.com
+telemetry.algolia.com
 telemetry.api.2kcoretech.online
 telemetry.api.playstation.com
 telemetry.api.swiftkey.com
@@ -16129,12 +16133,10 @@ undooptimisticsuction.com
 undrininvereb.info
 unevenmankind.com
 unid.go.com
-uniformheartlesssneaking.com
 uniqodo.com
 uniqueflatlysorting.com
 unityads.unity3d.com
 univide.com
-unmovedoutsidertourist.com
 unoadsrv.com
 unresolveddrama.com
 unruly.co

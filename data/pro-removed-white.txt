@@ -89,6 +89,7 @@ cmp.dmgmediaprivacy.co.uk
 hesa.co.id
 pavv.co.kr
 hb.afl.rakuten.co.jp
+check2.tsb.co.uk
 pvtag.yahoo.co.jp
 cokodive.com
 collaborativeclassroom.org
@@ -160,6 +161,7 @@ hawalili.com
 heroero.com
 hockerty.de
 hooligapps.com
+host-tracker.com
 htl.li
 hugedomains.com
 humancondition.com
@@ -204,7 +206,6 @@ krxd.net
 ks.cn
 scnd.landsend.com
 lbtinc.com
-api-cloudfront.life360.com
 tr.line.me
 torimochi.line-apps.com
 l.linklyhq.com

@@ -14,6 +14,8 @@ p.d.1enm.com
 www.1ting.com
 2144.cn
 www.2144.cn
+21food.cn
+www.21food.cn
 2mdn.net
 s0.2mdn.net
 3000toys.com
@@ -21,12 +23,15 @@ www.3000toys.com
 dl.360safe.com
 3c5.com
 www.3c5.com
+3dxchat.com
+www.3dxchat.com
 hbbtv.3sat.de
 5.gp
 www.5.gp
 51240.com
 www.51240.com
 52xiyou.com
+www.52xiyou.com
 52z.com
 www.52z.com
 56.com
@@ -43,6 +48,8 @@ www.888poker.com
 88p2p.com
 www.88p2p.com
 91wan.com
+973.com
+www.973.com
 991.com
 www.991.com
 9nl.com
@@ -172,7 +179,6 @@ statics-marketingsites-neu-ms-com.akamaized.net
 video-akp-cdn-spotify-com.akamaized.net
 al4a.com
 albacross.com
-algolia.com
 img.alibaba.com
 ilog-sea-aliyun.alipayplus.com
 alipromo.com
@@ -411,6 +417,7 @@ bizrate.com
 blackpeoplemeet.com
 www.blackpeoplemeet.com
 blinkx.com
+www.blinkx.com
 blogengage.com
 blogspot.com
 blogtopsites.com
@@ -429,6 +436,7 @@ bom.so
 bongacams.com
 bongacams2.com
 boostroyal.com
+www.boostroyal.com
 amp-api-prd.bostonglobe.com
 brazzerssurvey.com
 www.brazzerssurvey.com
@@ -459,6 +467,8 @@ camsoda.com
 www.camsoda.com
 captcha-display.com
 js.captcha-display.com
+caribbeancom.com
+www.caribbeancom.com
 carnivalmobile.com
 devices.carnivalmobile.com
 carpediem.fr
@@ -545,16 +555,22 @@ afl.rakuten.co.jp
 hb.afl.rakuten.co.jp
 pt.afl.rakuten.co.jp
 ias.rakuten.co.jp
+grp07.ias.rakuten.co.jp
 rd.rakuten.co.jp
 a8onlineshop.trendmicro.co.jp
+check2.tsb.co.uk
 ns11.whois.co.kr
 pvtag.yahoo.co.jp
+cocogals.com
+www.cocogals.com
 cokodive.com
 collaborativeclassroom.org
 com.com
 unagi.amazon.com.br
 baixaki.com.br
 clarins.com.cn
+facebook.com.vn
+hecom.com.hk
 afiliados.hostgator.com.br
 htpm.com.cn
 iask.com.cn
@@ -629,12 +645,15 @@ www.cuntwars.com
 cupid.com
 www.cupid.com
 customer.io
+cutcaptcha.com
+www.cutcaptcha.com
 cxense.com
 www.cxense.com
 cxpublic.com
 csm.cxpublic.com
 cyonix.to
 www.cyonix.to
+d3go.com
 www.d3go.com
 tdn.da-services.ch
 dable.io
@@ -709,6 +728,7 @@ driftt.com
 dripemail2.com
 drp.su
 dubai-homes.ae
+www.dubai-homes.ae
 embed.dugout.com
 duoyi.com
 proto2ad.durasite.net
@@ -721,6 +741,8 @@ easyflirt.com
 www.easyflirt.com
 easyrencontre.com
 easysol.net
+ebates.com
+www.ebates.com
 pulsar.ebay.com
 eboundservices.com
 www.eboundservices.com
@@ -737,8 +759,10 @@ edigitalsurvey.com
 chnu.edu.ua
 eindependencia.edu.mx
 sea.net.edu.cn
+overseas.edu.lk
 tsatu.edu.ua
 mail.tsinghua.edu.cn
+wcc.edu.in
 ypu.edu.tw
 eepurl.com
 effiliation.com
@@ -760,6 +784,7 @@ www.emptyloop.com
 en25.com
 img.en25.com
 endlessvideo.com
+www.endlessvideo.com
 enhance.com
 www.enhance.com
 eno.si
@@ -818,6 +843,8 @@ graph.facebook.com
 mqtt-p4.facebook.com
 staticxx.facebook.com
 fapcat.com
+faptitans.com
+www.faptitans.com
 faronics.com
 www.fashionista.com
 mparticle.map.fastly.net
@@ -867,6 +894,7 @@ gamehouse.com
 www.gamehouse.com
 gamingwonderland.com
 www.gamingwonderland.com
+gamyun.net
 www.gamyun.net
 gaoshouyou.com
 gemius.pl
@@ -880,6 +908,8 @@ getblueshift.com
 links.getblueshift.com
 getdrip.com
 www.getdrip.com
+getfireshot.com
+www.getfireshot.com
 getresponse.com
 www.getresponse.com
 cmp-cdn.ghostery.com
@@ -919,6 +949,8 @@ goatcounter.com
 godatafeed.com
 goldilockstraining.com
 www.goldilockstraining.com
+goodsearch.com
+www.goodsearch.com
 ads.google.com
 id.google.de
 appspot-preview.l.google.com
@@ -938,6 +970,7 @@ firebaseinstallations.googleapis.com
 footprints-pa.googleapis.com
 geller-pa.googleapis.com
 geomobileservices-pa.googleapis.com
+growth-pa.googleapis.com
 imasdk.googleapis.com
 jnn-pa.googleapis.com
 mobilecrashreporting.googleapis.com
@@ -957,6 +990,17 @@ gremimedia.pl
 group-ib.ru
 csi.gstatic.com
 p2-c7yk5kcwmqtue-n3glbwsb7bbwlgti-552937-i2-v6exp3.ds.metric.gstatic.com
+p2-aahhyknavsj2m-wtnlrzkba6lht33q-if-v6exp3-v4.metric.gstatic.com
+p2-f6rp6piuxns4u-uzq4vp76bu3w2tso-if-v6exp3-v4.metric.gstatic.com
+p2-n3zurhre4jjvk-can5rb2f2a4urcxh-if-v6exp3-v4.metric.gstatic.com
+p4-ajvwyt5lpjazy-us7r2dzqcjsqh7pt-164149-i1-v6exp3-v4.metric.gstatic.com
+p4-ajvwyt5lpjazy-us7r2dzqcjsqh7pt-164149-i2-v6exp3-ds.metric.gstatic.com
+p4-ajvwyt5lpjazy-us7r2dzqcjsqh7pt-164149-s1-v6exp3-v4.metric.gstatic.com
+p4-ajvwyt5lpjazy-us7r2dzqcjsqh7pt-if-v6exp3-v4.metric.gstatic.com
+p5-lj5aujgj7jl7w-r2pmxqvndsgx2im2-931517-i1-v6exp3-v4.metric.gstatic.com
+p5-lj5aujgj7jl7w-r2pmxqvndsgx2im2-931517-i2-v6exp3-ds.metric.gstatic.com
+v6exp3-ds.metric.gstatic.com
+v6exp3-v4.metric.gstatic.com
 gtarcade.com
 guangzhuiyuan.com
 guiama.is
@@ -1082,6 +1126,7 @@ istripper.com
 www.istripper.com
 itelagen.com
 iterable.com
+static.iterable.com
 itsfogo.com
 media.itsfogo.com
 scmedia.itsfogo.com
@@ -1093,6 +1138,7 @@ xtrapath1.izatcloud.net
 xtrapath2.izatcloud.net
 xtrapath3.izatcloud.net
 j.gs
+tracking.post.japanpost.jp
 jav-fetish.com
 javlibrary.cc
 jiathis.com
@@ -1139,6 +1185,8 @@ klclick3.com
 klevu.com
 js.klevu.com
 knet.cn
+ko.gl
+www.ko.gl
 koddata.com
 www.koddata.com
 koisea.com
@@ -1168,6 +1216,8 @@ lightstep.com
 collector.lightstep.com
 ingest.lightstep.com
 lihi1.cc
+lihi1.com
+www.lihi1.com
 lihi2.cc
 tr.line.me
 oa.tr.line.me
@@ -1362,6 +1412,8 @@ wreport1.meituan.net
 meninosonline.net
 go.messengerpeople.com
 metaffiliation.com
+metamark.net
+www.metamark.net
 metricool.com
 f1.market.mi-img.com
 f2.market.mi-img.com
@@ -1435,6 +1487,8 @@ cdn.mplxtms.com
 mradx.net
 r.mradx.net
 mrporngeek.com
+mrte.ch
+www.mrte.ch
 exo-ring.msedge.net
 fp.msedge.net
 spo-ring.msedge.net
@@ -1546,6 +1600,7 @@ h-charter.online-metrix.net
 h-fidelity.online-metrix.net
 h-microsoft.online-metrix.net
 h-sdk.online-metrix.net
+h-tsb.online-metrix.net
 www.onlinebootycall.com
 onlinepbx.ru
 onthe.io
@@ -1972,6 +2027,7 @@ a9514811012.cdn.optimizely.com
 a989617545.cdn.optimizely.com
 a9952002.cdn.optimizely.com
 optimumdesk.net
+www.optimumdesk.net
 console-telemetry.oci.oraclecloud.com
 orangeclickmedia.com
 cert.org.cn
@@ -2262,6 +2318,7 @@ gdpr.privacymanager.io
 gdpr-wrapper.privacymanager.io
 geo.privacymanager.io
 prizee.com
+www.prizee.com
 productsup.com
 proxyclick.com
 pstmrk.it
@@ -2497,6 +2554,7 @@ stk.px-cloud.net
 pxf.io
 pxlme.me
 www.pxlme.me
+go.qb.by
 qccerttest.com
 l.qq.com
 vd.l.qq.com
@@ -2529,6 +2587,8 @@ rbc.cn
 d3tracking.rbc.com
 www.rbc.cn
 rbl.ms
+real.com
+www.real.com
 assets.realclear.com
 realsrv.com
 cdn.reamaze.com
@@ -2723,6 +2783,10 @@ shorte.st
 p.shure.com
 silverpop.com
 simp.ly
+sinastorage.cn
+sinastorage.com
+www.sinastorage.cn
+www.sinastorage.com
 www.singleparentmeet.com
 site5.com
 siteheart.com
@@ -2731,6 +2795,8 @@ hbbtv.sixx.de
 skimresources.com
 go.trouter.skype.com
 smart.link
+smarter.com
+www.smarter.com
 smartredirect.de
 www.smartredirect.de
 smi2.ru
@@ -2764,6 +2830,8 @@ gdpr-tcfv2.sp-prod.net
 message.sp-prod.net
 mms.sp-prod.net
 cdeatz.spartoo.it
+spdate.com
+www.spdate.com
 www.speakpipe.com
 pov.spectrum.net
 www.splayer.org
@@ -2805,6 +2873,8 @@ www.sumologic.com
 hbbtv.superrtl.de
 p-hbbtv.superrtl.de
 supplyframe.com
+surfernetwork.com
+www.surfernetwork.com
 svonm.com
 hgc-cf-cache-1.svonm.com
 swiftcourrier.com
@@ -2945,6 +3015,7 @@ uralweb.ru
 urbanairship.com
 device-api.urbanairship.com
 urlzs.com
+search.us.com
 go.usa.gov
 usercentrics.eu
 userreport.com
@@ -3031,6 +3102,7 @@ www.be
 www.fr
 get.x-link.pl
 x10.com
+www.x10.com
 c.xbox.com
 expbl2ro.xbox.com
 o.xbox.com
@@ -3062,6 +3134,7 @@ yhd.com
 www.yhd.com
 ai.yimg.jp
 us.i1.yimg.com
+l.yimg.com
 yospace.com
 www.youbora.com
 s.youtube.com
@@ -3077,6 +3150,7 @@ www.ziffdavis.com
 ziffstatic.com
 zinspilot.de
 www.zinspilot.de
+zipitdeal.com
 zkcdn.net
 s.zkcdn.net
 zmags.com
