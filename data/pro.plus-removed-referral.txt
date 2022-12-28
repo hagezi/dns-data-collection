@@ -1162,6 +1162,7 @@ lazyprofits.go2jump.org
 leadads.go2jump.org
 leadsynaptic.go2jump.org
 mediaforceltd.go2jump.org
+offerclicker.go2jump.org
 offerscience.go2jump.org
 option.go2jump.org
 adservice.google.ac
@@ -1607,6 +1608,7 @@ stubhub-creative.prf.hn
 tracking.prf.hn
 track.productsup.io
 tracking.publicidees.com
+pxf.io
 qksrv.net
 www.qksrv.net
 syndication.realsrv.com

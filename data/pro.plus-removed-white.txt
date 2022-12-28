@@ -460,6 +460,8 @@ byoblu.com
 c-ctrip.com
 beacon.ds-c-0003.c-msedge.net
 stipple.cachefly.net
+cam4.es
+www.cam4.es
 cameraprive.com
 camonster.com
 www.camonster.com
@@ -751,7 +753,6 @@ ecookie.nl
 www.ecookie.nl
 analytics.edgekey.net
 79423.analytics.edgekey.net
-telemetry-cii.api.playstation.com.edgekey.net
 audio-ake.spotify.com.edgesuite.net
 heads-ak.spotify.com.edgesuite.net
 heads4-ak.spotify.com.edgesuite.net
@@ -927,14 +928,6 @@ www.gigya.com
 girls.xyz
 www.girls.xyz
 app.gitbook.com
-collector.github.com
-collector-cdn.github.com
-pivotal.github.com
-stat.github.com
-stats.github.com
-collector.githubapp.com
-analytics.githubassets.com
-opengraph.githubassets.com
 gizmodern.com
 config-vvs.glomex.com
 player-feedback-v1.glomex.com
@@ -1184,8 +1177,6 @@ klclick3.com
 klevu.com
 js.klevu.com
 knet.cn
-ko.gl
-www.ko.gl
 koddata.com
 www.koddata.com
 koisea.com
@@ -2550,7 +2541,6 @@ collector-pxznu59zhd.px-cloud.net
 collector-pxzyvfoxac.px-cloud.net
 csp.px-cloud.net
 stk.px-cloud.net
-pxf.io
 pxlme.me
 www.pxlme.me
 go.qb.by
@@ -3105,9 +3095,6 @@ www.fr
 get.x-link.pl
 x10.com
 www.x10.com
-c.xbox.com
-expbl2ro.xbox.com
-o.xbox.com
 mistat.intl.xiaomi.com
 data.mistat.intl.xiaomi.com
 f1.market.xiaomi.com

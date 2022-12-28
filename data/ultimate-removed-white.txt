@@ -1,5 +1,3 @@
-2mdn.net
-s0.2mdn.net
 3c5.com
 www.3c5.com
 5.gp
@@ -79,13 +77,21 @@ allawnos.com
 component-ota-in.allawnos.com
 component-ota-sg.allawnos.com
 ota-recruit-sg.allawnos.com
-aax-eu.amazon.de
-aax-eu.amazon.es
-aax-eu.amazon.fr
-aax-eu.amazon.in
-aax-eu.amazon.it
 aax-eu-dub.amazon.com
 aax-us-iad.amazon.com
+aax.amazon-adsystem.amazon.com
+aax-cpm.amazon-adsystem.amazon.com
+aax-dtb-cf.amazon-adsystem.amazon.com
+aax-dtb-legacy.amazon-adsystem.amazon.com
+aax-dtb-mobile-cf.amazon-adsystem.amazon.com
+aax-dtb-mobile-geo.amazon-adsystem.amazon.com
+aax-dtb-mobile-poc.amazon-adsystem.amazon.com
+aax-ott.amazon-adsystem.amazon.com
+aax-ott-sdk.amazon-adsystem.amazon.com
+aax-us.amazon-adsystem.amazon.com
+aax-us-cpm.amazon-adsystem.amazon.com
+aax-us-ott.amazon-adsystem.amazon.com
+aax-us-ott-weighted.amazon-adsystem.amazon.com
 kinesis.ap-southeast-1.amazonaws.com
 kinesis.eu-west-1.amazonaws.com
 aniview.com
@@ -187,8 +193,6 @@ cdn2.smoot.apple.com
 fbs.smoot.apple.com
 guzzoni.smoot.apple.com
 ns2.smoot.apple.com
-xp.apple.com
-daf.xp.apple.com
 stats.gc.fe.apple-dns.net
 applicationinsights.io
 aimon.applicationinsights.io
@@ -268,7 +272,6 @@ cloudflareinsights.com
 www.cloudflareinsights.com
 d291vdycu0ht11.cloudfront.net
 fm.cnbc.com
-aax-eu.amazon.co.uk
 appx.transient.amazon.co.uk
 auto.netdirector.co.uk
 pavv.co.kr
@@ -333,7 +336,6 @@ bootstrap.api.drift.com
 embed.dugout.com
 analytics.edgekey.net
 79423.analytics.edgekey.net
-telemetry-cii.api.playstation.com.edgekey.net
 audio-ake.spotify.com.edgesuite.net
 heads-ak.spotify.com.edgesuite.net
 heads4-ak.spotify.com.edgesuite.net
@@ -401,14 +403,6 @@ gscounters.gigya.com
 gscounters.us1.gigya.com
 www.gigya.com
 app.gitbook.com
-collector.github.com
-collector-cdn.github.com
-pivotal.github.com
-stat.github.com
-stats.github.com
-collector.githubapp.com
-analytics.githubassets.com
-opengraph.githubassets.com
 gizmodern.com
 config-vvs.glomex.com
 player-feedback-v1.glomex.com
@@ -417,7 +411,6 @@ static.gmlinteractive.com
 go.ly
 www.go.ly
 goatcounter.com
-s0-2mdn-net.l.google.com
 tools.google.com
 afs.googleusercontent.com
 metric.gstatic.com
@@ -491,10 +484,6 @@ jwpltx.com
 prd.jwpltx.com
 kamibox.de
 www.kamibox.de
-mobilesdk-au.kampyle.com
-mobilesdk-can.kampyle.com
-mobilesdk-eu.kampyle.com
-mobilesdk-us.kampyle.com
 www.kantar.com
 oasjs.kataweb.it
 kbit.co
@@ -514,8 +503,6 @@ static.klaviyo.com
 klevu.com
 js.klevu.com
 knet.cn
-ko.gl
-www.ko.gl
 koisea.com
 ku6.com
 www.ku6.com
@@ -935,7 +922,6 @@ www.sodimac.cl
 softonic.com
 api.solvvy.com
 cdn.solvvy.com
-metric.sonyentertainmentnetwork.com
 www.soso.com
 sp-prod.net
 ccpa.sp-prod.net
@@ -975,6 +961,7 @@ audid-api.taobao.com
 tarafdari.com
 www.tarafdari.com
 tagm.tchibo.de
+telegra.ph
 tg.pe
 www.tg.pe
 go.theregister.com
@@ -1053,9 +1040,6 @@ image.engage.windows.com
 wn.nr
 wpbeaches.com
 get.x-link.pl
-c.xbox.com
-expbl2ro.xbox.com
-o.xbox.com
 f1.market.xiaomi.com
 f2.market.xiaomi.com
 f3.market.xiaomi.com

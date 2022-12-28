@@ -128,6 +128,7 @@ bigpayout.go2jump.org
 dandingo.go2jump.org
 lazyprofits.go2jump.org
 leadsynaptic.go2jump.org
+offerclicker.go2jump.org
 offerscience.go2jump.org
 option.go2jump.org
 h0.t.hubspotemail.net

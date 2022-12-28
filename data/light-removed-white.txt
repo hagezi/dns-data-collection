@@ -354,7 +354,6 @@ eboundservices.com
 www.eboundservices.com
 analytics.edgekey.net
 79423.analytics.edgekey.net
-telemetry-cii.api.playstation.com.edgekey.net
 eindependencia.edu.mx
 sea.net.edu.cn
 effiliation.com
@@ -447,10 +446,6 @@ gscounters.gigya.com
 gscounters.us1.gigya.com
 www.gigya.com
 girls.xyz
-collector.github.com
-collector-cdn.github.com
-pivotal.github.com
-collector.githubapp.com
 player-feedback-v1.glomex.com
 gm99.com
 go-mpulse.net
@@ -1219,9 +1214,6 @@ www.be
 www.fr
 get.x-link.pl
 x10.com
-c.xbox.com
-expbl2ro.xbox.com
-o.xbox.com
 mistat.intl.xiaomi.com
 data.mistat.intl.xiaomi.com
 api.miui.security.xiaomi.com

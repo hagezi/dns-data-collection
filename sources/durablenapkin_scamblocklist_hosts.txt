@@ -116,7 +116,6 @@ fishingdaily.shop
 flattee.com
 fotballsko-salg.com
 friday89.com
-friday99.com
 frostgoddess.com
 fruitstee.com
 fulfillgift.com
@@ -188,7 +187,6 @@ look-like-star.myshopify.com
 lootcrate.com
 loveinbox.co.uk
 lovelovegifts.com
-loveshop20.com
 lrgst.com
 lucatee.com
 lucidtiger.com
@@ -344,7 +342,6 @@ store.familylovesgift.com
 store.fancycentral.com
 store.fapst.com
 store.fasinal.com
-store.friday99.com
 store.frostgoddess.com
 store.furoshop.com
 store.fveco.com
@@ -620,7 +617,6 @@ www.fishingdaily.shop
 www.flattee.com
 www.fotballsko-salg.com
 www.friday89.com
-www.friday99.com
 www.frostgoddess.com
 www.fruitstee.com
 www.fulfillgift.com
@@ -689,7 +685,6 @@ www.look-like-star.myshopify.com
 www.lootcrate.com
 www.loveinbox.co.uk
 www.lovelovegifts.com
-www.loveshop20.com
 www.lrgst.com
 www.lucatee.com
 www.lucidtiger.com

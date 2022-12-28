@@ -123,7 +123,7 @@ ocsp*.apple.com
 smp-device-content.apple.com
 stats.gc.apple.com
 trackingshipment.apple.com
-# Breaks Apple Watch update, stucks on "Search for update" - tested and approved
+# Breaks Apple Watch update, stucks on "Search for update"
 *.xp.apple.com
 
 # Certificates
@@ -211,13 +211,13 @@ web.facebook.com
 *.fbcdn.net
 
 # Github
-*.ghcr.io
-*.github.com
+ghcr.io
+github.com
 github.io
-*.github.map.fastly.net
-*.githubapp.com
-*.githubassets.com
-*.gitlab.com
+github.map.fastly.net
+githubapp.com
+githubassets.com
+gitlab.com
 githubusercontent.com
 raw.githubusercontent.com
 
@@ -455,12 +455,12 @@ paypalobjects.com
 
 # Sony (Playstation)
 playstation.com
-*.playstation.com.edgekey.net
+api.playstation.com.edgekey.net
 # playstation.com.ssl.d1.sc.omtrdc.net
 playstation.net
 *.playstation.net.edgekey88.net
 *.sonycoment.loris-e.llnwd.net
-*.sonyentertainmentnetwork.com
+sonyentertainmentnetwork.com
 *.sonyjpnpsg-1.hs.llnwd.net
 
 # Steam
@@ -605,7 +605,7 @@ whatsapp.tv
 whatsappbrand.com
 
 # XBox
-*.xbox.com
+xbox.com
 *.xboxab.com
 *.xboxab.net
 *.xboxlive.com
@@ -2217,4 +2217,10 @@ tracking.post.japanpost.jp
 
 # Images in Mails - e.g. NordVPN
 static.iterable.com
+
+# https://github.com/hagezi/dns-blocklists/issues/130
+imore.com
+
+# https://github.com/notracking/hosts-blocklists/issues/827
+telegra.ph
 

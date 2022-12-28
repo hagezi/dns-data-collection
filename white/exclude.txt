@@ -1531,6 +1531,7 @@ api.opinary.com
 api.oplata.com
 api.perfectlyprivatedomain.org
 api.pinterest.com
+api.playstation.com.edgekey.net
 api.privacy-center.org
 api-private.atlassian.com
 api.prod.ciam.tech-03.net
@@ -5834,7 +5835,7 @@ ggopjn.com
 ggpht.com
 ggtimer.com
 ghacks.net
-*.ghcr.io
+ghcr.io
 gh.ffshrine.org
 ghkp.us
 ghostery.com
@@ -5858,18 +5859,16 @@ girls.xyz
 gismeteo.ru
 gist.github.com
 gitbook.com
-*.githubapp.com
-*.githubassets.com
+githubapp.com
+githubassets.com
 github.co
-*.github.com
 github.com
 github.io
-*.github.map.fastly.net
+github.map.fastly.net
 githubusercontent.com
 github.vscode-unpkg.net
 github-wiki-see.page
 git.io
-*.gitlab.com
 gitlab.com
 gitlab.mktoweb.com
 git-scm.com
@@ -7271,6 +7270,7 @@ img.yana.asideas.de
 imlive.com
 immomo.com
 imoneybank.ru
+imore.com
 impact-ad.jp
 impactradius.com
 impala-media-production.s3.amazonaws.com
@@ -8647,9 +8647,9 @@ mastodon.uno
 mastodon.world
 mastodon.zaclys.com
 masto.es
+masto.nobigtech.es
 masto.nu
 masto.pt
-mastouille.fr
 mathinsight.org
 mathsolver.microsoft.com
 mathstodon.xyz
@@ -9547,6 +9547,7 @@ nn.de
 nnmstatic.win
 noaa.gov
 nobaeg.de
+nobigtech.es
 nobledesktop.com
 noc.social
 *.no-go.kelkoogroup.net
@@ -9841,7 +9842,6 @@ ogdownloaderapk.com
 ogone.com
 ogs.google.com
 ogury.io
-ohai.social
 ohga.it
 ohio.gov
 oi.bankia.es
@@ -10665,7 +10665,7 @@ playoverwatch.com
 playsaurus.com
 play.st
 playstation.com
-*.playstation.com.edgekey.net
+playstation.com.edgekey.net
 playstation.net
 *.playstation.net.edgekey88.net
 playstation.net.edgekey88.net
@@ -12651,7 +12651,6 @@ sonnenverlauf.de
 sonniesedge.co.uk
 sonos.com
 *.sonycoment.loris-e.llnwd.net
-*.sonyentertainmentnetwork.com
 sonyentertainmentnetwork.com
 *.sonyjpnpsg-1.hs.llnwd.net
 sony.net
@@ -13964,6 +13963,7 @@ tock.usno.navy.mil
 today.com
 todoistcdn.com
 todo.microsoft.com
+todon.eu
 tohle.de
 toi.in
 tokcounter.com
@@ -18950,6 +18950,7 @@ www.ggopjn.com
 www.ggpht.com
 www.ggtimer.com
 www.ghacks.net
+www.ghcr.io
 www.ghkp.us
 www.ghostery.com
 www.gibank.ru
@@ -18966,6 +18967,8 @@ www.giraitalia.it
 www.girls.xyz
 www.gismeteo.ru
 www.gitbook.com
+www.githubapp.com
+www.githubassets.com
 www.github.co
 www.github.com
 www.github.io
@@ -19677,6 +19680,7 @@ www.imgur.io
 www.imlive.com
 www.immomo.com
 www.imoneybank.ru
+www.imore.com
 www.impact-ad.jp
 www.impactradius.com
 www.imperialtechforesight.com
@@ -20624,7 +20628,6 @@ www.mastodon.world
 www.masto.es
 www.masto.nu
 www.masto.pt
-www.mastouille.fr
 www.mathinsight.org
 www.mathstodon.xyz
 www.mathworks.com
@@ -21203,6 +21206,7 @@ www.nn.de
 www.nnmstatic.win
 www.noaa.gov
 www.nobaeg.de
+www.nobigtech.es
 www.nobledesktop.com
 www.noc.social
 www.noho.st
@@ -21364,7 +21368,6 @@ www.ofkbank.ru
 www.ogdownloaderapk.com
 www.ogone.com
 www.ogury.io
-www.ohai.social
 www.ohga.it
 www.ohio.gov
 www.oiyo.tk
@@ -24053,6 +24056,7 @@ www.to8.cc
 www.tochka.com
 www.today.com
 www.todoistcdn.com
+www.todon.eu
 www.tohle.de
 www.toi.in
 www.tokcounter.com
@@ -25549,7 +25553,6 @@ xav.cc
 xbolive.com
 *.xboxab.com
 *.xboxab.net
-*.xbox.com
 xbox.com
 xboxexperiencesprod.experimentation.xboxlive.com
 xbox.ipv6.microsoft.com

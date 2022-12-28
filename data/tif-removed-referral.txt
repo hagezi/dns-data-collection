@@ -145,7 +145,6 @@ u7747409.ct.sendgrid.net
 u8253848.ct.sendgrid.net
 u9810308.ct.sendgrid.net
 bs.serving-sys.com
-go.skimresources.com
 tkqlhce.com
 www.tkqlhce.com
 email.uber.com

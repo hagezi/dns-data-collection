@@ -9107,7 +9107,6 @@ ios.bugly.qq.com
 iot.informaengage.com
 iozozb.shapertools.com
 ip2c.landscape.co.jp
-ipcc-vnp1.vnptmedia.vn
 ipcc.vnpt.com.vn
 ipcheck.blogsys.jp
 ip.goguardian.com
@@ -13590,6 +13589,7 @@ response.turnkeyvr.com
 response.xactware.com
 res.programme-television.org
 res.public.fr
+res.regoo.com
 ressources.caradisiac.com
 ressources.centraleauto.com
 ressources.lacentrale.fr
@@ -16541,6 +16541,7 @@ s.northbaynipissing.com
 s.northumberlandnews.com
 snowplow-collector.apartmentlist.io
 snowplow-pixel.tradingview.com
+snowy.bellroy.com
 snr4.canalplus.com
 snuhpz.shopbarcos.jp
 snvbhd.weltbild.at

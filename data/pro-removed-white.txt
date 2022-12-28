@@ -117,7 +117,6 @@ doublepimp.com
 pulsar.ebay.com
 eclatcollection.com
 analytics.edgekey.net
-telemetry-cii.api.playstation.com.edgekey.net
 edigitalsurvey.com
 sea.net.edu.cn
 tsatu.edu.ua
@@ -148,9 +147,6 @@ geolocation-db.com
 georiot.com
 gscounters.eu1.gigya.com
 gscounters.gigya.com
-collector.github.com
-collector-cdn.github.com
-collector.githubapp.com
 gizmodern.com
 go.ly
 goldilockstraining.com
@@ -199,7 +195,6 @@ kizi10.org
 klaviyo.com
 klclick.com
 klclick1.com
-ko.gl
 koisea.com
 omsc.kpn.com
 krxd.net
@@ -288,7 +283,6 @@ provenpixel.com
 pstmrk.it
 publicidees.com
 collector-pxrf8vapwa.px-cloud.net
-pxf.io
 pxlme.me
 l.qq.com
 zn1ynnliufrct75cb-paypalxm.siteintercept.qualtrics.com
@@ -392,8 +386,6 @@ ssl.3.damoh.welect.de
 wilf.cn
 engage.windows.com
 wisepops.com
-c.xbox.com
-o.xbox.com
 xvideoslive.com
 xxxjmp.com
 xyaz.cn

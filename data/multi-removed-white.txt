@@ -108,6 +108,8 @@ www.brazzerssurvey.com
 bshare.cn
 www.bshare.cn
 buysellads.net
+cam4.es
+www.cam4.es
 camonster.com
 www.camonster.com
 caribbeancom.com
@@ -171,8 +173,6 @@ datoporn.com
 www.datoporn.com
 a-0001.dc-msedge.net
 c-0001.dc-msedge.net
-dealcatcher.com
-www.dealcatcher.com
 desura.com
 www.desura.com
 dirtyrhino.com
@@ -194,7 +194,6 @@ ebates.com
 www.ebates.com
 ebayclassifiedsgroup.com
 www.ebayclassifiedsgroup.com
-telemetry-cii.api.playstation.com.edgekey.net
 chnu.edu.ua
 overseas.edu.lk
 wcc.edu.in
@@ -233,10 +232,6 @@ cdn2.gigya.com
 cdn3.gigya.com
 gscounters.eu1.gigya.com
 gscounters.gigya.com
-collector.github.com
-collector-cdn.github.com
-pivotal.github.com
-collector.githubapp.com
 go.ly
 www.go.ly
 goldilockstraining.com
@@ -277,7 +272,6 @@ www.iplogger.com
 www.iplogger.org
 istripper.com
 www.istripper.com
-static.iterable.com
 mobilesdk-au.kampyle.com
 mobilesdk-can.kampyle.com
 mobilesdk-eu.kampyle.com
@@ -285,8 +279,6 @@ mobilesdk-us.kampyle.com
 kbit.co
 www.kbit.co
 fast.a.klaviyo.com
-ko.gl
-www.ko.gl
 koddata.com
 www.koddata.com
 ks.cn
@@ -523,6 +515,8 @@ soyoung.com
 www.soyoung.com
 spdate.com
 www.spdate.com
+springboardplatform.com
+www.springboardplatform.com
 stargames.com
 www.stargames.com
 strands.com
@@ -559,6 +553,7 @@ search.us.com
 valuecommerce.com
 clj.valuecommerce.com
 www.valuecommerce.com
+vk.sv
 wa.sv
 webpush.jp
 www.webpush.jp
@@ -580,9 +575,6 @@ popup.wisepops.com
 www.wisepops.com
 x10.com
 www.x10.com
-c.xbox.com
-expbl2ro.xbox.com
-o.xbox.com
 ftr2.external.xerox.com
 api.miui.security.xiaomi.com
 xvideoslive.com
