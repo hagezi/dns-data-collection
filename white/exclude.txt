@@ -7109,6 +7109,7 @@ identisoft.pt
 identity.banknorwegian.no
 identity.virginmedia.com
 ident.nets.eu
+idg.de
 id.google.com
 id.google.de
 idg.se
@@ -7872,6 +7873,7 @@ klclick3.com
 klclick.com
 kleki.com
 klevu.com
+kli.cx
 klikbca.com
 kl.ik.my
 klik.poba.hr
@@ -8963,6 +8965,7 @@ ml.com
 mlgflappybird420.com
 mlp.de
 mlsend.com
+mlsub.net
 mlwbd.bar
 mlwbd.com
 mlwbd.world
@@ -14223,6 +14226,7 @@ tracker.merded.xyz
 tracker.mg64.net
 tracker.minglong.org
 tracker.mininova.org
+tracker.mlsub.net
 tracker.moeblog.cn
 tracker.moeking.eu.org
 tracker.moeking.me
@@ -14270,6 +14274,7 @@ tracker.sktorrent.net
 tracker.skynetcloud.site
 tracker.skyts.net
 tracker.sloppyta.co
+trackers.mlsub.net
 tracker.srv00.com
 tracker.sushirave.net
 tracker.swarm3.network
@@ -15168,6 +15173,7 @@ visuals.feedly.com
 visualwebsiteoptimizer.com
 vitabank.spb.ru
 vivaldi.net
+vivo.tl
 vivuso.ru
 vizcloud.site
 vizio.com
@@ -15177,6 +15183,7 @@ vk-cdn.net
 vk.com
 vk.me
 vkontakte.ru
+vk.sv
 vkuservideo.net
 vlab.pp.ru
 vladprombank.ru
@@ -15379,6 +15386,7 @@ volksbank-zwickau.de
 volkswagenbank.de
 vol.venezolano.com
 volvofinans.se
+vonq.io
 voodoo.io
 vorne.de
 vortex.data.trafficmanager.net
@@ -15489,6 +15497,7 @@ vr-meissen.de
 vr-memmingen.de
 vr-mfr.de
 vr-miba.de
+vrnda.us
 vr-neuburg-rain.de
 vr-nms.de
 vr-nordoberpfalz.de
@@ -15548,6 +15557,7 @@ v.wpimg.pl
 vxcash.net
 vyborg-bank.ru
 vystarcu.org
+vz.to
 vzturl.com
 vzw.com
 w1p.fr
@@ -15564,6 +15574,7 @@ wagbridge-lazada.alibaba-inc.com
 wagbridge-lazada.alibaba-inc.com.gds.alibabadns.com
 waldecker-bank.de
 wa.link
+walk.sc
 wallet.advcash.com
 wallet.best
 wallet.bitcoin.com
@@ -15584,12 +15595,14 @@ wartburg-sparkasse.de
 wasabii.com.tw
 wasabisys.com
 wasap.my
+washex.am
 washington.edu
 washingtonpost.com
 washingtontimes.com
 washoeschools.net
 wasing.co.uk
 wassermann.online
+wa.sv
 watch.aetnd.com
 watchliveformula1.com
 watchsb.com
@@ -15602,6 +15615,7 @@ wayforpay.com
 way.to
 wb1.eu
 w.bilicdn1.com
+wb.md
 wb.mosoblbank.ru
 wbze.de
 wcc.edu.in
@@ -15730,6 +15744,7 @@ widemus.de
 wideo.fr
 wideup.net
 wide-youtube.l.google.com
+w.idg.de
 widget-cdn.rpxnow.com
 widget.intercom.io
 widget.nfusionsolutions.com
@@ -19601,6 +19616,7 @@ www.ideabank.ua
 www.idealo-partner.com
 www.ideaonline.ua
 www.identisoft.pt
+www.idg.de
 www.idg.se
 www.idnes.cz
 www.idnotify.com
@@ -20060,6 +20076,7 @@ www.klclick3.com
 www.klclick.com
 www.kleki.com
 www.klevu.com
+www.kli.cx
 www.klikbca.com
 www.klout.com
 www.klusbeter.nl
@@ -20807,6 +20824,7 @@ www.ml.com
 www.mlgflappybird420.com
 www.mlp.de
 www.mlsend.com
+www.mlsub.net
 www.mlwbd.bar
 www.mlwbd.com
 www.mlwbd.world
@@ -24656,6 +24674,7 @@ www.vistabank.ro
 www.visualcv.com
 www.visualwebsiteoptimizer.com
 www.vivaldi.net
+www.vivo.tl
 www.vivuso.ru
 www.vizcloud.site
 www.vizio.com
@@ -24664,6 +24683,7 @@ www.vk-cdn.net
 www.vk.com
 www.vk.me
 www.vkontakte.ru
+www.vk.sv
 www.vkuservideo.net
 www.vladprombank.ru
 www.vl.ru
@@ -24849,6 +24869,7 @@ www.volksbank-wittenberg.de
 www.volksbank-zwickau.de
 www.volkswagenbank.de
 www.volvofinans.se
+www.vonq.io
 www.voodoo.io
 www.vorne.de
 www.vostbank.ru
@@ -24950,6 +24971,7 @@ www.vr-meissen.de
 www.vr-memmingen.de
 www.vr-mfr.de
 www.vr-miba.de
+www.vrnda.us
 www.vr-neuburg-rain.de
 www.vr-nms.de
 www.vr-nordoberpfalz.de
@@ -25001,6 +25023,7 @@ www.vwdservices.com
 www.vxcash.net
 www.vyborg-bank.ru
 www.vystarcu.org
+www.vz.to
 www.vzturl.com
 www.vzw.com
 www.w1p.fr
@@ -25012,6 +25035,7 @@ www.waas-online.net
 www.wabetainfo.com
 www.waldecker-bank.de
 www.wa.link
+www.walk.sc
 www.wallet.best
 www.walmart.com
 www.wambo.club
@@ -25027,11 +25051,13 @@ www.warp.plus
 www.wartburg-sparkasse.de
 www.wasabisys.com
 www.wasap.my
+www.washex.am
 www.washington.edu
 www.washingtonpost.com
 www.washingtontimes.com
 www.washoeschools.net
 www.wassermann.online
+www.wa.sv
 www.watchliveformula1.com
 www.watchsb.com
 www.waterfox.net
@@ -25041,6 +25067,7 @@ www.waw.pl
 www.wayforpay.com
 www.way.to
 www.wb1.eu
+www.wb.md
 www.wbze.de
 www.wealthbar.com
 www.wealthfront.com

@@ -156,7 +156,6 @@ go.ly
 goldilockstraining.com
 www-googletagmanager.l.google.com
 googletagmanager.com
-guiama.is
 hawalili.com
 heroero.com
 hockerty.de
@@ -200,6 +199,7 @@ kizi10.org
 klaviyo.com
 klclick.com
 klclick1.com
+ko.gl
 koisea.com
 omsc.kpn.com
 krxd.net
@@ -351,6 +351,7 @@ tagcommander.com
 talentwunder.com
 targetspot.com
 tbdress.com
+telegra.ph
 tg.pe
 et.tidal.com
 uim.tifbs.net

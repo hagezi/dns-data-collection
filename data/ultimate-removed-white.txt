@@ -433,7 +433,6 @@ p5-lj5aujgj7jl7w-r2pmxqvndsgx2im2-931517-i1-v6exp3-v4.metric.gstatic.com
 p5-lj5aujgj7jl7w-r2pmxqvndsgx2im2-931517-i2-v6exp3-ds.metric.gstatic.com
 v6exp3-ds.metric.gstatic.com
 v6exp3-v4.metric.gstatic.com
-guiama.is
 beacon-v2.helpscout.net
 heroeswm.ru
 www.heroeswm.ru
@@ -1032,9 +1031,11 @@ urlzs.com
 go.usa.gov
 videoadex.com
 ads.videoadex.com
+vk.sv
 mplusps.ims.vodafone.com
 mpluswf.ims.vodafone.com
 fy.v.vrv.co
+wa.sv
 wabetainfo.com
 damoh.welect.de
 1.damoh.welect.de

@@ -1003,7 +1003,6 @@ v6exp3-ds.metric.gstatic.com
 v6exp3-v4.metric.gstatic.com
 gtarcade.com
 guangzhuiyuan.com
-guiama.is
 guidetopetersburg.com
 consent.gutefrage.net
 perr.h-cdn.com
@@ -2909,6 +2908,7 @@ technical-service.net
 te.technical-service.net
 www.technical-service.net
 technorati.com
+telegra.ph
 test-iq.org
 www.test-iq.org
 tg.pe
@@ -3042,6 +3042,7 @@ public.vilynx.com
 ecn.dev.virtualearth.net
 visualwebsiteoptimizer.com
 www.visualwebsiteoptimizer.com
+vk.sv
 mplusps.ims.vodafone.com
 mpluswf.ims.vodafone.com
 voodoo.io
@@ -3051,6 +3052,7 @@ vuukle.com
 vwdservices.com
 vxcash.net
 www.vxcash.net
+wa.sv
 wabetainfo.com
 omniture.walmart.com
 cpm.wargaming.net

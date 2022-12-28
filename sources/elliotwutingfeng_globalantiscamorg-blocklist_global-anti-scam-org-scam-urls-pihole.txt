@@ -1135,6 +1135,7 @@ hotcoins.shop
 hotcoinstrade.com
 hotcpro.vip
 hotdextrade.com
+hotexcoin.com
 hotexgain-trade.com
 hotforexax.com
 hotforex.com
@@ -1144,12 +1145,15 @@ hot-profits-forex.com
 hotsignalfx.com
 hotspurforex.org
 hotstockforex.com
+hourcrypto.xyz
 hourfx.net
+hourlycryptoprofits.com
 house-of-btc.com
 howcrypto.org
 hoyomining.net
 hoyomining.org
 hpoptionstrade.live
+hpusdt.com
 hpybay.com
 hricaifx.com
 hriinta.com
@@ -1171,6 +1175,7 @@ huanqiu147.com
 hub-crypto.xyz
 hubcultures.net
 hublogs.com
+hubminerltd.com
 hubprotradeoption.com
 hudsonaccurateinvest.com
 hugetradesfx.live
@@ -1190,6 +1195,7 @@ hundredtrust.com
 hun-fx.com
 hungrywhale-investors.com
 hungrywhaleinvestors.com
+huntercoint.top
 hunter.farm
 huntinglobal.com
 huobi1.in
@@ -1222,6 +1228,7 @@ hxshop.site
 hxshop.store
 hybioglobal.com
 hybiomarket.com
+hybrid-fxcrypto.com
 hydefieco.com
 hydrocoin.ltd
 hyeusaiwqckodsf.org
@@ -1251,9 +1258,14 @@ icanlearnautotrade.com
 icapitalglobfx.com
 ic-broker.com
 icb-trading.com
+icebit.ink
+icebit.shop
+icebit.site
 ice-bitt.com
 icebitt.org
 icebitt-pro.com
+icebit.vip
+icebtcme.space
 icegroupltd.com
 icentinvestmentltd.online
 icerket-coin.com
@@ -1277,6 +1289,7 @@ ic-prime.online
 icr-global-trading.com
 icriptomining.com
 i-cryptogm.com
+icryptooptions.online
 icryptos.biz
 ictf.cc
 icyexchange.com
@@ -1456,6 +1469,7 @@ infinitecoincap.com
 infinitecoininvestment.com
 infiniteexpresstrades.live
 infinitextrader.org
+infinitycoinasset.trade
 infinitycryptoearnings.com
 infinity-fundfx.com
 infinity-fund.ltd
@@ -1478,6 +1492,7 @@ inmarketsplus.com
 inpcforex.com
 inpcmarket.com
 instaktrade.com
+instamine.biz
 instantcashback.xyz
 instantfxtradeoption.online
 instantminer.site
@@ -1535,6 +1550,7 @@ inukocoin.com
 invechcorporation.com
 inverchy.hk-exnews.com
 inversion123.com
+invest2earncrypto.com
 invest2profit.online
 invest365.website
 invest4life.site
@@ -1543,6 +1559,7 @@ investar.live
 investby.com
 investcorp.ltd
 investcru.cfd
+investcryptoprofit.com
 investearnings.org
 investeceultd.com
 investedtrade.com
@@ -1581,14 +1598,17 @@ investnavoi.com
 investncrypto.net
 investnewpt.com
 investo4life.com
+investocrypto.net
 investoforex.org
 investolymp.com
+investoncryptos.com
 investonpedia.website
 investopedia.vip
 investor-etf.com
 investor-expos.net
 investormines.com
 investornewshub.com
+investorscrypt.com
 investor-search.com
 investorstoptal.com
 investpro.today
@@ -1600,6 +1620,7 @@ investyfix.com
 invextimo.com
 invictus-investments.com
 invose.com
+invstormining.com
 inyovainvests.co
 ioeaiex.com
 iog.community
@@ -1610,9 +1631,11 @@ ipofinance.uk
 iprimecapital.com
 iprofitfx.com
 iprofitoptionstrade.online
+iqbitprime.com
 iqbroker.com
 iqbrokersfx.com
 iqcinfor.com
+iqcryptoinvest.com
 iqdexverse.org
 iq-fx.com
 iqfxcryptfinancemarket.online
@@ -1671,6 +1694,7 @@ ivorymining.net
 iwannadating.com
 ixforex.com
 ixxbtc.com
+izicrypt.com
 j9bc.casino
 ja178.biic7ec.com
 jackbot.cloud
@@ -1952,6 +1976,7 @@ kissmining.com
 kittycoin.online
 kiwitravel-tw.com
 kkbitpro.com
+kkcbtcfx.com
 kkcoinsc.com
 kkrtrad.com
 kkrwell.top
@@ -1968,6 +1993,7 @@ kmaxbit.com
 kmnex.com
 kncoineglobal.com
 knight-trade.com
+knkcoin.com
 knk-crypto.com
 knk-crypto.net
 koce.world
@@ -2059,6 +2085,7 @@ kucoinrx.com
 kucointw.com
 kucoinusa.com
 kudx.com
+kuroxcoin.com
 kusbit.com
 kuswap.top
 kutoken.io
@@ -2172,6 +2199,7 @@ legacyapextrade.com
 legacyfxtraders.com
 legacy-tradesfx.com
 legalbittradingpool.com
+legalcryptextrade.com
 legalexpressinvestment.com
 legalunitraderx.com
 legareaforex.com
@@ -2181,6 +2209,7 @@ legitimate-foxbitltd.com
 legitimate-funds.org
 legitimatetradefx.com
 legitimatetrade.online
+legitminingforum.com
 legitminingpro.com
 legitsicryptoimining.online
 legitstraders.com
@@ -2189,6 +2218,7 @@ lelong-shopping.com
 lel-shopping.com
 lem-coin.com
 lemxc.com
+lendernetworkandcryptos.com
 lenox-coincx.com
 lenoxnext.com
 lenswo.com
@@ -2206,6 +2236,7 @@ letherbit.com
 letmecloud.com
 letraders.com
 letraders.org
+levelmining.com
 leveluptrading.ltd
 leveragedtrading.net
 lever-ex.com
@@ -2265,6 +2296,7 @@ limittw.com
 limoxtrades.com
 limtoken.xyz
 linargogroup.com
+lincoin.biz
 line01.vip
 linetradeltd.com
 linexfxsignals.com
@@ -2297,6 +2329,7 @@ listeredge.com
 litaderex.com
 litbitix.biz
 litbtc.vip
+litcoinmarkets.org
 litecoinexchangeoptions.com
 litecoinmine.live
 litecointab.com
@@ -2330,6 +2363,7 @@ litexchange.info
 litextrades.com
 litpopfinance.com
 liujiu86.xyz
+livecointx247.com
 liveexchange.us
 live-fairtrade.com
 livemarketpro.com
@@ -2480,6 +2514,7 @@ metadata.krychs.com
 meta-data.top
 meta-data.vip
 metamex.exchange
+metaquotes.com
 mexccoins.com
 m.genting18.com
 m.groupsifx.com
@@ -2611,6 +2646,7 @@ nanyangforex.com
 napmine.com
 narbytrade.com
 nardofx.com
+naribitmax.com
 narlycoin.com
 nasapp1.com
 nas-app.com
@@ -2628,6 +2664,7 @@ nat-s.co
 natsfx.com
 natsle.com
 nattex.top
+navcoinholdings.com
 navigatortrades.com
 naxcomexchangeinc.com
 ncbcc.xyz
@@ -2740,6 +2777,7 @@ nftbion.com
 nftbullex.com
 nftcclp.nftatb.com
 nftcoin.live
+nft-cryptomine.com
 nftcwc.nftiak.com
 nfteshopp.com
 nftexvip.com
@@ -2789,7 +2827,9 @@ nodiein.com
 nodsbit.com
 none.com
 nonfungiblecoin.net
+noov-crypto.online
 nordbitc.com
+nordcloudmining.net
 nordfxex.site
 nordfxss.vip
 normancapitalgroup.com
@@ -2834,6 +2874,7 @@ number-mine.top
 numericbitminer.com
 nuoya.dxzrs.com
 nuralxpressdelivery.com
+nuri-compliance.com
 nutex-online.com
 nutexonline.com
 nutorex.com
@@ -2852,12 +2893,14 @@ nxbpro.cn
 nxncbdhasd.com
 nxt-binary.com
 nybexc.com
+nybittrade.com
 nycex.org
 nycmorgan.com
 nycoine.com
 nycoinexe.com
 ny-crypto-trade.com
 nycsto.com
+nydcoin.com
 nyels.com
 nyexeworld.com
 nylivetrade.com
@@ -2931,6 +2974,7 @@ octabtcoining.com
 octacapitalpro.com
 octacoinioexchanges.com
 octacoinstrade.com
+octacryptofx.online
 octacryptotradings.com
 octafxberjangka.id
 octafx.com
@@ -2960,6 +3004,8 @@ odinfunding.com
 odin-trade.com
 odqaktm.top
 odzsgtw.com
+oeusdt.xyz
+ofcrypt.com
 office.nextforex.live
 officialcashpaidhackerspro.com
 officialnomiswap.com
@@ -2985,6 +3031,7 @@ oiuz.xyz
 okbbb541.info
 okbipro.com
 okbitb.com
+okbitco.com
 okbitex.site
 okbitx.com
 okcoinvip.com
@@ -3040,6 +3087,7 @@ omnysee.com
 omoex.com
 omxmax.org
 onadatrade.com
+onbitline.com
 ondersongroup.com
 ondkuiy.top
 onecns.vip
@@ -3057,6 +3105,7 @@ onemain.site
 onesevenplay.com
 onesevenplayy.com
 onestep-exchange.com
+onestopmining.shop
 one-store.marketing
 one-store.space
 one-store.today
@@ -3098,6 +3147,7 @@ o.oneofu.work
 ooun.xyz
 opaqueinvesting.net
 openbankaccount.org
+opencoinvip.net
 opexcoins.us
 opexcryptomining.com
 op.gdzyzx.xyz
@@ -3116,6 +3166,7 @@ optimaltradeentry.com
 optimaltradersfx.com
 optimaltrades.vip
 optimatrade.org
+optimism-coin.com
 optimizefunds.cc
 optimizefunds.co
 optimumassetfx.online
@@ -3256,6 +3307,7 @@ portal.xpromarkets.site
 power-vic.com
 pp.kasnses.com
 pp.kasnsnss.com
+presalekronobit.tech
 probabafx.net
 profession-vt.com
 promo.libertex.com
@@ -3263,6 +3315,7 @@ promo.libertex.org
 protal.incetial.com
 prww621.com
 pz6xmj.xyz
+qatarcoin.vip
 qatargoldeninvest.com
 qbctex.com
 qbgforex.com

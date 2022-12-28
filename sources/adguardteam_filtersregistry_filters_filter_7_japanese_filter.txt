@@ -67,7 +67,6 @@ caprofitx.com
 cdj-dap.s3-ap-northeast-1.amazonaws.com
 cdn.alistcloud.com
 cdn.lodeo.io
-cdn.relaido.jp
 click-count.info
 clickmedias.info
 counter2.blog.livedoor.com

@@ -134,6 +134,7 @@
 10075515.fls.doubleclick.net
 10077000.fls.doubleclick.net
 10081961.fls.doubleclick.net
+10082324.fls.doubleclick.net
 10082387.fls.doubleclick.net
 10083857.fls.doubleclick.net
 10085591.fls.doubleclick.net
@@ -185,9 +186,11 @@
 10126106.fls.doubleclick.net
 10126397.fls.doubleclick.net
 10129091.fls.doubleclick.net
+10132436.fls.doubleclick.net
 10132484.fls.doubleclick.net
 10132885.fls.doubleclick.net
 10133176.fls.doubleclick.net
+10134849.fls.doubleclick.net
 10135727.fls.doubleclick.net
 10136424.fls.doubleclick.net
 10136991.fls.doubleclick.net
@@ -225,6 +228,7 @@
 10163114.fls.doubleclick.net
 10163466.fls.doubleclick.net
 10163625.fls.doubleclick.net
+10163667.fls.doubleclick.net
 10163979.fls.doubleclick.net
 10164078.fls.doubleclick.net
 1016435.fls.doubleclick.net
@@ -245,6 +249,7 @@
 1017522.fls.doubleclick.net
 10175541.fls.doubleclick.net
 10175577.fls.doubleclick.net
+10175718.fls.doubleclick.net
 10175748.fls.doubleclick.net
 10175751.fls.doubleclick.net
 10176109.fls.doubleclick.net
@@ -277,6 +282,7 @@
 10189743.fls.doubleclick.net
 10189872.fls.doubleclick.net
 10190463.fls.doubleclick.net
+10190679.fls.doubleclick.net
 10190751.fls.doubleclick.net
 10190820.fls.doubleclick.net
 10191189.fls.doubleclick.net
@@ -300,6 +306,7 @@
 10204343.fls.doubleclick.net
 10205677.fls.doubleclick.net
 10205746.fls.doubleclick.net
+10206918.fls.doubleclick.net
 10207248.fls.doubleclick.net
 10207287.fls.doubleclick.net
 10207377.fls.doubleclick.net
@@ -470,6 +477,7 @@
 10340827.fls.doubleclick.net
 10341253.fls.doubleclick.net
 10341742.fls.doubleclick.net
+10345762.fls.doubleclick.net
 10345822.fls.doubleclick.net
 10346257.fls.doubleclick.net
 10347222.fls.doubleclick.net
@@ -673,6 +681,7 @@
 10544969.fls.doubleclick.net
 10545560.fls.doubleclick.net
 10551759.fls.doubleclick.net
+10553505.fls.doubleclick.net
 10554177.fls.doubleclick.net
 10556307.fls.doubleclick.net
 10556430.fls.doubleclick.net
@@ -683,6 +692,7 @@
 10558670.fls.doubleclick.net
 10558833.fls.doubleclick.net
 10559432.fls.doubleclick.net
+10559522.fls.doubleclick.net
 10560573.fls.doubleclick.net
 10560780.fls.doubleclick.net
 10561314.fls.doubleclick.net
@@ -809,6 +819,7 @@
 10657408.fls.doubleclick.net
 10658062.fls.doubleclick.net
 10658707.fls.doubleclick.net
+10662340.fls.doubleclick.net
 10662671.fls.doubleclick.net
 10665155.fls.doubleclick.net
 10665287.fls.doubleclick.net
@@ -1278,6 +1289,7 @@
 11192243.fls.doubleclick.net
 11192252.fls.doubleclick.net
 11193903.fls.doubleclick.net
+11195144.fls.doubleclick.net
 11196000.fls.doubleclick.net
 1119706.fls.doubleclick.net
 11199305.fls.doubleclick.net
@@ -1418,6 +1430,7 @@
 11365508.fls.doubleclick.net
 11367606.fls.doubleclick.net
 11368226.fls.doubleclick.net
+11368239.fls.doubleclick.net
 11373437.fls.doubleclick.net
 11373602.fls.doubleclick.net
 11375783.fls.doubleclick.net
@@ -1542,6 +1555,7 @@
 11512751.fls.doubleclick.net
 11514816.fls.doubleclick.net
 11515444.fls.doubleclick.net
+11516535.fls.doubleclick.net
 11517652.fls.doubleclick.net
 11517676.fls.doubleclick.net
 11518191.fls.doubleclick.net
@@ -1582,6 +1596,7 @@
 11554076.fls.doubleclick.net
 11556195.fls.doubleclick.net
 11556803.fls.doubleclick.net
+11558579.fls.doubleclick.net
 11558606.fls.doubleclick.net
 11559503.fls.doubleclick.net
 11559506.fls.doubleclick.net
@@ -1712,11 +1727,13 @@
 11732431.fls.doubleclick.net
 11732869.fls.doubleclick.net
 11733445.fls.doubleclick.net
+11734795.fls.doubleclick.net
 11735268.fls.doubleclick.net
 11736495.fls.doubleclick.net
 11741200.fls.doubleclick.net
 11741218.fls.doubleclick.net
 11741242.fls.doubleclick.net
+11741476.fls.doubleclick.net
 1174169.fls.doubleclick.net
 11742073.fls.doubleclick.net
 11744013.fls.doubleclick.net
@@ -1734,6 +1751,7 @@
 11768521.fls.doubleclick.net
 11769353.fls.doubleclick.net
 11770024.fls.doubleclick.net
+11770066.fls.doubleclick.net
 11771150.fls.doubleclick.net
 11771241.fls.doubleclick.net
 11771253.fls.doubleclick.net
@@ -1748,6 +1766,7 @@
 11782456.fls.doubleclick.net
 11783878.fls.doubleclick.net
 11784781.fls.doubleclick.net
+11793316.fls.doubleclick.net
 11793670.fls.doubleclick.net
 11794209.fls.doubleclick.net
 11795130.fls.doubleclick.net
@@ -1921,6 +1940,7 @@
 12085705.fls.doubleclick.net
 12085782.fls.doubleclick.net
 12087973.fls.doubleclick.net
+12088351.fls.doubleclick.net
 12089170.fls.doubleclick.net
 12090052.fls.doubleclick.net
 12092732.fls.doubleclick.net
@@ -2265,6 +2285,7 @@
 12659668.fls.doubleclick.net
 12661759.fls.doubleclick.net
 12661762.fls.doubleclick.net
+12661765.fls.doubleclick.net
 12662027.fls.doubleclick.net
 12665022.fls.doubleclick.net
 12666736.fls.doubleclick.net
@@ -2327,12 +2348,14 @@
 14a684df47f90e0c2fd2335eb9e27d3f.safeframe.googlesyndication.com
 14b6a3685b19f1b228c05a59671bfbbd.safeframe.googlesyndication.com
 14d6489a08b249a964d54d44af1468c9.safeframe.googlesyndication.com
+1515920.fls.doubleclick.net
 1519932.fls.doubleclick.net
 1524815.fls.doubleclick.net
 1528929.fls.doubleclick.net
 152f83ec4c6f8b5611492fc7cddcc15b.safeframe.googlesyndication.com
 1533911.fls.doubleclick.net
 1580034.fls.doubleclick.net
+1584095.fls.doubleclick.net
 1594671.fls.doubleclick.net
 1604537.fls.doubleclick.net
 1620481.fls.doubleclick.net
@@ -2621,6 +2644,7 @@
 316d7e10f283c6a6e21423797c093220.safeframe.googlesyndication.com
 3174944.fls.doubleclick.net
 3175310.fls.doubleclick.net
+3182906.fls.doubleclick.net
 3189993.fls.doubleclick.net
 3196959.fls.doubleclick.net
 3202694.fls.doubleclick.net
@@ -2638,6 +2662,7 @@
 3292805.fls.doubleclick.net
 32ddc99854ce009b6616f785e4d060b1.safeframe.googlesyndication.com
 3318532.fls.doubleclick.net
+3327550.fls.doubleclick.net
 3339216.fls.doubleclick.net
 3342759.fls.doubleclick.net
 3349269.fls.doubleclick.net
@@ -2658,6 +2683,7 @@
 33c6cbe7924d7f3cb9ebf3e8401af6a8.safeframe.googlesyndication.com
 3405025.fls.doubleclick.net
 3409133.fls.doubleclick.net
+3413802.fls.doubleclick.net
 3418050.fls.doubleclick.net
 3418164.fls.doubleclick.net
 3423363.fls.doubleclick.net
@@ -2844,6 +2870,7 @@
 4017114.fls.doubleclick.net
 4020909.fls.doubleclick.net
 4022310.fls.doubleclick.net
+4031938.fls.doubleclick.net
 403c4fede7b7ff0820c70292888f7a77.safeframe.googlesyndication.com
 403c8c166f2caac4c27db9db9d5ec3bc.safeframe.googlesyndication.com
 4053494.fls.doubleclick.net
@@ -3337,6 +3364,7 @@
 4906953.fls.doubleclick.net
 4913123.fls.doubleclick.net
 4913528.fls.doubleclick.net
+4913761.fls.doubleclick.net
 4913939.fls.doubleclick.net
 4914190.fls.doubleclick.net
 4914304.fls.doubleclick.net
@@ -3353,6 +3381,7 @@
 4924607.fls.doubleclick.net
 4924609.fls.doubleclick.net
 4925149.fls.doubleclick.net
+4933272.fls.doubleclick.net
 4933917.fls.doubleclick.net
 4934323.fls.doubleclick.net
 4935696.fls.doubleclick.net
@@ -3362,6 +3391,7 @@
 4943300.fls.doubleclick.net
 4943873.fls.doubleclick.net
 4943881.fls.doubleclick.net
+4944377.fls.doubleclick.net
 4944382.fls.doubleclick.net
 4944619.fls.doubleclick.net
 4952425.fls.doubleclick.net
@@ -3596,6 +3626,7 @@
 5388778.fls.doubleclick.net
 5388923.fls.doubleclick.net
 5399820.fls.doubleclick.net
+5402617.fls.doubleclick.net
 5403219.fls.doubleclick.net
 5403222.fls.doubleclick.net
 5404448.fls.doubleclick.net
@@ -3871,6 +3902,7 @@
 6036928.fls.doubleclick.net
 6037123.fls.doubleclick.net
 6037493.fls.doubleclick.net
+6037726.fls.doubleclick.net
 6038155.fls.doubleclick.net
 6038309.fls.doubleclick.net
 6038328.fls.doubleclick.net
@@ -3974,6 +4006,7 @@
 6255141.fls.doubleclick.net
 6255258.fls.doubleclick.net
 6256017.fls.doubleclick.net
+6256116.fls.doubleclick.net
 6256692.fls.doubleclick.net
 6257144.fls.doubleclick.net
 6257522.fls.doubleclick.net
@@ -4161,6 +4194,7 @@
 6567100.fls.doubleclick.net
 6567407.fls.doubleclick.net
 6567433.fls.doubleclick.net
+6567675.fls.doubleclick.net
 6569042.fls.doubleclick.net
 6570222.fls.doubleclick.net
 6571305.fls.doubleclick.net
@@ -4267,6 +4301,7 @@
 6811462.fls.doubleclick.net
 6811667.fls.doubleclick.net
 6812680.fls.doubleclick.net
+6820846.fls.doubleclick.net
 6824523.fls.doubleclick.net
 6835277.fls.doubleclick.net
 6836545.fls.doubleclick.net
@@ -4448,6 +4483,7 @@
 8023469.fls.doubleclick.net
 8025626.fls.doubleclick.net
 8027397.fls.doubleclick.net
+8027700.fls.doubleclick.net
 8028349.fls.doubleclick.net
 8029719.fls.doubleclick.net
 8030701.fls.doubleclick.net
@@ -4473,12 +4509,14 @@
 8053292.fls.doubleclick.net
 8053303.fls.doubleclick.net
 8053397.fls.doubleclick.net
+8053464.fls.doubleclick.net
 8054130.fls.doubleclick.net
 8054421.fls.doubleclick.net
 8054ed5e10ff2b537d5445fe8f045040.safeframe.googlesyndication.com
 8057143.fls.doubleclick.net
 8058163.fls.doubleclick.net
 8058560.fls.doubleclick.net
+8058959.fls.doubleclick.net
 8059055.fls.doubleclick.net
 8059229.fls.doubleclick.net
 8060067.fls.doubleclick.net
@@ -4663,6 +4701,7 @@
 81acfc6395e48db850e81485f771681a.safeframe.googlesyndication.com
 8200029.fls.doubleclick.net
 8200095.fls.doubleclick.net
+8203246.fls.doubleclick.net
 8203495.fls.doubleclick.net
 8203642.fls.doubleclick.net
 8205078.fls.doubleclick.net
@@ -4761,6 +4800,7 @@
 8253490.fls.doubleclick.net
 8253568.fls.doubleclick.net
 8253640.fls.doubleclick.net
+8253769.fls.doubleclick.net
 8253878.fls.doubleclick.net
 8254414.fls.doubleclick.net
 8260b79f372b1f7ca83a9f48c8e845f4.safeframe.googlesyndication.com
@@ -4980,6 +5020,7 @@
 8433487.fls.doubleclick.net
 8433490.fls.doubleclick.net
 8435720.fls.doubleclick.net
+8436051.fls.doubleclick.net
 8437941.fls.doubleclick.net
 8441238.fls.doubleclick.net
 844392.fls.doubleclick.net
@@ -5273,7 +5314,9 @@
 8730330.fls.doubleclick.net
 8731124.fls.doubleclick.net
 8731199.fls.doubleclick.net
+8733319.fls.doubleclick.net
 8734453.fls.doubleclick.net
+8735044.fls.doubleclick.net
 8735967.fls.doubleclick.net
 8739809.fls.doubleclick.net
 8741730.fls.doubleclick.net
@@ -5293,6 +5336,7 @@
 8758799.fls.doubleclick.net
 8759774.fls.doubleclick.net
 8759855.fls.doubleclick.net
+8760041.fls.doubleclick.net
 8761017.fls.doubleclick.net
 8761458.fls.doubleclick.net
 8761834.fls.doubleclick.net
@@ -5474,6 +5518,7 @@
 8919336.fls.doubleclick.net
 8919380.fls.doubleclick.net
 8920120.fls.doubleclick.net
+8920162.fls.doubleclick.net
 8921194.fls.doubleclick.net
 8921356.fls.doubleclick.net
 8921743.fls.doubleclick.net
@@ -5631,6 +5676,7 @@
 901f0f616807188a18d85d60937928b8.safeframe.googlesyndication.com
 9021357.fls.doubleclick.net
 9021372.fls.doubleclick.net
+9021767.fls.doubleclick.net
 9022523.fls.doubleclick.net
 9023122.fls.doubleclick.net
 9024025.fls.doubleclick.net
@@ -5678,6 +5724,7 @@
 9054599.fls.doubleclick.net
 9057434.fls.doubleclick.net
 9057887.fls.doubleclick.net
+9059061.fls.doubleclick.net
 9061757.fls.doubleclick.net
 9061782.fls.doubleclick.net
 9063024.fls.doubleclick.net
@@ -5744,6 +5791,7 @@
 9105926.fls.doubleclick.net
 9107965.fls.doubleclick.net
 9108637.fls.doubleclick.net
+9108679.fls.doubleclick.net
 9108872.fls.doubleclick.net
 9109099.fls.doubleclick.net
 9109144.fls.doubleclick.net
@@ -5888,6 +5936,7 @@
 9206654.fls.doubleclick.net
 9207095.fls.doubleclick.net
 9207840.fls.doubleclick.net
+9208292.fls.doubleclick.net
 9210267.fls.doubleclick.net
 9210273.fls.doubleclick.net
 9211106.fls.doubleclick.net
@@ -6040,6 +6089,7 @@
 9303576.fls.doubleclick.net
 9303932.fls.doubleclick.net
 9304630.fls.doubleclick.net
+9308658.fls.doubleclick.net
 9308751.fls.doubleclick.net
 9309168.fls.doubleclick.net
 9309764.fls.doubleclick.net
@@ -6471,6 +6521,7 @@
 9649598.fls.doubleclick.net
 9649784.fls.doubleclick.net
 9654880.fls.doubleclick.net
+9654917.fls.doubleclick.net
 9655778.fls.doubleclick.net
 9656473.fls.doubleclick.net
 9656521.fls.doubleclick.net
@@ -6976,6 +7027,7 @@
 9df5294b02fde88244cfb479af87a562.safeframe.googlesyndication.com
 9ef38145ff058c3d50c3a3168abfe663.safeframe.googlesyndication.com
 9fc32c90bc3e5b88618a45a86f06906f.safeframe.googlesyndication.com
+9fccf497ef9b36f785c7df44f1be3b7b.safeframe.googlesyndication.com
 a014bdaa1cc01d8af6bb52fa18a24ef7.safeframe.googlesyndication.com
 a08dd344d3cf57630dcb757c93fe299f.safeframe.googlesyndication.com
 a133088ca64a934ecda2f64b784f7bee.safeframe.googlesyndication.com
@@ -7065,6 +7117,7 @@ amp-analytics.chip.de
 analytic20.detik.com
 analytic.ads.ookbee.net
 analytic.atomhike.com
+analytic-bi.tourismthailand.org
 analytic.ch7.com
 analytic-client.blitzmightyparty.com
 analytic-client.cuntharem.com
@@ -7206,6 +7259,7 @@ analytics7.honeywellcloud.com
 analytics.888casino.com
 analytics8.successfactors.com
 analytics.8x8.com
+analytics.8x8.com.cdn.cloudflare.net
 analytics.95516.com
 analytics.95516.com.bsclink.cn
 analytics9.honeywellcloud.com
@@ -7251,6 +7305,7 @@ analytics.afilias.info
 analytics.a-f.io
 analytics.afirstsoft.cn
 analytics.aflds.dev
+analytics.af.mil
 analytics.afyads.com
 analytics.agentfire.com
 analytics.agma-mmc.de
@@ -7288,11 +7343,13 @@ analytics.amptechnologies.co
 analytics.amrcollection.com
 analytics.amsoil.com
 analytics.analytics-egain.com
+analytics.ananas.rs
 analytics.andrewmartin.co.uk
 analytics.andritz.com
 analytics.anedot.com
 analytics.antarestech.com
 analytics.anvato.net
+analytics.anwb.nl
 analytics.apache.org
 analytics-api-01.smzdm.com
 analytics-api2-643942837.ap-northeast-1.elb.amazonaws.com
@@ -7368,6 +7425,7 @@ analytics.ap-southeast-2.greenorbitcloud.com
 analytics.aptania.com
 analytics.apttus.com
 analytics.archive.org
+analytics-ari-nfl.yinzcam.com
 analytics.arsnova.cc
 analytics-aruddickthunderbeta.betaskope.com
 analytics.arz.at
@@ -7391,6 +7449,7 @@ analytics.autocorner.com
 analytics.autodesk.com
 analytics.avalara.com
 analytics.avalaramail.com
+analytics.avantitravelinsurance.co.uk
 analytics.avetta.com
 analytics.avizia.com
 analytics.avocadostore.de
@@ -7440,6 +7499,7 @@ analytics.bgalytics.com
 analytics.bigc.co.th
 analytics.bigdata.samsung.com
 analytics.bighappy.co
+analytics.bigrocksports.com
 analytics.binaryfortress.com
 analytics.binti.com
 analytics.bio.link
@@ -7665,6 +7725,7 @@ analytics.creativecircle.com
 analytics.credible.com
 analytics.crest.com
 analytics.crimewatchtech.com
+analytics.cruiseamerica.com
 analytics.crutchfield.com
 analytics.cruxnow.com
 analytics.crystal.com.co
@@ -7793,6 +7854,7 @@ analytics.edmentum.com
 analytics.edmentum.com.edgesuite.net
 analytics.edrcore.com
 analytics.eip.telegraph.co.uk
+analytics-elastic.app.smashfly.io
 analytics-elb-634008047.us-east-1.elb.amazonaws.com
 analytics-elb-942081910.us-east-2.elb.amazonaws.com
 analytics.ellieservices.com
@@ -7834,6 +7896,7 @@ analytics.eservices-connect.com
 analytics.e.sherwin-williams.com
 analytics.esportal.live
 analytics.essilorusa.com
+analytics.estateapps.co.uk
 analytics.esuitetools.com
 analytics-etheodorethunderbeta.betaskope.com
 analytics.ethicspoint.eu
@@ -7970,6 +8033,7 @@ analytics.gocompare.com
 analytics.godaddy.com
 analytics.gokwik.co
 analytics.goldcast.io
+analytics.golfid.io
 analytics.goodrx.com
 analytics.googleapis.com
 analytics.google.com
@@ -8115,6 +8179,7 @@ analytics-jaythunderbeta.betaskope.com
 analytics.jazel.net
 analytics-jcannonthunderbeta.betaskope.com
 analytics.jdsoftwarellc.com
+analytics.jeoway.com
 analytics-jforrestthunderbeta.betaskope.com
 analytics.jibecdn.com
 analytics.jjshouse.com
@@ -8231,6 +8296,7 @@ analytics.m7g.twitch.tv
 analytics.macaronikid.com
 analytics.macstoreonline.com.mx
 analytics.madgex.com
+analytics.maf.ae
 analytics.magicpin.in
 analytics.maileon.com
 analytics.mailmunch.co
@@ -8250,9 +8316,11 @@ analytics.maskyoo.net
 analytics.mathspace.co
 analytics-matomo.streamlabs.com
 analytics-matomo.westeurope.cloudapp.azure.com
+analytics.matomo.win
 analytics.ma.tune.com
 analytics.mbga.jp
 analytics-mclarkthunderbeta.betaskope.com
+analytics.mdquip.com
 analytics.meaww.com
 analytics-medallia.betaskope.com
 analytics.media2.promo-dev-apiregion.email.fox13news.com
@@ -8267,6 +8335,7 @@ analytics.mercadolibre.cl
 analytics.mercadolibre.com
 analytics.mercadolibre.com.ar
 analytics.mercadolibre.com.co
+analytics.mercadolibre.com.ec
 analytics.mercadolibre.com.mx
 analytics.mercadolibre.com.pe
 analytics.mercadolibre.com.ve
@@ -8589,13 +8658,17 @@ analytics.readcube.com
 analytics-read.radissonhotelsamericas.com
 analytics.realestate.com.au
 analytics.realgeeks.com
+analytics--realtime.ably.io
+analytics-realtime.ably.io
 analytics.reaperscans.com
 analytics.recastsoftware.com
 analytics.recman.services
+analytics.redarmy.dev
 analytics.redbubble.com
 analytics-redlobster.betaskope.com
 analytics.refined.site
 analytics.regex101.com
+analytics.region.www-gist-swag.zalando.ar
 analytics-regular2.minervanetworks.com
 analytics.reliant.com
 analytics.renaliq.com
@@ -8970,6 +9043,7 @@ analytics.unilogcorp.com
 analytics.uninow.com
 analytics-union.xunlei.com
 analytics.unity3d.com
+analytics.unive.nl
 analytics.universalstandard.com
 analytics.unknownworlds.com
 analytics.unlimited3d.com
@@ -8993,6 +9067,7 @@ analytics.usecorner.io
 analytics.userstyles.org
 analytics-usf.hotyon.com
 analytics-us.knexusplatform.com
+analytics.us.launchpad6.com
 analytics-us.thoughtfarmer.com
 analytics.us.tiktok.com
 analytics.us.tiktok.com.edgesuite.net
@@ -9054,6 +9129,7 @@ analytics.wandb.ai
 analytics.wardow.com
 analytics.waterford.com
 analytics.wattbuy.com
+analytics.wavelz.com
 analytics.wayup.com
 analytics-wcms.joins.net
 analytics.webads.eu
@@ -9089,6 +9165,7 @@ analytics.wonderanal.com
 analytics.wonderbly.com
 analytics.wondershare.cc
 analytics.woodmac.com
+analytics.worker-resource.com
 analytics-wow.03glass.blizzardgames.cn
 analytics.wpengine.com
 analytics.wrc.nic.in
@@ -9147,6 +9224,7 @@ analytics-zone-1.api.leadfamly.com
 analytics.zoomit.ir
 analytics.zoomus.cn
 analytics.zpbt.uk
+analytics.zuto.com
 analytics.zyrtecprofessional.com
 analytic.turkiyefinans.com.tr
 analytic.vnanet.vn
@@ -9156,6 +9234,7 @@ apac-hk-adx-tracker.aralego.com
 apac-sg-ad-track.aralego.com
 apac-sg-adx-tracker.aralego.com
 api-analytics-bootstrap.metaps.com
+api-analytics.invideo.io
 api-analytics.kkbox.com.tw
 api-analytics.kkbox.com.tw.aws.r.kkcube.com
 api-analytics.kkbox.com.tw.hosting-gamania.r.kkcube.com
@@ -9184,10 +9263,12 @@ app-analytics-in.huami.com
 app-analytics-in.zepp.com
 app-analytics-ru.huami.com
 app-analytics-sg.huami.com
+app-analytics-sg.zepp.com
 app-analytics.snapchat.com
 app-analytics.trustwallet.com
 app-analytics.ultraleap.com
 app-analytics-us.huami.com
+app-analytics-us.zepp.com
 app-analytics-v2.snapchat.com
 app-analytics-v2.snapchat.com.domain.name
 app-analytics-v2.snapchat.com.fritz.box
@@ -9273,6 +9354,7 @@ banner-tracking.jungroup.com
 bba184532518d2485dfcd5db8982ceb8.safeframe.googlesyndication.com
 bbae957bbb2f76edfc78b10912f263a4.safeframe.googlesyndication.com
 bbbe61f0e5a745daac933ff8a11f93cd.safeframe.googlesyndication.com
+bcb2d9c69415b7a23d7ba944022a9b2c.safeframe.googlesyndication.com
 bcf6c0edabd39befe9cbb19cf32ed4c5.safeframe.googlesyndication.com
 be3fe089e45b8c8f45f80a84253d8ad8.safeframe.googlesyndication.com
 be4380a76a3c095ad5e10bd2e1d69f69.safeframe.googlesyndication.com
@@ -9818,6 +9900,7 @@ fb6bbec95e872b454e3105edbcf9588a.safeframe.googlesyndication.com
 fb-analytics.prepscholar.com
 fb-analytics.prodirectsport.com
 fbcc02895f59be9c278563343277964e.safeframe.googlesyndication.com
+fb-conv-api-tracking.delonghi.com
 fbe7dd389c3caf507411b67b456d218d.safeframe.googlesyndication.com
 fbf1abbf128e31691ee548ea3cf7e4ae.safeframe.googlesyndication.com
 fbf3d8d58d67af85be34674b888093a4.safeframe.googlesyndication.com
@@ -9927,6 +10010,7 @@ gtrack.hometalk.com.cdn.cloudflare.net
 gtrack.juststarz.com
 gtrack.kueez.com
 gtrack.kueez.net
+gtrack.millennialgeeks.com
 gtrack.news.atv.com
 gtrack.news.autos101.com
 gtrack.news.beyondtheflag.com
@@ -10031,6 +10115,7 @@ ldex-track-ssl.dnsrt.co.uk
 learning-analytics.services.pbskids.org
 legacy-telemetry.malwarebytes.com
 lf3-analytics.bytescm.com
+lf3-analytics.bytescm.com.queniuuf.com
 lf3-analytics.bytescm.com.w.kunluncan.com
 lg-release-tracking-8080.gcld-line.com
 liift-tracking-537670036.eu-west-1.elb.amazonaws.com
@@ -11153,6 +11238,7 @@ o1009548.ingest.sentry.io
 o1010153.ingest.sentry.io
 o101058.ingest.sentry.io
 o1010732.ingest.sentry.io
+o1011064.ingest.sentry.io
 o1011479.ingest.sentry.io
 o1012039.ingest.sentry.io
 o1012071.ingest.sentry.io
@@ -11235,6 +11321,7 @@ o1065385.ingest.sentry.io
 o106538.ingest.sentry.io
 o1065947.ingest.sentry.io
 o1066214.ingest.sentry.io
+o1066425.ingest.sentry.io
 o1066520.ingest.sentry.io
 o1066752.ingest.sentry.io
 o1067987.ingest.sentry.io
@@ -11412,6 +11499,7 @@ o1176956.ingest.sentry.io
 o1177001.ingest.sentry.io
 o1178318.ingest.sentry.io
 o118024.ingest.sentry.io
+o1183537.ingest.sentry.io
 o118392.ingest.sentry.io
 o1185449.ingest.sentry.io
 o11863.ingest.sentry.io
@@ -11501,6 +11589,7 @@ o126795.ingest.sentry.io
 o1269418.ingest.sentry.io
 o1270904.ingest.sentry.io
 o127091.ingest.sentry.io
+o1271244.ingest.sentry.io
 o127165.ingest.sentry.io
 o1272004.ingest.sentry.io
 o1272603.ingest.sentry.io
@@ -11627,6 +11716,7 @@ o1415629.ingest.sentry.io
 o142046.ingest.sentry.io
 o142215.ingest.sentry.io
 o1422282.ingest.sentry.io
+o1422636.ingest.sentry.io
 o142289.ingest.sentry.io
 o142366.ingest.sentry.io
 o1427637.ingest.sentry.io
@@ -11780,6 +11870,7 @@ o189652.ingest.sentry.io
 o189874.ingest.sentry.io
 o190235.ingest.sentry.io
 o190432.ingest.sentry.io
+o191215.ingest.sentry.io
 o191317.ingest.sentry.io
 o191714.ingest.sentry.io
 o191875.ingest.sentry.io
@@ -11918,6 +12009,7 @@ o23827.ingest.sentry.io
 o238575.ingest.sentry.io
 o239071.ingest.sentry.io
 o239426.ingest.sentry.io
+o240024.ingest.sentry.io
 o241093.ingest.sentry.io
 o241366.ingest.sentry.io
 o241386.ingest.sentry.io
@@ -12341,6 +12433,7 @@ o405204.ingest.sentry.io
 o405346.ingest.sentry.io
 o405487.ingest.sentry.io
 o405765.ingest.sentry.io
+o406161.ingest.sentry.io
 o406206.ingest.sentry.io
 o407470.ingest.sentry.io
 o407766.ingest.sentry.io
@@ -12507,6 +12600,7 @@ o4504121944244225.ingest.sentry.io
 o4504129993506816.ingest.sentry.io
 o4504136533147648.ingest.sentry.io
 o4504138187472896.ingest.sentry.io
+o4504156929982464.ingest.sentry.io
 o4504157446799360.ingest.sentry.io
 o4504173156040704.ingest.sentry.io
 o4504175432302592.ingest.sentry.io
@@ -12596,6 +12690,8 @@ o468856.ingest.sentry.io
 o468996.ingest.sentry.io
 o470066.ingest.sentry.io
 o470266.ingest.sentry.io
+o470774.ingest.sentry.io
+o471163.ingest.sentry.io
 o471870.ingest.sentry.io
 o471901.ingest.sentry.io
 o471.ingest.sentry.io
@@ -12658,6 +12754,7 @@ o494432.ingest.sentry.io
 o494745.ingest.sentry.io
 o495423.ingest.sentry.io
 o497265.ingest.sentry.io
+o497354.ingest.sentry.io
 o497495.ingest.sentry.io
 o497639.ingest.sentry.io
 o498146.ingest.sentry.io
@@ -12742,6 +12839,7 @@ o530556.ingest.sentry.io
 o530822.ingest.sentry.io
 o531025.ingest.sentry.io
 o531045.ingest.sentry.io
+o531922.ingest.sentry.io
 o532596.ingest.sentry.io
 o534899.ingest.sentry.io
 o53683.ingest.sentry.io
@@ -12801,6 +12899,7 @@ o569702.ingest.sentry.io
 o569991.ingest.sentry.io
 o570182.ingest.sentry.io
 o570469.ingest.sentry.io
+o570739.ingest.sentry.io
 o570890.ingest.sentry.io
 o571127.ingest.sentry.io
 o571226.ingest.sentry.io
@@ -13058,6 +13157,7 @@ o927254.ingest.sentry.io
 o927579.ingest.sentry.io
 o92927.ingest.sentry.io
 o93004.ingest.sentry.io
+o93220.ingest.sentry.io
 o932732.ingest.sentry.io
 o933387.ingest.sentry.io
 o933651.ingest.sentry.io
@@ -13160,6 +13260,7 @@ oms-analytics.trafficmanager.net
 open-analytics.hrw.org
 open-tracker.demonoid.ch
 operate-sdk-telemetry.unity3d.com
+ops-analytics.maf.ae
 origin-analytics-prod.production.braintree-api.com
 origin-analytics-sand.sandbox.braintree-api.com
 origin-tracking-api.softwareadvice.com
@@ -13189,6 +13290,7 @@ pb-track.tnt-digital.com
 pcdn-tracker.baidu.com
 p-dany-analytics-1643478883.us-west-2.elb.amazonaws.com
 pendo-analytics.webrootanywhere.com
+people-analytics.maf.ae
 perso-api-tracking.front.vpgrp.net
 pf-analytic-new-elb-prod-546699349.us-east-1.elb.amazonaws.com
 pinpollanalytics-tracking.azurewebsites.net
@@ -13247,7 +13349,9 @@ product-analytics-bff.xero.com
 product-analytics-bff.xero.com.edgekey.net
 product-analytics.hioscar.com
 product-analytics.officient.io
+product-analytics-test.zalan.do
 product-analytics.votazz.co
+product-analytics.zalan.do
 production-analytics.caavo.com
 prod-uw2-telemetry-bucket.s3.us-west-2.amazonaws.com
 prod-uw2-telemetry-cs-bucket.s3.us-west-2.amazonaws.com
@@ -13291,6 +13395,7 @@ rpc.googlesyndication.com
 rtb-analytics.brand-display.com
 rtb-track.cidewalk.com
 rtg-tracker.inside-graph.com
+rtg-tracker.inside-graph.com.cdn.cloudflare.net
 rtm-tracking.zozo.jp
 rudder-tracking.rudderstack.com
 s3-analytics-events.easybrain.com
@@ -13394,6 +13499,7 @@ sentry.bambuser.com
 sentry.bankneo.co.id
 sentry.bark.us
 sentry.basalam.com
+sentry.bdcloud.ca
 sentry.betx.bet
 sentry.bfortress.com
 sentry.bigbox.com.ar
@@ -13446,6 +13552,7 @@ sentry.divar.cloud
 sentry.d.nexon.io
 sentry.dns-shop.ru
 sentry.dnull.xyz
+sentry.dolphin.casp.ru
 sentry.doseme.com.au
 sentry.douyucdn.cn
 sentry.dpaii.de
@@ -13663,6 +13770,7 @@ sentry.parler.com
 sentry.passport.pindrop.io
 sentry.paxful.com
 sentry.paylater.scredit.ph
+sentry.paysera.com
 sentry.paziresh24.com
 sentry.pegah.tech
 sentry.pekao.com.pl
@@ -13703,6 +13811,7 @@ sentry.rajman.org
 sentry.rakutenadvertising.io
 sentry.ramzinex.com
 sentry.razorpay.com
+sentry.readycloud.com
 sentry.recko.io
 sentry.rescale.com
 sentry.revolico.app
@@ -13774,12 +13883,14 @@ sentry.tf2.indeed.com
 sentry.thalia.de
 sentry.thevpncompany.net
 sentry.tidio.co
+sentry.tnex.com.vn
 sentry.tnt-premier.ru
 sentry.tools.dentalmind.ai
 sentry.tools.element.io
 sentry.torob.com
 sentry.totaljerkface.com
 sentry.touchchat.me
+sentry.tracking.public.prod.grupozap.io
 sentry.track.uz
 sentry.trainsplit.com
 sentry.trbna.com
@@ -13857,6 +13968,7 @@ sfpfeastus01-tracker.revenuegrid.com
 sg-tracker.appads.in
 sgw-analytics.panasonic.com
 shealth-analytics-api.samsunghealth.com
+shis-analytics-pdg4xwr.narscosmetics.com
 site-analytics.iop.ohio.gov
 smartsentry.io
 smart-track-api.structionsite.com
@@ -14636,6 +14748,7 @@ tch-app-tracking.kariba.ai
 tcp.googlesyndication.com
 tcs-analytics-tracker.now.sh
 tcs-analytics-tracker.vercel.app
+techmobile-track-impression.herokuapp.com
 techops-analytics.transperfect.com
 telemetry-1537681405.us-west-2.elb.amazonaws.com
 telemetry2.clearpathrobotics.com
@@ -14802,6 +14915,7 @@ telemetry-prd.vn.tesla.services
 telemetry.proctorcollect.com
 telemetry.proctorcollect.com.cdn.cloudflare.net
 telemetry-prod-1054754349.us-east-1.elb.amazonaws.com
+telemetry-production-0.mylio.com
 telemetry-proxy.gtm.roche.com
 telemetry.ps.im
 telemetry.ptc.com
@@ -14941,6 +15055,7 @@ track.adclickbyte.com
 track.adcocktail.com
 track.addevent.com
 track.adekstra.com
+track.adept.land
 track.adf.org.au
 track.adform.net
 track.adformnet.akadns.net
@@ -14960,6 +15075,7 @@ track.adsteer.com
 track.adthrive.com
 track.adtraction.com
 track.adtrue.com
+track.adu.click
 track.aduclick.club
 track.advlion.com
 track.ad.xiaomi.com
@@ -15040,6 +15156,7 @@ track.beanfun.com
 track.beeketing.com
 track.belisosmed.shop
 track.bentonow.com
+track.berlianads.com
 track.bestgames2018.net
 track.beyond-gadgets.com
 track.beyondmenu.com
@@ -15307,6 +15424,7 @@ tracker9.bol.bg
 tracker.9live.club
 tracker.a4.tf
 tracker.ab.amazon.dev
+tracker.acepta.com
 tracker.acg.gg
 tracker.acgnx.se
 tracker.adbinead.com
@@ -16050,6 +16168,7 @@ track.git.p-track-cgi-vpngit-elite.0-1b-graphite.dev-go.ubnt.com
 track.gliq.com
 track.globalrtb.com
 track.glovoapp.com
+track.gmz.today
 track.go2affs.com
 track.go2aluna.co
 track.go.comres.emerson.com
@@ -16170,6 +16289,7 @@ tracking.activitystream.com
 tracking.act-news.com
 tracking.adalyser.com
 tracking.adbeatuy.com
+tracking.ad-brix.com
 tracking.adclickup.com
 tracking.addotline.com
 tracking.adikteev.com
@@ -16208,11 +16328,13 @@ tracking.allianz-vorteilsprogramm.de
 tracking.americaneagle.com
 tracking.amolatina.com
 tracking.a-mo.net
+tracking-amp.vnexpress.net
 tracking.anastasiadate.com
 tracking.andertons.co.uk
 tracking.ansarada.com
 tracking.anytrck.com
 tracking.ao.com
+tracking.apfbgif.com
 tracking-api00.softwareadvice.com
 tracking-api01.softwareadvice.com
 tracking-api02.softwareadvice.com
@@ -16378,6 +16500,7 @@ tracking.buyhatke.com
 tracking.bv.com
 tracking.caanalytics.com
 tracking.callmeasurement.com
+tracking.caltex.com.au
 tracking.capital-grn.com
 tracking.cappex.com
 tracking.cardioclear7-at.com
@@ -16513,6 +16636,7 @@ tracking.evergy.com
 tracking.ewmagazine.nl
 tracking.exactrak.co.uk
 tracking.examfx.com
+tracking.executivesontheweb.com
 tracking.experiencescottsdale.com
 tracking.explorepulse.com
 tracking.expressone.hu
@@ -16773,6 +16897,7 @@ tracking.netsuite.com
 tracking.news.aso.fr
 tracking.newshub.co.uk
 tracking.newsletter.on3.com
+tracking.newsmaxfeednetwork.com
 tracking.newsweaver.com
 tracking.nextdoor.com
 tracking.nexxustrk.pro
@@ -16783,6 +16908,7 @@ tracking.noon.com
 tracking.norah.eu
 tracking.novabeyond.com
 tracking.novaposhta.ua
+tracking.novaposta.md
 tracking.ntk-institute.org
 tracking.nw.de
 tracking.octoprint.org
@@ -16862,6 +16988,7 @@ tracking.psychcongress.com
 tracking.ptc.com
 tracking.pubearn.com
 tracking.publicidees.com
+tracking.public.prod.grupozap.io
 tracking.purchasely.io
 tracking.pushcrew.com
 tracking.pushmine.com
@@ -16898,6 +17025,7 @@ tracking.rivet.works
 tracking.roadie.com
 tracking.rosettastone.com
 tracking.rosettastone.com.cdn.cloudflare.net
+tracking.rotator.monster
 tracking.rotogrinders.com
 tracking.roundtablepizza.com
 tracking.route.com
@@ -17222,11 +17350,15 @@ track.mail11.creditkarma.com
 track.mail12.creditkarma.com
 track.mail13.creditkarma.com
 track.mail14.creditkarma.com
+track.mail17.creditkarma.com
 track.mail19.creditkarma.com
 track.mail1.creditkarma.com
 track.mail20.creditkarma.com
+track.mail2.creditkarma.com
+track.mail5.creditkarma.com
 track.mail6.creditkarma.com
 track.mail7.creditkarma.com
+track.mail8.creditkarma.com
 track.mail9.creditkarma.com
 track.mailerlite.com
 track.mailing.auctiontime.com
@@ -17375,6 +17507,7 @@ track.palmettostatearmory.com
 track.pandadoc.com
 track.pantools.co.uk
 track.parentmood.com
+track.parents.com
 track.passportshipping.com
 track.pasts.lv
 track.patmcgrath.com
@@ -17643,6 +17776,7 @@ track.today.dailyhistoryinsights.com
 track.todaysjobpicks.com
 track.toggl.com
 track.toms.com
+track.toptradingspot.com
 track.totalav.com
 track.totoroadx.com
 track.touchpointcorp.com
@@ -17709,6 +17843,7 @@ track.venatusmedia.com
 track.video-closed.com
 track.viewdeos.com
 track.vio.edu.vn
+track.violetlovelines.com
 track.virtuemap.com
 track.visualchase.com
 track.vivaclix.com
@@ -17792,6 +17927,8 @@ uk-tracking.nextdoor.com
 ulb-track-pool.ucloud.xiachufang.com
 undefined.fls.doubleclick.net
 upgp-bi-tracking.upgradedpoints.workers.dev
+upn-analytics.uc.r.appspot.com
+upwork-usw2-prod-agora-tracker.s3.us-west-2.amazonaws.com
 us01-analytics.iqwebbook.com
 us2-track.inside-graph.com
 us2-track.inside-graph.com.cdn.cloudflare.net

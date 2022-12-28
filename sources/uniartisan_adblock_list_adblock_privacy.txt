@@ -1935,6 +1935,7 @@ ac.ecai-report.com
 acelogger.heraldcorp.com
 acemetrics.aaa.com
 ace.naver.com
+a.centrum.cz
 achieverknee.com
 acidpigs.com
 ac.japannetbank.co.jp
@@ -5328,6 +5329,7 @@ choose.nu.edu
 christian.lifeway.com
 christians.lifeway.com
 ch.sharpmarketing.eu
+chubbycreature.com
 chunkycactus.com
 churro.noteapps.info
 cib.currency.lloydsbank.com
@@ -5411,7 +5413,6 @@ click.dice.com
 click.dracking.com
 click.drizly.com
 click.e.affirm.com
-click.e.change.org
 clicked.ebates.com
 click.email.chope.co
 click.email.houndapp.com
@@ -9042,6 +9043,7 @@ dotserver.douyucdn.cn
 dot-stat.radikal.ru
 dot.texastribune.org
 dot.wp.pl
+doubtdrawer.com
 doubtfulrainstorm.com
 doug1izaerwt3.cloudfront.net
 dove.fullcalendar.io
@@ -12436,6 +12438,7 @@ i.pokernews.com
 ip.pichunter.com
 ip.prvtx.net
 ipummv.pharao24.de
+ip.up66.ru
 ipyjxs.chowsangsang.com
 iq.intellicyt.com
 iqjwrk.crocodile.co.jp
@@ -14556,6 +14559,7 @@ meremark.com
 meridianbanker.actonservice.com
 meriwest.actonservice.com
 merkur.met.vgwort.de
+mer.stdout.cz
 meryjanechile.rdtrke.com
 message.alldata.com
 message-hub-svc.usw2.cordial.com
@@ -26538,6 +26542,7 @@ tr.courrier.sudouest.fr
 trc.pushnami.com
 tr.credito.universo.pt
 tr.crtl.espmp-aufr.net
+tr.c-tag.net
 tr.cyprusparadiseestates.com
 tr.datanyze.com
 tr.datatrics.com

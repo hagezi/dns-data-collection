@@ -1,4 +1,3 @@
-1337x.to
 psl.2cycomic.com
 2o7.net
 3r1kwxcd.top
@@ -157,7 +156,6 @@ google-analytics.com
 ajax.googleapis.com
 imasdk.googleapis.com
 googletagmanager.com
-googleusercontent.com
 googlevideo.com
 cdn.gotraffic.net
 mpsconline.gov.in
