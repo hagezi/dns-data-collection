@@ -32,8 +32,6 @@ v10-win.vortex.data.microsoft.com.akadns.net
 albacross.com
 alipromo.com
 alitems.com
-aax-eu-dub.amazon.com
-rcm-images.amazon.com
 amazon-adsystem.com
 kinesis.ap-southeast-1.amazonaws.com
 kinesis.eu-west-1.amazonaws.com
@@ -346,7 +344,6 @@ tagcommander.com
 talentwunder.com
 targetspot.com
 tbdress.com
-telegra.ph
 tg.pe
 et.tidal.com
 uim.tifbs.net

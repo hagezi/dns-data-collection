@@ -397,6 +397,7 @@ aareal.com
 aarsen.me
 aave.com
 aax-eu.amazon.ae
+aax-eu.amazon.com
 aax-eu.amazon.com.tr
 aax-eu.amazon.co.uk
 aax-eu.amazon.de
@@ -408,8 +409,10 @@ aax-eu.amazon.nl
 aax-eu.amazon.sa
 aax-eu.amazon.se
 aax-fe.amazon.co.jp
+aax-fe.amazon.com
 aax-fe.amazon.com.au
 aax-fe.amazon.sg
+aax-*-retail-direct.amazon-adsystem.com
 aax-*-retail-direct.amazon.com
 aax-us-iad.amazon.com
 ab13.mktossl.com
@@ -1315,6 +1318,7 @@ alxinger-bank.de
 amanabank.lk
 amarkcdn.com
 amateurseite.com
+amazon-adsystem.com
 amazon.ae
 amazonaws.com
 amazon.ca
@@ -6298,6 +6302,7 @@ graph.accountkit.com
 *graph.facebook.com
 graph.facebook.com
 graph.facebook.net
+*graph.fbpigeon.com
 graph.fbpigeon.com
 *graph.instagram.com
 graph.instagram.com
@@ -8531,6 +8536,7 @@ main.podigee-cdn.net
 main.qcloudimg.com
 main.shop-next.prod-ec1.foodspring.com
 majesticseo.com
+majorgeeks.com
 make.my
 makeuseoflimited.netdna-cdn.com
 mamba.ru
@@ -8630,7 +8636,6 @@ mastodon.top
 mastodontti.fi
 mastodon.uno
 mastodon.world
-mastodon.zaclys.com
 masto.es
 masto.nu
 masto.pt
@@ -13095,6 +13100,7 @@ stabila.com
 stackblitz.com
 stackoverflow.com
 stackpath.bootstrapcdn.com
+stacksocial.com
 stadt-bremerhaven.de
 stadtsparkasse-barsinghausen.de
 stadtsparkasse-bocholt.de
@@ -13956,6 +13962,7 @@ tock.usno.navy.mil
 today.com
 todoistcdn.com
 todo.microsoft.com
+todon.eu
 tohle.de
 toi.in
 tokcounter.com
@@ -16364,6 +16371,7 @@ www.alxinger-bank.de
 www.amanabank.lk
 www.amarkcdn.com
 www.amateurseite.com
+www.amazon-adsystem.com
 www.amazon.ae
 www.amazonaws.com
 www.amazon.ca
@@ -20542,6 +20550,7 @@ www.maimai.cn
 www.maineemploymentlawyerblog.com
 www.maine.gov
 www.majesticseo.com
+www.majorgeeks.com
 www.make.my
 www.mamba.ru
 www.ma.my
@@ -23582,6 +23591,7 @@ www.ssur.cc
 www.stabila.com
 www.stackblitz.com
 www.stackoverflow.com
+www.stacksocial.com
 www.stadt-bremerhaven.de
 www.stadtsparkasse-barsinghausen.de
 www.stadtsparkasse-bocholt.de
@@ -24052,6 +24062,7 @@ www.to8.cc
 www.tochka.com
 www.today.com
 www.todoistcdn.com
+www.todon.eu
 www.tohle.de
 www.toi.in
 www.tokcounter.com
@@ -25420,7 +25431,6 @@ www.yyv.co
 www.z23.ru
 www.z9.fr
 www.zaba.hr
-www.zaclys.com
 www.zaim.com
 www.zaloapp.com
 www.zalo.me
@@ -25749,7 +25759,6 @@ yyv.co
 z23.ru
 z9.fr
 zaba.hr
-zaclys.com
 zaim.com
 zakupki.gov.ru
 zaloapp.com

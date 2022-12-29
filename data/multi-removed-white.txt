@@ -71,9 +71,6 @@ statics-marketingsites-eus-ms-com.akamaized.net
 statics-marketingsites-neu-ms-com.akamaized.net
 amateurseite.com
 www.amateurseite.com
-aax-eu-dub.amazon.com
-rcm-de.amazon.de
-rcm-images.amazon.com
 ws-na.amazon-adsystem.com
 analytics.amplitude.com
 appconsent.io

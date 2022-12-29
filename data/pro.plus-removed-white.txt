@@ -180,6 +180,7 @@ www.amateurseite.com
 aan.amazon.com
 aax-us-iad.amazon.com
 fls-na.amazon.com
+amazon-adsystem.com
 kinesis.ap-southeast-1.amazonaws.com
 kinesis.eu-west-1.amazonaws.com
 explore.amd.com
@@ -336,7 +337,6 @@ player.avplayer.com
 aweber.com
 www.aweber.com
 awin1.com
-web.diagnostic.networking.aws.dev
 monitor.azure.com
 js.monitor.azure.com
 excel-telemetry.wac.trafficmanager.net.b-0016.b-dc-msedge.net.b-0016.b-msedge.net
@@ -499,7 +499,6 @@ d291vdycu0ht11.cloudfront.net
 d2c8v52ll5s99u.cloudfront.net
 d2zah9y47r7bi2.cloudfront.net
 djtflbt20bdde.cloudfront.net
-dxz5jxhrrzigf.cloudfront.net
 cloudns.cl
 cmail20.com
 cmswrexham.com
@@ -1159,7 +1158,6 @@ lbtinc.com
 le.com
 www.le.com
 my.leadpages.net
-metrics.lidl.com
 lightboxcdn.com
 www.lightboxcdn.com
 lightstep.com
@@ -2858,7 +2856,6 @@ technical-service.net
 te.technical-service.net
 www.technical-service.net
 technorati.com
-telegra.ph
 test-iq.org
 www.test-iq.org
 tg.pe

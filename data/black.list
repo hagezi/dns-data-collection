@@ -1,5 +1,3 @@
-metrics-a.wbx2.com
-
 # amazon device metrics
 d3p8zr0ffa9t17.cloudfront.net
 device-metrics-us-2.amazon.com
@@ -11,6 +9,78 @@ web.diagnostic.networking.aws.dev
 aviary.amazon.co.jp
 aviary.amazon.com
 aviary.amazon.de
+
+# amazon shopping
+assoc-amazon.ca
+assoc-amazon.co.uk
+assoc-amazon.com
+assoc-amazon.de
+assoc-amazon.es
+assoc-amazon.fr
+assoc-amazon.it
+assoc-amazon.jp
+amazon-adsystem.com
+fls-cn.amazon.cn
+fls-eu.amazon-adsystem.com
+fls-eu.amazon.ae
+fls-eu.amazon.ca
+fls-eu.amazon.co.uk
+fls-eu.amazon.com
+fls-eu.amazon.com.be
+fls-eu.amazon.com.tr
+fls-eu.amazon.de
+fls-eu.amazon.eg
+fls-eu.amazon.es
+fls-eu.amazon.fr
+fls-eu.amazon.in
+fls-eu.amazon.it
+fls-eu.amazon.nl
+fls-eu.amazon.pl
+fls-eu.amazon.sa
+fls-eu.amazon.se
+fls-fe-opf.amazon.com
+fls-fe.amazon-adsystem.com
+fls-fe.amazon.co.jp
+fls-fe.amazon.com
+fls-fe.amazon.com.au
+fls-fe.amazon.sg
+fls-na.amazon-adsystem.com
+fls-na.amazon.ca
+fls-na.amazon.com
+fls-na.amazon.com.br
+fls-na.amazon.com.mx
+unagi-eu.amazon.com
+unagi-fe.amazon.com
+unagi-na.amazon.com
+unagi.amazon.ae
+unagi.amazon.ca
+unagi.amazon.cn
+unagi.amazon.co.jp
+unagi.amazon.co.uk
+unagi.amazon.com
+unagi.amazon.com.au
+unagi.amazon.com.be
+unagi.amazon.com.br
+unagi.amazon.com.mx
+unagi.amazon.com.tr
+unagi.amazon.de
+unagi.amazon.eg
+unagi.amazon.es
+unagi.amazon.fr
+unagi.amazon.in
+unagi.amazon.it
+unagi.amazon.nl
+unagi.amazon.pl
+unagi.amazon.sa
+unagi.amazon.se
+unagi.amazon.sg
+
+rcm-na.amazon-adsystem.com
+rcm-eu.amazon-adsystem.com
+rcm-na.assoc-amazon.com
+rcm-eu.assoc-amazon.com
+rcm-fe.amazon-adsystem.com
+rcm.amazon.com
 
 # amazon prime video telemetry
 eu-central-1.new-telemetry.insights.video.a2z.com
@@ -494,7 +564,7 @@ metrics.fitanalytics.com
 metrics.fressnapf.de
 metrics.ionos.de
 metrics.jameda.de
-metrics.lidl.com
+#W metrics.lidl.com
 metrics.media-amazon.com
 metrics.n-tv.de
 metrics.rewe.de
@@ -565,7 +635,6 @@ t.aboutyou.de
 t.ba-content.de
 t.baur.de
 t.cometlytrack.com
-t.eloqua.com
 t.ihre.dkb.de
 t.infocomms.wowtv.de
 t.ionos.de
@@ -631,7 +700,6 @@ track.wackojaco.com
 tracker.bannerflow.com
 tracker.blazing.de
 tracker.ccc.de
-tracker.debiantestserver.de
 tracker.einfachbacken.de
 tracker.ihk-muenchen.de
 tracker.personizely.net
@@ -692,12 +760,6 @@ rlcdn.com
 criteo.com
 audit-tcfv2.cmp.quantcast.com
 
-#? try.abtasty.com
-#? mobileapps.stroeerdp.de
-#? stroeerdp.de
-#? email-renderer-frontend.track.aws.sevensenders.com
-#? trx.dgtrk2.com
-
 hpanalytics.net
 ganalytics.live
 gtrack.juststarz.com
@@ -709,7 +771,6 @@ statistiek.mijn.overheid.nl
 beacon.tracify.ai
 scripting.tracify.ai
 tracify.ai
-crazyegg.com
 script.crazyegg.com
 adbr.io
 adyield.co
@@ -733,15 +794,11 @@ vg01-met-vgwort-de.cdn.ampproject.org
 vg05-met-vgwort-de.cdn.ampproject.org
 vg08-met-vgwort-de.cdn.ampproject.org
 
-#? tracklinkstop1.com
-
 tt.omtrdc.net
 hb.omtrdc.net
 ws-eu.pusher.com
 
 analytics.oneplus.cn
-
-s-bid.rmp.rakuten.com
 
 rewedigital.sc.omtrdc.net
 
@@ -1026,7 +1083,6 @@ avoidanudaic.xyz
 effeshumoury.xyz
 mikhainpretts.xyz
 naleapprength.xyz
-naleapprength.xyz
 parrecleftne.xyz
 pogothere.xyz
 roddinmucial.xyz
@@ -1043,7 +1099,6 @@ tracking.contanuity.com
 thebrightforks.com
 spoon.thebrightforks.com
 knive.thebrightforks.com
-chatwhatsapp.me
 
 wcs.naver.net
 ris.res-x.com
@@ -1054,7 +1109,6 @@ te.ip-prod.aws-cbc.cloud
 try-cloudfront.abtasty.com
 try.abtasty.com
 
-wipe.de
 wwa.wipe.de
 wpt.wipe.de
 tb.wwa.wipe.de
@@ -1069,7 +1123,6 @@ analytics.byupw.org
 analytics.validitylabs.org
 
 subscribe-notifications.com
-dmdi.pl
 pixel.ipinfo.io
 analytics.pdf24.org
 
@@ -1086,13 +1139,7 @@ device.marketingcloudapis.com
 
 in.appcenter.ms
 api.loganalytics.io
-crashlyticsreports-pa.googleapis.com
-e.crashlytics.com
-settings.crashlytics.com
-sessions.bugsnag.com
-notify.bugsnag.com
 crashlytics2.l.google.com
-crashlyticsreports-pa.googleapis.com
 bugly.qcloud.com
 events.split.io
 apptrace.com
@@ -1103,5 +1150,3 @@ cdn.signalfx.com
 sny.monosnap.com
 sentry.vieon.vn
 events.backtrace.io
-
-amazon-adsystem.com

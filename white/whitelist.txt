@@ -32,6 +32,26 @@ web.diagnostic.networking.aws.dev
 # https://github.com/Perflyst/PiHoleBlocklist/issues/138
 mas-ext.amazon.com
 
+# Amazon Shopping (in-app links)
+aax-*-retail-direct.amazon-adsystem.com
+aax-*-retail-direct.amazon.com
+aax-eu.amazon.ae
+aax-eu.amazon.co.uk
+aax-eu.amazon.com
+aax-eu.amazon.com.tr
+aax-eu.amazon.de
+aax-eu.amazon.es
+aax-eu.amazon.fr
+aax-eu.amazon.in
+aax-eu.amazon.it
+aax-eu.amazon.nl
+aax-eu.amazon.sa
+aax-eu.amazon.se
+aax-fe.amazon.co.jp
+aax-fe.amazon.com
+aax-fe.amazon.com.au
+aax-fe.amazon.sg
+
 # Amazon Video
 *.aiv-cdn.net
 *.aiv-cdn.net.c.footprint.net
@@ -134,6 +154,7 @@ ns2.dropbox.com
 # Facebook
 *graph-video.facebook.com
 *graph.facebook.com
+*graph.fbpigeon.com
 *graph.instagram.com
 api.facebook.com
 chat-*.facebook.com
@@ -2170,4 +2191,10 @@ imore.com
 
 # https://github.com/notracking/hosts-blocklists/issues/827
 telegra.ph
+
+# https://github.com/hagezi/dns-blocklists/issues/132
+majorgeeks.com
+
+# https://github.com/hagezi/dns-blocklists/issues/133
+stacksocial.com
 

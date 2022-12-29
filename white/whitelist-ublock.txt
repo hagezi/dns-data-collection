@@ -248,6 +248,7 @@ otaserve.net
 outbrain.com
 data.over-blog-kiwi.com
 pagefair.com
+parsely.com
 hawk.pcgamer.com
 pch.com
 pega.com

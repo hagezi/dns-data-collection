@@ -64,6 +64,7 @@ allawnos.com
 component-ota-in.allawnos.com
 component-ota-sg.allawnos.com
 ota-recruit-sg.allawnos.com
+amazon-adsystem.com
 kinesis.ap-southeast-1.amazonaws.com
 kinesis.eu-west-1.amazonaws.com
 aniview.com
@@ -198,6 +199,7 @@ geoim.bloomberght.com
 bluebillywig.com
 vms.bluebillywig.com
 bom.so
+www.bom.so
 amp-api-prd.bostonglobe.com
 brid.tv
 p.brid.tv
@@ -297,6 +299,7 @@ digidip.net
 dealabs.digidip.net
 dm-event.net
 dmdi.pl
+www.dmdi.pl
 doublepimp.com
 phn.doublepimp.com
 engine.phn.doublepimp.com
@@ -305,6 +308,8 @@ drift.com
 api.drift.com
 bootstrap.api.drift.com
 embed.dugout.com
+dynamicyield.com
+cdn-eu.dynamicyield.com
 analytics.edgekey.net
 79423.analytics.edgekey.net
 audio-ake.spotify.com.edgesuite.net
@@ -925,13 +930,17 @@ switchy.io
 systeme.io
 t2m.io
 player.tabooporns.com
+tagcommander.com
+cdn.tagcommander.com
 talentwunder.com
 tantanapp.com
 audid-api.taobao.com
 tarafdari.com
 www.tarafdari.com
 tagm.tchibo.de
-telegra.ph
+technical-service.net
+te.technical-service.net
+www.technical-service.net
 tg.pe
 www.tg.pe
 go.theregister.com
