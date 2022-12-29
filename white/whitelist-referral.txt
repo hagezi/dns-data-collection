@@ -20,9 +20,17 @@ bs.eyeblaster.akadns.net
 goto.algolia.com
 s.click.aliexpress.com
 aax-*-retail-direct.amazon.com
-amazon-adsystem.amazon.com
+aax-eu.amazon.ae
+aax-eu.amazon.de
+aax-eu.amazon.es
+aax-eu.amazon.fr
+aax-eu.amazon.in
+aax-eu.amazon.it
+aax-eu.amazon.nl
+aax-eu.amazon.sa
+aax-eu.amazon.se
+aax-fe.amazon.sg
 assoc-redirect.amazon.com
-amazon-adsystem.com
 aax-*-retail-direct.amazon-adsystem.com
 click.member.americanexpress.com
 anrdoezrs.net
@@ -64,6 +72,8 @@ cj.com
 clck.ru
 monitor.clickcease.com
 readdle.cmail20.com
+aax-eu.amazon.co.uk
+aax-fe.amazon.co.jp
 adservice.google.co.ao
 adservice.google.co.bw
 adservice.google.co.ck
@@ -90,6 +100,8 @@ adservice.google.co.za
 adservice.google.co.zm
 adservice.google.co.zw
 k.cocooncenter.com
+aax-eu.amazon.com.tr
+aax-fe.amazon.com.au
 adservice.google.com.af
 adservice.google.com.ag
 adservice.google.com.ai
@@ -488,6 +500,7 @@ prf.hn
 track.productsup.io
 click.pstmrk.it
 tracking.publicidees.com
+pxf.io
 the-home-depot-ca.pxf.io
 qksrv.net
 syndication.realsrv.com

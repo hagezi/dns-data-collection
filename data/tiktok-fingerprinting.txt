@@ -2,6 +2,7 @@ ads-frontier.tiktok.com
 analytics-attribution.tiktok.com
 analytics-attribution-va.tiktok.com
 analytics-exp-sg.tiktok.com
+analytics-exp.us.tiktok.com
 analytics-sg.tiktok.com
 analytics-test.tiktok.com
 analytics.tiktok.com

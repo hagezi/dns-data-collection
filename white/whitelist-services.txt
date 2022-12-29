@@ -202,6 +202,7 @@ mastodonners.nl
 mastodont.cat
 mastodontech.de
 mastodontti.fi
+mastouille.fr
 mathstodon.xyz
 media-amazon.com
 messenger.com
@@ -225,11 +226,11 @@ nflxext.com
 nflximg.net
 nflxso.net
 nflxvideo.net
-masto.nobigtech.es
 noc.social
 norden.social
 nrw.social
 o3o.ca
+ohai.social
 ok.ru
 one.one
 origin.com
@@ -293,7 +294,6 @@ tiktokv.com
 tinder.com
 tindersparks.com
 tkz.one
-todon.eu
 toot.community
 toot.io
 toot.wales

@@ -32,59 +32,6 @@ web.diagnostic.networking.aws.dev
 # https://github.com/Perflyst/PiHoleBlocklist/issues/138
 mas-ext.amazon.com
 
-# Amazon Shopping
-*.images-amazon.com
-aax*.amazon-adsystem.com
-aax*.amazon.co.uk
-aax*.amazon.com
-aax*.amazon.com.be
-aax*.amazon.de
-aax*.amazon.es
-aax*.amazon.fr
-aax*.amazon.in
-aax*.amazon.it
-c.amazon-adsystem.com
-dp-gw-*.amazon.com
-fls-*.amazon-adsystem.com
-fls-*.amazon.ae
-fls-*.amazon.ca
-fls-*.amazon.cn
-fls-*.amazon.co.jp
-fls-*.amazon.co.uk
-fls-*.amazon.com
-fls-*.amazon.com.au
-fls-*.amazon.com.be
-fls-*.amazon.com.br
-fls-*.amazon.com.mx
-fls-*.amazon.de
-fls-*.amazon.es
-fls-*.amazon.fr
-fls-*.amazon.in
-fls-*.amazon.it
-fls-*.amazon.nl
-fls-*.amazon.sa
-fls-*.amazon.se
-fls-*.amazon.sg
-rcm-*.amazon.com
-rcm-*.amazon.de
-unagi-*.amazon.com
-unagi.amazon.cn
-unagi.amazon.co.jp
-unagi.amazon.co.uk
-unagi.amazon.com
-unagi.amazon.com.au
-unagi.amazon.com.be
-unagi.amazon.com.br
-unagi.amazon.de
-unagi.amazon.es
-unagi.amazon.fr
-unagi.amazon.in
-unagi.amazon.it
-# CNAME fls-*.amazon.com
-*.forester.a2z.com
-# gateway.prod.*.forester.a2z.com
-# endpoint.prod.*.forester.a2z.com
-
 # Amazon Video
 *.aiv-cdn.net
 *.aiv-cdn.net.c.footprint.net

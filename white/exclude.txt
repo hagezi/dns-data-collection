@@ -396,16 +396,20 @@ aareal-bank.com
 aareal.com
 aarsen.me
 aave.com
-aax*.amazon-adsystem.com
-aax*.amazon.com
-aax*.amazon.com.be
-aax*.amazon.co.uk
-aax*.amazon.de
-aax*.amazon.es
-aax*.amazon.fr
-aax*.amazon.in
-aax*.amazon.it
-aax-*-retail-direct.amazon-adsystem.com
+aax-eu.amazon.ae
+aax-eu.amazon.com.tr
+aax-eu.amazon.co.uk
+aax-eu.amazon.de
+aax-eu.amazon.es
+aax-eu.amazon.fr
+aax-eu.amazon.in
+aax-eu.amazon.it
+aax-eu.amazon.nl
+aax-eu.amazon.sa
+aax-eu.amazon.se
+aax-fe.amazon.co.jp
+aax-fe.amazon.com.au
+aax-fe.amazon.sg
 aax-*-retail-direct.amazon.com
 aax-us-iad.amazon.com
 ab13.mktossl.com
@@ -1311,10 +1315,6 @@ alxinger-bank.de
 amanabank.lk
 amarkcdn.com
 amateurseite.com
-*.amazon-adsystem.amazon.com
-amazon-adsystem.amazon.com
-*.amazon-adsystem.com
-amazon-adsystem.com
 amazon.ae
 amazonaws.com
 amazon.ca
@@ -1336,6 +1336,9 @@ amazon.nl
 amazonpay.com
 amazonpay.in
 amazon.pool.ntp.org
+amazon.sa
+amazon.se
+amazon.sg
 amazontrust.com
 *.amazonvideo.com
 ambank.amonline.com.my
@@ -2457,6 +2460,7 @@ blap.net
 blazefast.co
 blazingcdn.net
 blbrd.cm
+blck.by
 bldrdoc.gov
 ble.pl
 b.link
@@ -2843,7 +2847,6 @@ calyxinstitute.org
 calyxos.org
 cam4.es
 cam.ac.uk
-c.amazon-adsystem.com
 cambridge.org
 camelcamelcamel.com
 camera.lei001.com
@@ -4038,6 +4041,7 @@ cutt.ly
 cutt.us
 cutu.me
 cutx.org
+cvent.me
 cvs.com
 cvw-privatbank-ag.de
 c.worldfcdn2.com
@@ -4514,7 +4518,6 @@ download.winzip.com
 dpbolvw.net
 dpd.co.uk
 dpd.de
-dp-gw-*.amazon.com
 dpiui.reedlan.com
 dpm.demdex.net
 dp.ua
@@ -4815,6 +4818,7 @@ efbank.ru
 efectivo.bnc.com.ve
 effiliation.com
 eff.org
+efshop.tw
 e.ggtimer.com
 egmnow.com
 egolomt.mn
@@ -5459,26 +5463,6 @@ flowbox.io
 flowgram.com
 flowplayer.com
 flq.us
-fls-*.amazon-adsystem.com
-fls-*.amazon.ae
-fls-*.amazon.ca
-fls-*.amazon.cn
-fls-*.amazon.co.jp
-fls-*.amazon.com
-fls-*.amazon.com.au
-fls-*.amazon.com.be
-fls-*.amazon.com.br
-fls-*.amazon.com.mx
-fls-*.amazon.co.uk
-fls-*.amazon.de
-fls-*.amazon.es
-fls-*.amazon.fr
-fls-*.amazon.in
-fls-*.amazon.it
-fls-*.amazon.nl
-fls-*.amazon.sa
-fls-*.amazon.se
-fls-*.amazon.sg
 fls-na.amazon.com
 flutterawesome.com
 flutterflow.io
@@ -5527,7 +5511,6 @@ forbank.ru
 forbes.com
 force.com
 foreignpolicy.com
-*.forester.a2z.com
 foreverpirates.co
 forever.publictracker.xyz
 forever-tracker.zooki.xyz
@@ -6264,6 +6247,7 @@ go.shr.lc
 gosi.go.kr
 *.go.skimresources.com
 go.skimresources.com
+go.sony.tw
 gosuslugi.ru
 got.cr
 go.theregister.com
@@ -6337,7 +6321,6 @@ grepler.com
 gresille.org
 *.gr-go.kelkoogroup.net
 gr-go.kelkoogroup.net
-grhb.me
 grifon.info
 grindr.mobi
 grisbank.ru
@@ -6539,6 +6522,7 @@ hembanken2.danskebank.se
 henbt.com
 he.net
 here.com
+herff.ly
 her.is
 hermsdorfer-kreuz.de
 herner-sparkasse.de
@@ -7206,7 +7190,6 @@ images2.minutemediacdn.com
 images2-qnmotori.gazzettaobjects.it
 images4-g.ravelrycache.com
 imagesak.secureserver.net
-*.images-amazon.com
 images-amazon.com
 images.cdn.scarabresearch.com
 images.dmca.com
@@ -8083,6 +8066,7 @@ lastfm-img2.akamaized.net
 lastmenonearth.com
 lastpass.com
 latimes.com
+lativ.tw
 lat.ms
 launchdarkly.com
 lavanguardia.com
@@ -8142,6 +8126,7 @@ letop10.
 letpo.com
 letsdecentralize.org
 letsencrypt.org
+letsharu.cc
 letterboxd.com
 letyshops.com
 leumi.ro
@@ -8647,9 +8632,9 @@ mastodon.uno
 mastodon.world
 mastodon.zaclys.com
 masto.es
-masto.nobigtech.es
 masto.nu
 masto.pt
+mastouille.fr
 mathinsight.org
 mathsolver.microsoft.com
 mathstodon.xyz
@@ -9483,6 +9468,7 @@ nflxext.com
 *.nflximg.com
 *.nflximg.net
 nflximg.net
+nflx.it
 *.nflxso.net
 nflxso.net
 *.nflxvideo.net
@@ -9547,7 +9533,6 @@ nn.de
 nnmstatic.win
 noaa.gov
 nobaeg.de
-nobigtech.es
 nobledesktop.com
 noc.social
 *.no-go.kelkoogroup.net
@@ -9842,6 +9827,7 @@ ogdownloaderapk.com
 ogone.com
 ogs.google.com
 ogury.io
+ohai.social
 ohga.it
 ohio.gov
 oi.bankia.es
@@ -11004,12 +10990,14 @@ publisher.liveperson.net
 publishers.adsterra.com
 publitas.com
 pubtech.ai
+puext.in
 puffyan.us
 pulsar.ebay.com
 pulsbank.ru
 pulsembed.eu
 pumb.ua
 purch.com
+purdue.university
 purechat.com
 puresynergy.com
 puri.na
@@ -11040,6 +11028,7 @@ pvu.nets.no
 pw2.ro
 px.a8.net
 *.px-cloud.net
+*.pxf.io
 pxf.io
 pximg.net
 pxlme.me
@@ -11471,8 +11460,6 @@ rcbconline-corporate.com
 rccf.ua
 rch.lt
 rcknr.io
-rcm-*.amazon.com
-rcm-*.amazon.de
 rcollard.com
 rcsobjects.it
 rd2szde.bizrate.com
@@ -11871,6 +11858,7 @@ s3.eu-central-1.amazonaws.com
 s3-eu-west-1.amazonaws.com
 s3.symcb.com
 s3.us-west-1.wasabisys.com
+s3vip.tw
 s3.xemovie.com
 s4.exacttarget.com
 s4.symcb.com
@@ -12428,6 +12416,8 @@ sincere.ly
 singleparentmeet.com
 sinopac.com
 sinourl.tw
+sinyi.biz
+sinyi.in
 sirena-travel.ru
 sistemabank.ru
 sistemagorod.ru
@@ -12655,6 +12645,7 @@ sonyentertainmentnetwork.com
 *.sonyjpnpsg-1.hs.llnwd.net
 sony.net
 sony.tv
+sony.tw
 soo.gd
 sophos.com
 sophosxl.net
@@ -13363,6 +13354,7 @@ sumy.ua
 suncalc.org
 suncorpbank.com.au
 suncorp.com.au
+s.uniqlo.com
 sunnybank.com.tw
 suntimes.com
 suo.im
@@ -13933,6 +13925,7 @@ tlu.dl.delivery.mp.microsoft.com
 t.ly
 tmall.com
 tmbdirect.com
+tmblr.co
 t.me
 tmearn.com
 *.tmetrix.my.chick-fil-a.com
@@ -13963,7 +13956,6 @@ tock.usno.navy.mil
 today.com
 todoistcdn.com
 todo.microsoft.com
-todon.eu
 tohle.de
 toi.in
 tokcounter.com
@@ -14635,19 +14627,6 @@ umich.edu
 ummz.umich.edu
 umn.edu
 umweltbank.de
-unagi.amazon.cn
-unagi.amazon.co.jp
-unagi-*.amazon.com
-unagi.amazon.com
-unagi.amazon.com.au
-unagi.amazon.com.be
-unagi.amazon.com.br
-unagi.amazon.co.uk
-unagi.amazon.de
-unagi.amazon.es
-unagi.amazon.fr
-unagi.amazon.in
-unagi.amazon.it
 unam.mx
 unblockit.bet
 unc.edu
@@ -14678,6 +14657,7 @@ unionbankph.com
 union-investment.de
 union.place
 unipapa.co
+uniqlo.com
 unison24.com.ua
 unistream.ru
 unit193.net
@@ -16384,7 +16364,6 @@ www.alxinger-bank.de
 www.amanabank.lk
 www.amarkcdn.com
 www.amateurseite.com
-www.amazon-adsystem.com
 www.amazon.ae
 www.amazonaws.com
 www.amazon.ca
@@ -16398,6 +16377,9 @@ www.amazon.it
 www.amazon.nl
 www.amazonpay.com
 www.amazonpay.in
+www.amazon.sa
+www.amazon.se
+www.amazon.sg
 www.amazontrust.com
 www.amba.to
 www.amctv.com
@@ -17008,6 +16990,7 @@ www.blap.net
 www.blazefast.co
 www.blazingcdn.net
 www.blbrd.cm
+www.blck.by
 www.bldrdoc.gov
 www.ble.pl
 www.b.link
@@ -17838,6 +17821,7 @@ www.cutt.ly
 www.cutt.us
 www.cutu.me
 www.cutx.org
+www.cvent.me
 www.cvs.com
 www.cvw-privatbank-ag.de
 www.cxense.com
@@ -18306,6 +18290,7 @@ www.efactoring.ru
 www.efbank.ru
 www.effiliation.com
 www.eff.org
+www.efshop.tw
 www.egmnow.com
 www.egolomt.mn
 www.egotastic.com
@@ -19278,7 +19263,6 @@ www.grenke.net
 www.grenkeonline.com
 www.grepler.com
 www.gresille.org
-www.grhb.me
 www.grifon.info
 www.grindr.mobi
 www.grisbank.ru
@@ -19400,6 +19384,7 @@ www.helpshift.com
 www.henbt.com
 www.he.net
 www.here.com
+www.herff.ly
 www.her.is
 www.hermsdorfer-kreuz.de
 www.herner-sparkasse.de
@@ -20264,6 +20249,7 @@ www.last.fm
 www.lastmenonearth.com
 www.lastpass.com
 www.latimes.com
+www.lativ.tw
 www.lat.ms
 www.launchdarkly.com
 www.lavanguardia.com
@@ -20311,6 +20297,7 @@ www.letobank.ru
 www.letpo.com
 www.letsdecentralize.org
 www.letsencrypt.org
+www.letsharu.cc
 www.letterboxd.com
 www.letyshops.com
 www.leumi.ro
@@ -20628,6 +20615,7 @@ www.mastodon.world
 www.masto.es
 www.masto.nu
 www.masto.pt
+www.mastouille.fr
 www.mathinsight.org
 www.mathstodon.xyz
 www.mathworks.com
@@ -21159,6 +21147,7 @@ www.nfl.com
 www.nfltags.com
 www.nflxext.com
 www.nflximg.net
+www.nflx.it
 www.nflxso.net
 www.nflxvideo.net
 www.nfscars.net
@@ -21206,7 +21195,6 @@ www.nn.de
 www.nnmstatic.win
 www.noaa.gov
 www.nobaeg.de
-www.nobigtech.es
 www.nobledesktop.com
 www.noc.social
 www.noho.st
@@ -21368,6 +21356,7 @@ www.ofkbank.ru
 www.ogdownloaderapk.com
 www.ogone.com
 www.ogury.io
+www.ohai.social
 www.ohga.it
 www.ohio.gov
 www.oiyo.tk
@@ -22030,11 +22019,13 @@ www.publictracker.xyz
 www.publiekeomroep.nl
 www.publitas.com
 www.pubtech.ai
+www.puext.in
 www.puffyan.us
 www.pulsbank.ru
 www.pulsembed.eu
 www.pumb.ua
 www.purch.com
+www.purdue.university
 www.purechat.com
 www.puresynergy.com
 www.puri.na
@@ -22712,6 +22703,7 @@ www.rzd.ru
 www.s10i.com
 www.s11.cn
 www.s24.com
+www.s3vip.tw
 www.saalesparkasse.de
 www.saastopankki.fi
 www.saavncdn.com
@@ -23051,6 +23043,8 @@ www.sincere.ly
 www.singleparentmeet.com
 www.sinopac.com
 www.sinourl.tw
+www.sinyi.biz
+www.sinyi.in
 www.sirena-travel.ru
 www.sistemabank.ru
 www.sistemagorod.ru
@@ -23201,6 +23195,7 @@ www.sonos.com
 www.sonyentertainmentnetwork.com
 www.sony.net
 www.sony.tv
+www.sony.tw
 www.soo.gd
 www.sophos.com
 www.sophosxl.net
@@ -24037,6 +24032,7 @@ www.tllg.net
 www.t.ly
 www.tmall.com
 www.tmbdirect.com
+www.tmblr.co
 www.t.me
 www.tmearn.com
 www.t-mobilebankowe.pl
@@ -24056,7 +24052,6 @@ www.to8.cc
 www.tochka.com
 www.today.com
 www.todoistcdn.com
-www.todon.eu
 www.tohle.de
 www.toi.in
 www.tokcounter.com
@@ -24346,6 +24341,7 @@ www.unionbankph.com
 www.union-investment.de
 www.union.place
 www.unipapa.co
+www.uniqlo.com
 www.unistream.ru
 www.unit193.net
 www.unitedbike.com

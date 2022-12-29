@@ -4,7 +4,6 @@ email-clk.adguard.com
 campaign.adobe.com
 t.ac.pandora.com.cname.campaign.adobe.com
 affiliatefuture.com
-amazon-adsystem.com
 anrdoezrs.net
 apmebf.com
 ansuk.app.link

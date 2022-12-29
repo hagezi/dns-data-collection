@@ -12427,7 +12427,6 @@ iot.informaengage.com
 iozozb.shapertools.com
 ip2c.landscape.co.jp
 ipapi.tmbi.com
-ipcc-vnp1.vnptmedia.vn
 ipcc.vnpt.com.vn
 ipcheck.blogsys.jp
 ip.cliphunter.com
@@ -16627,6 +16626,7 @@ page.email.trinity-health.org
 page.ephesus.cooperlighting.com
 page-events-ustats.udemy.com
 page.evergage.com
+pageid.info
 page.oceaninsight.com
 pages2.rizap.jp
 pages.arabiancentres.com
@@ -18128,6 +18128,7 @@ response.xactware.com
 res.programme-television.org
 res.public.fr
 res.rbl.ms
+res.regoo.com
 ressources.caradisiac.com
 ressources.centraleauto.com
 ressources.lacentrale.fr
@@ -18217,6 +18218,7 @@ rnybul.gismeteo.lv
 rnybul.gismeteo.ru
 ro2.ro.trackrocasino.com
 roadrunner.ausmv.com.au
+robotflowermobile.com
 robustbelieve.com
 rodent.beersport.com
 rodeopolice.com
@@ -21754,7 +21756,9 @@ s.northumberlandnews.com
 snowplow-collector.apartmentlist.io
 snowplow-pixel.tradingview.com
 snowplow.swm.digital
+snowy.bellroy.com
 snprxx.wwfmarket.com
+snptrk.com
 snr4.canalplus.com
 snuhpz.shopbarcos.jp
 snvbhd.weltbild.at
@@ -23041,6 +23045,7 @@ stats.buycostumes.com
 stats.byma.com.br
 stats.cable.tech
 stats.cafepress.com
+stats.callnowbutton.com
 stats.cardschat.com
 stats.carecredit.com
 stats.carrot2.org
