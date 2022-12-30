@@ -50,6 +50,7 @@ data.tradeville.eu
 digital4ro.adocean.pl
 engageya.com
 etop.ro
+evensys.ro
 ewatch.ro
 eyeviewads.com
 farm-ro.plista.com
@@ -109,6 +110,7 @@ sync.teads.tv
 t00t2.com
 tags.bkrtx.com
 tags.crwdcntrl.net
+terrapops.com
 tinypass.com
 tynt.com
 u.heatmap.it

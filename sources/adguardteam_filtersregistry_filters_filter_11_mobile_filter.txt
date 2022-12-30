@@ -24,6 +24,7 @@ ad120m.com
 ad127m.com
 ad132m.com
 ad6media.fr
+ad999.biz
 adadvisor.net
 ad-api.ehawk.com
 ad.apps.fm
@@ -69,6 +70,7 @@ adinfo.tango.me
 adinfuse.com
 aditic.net
 adition.com
+ad.jetx.info
 ad.jorte.com
 adkernel.com
 adkmob.com
@@ -105,6 +107,7 @@ ad.particlenews.com
 ad.period-calendar.com
 adpies.com
 adplatform.vrtcal.com
+adplex.co.kr
 adpopcorn.com
 ad.prismamediadigital.com
 adpriv.nikkei.com
@@ -159,6 +162,7 @@ adslot.uc.cn
 ad.smaad.jp
 ads.marvel.com
 ads.matomymobile.com
+adsmobila.com
 ads.mobilefuse.net
 ads.mobilityware.com
 ads.mobvertising.net
@@ -194,6 +198,7 @@ ads.youtube.com
 adtaily.pl
 adtech.de
 ad.tencentmusic.com
+adtheorent.com
 adtilt.com
 adtimaserver.vn
 adtorque.in
@@ -223,6 +228,8 @@ adx-dre.op.hicloud.com
 adx-tk.rayjump.com
 adywind.com
 adzerk.net
+adzfun.info
+adzfun.me
 adzmedia.com
 adz.mobi
 adzmobi.com
@@ -343,6 +350,7 @@ boostads.net
 brainient.com
 brealtime.com
 bridgetrack.com
+brokerbabe.com
 bu1.duba.com
 bubblesmedia.ru
 bugs2022.com
@@ -357,6 +365,7 @@ c3.myapkcdn.in
 c8.net.ua
 cads.scalemonk.com
 cafe-latte.myshoplus.com
+campaigns.apps-connects.com
 casalemedia.com
 cashprom.ru
 casino-ad-mediation.me2zengame.com
@@ -388,6 +397,7 @@ cdn-store-icons-highwinds-prd.unityads.unity3d.com
 cdn.unityads.unity3d.com
 cdn-webview-pge.unityads.unity3d.com
 cdp.cloud.unity3d.com
+cell.zhybzp.cn
 celtra.com
 ceppartner.com
 cf-ads.pinger.com
@@ -399,9 +409,11 @@ china-cdn3.unityads.unity3d.com
 chitika.net
 cl-ad.x-flow.app
 client.midosoo.com
+clkfeed.com
 clk.taptica.com
 cloudads-a.akamaihd.net
 cls.vrvm.com
+cntcash.ru
 cnt.my
 common.duapps.com
 comscore.com
@@ -513,6 +525,7 @@ go.mobtrks.com
 goodadvert.ru
 googleadservices.com
 gop1.co
+go.pushnative.com
 goshare-fleet-ads.s3.ap-southeast-1.amazonaws.com
 go.vrvm.com
 goyetteconnelly.bid
@@ -534,6 +547,8 @@ himediads.com
 hnl.ijgocb.cn
 hnr.wwxhba.xyz
 holder.com.ua
+hormebets.info
+hostgrater.com
 houseads-prod.elasticbeanstalk.com
 houseads.ttpsdk.info
 hqsjc.com
@@ -552,6 +567,7 @@ imasdk.googleapis.com
 imgx.jampp.com
 i-mobile.co.jp
 imrworldwide.com
+inclk.com
 infolinks.com
 ingamesads.gameloft.com
 inmobicdn.net
@@ -569,6 +585,7 @@ intellitxt.com
 intermarkets.net
 intowow.com
 investingchannel.com
+iqzone.com
 i.singular.net
 i.skimresources.com
 isnssdk.com
@@ -580,12 +597,14 @@ jioads.akamaized.net
 jmp9.com
 jsc.marketgid.com
 jscount.com
+jssdk.rayjump.com
 juiceadv.com
 jumptap.com
 justad.mobi
 kaffnet.com
 kavanga.ru
 ketchapp.org
+keydot.net
 kiosked.com
 kjos.vo.llnwd.net
 kochava.com
@@ -599,6 +618,7 @@ launcher.us.yeshen.com
 lb.usemaxserver.de
 lduhtrp.net
 leadboltads.net
+leadzu.com
 leanplum.com
 lfstmedia.com
 lgse.com
@@ -614,6 +634,7 @@ luckyforworlds.com
 luxadv.com
 luxup.ru
 lxqcgj.com
+ma-code.ru
 madadsmedia.com
 mad.mobisky.pl
 madnet.ru
@@ -655,23 +676,28 @@ mobads.baidu.com
 mobalert.net
 mobclix.com
 mobfox.com
+mob.huimee.net
 mobiads.ru
 mobicow.com
 mobidriven.com
 mobile333.com
 mobileads.msn.com
+mobilebanner.ru
 mobile-campaigns.avast.com
+mobile-click.biz
 mobilecore.com
 mobiledl.adboe.com
 mobile.mng-ads.com
 mobimagic.com
 mobi.yanosik.pl
 mobnatives.com
+mobon.com
 mobondhrd.appspot.com
 mobotoolpush.moboapps.io
 mobpartner.mobi
 mobpowertech.com
 mobytrks.com
+mobzver.ru
 mocean.mobi
 mofox.com
 mo.freeindoapp.com
@@ -719,6 +745,7 @@ nexac.com
 nfiuerwtftasnuk.com
 nginx-auction-prd-gcp.adsx.unityads.unity3d.com
 nickhel.com
+njs.manhuahome.com
 nkis.nikkei.com
 nkredir.com
 nmcdn.us
@@ -741,9 +768,13 @@ optimatic.com
 os.scmpacdn.com
 otcdn2.auditude.com
 other.appcpi.net
+owap.su
 pa.afreecatv.com
+pagead46.l.doubleclick.net
 pagefair.net
+painsko.com
 pangle.io
+partnerad.l.doubleclick.net
 partnerearning.com
 pasta.esfile.duapps.com
 p-behacdn.ksmobile.net
@@ -753,7 +784,9 @@ pge.unityads.unity3d.com
 phluant.com
 pixel.admobclick.com
 pixfuture.net
+pl.263gmail.org
 playhaven.com
+plugin.mediavoice.com
 plugin.mobopay.baidu.com
 polyad.net
 polymorphicads.jp
@@ -764,7 +797,10 @@ popcash.net
 popmarker.com
 poptm.com
 popunderz.com
+pos.baidu.com
+postitial.com
 postrelease.com
+postut.cn
 powerlinks.com
 pr.comet.yahoo.com
 preitem.wshareit.com
@@ -785,6 +821,7 @@ pubnative.info
 pubnative.net
 puhtml.com
 pushad.metajoy.services
+pw.lpsxssm.com
 px.adhigh.net
 qgss8.com
 qist.me
@@ -792,6 +829,7 @@ qoisocrldvnesni.ru
 qservz.com
 questionmarket.com
 r2d2.aotter.net
+r7mediar.com
 rbnt.org
 reate.info
 recreativ.ru
@@ -817,6 +855,7 @@ rubiconproject.com
 s3.ttpsdk.info
 s.adx.opera.com
 s-adx.op-mobile.opera.com
+sas816.ujikdd041o.cn
 saymedia.com
 scorecardresearch.com
 sc.smardroid.com
@@ -834,14 +873,17 @@ serve-sys.com
 serving-sys.com
 sessionm.com
 setting.rayjump.com
+sexpennyauctions.com
 shareasale.com
 sharethrough.com
+show.niqiu99.org
 silvermob.com
 sitemaji.com
 sitescout.com
 sitewithg.me
 skadnetwork.singular.net
 skadsdk.appsflyer.com
+slb.gedawang.com
 smaclick.com
 smartadserver.com
 smarttds.ru
@@ -890,6 +932,7 @@ tapone.jp
 tappx.com
 tapsell.ir
 tapsense.com
+tapstat.ru
 targetspot.com
 tccbanner.com
 teachscape.vo.llnwd.net
@@ -898,6 +941,7 @@ telemetryverification.net
 teracreative.com
 terraclicks.com
 thecatmachine.com
+theship.club
 thetrafficstat.net
 thind-gke-euw.prd.data.corp.unity3d.com
 thoughtleadr.com
@@ -911,9 +955,12 @@ tkmftc.aotter.net
 tkportal.aotter.net
 tm1.hoiplay.com
 tmz.vo.llnwd.net
+tnkfactory.com
 tonefuse.com
+tongqing2015.com
 tpbid.com
 tpc.googlesyndication.com
+track.cpatool.net
 trackimpression.com
 tracking.acekoala.com
 tracking.applift.com
@@ -927,6 +974,7 @@ trax-ad.jp
 trc.taboola.com
 tribalfusion.com
 trk.glispa.com
+ts166.net
 t.singular.net
 tubemogul.com
 turbo.adsbynimbus.com
@@ -947,10 +995,12 @@ upsight.com
 us.3zs0.date
 usekahuna.com
 usp1.baidu.com
+valshara.com
 velti.com
 vidasys.ru
 videoads-cloud.rovio.com
 videoplus.vo.llnwd.net
+vidout.net
 viewclc.com
 view-prod.ad.singular.net
 vindicosuite.com
@@ -987,6 +1037,7 @@ yandexadexchange.net
 yc-ads.s3.amazonaws.com
 yeabble.com
 yemonisoni.com
+yhdichan.com
 yieldkit.com
 yieldlab.net
 yieldmanager.net
@@ -997,6 +1048,7 @@ youlamedia.com
 youmi.net
 youradexchange.com
 yovoads.com
+yuhuads.com
 zedo.com
 ziffdavis.com
 zzhengre.com

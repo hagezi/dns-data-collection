@@ -1188,6 +1188,7 @@ ais.snbank.ru
 ai.yimg.jp
 ajax.cloudflare.com
 ajax.gogo-load.com
+ajax.googleapis.com
 ajay.app
 ajn.me
 akadns6.net
@@ -1331,6 +1332,7 @@ amazon.com.br
 amazon.com.mx
 amazon.com.tr
 amazon.co.uk
+amazoncrl.com
 amazon.de
 amazon.es
 amazon.fr
@@ -1463,6 +1465,7 @@ api.accuweather.com
 api.adguard.com
 api.adguard.org
 api.ads.tvb.com
+api*.amazonalexa.com
 api.anibis.ch
 api.app-bang-dream-gbp.com
 api.apple-cloudkit.com
@@ -1694,6 +1697,7 @@ arc.msn.com
 *.arcor.easybox
 arcot.com
 arcpublishing.com
+arcus-*.amazon.com
 ardaudiothek.de
 ard.de
 arenabg.ch
@@ -4197,6 +4201,7 @@ dbs.com
 dbs.com.sg
 dbs.com.tw
 db.tt
+dcape-*.amazon.com
 dcfdata.espn.com
 dcf.espn.com
 dcinside.com
@@ -4522,6 +4527,7 @@ download.winzip.com
 dpbolvw.net
 dpd.co.uk
 dpd.de
+dp-gw-*.amazon.com
 dpiui.reedlan.com
 dpm.demdex.net
 dp.ua
@@ -5129,7 +5135,6 @@ events.data.trafficmanager.net
 events.gfe.nvidia.com
 events.release.narrativ.com
 everesttech.net
-evergage.com
 evert.net
 every1dns.net
 everydayporn.co
@@ -5163,6 +5168,7 @@ exchange.gemini.com
 exchange.globitex.com
 excite.co.jp
 exct.net
+*.execute-api.*.amazonaws.com
 exi-bank.ru
 eximbank.com.tw
 eximbank.com.vn
@@ -5186,7 +5192,6 @@ explodie.org
 explore.amd.com
 expobank.eu
 expo.dev
-exponea.com
 *.export.yandex.ru
 expressbank.az
 express-bank.ru
@@ -5467,7 +5472,6 @@ flowbox.io
 flowgram.com
 flowplayer.com
 flq.us
-fls-na.amazon.com
 flutterawesome.com
 flutterflow.io
 flvto.biz
@@ -5700,6 +5704,7 @@ gate.hockeyapp.net
 gate.io
 gateline.net
 gate.vseplatezhi.ru
+*.gateway.devices.a2z.com
 gateway.facebook.com
 gateway.messenger.live.com
 gateway.wma.bedegaming.com
@@ -8294,7 +8299,6 @@ list-manage2.com
 list-manage.com
 litecoinpool.org
 lithium.com
-litix.io
 live.adyen.com
 live.com
 live.com.nsatc.net
@@ -8600,7 +8604,7 @@ marriott.com
 marsflag.com
 martinbank.de
 marvel-b1-cdn.bc0a.com
-mas-ext.amazon.com
+mas-ext*.amazon.com
 mashable.com
 master-capital.org
 mastercard.co.in
@@ -8636,6 +8640,7 @@ mastodon.top
 mastodontti.fi
 mastodon.uno
 mastodon.world
+mastodon.zaclys.com
 masto.es
 masto.nu
 masto.pt
@@ -9678,6 +9683,7 @@ ntp.colby.edu
 ntp.dianacht.de
 ntp-d.nist.gov
 ntp.fiord.ru
+*.ntp-fireos.com
 ntp-galway.hea.net
 ntp.gsu.edu
 ntp.ix.ru
@@ -9836,6 +9842,7 @@ ohai.social
 ohga.it
 ohio.gov
 oi.bankia.es
+*oisd*
 oiyo.tk
 *.ojrq.net
 ojrq.net
@@ -10770,7 +10777,6 @@ portoseguro.com.br
 portsmouth.co.uk
 po.st
 postacertificata.lextel.it
-postaffiliatepro.com
 postbank.de
 postbank.kz
 postclickmarketing.com
@@ -10877,6 +10883,7 @@ procreditbank.ge
 procreditbank.md
 prod01.row.cros.wr.pvp.net
 prod-adops-proxy.dnitv.net
+prod.amazoncrl.com
 prodapp.babytrackers.com
 prod.ciam.tech-03.net
 prod-ec1.foodspring.com
@@ -10979,7 +10986,6 @@ pt.wikipedia.org
 p.typekit.net
 public-api.wordpress.com
 publicbt.com
-public-cis.exponea.com
 publicidees.com
 public.overcast-cdn.com
 public.popcorn-tracker.org
@@ -13042,7 +13048,6 @@ squoosh.app
 squ.re
 srbank.ru
 src.foxscore.live
-src.litix.io
 srf.ch
 sr.ht
 s.rutor.info
@@ -13962,7 +13967,6 @@ tock.usno.navy.mil
 today.com
 todoistcdn.com
 todo.microsoft.com
-todon.eu
 tohle.de
 toi.in
 tokcounter.com
@@ -16377,6 +16381,7 @@ www.amazonaws.com
 www.amazon.ca
 www.amazon.cn
 www.amazon.com
+www.amazoncrl.com
 www.amazon.de
 www.amazon.es
 www.amazon.fr
@@ -18461,7 +18466,6 @@ www.evbstatic.com
 www.evenordbank.de
 www.eventbrite.com
 www.everesttech.net
-www.evergage.com
 www.evert.net
 www.every1dns.net
 www.everydayporn.co
@@ -18499,7 +18503,6 @@ www.expli.top
 www.explodie.org
 www.expobank.eu
 www.expo.dev
-www.exponea.com
 www.expressbank.az
 www.express-bank.ru
 www.expr.ru
@@ -20407,7 +20410,6 @@ www.list-manage2.com
 www.list-manage.com
 www.litecoinpool.org
 www.lithium.com
-www.litix.io
 www.live.com
 www.livede55.com
 www.livedoor.jp
@@ -21896,7 +21898,6 @@ www.portaldepagosmercantil.com
 www.portmanat.az
 www.posb.com.sg
 www.po.st
-www.postaffiliatepro.com
 www.postbank.de
 www.postbank.kz
 www.postclickmarketing.com
@@ -24062,7 +24063,6 @@ www.to8.cc
 www.tochka.com
 www.today.com
 www.todoistcdn.com
-www.todon.eu
 www.tohle.de
 www.toi.in
 www.tokcounter.com
@@ -25431,6 +25431,7 @@ www.yyv.co
 www.z23.ru
 www.z9.fr
 www.zaba.hr
+www.zaclys.com
 www.zaim.com
 www.zaloapp.com
 www.zalo.me
@@ -25616,6 +25617,7 @@ xnvda7fch4zhr.mangadex.network
 xnxx.com
 xoe.cz
 *.xp.apple.com
+xp.apple.com
 xpi.com.br
 xpixl.me
 x-plarium.com
@@ -25732,6 +25734,7 @@ youtubei.googleapis.com
 youtubekids.com
 youtube-nocookie.com
 youtube-ui.l.google.com
+*yoyo.org*
 yoyo.org
 ypu.edu.tw
 yql.yahoo.com
@@ -25759,6 +25762,7 @@ yyv.co
 z23.ru
 z9.fr
 zaba.hr
+zaclys.com
 zaim.com
 zakupki.gov.ru
 zaloapp.com

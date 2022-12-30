@@ -294,7 +294,6 @@ tiktokv.com
 tinder.com
 tindersparks.com
 tkz.one
-todon.eu
 toot.community
 toot.io
 toot.wales
@@ -341,5 +340,6 @@ youtube.com
 youtube-nocookie.com
 youtubekids.com
 ytimg.com
+mastodon.zaclys.com
 zhihu.com
 zhimg.com
