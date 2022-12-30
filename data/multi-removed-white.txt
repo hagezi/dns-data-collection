@@ -202,6 +202,8 @@ api.drift.com
 bootstrap.api.drift.com
 dubai-homes.ae
 www.dubai-homes.ae
+duoyi.com
+www.duoyi.com
 proto2ad.durasite.net
 easyflirt.com
 www.easyflirt.com
@@ -303,6 +305,8 @@ www.le.com
 my.leadpages.net
 lihi1.com
 www.lihi1.com
+lihi2.cc
+www.lihi2.cc
 tr.line.me
 oa.tr.line.me
 link.ac
@@ -482,10 +486,6 @@ pxlme.me
 www.pxlme.me
 go.qb.by
 lmbsy.qq.com
-zn1ynnliufrct75cb-paypalxm.siteintercept.qualtrics.com
-zn2rjw8v8ecfgyigt-paypalxm.siteintercept.qualtrics.com
-zn5jpiwcvswgilgu9-paypalxm.siteintercept.qualtrics.com
-zn824xgjyopuf0rcx-paypalxm.siteintercept.qualtrics.com
 quickapp.cn
 www.quickapp.cn
 rbc.cn
@@ -567,7 +567,6 @@ search.us.com
 valuecommerce.com
 clj.valuecommerce.com
 www.valuecommerce.com
-vk.sv
 wa.sv
 webpush.jp
 www.webpush.jp

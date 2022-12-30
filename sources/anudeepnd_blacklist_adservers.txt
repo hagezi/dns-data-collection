@@ -9438,7 +9438,6 @@ api.browsee.io
 api.browser.intl.miui.com
 api.browser.miui.com
 api.brs.intl.miui.com
-api.bufferapp.com
 api.buysellads.com
 api.c1oudmobi.net
 api-cache.adsnative.com
@@ -19049,7 +19048,6 @@ finanzen100.de.d1.sc.omtrdc.net
 finanznachrichten.de.intellitxt.com
 finanzportal20.112.2o7.net
 finanztreff.de.intellitxt.com
-find.api.micloud.xiaomi.net
 find.keywordblocks.com
 findmystay.qgr.ph
 findprices.t.domdex.com
@@ -19711,7 +19709,6 @@ galaxy.sokrati.com
 galinulla.mirtesen.ru
 gallery.adgebra.in
 gallery.amobee.com
-galleryapi.micloud.xiaomi.net
 gallerydirectir.7eer.net
 gallery.sharethrough.com
 gallery.smartadserver.com
@@ -22743,7 +22740,6 @@ infra44.smartadserver.com
 infra.kissmetrics.com
 infrastructure-graphite-8ae8573.use.dynamicyield.com
 in.freewebs.getclicky.com
-in.galleryapi.micloud.xiaomi.net
 ingbe.demdex.net
 ing.clicktale.net
 ing-district.clicktale.net
@@ -22794,7 +22790,6 @@ innovid.com
 innumerablecaw.com
 in.o2o.api.xiaomi.com
 in-o2o-api.zilivideo.com
-in.phonecallapi.micloud.xiaomi.net
 inplayable.com
 inplay-ad03.tubemogul.com
 inplay-rcv01.tubemogul.com
@@ -22863,7 +22858,6 @@ insight-test.magnetic.com
 insight.ucweb.com
 insight.zapr.in
 insignia-freunde.de.intellitxt.com
-in.smsapi.micloud.xiaomi.net
 inspectletws.herokuapp.com
 inspector-api.ironbeast.io
 inspector-api-stg.ironbeast.io
@@ -38527,8 +38521,6 @@ us.event.cmp.advertising.com
 us.evergage.com
 usevideo.adsrvr.org
 us.evyy.net
-us.find.api.micloud.xiaomi.net
-us.galleryapi.micloud.xiaomi.net
 us.gmads.mookie1.com
 us-gmtdmp.mookie1.com
 usgoldbureau.evergage.com
@@ -38561,7 +38553,6 @@ usone.adswizz.com
 us.optimove.net
 us.pdc.micloud.xiaomi.net
 usp-forum.de.intellitxt.com
-us.phonecallapi.micloud.xiaomi.net
 us-pl-d-c.vizury.com
 us-pl-d.vizury.com
 us-pl.lemnisk.co
@@ -38591,10 +38582,7 @@ ussco5.actonsoftware.com
 ussco6.actonsoftware.com
 ussco8.actonsoftware.com
 us-search.7eer.net
-us.sfsapi.micloud.xiaomi.net
 us-smartertravel.videoplaza.tv
-us.smsapi.micloud.xiaomi.net
-us.statusapi.micloud.xiaomi.net
 us-streamtrack.cdn.videoplaza.tv
 us-streamtrack.videoplaza.tv
 usta.demdex.net

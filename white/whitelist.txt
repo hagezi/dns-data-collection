@@ -1719,9 +1719,6 @@ tag.aticdn.net
 # https://github.com/AdAway/adaway.github.io/issues/330
 statics-marketingsites-*-ms-com.akamaized.net
 
-# Adult game site
-ero-labs.online
-
 # Videos on NFL.com
 p.nfltags.com
 
@@ -1960,6 +1957,7 @@ recommender*.scarabresearch.com
 images.cdn.scarabresearch.com
 
 # Breaks paypal pay process on some german shopping sites
+siteintercept.qualtrics.com
 *paypal*.siteintercept.qualtrics.com
 
 # Aim Lab aimlab.gg passwort reset

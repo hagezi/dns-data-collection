@@ -43,7 +43,6 @@ bin5y4muil.execute-api.us-east-1.amazonaws.com
 e6yeun02cb.execute-api.us-east-1.amazonaws.com
 fqicudrbaf.execute-api.us-east-1.amazonaws.com
 pn8sm7rjuc.execute-api.us-east-1.amazonaws.com
-r74n1rfbqi.execute-api.us-east-1.amazonaws.com
 v76ndo1am9.execute-api.us-east-1.amazonaws.com
 xt4ahhp8o9.execute-api.us-east-1.amazonaws.com
 yqchpwxvbg.execute-api.us-east-1.amazonaws.com
@@ -216,6 +215,7 @@ krxd.net
 ks.cn
 scnd.landsend.com
 lbtinc.com
+lihi2.cc
 tr.line.me
 torimochi.line-apps.com
 l.linklyhq.com
@@ -300,10 +300,7 @@ publicidees.com
 collector-pxrf8vapwa.px-cloud.net
 pxlme.me
 l.qq.com
-zn1ynnliufrct75cb-paypalxm.siteintercept.qualtrics.com
-zn2rjw8v8ecfgyigt-paypalxm.siteintercept.qualtrics.com
-zn5jpiwcvswgilgu9-paypalxm.siteintercept.qualtrics.com
-zn824xgjyopuf0rcx-paypalxm.siteintercept.qualtrics.com
+siteintercept.qualtrics.com
 quantcast.com
 r42tag.com
 rmp.rakuten.com

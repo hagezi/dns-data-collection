@@ -1521,6 +1521,7 @@ api.iris.microsoft.com
 api.kakao.com
 apikeys.civiccomputing.com
 api-kino.vl.ru
+api.kr.karrotmarket.com
 api.letterboxd.com
 api.log4jmemes.com
 api-mainnet.pool.space
@@ -2911,6 +2912,7 @@ card.cyberplat.ru
 cardhouse.ncc-uc.ru
 cardinalcommerce.com
 cardpay.com
+cards.scryfall.io
 cardstandard.ru
 cardtocard.dvbank.ua
 card-transfer.tele2.ru
@@ -3930,6 +3932,7 @@ crdrv.co
 createspace.com
 creative.7o7.cx
 creativecommons.org
+creator.nightcafe.studio
 credexbank.ru
 credicard.com.br
 credit365.ua
@@ -4521,6 +4524,7 @@ download.nerocloud.me
 downloads.2kgames.com
 download.skype.com
 downloads.mailchimp.com
+downloads.zivver.com
 download.windowsupdate.com
 download.winzip.com
 *.dpbolvw.net
@@ -5265,6 +5269,7 @@ fast.com
 fastcompany.com
 fastdownload.xyz
 fast.fonts.net
+fast.getn7.io
 fastly-analytics.com
 fastlydns.net
 fastlylb.net
@@ -5316,6 +5321,7 @@ fc-zenit.ru
 fda.gov
 fdcdn.co.uk
 fdroid.frostnerd.com
+fdv2-t-msedge.net
 fe2.update.microsoft.com
 fe2.update.microsoft.com.akadns.net
 fe2.wq.microsoft.com
@@ -5335,6 +5341,7 @@ fedora.pool.ntp.org
 feed.adrelayer.com
 feedburner.com
 feedburner.google.com
+feed.kr.karrotmarket.com
 feedly.com
 feedproxy.google.com
 feeds.metaebene.me
@@ -5703,6 +5710,7 @@ gatech.edu
 gate.hockeyapp.net
 gate.io
 gateline.net
+gate.sc
 gate.vseplatezhi.ru
 *.gateway.devices.a2z.com
 gateway.facebook.com
@@ -5808,6 +5816,7 @@ getinbank.pl
 getirapi.com
 getirx-client-api-gateway.getirapi.com
 getlogin.rosbank.ru
+getn7.io
 getnada.com
 getresponse.com
 getrevue.co
@@ -5867,6 +5876,7 @@ git-scm.com
 git.sr.ht
 gitter.im
 git.vulnix.sh
+givemenbastreams.com
 gizmochina.com
 gizmodern.com
 gizmo.do
@@ -6551,6 +6561,7 @@ heytap.com
 heytapmobi.com
 h-fidelity.online-metrix.net
 hgc-cf-cache-1.svonm.com
+hh-imgs.cyou
 hhs.gov
 hibu.com
 hicloud.com
@@ -6650,6 +6661,7 @@ hotflick.net
 hotflicknet.s3.amazonaws.com
 hotmail.com
 hotplug.ru
+hotpornfile.org
 hotspotshield.com
 hotstar.com
 house.gov
@@ -6773,6 +6785,7 @@ iad.liveperson.net
 ia.hit.interia.pl
 iai-shop.com
 iamhansen.xyz
+iamport.kr
 iask.com.cn
 ias.rakuten.co.jp
 ib.ablv.com
@@ -7187,6 +7200,7 @@ iln.io
 ilnk.io
 i.lockobank.ru
 ilog-sea-aliyun.alipayplus.com
+ilrc.org
 image.ccg.nintendo.net
 image.email.auspost.com.au
 *.image.email.microsoftemail.com
@@ -7209,6 +7223,7 @@ imageshack.us
 images.lacucinaitaliana.it
 images.metahub.space
 images.netdirector.co.uk
+images.nightcafe.studio
 images.novel-fast.club
 images.nvidiagrid.net
 images.performgroup.com
@@ -7260,6 +7275,7 @@ imgur.io
 img-va.myshopline.com
 img.vidible.tv
 img.yana.asideas.de
+img.zivver.com
 imlive.com
 immomo.com
 imoneybank.ru
@@ -7393,6 +7409,7 @@ intercomcdn.com
 intercom.com
 *.intercom.io
 intercom.io
+intercom-mail.com
 intercommerz.ru
 intercredit.org
 intercredit.ru
@@ -7551,7 +7568,10 @@ i.sdacdn.com
 is-doh.help.every1dns.net
 is.gd
 isgprivacy.cbsi.com
+ishalife.com
+ishalogin-sadhguru-org-a2b316f6089eae8142ab.fast.getn7.io
 isha.sadhguru.org
+isha-sadhguru-org-19ae.fast.getn7.io
 i.shoosh.co
 isi.edu
 isk.richardsw.club
@@ -7758,6 +7778,7 @@ kantar.com
 kapitalbank.az
 kaptcha.com
 kariyer.vakifbank.com.tr
+karrotmarket.com
 kashflow.com
 kasikornbankgroup.com
 kask.us
@@ -7937,6 +7958,7 @@ kreissparkasse-schwalm-eder.de
 kremlinbank.ru
 kriskintel.com
 kristof.bartanet.cz
+kr.karrotmarket.com
 krod.cz
 kroger.com
 krogermail.com
@@ -8155,6 +8177,7 @@ lgin.msa.trafficmanager.net
 lgn.ru
 l.google.com
 lgtvsdp.com
+lgucdn.com
 lhv.ee
 li1406-230.members.linode.com
 liberation.fr
@@ -8173,6 +8196,7 @@ licensing.mp.microsoft.com
 licensing.xboxlive.com
 lichousing.com
 lick.my
+lidarr.audio
 lidl.com
 lidl.media01.eu
 lien.li
@@ -9145,6 +9169,7 @@ muenster.im
 mueritz-sparkasse.de
 mufg.jp
 muganbank.az
+mult-imgs.cyou
 multiscreen.samsung.com
 muscdn.com
 music.126.net
@@ -9344,6 +9369,7 @@ ndbank.ru
 ndbbankonline.com
 ndemiccreations.com
 ndtv.com
+nearby.kr.karrotmarket.com
 neckermann.de
 necklace.ru
 nectar.com
@@ -9509,6 +9535,7 @@ nicou.ch
 nict.jp
 nifty.com
 nig.gr
+nightcafe.studio
 nih.gov
 niiftri.irkutsk.ru
 nike.com
@@ -9858,6 +9885,7 @@ okteto.net
 okt.to
 ok.webhop.net
 olabank.ru
+olacast.live
 olark.com
 olb.consorsfinanz.de
 olb.de
@@ -10107,6 +10135,7 @@ open.demonii.si
 opendns.com
 open.dstud.io
 open.free-tracker.ga
+openhd.lol
 open-internet.nl
 openjdk.org
 open.kickasstracker.com
@@ -10259,6 +10288,7 @@ ovh.to
 owl.li
 ow.ly
 ox.ac.uk
+oxen.io
 oxfordjournals.org
 o-x.fr
 oxtorrent.cx
@@ -10655,6 +10685,7 @@ play-fe.googleapis.com
 play.googleapis.com
 play.google.com
 playhydrax.com
+play.kakao.com
 playkeepout.com
 play.ludigames.com
 playmoviesdfe-pa.googleapis.com
@@ -10818,6 +10849,8 @@ prejit.cz
 premcred.ru
 preml.ge
 preodbank.ru
+presearch.com
+presearch.io
 presscustomizr.com
 pressekompass.net
 presslabs.com
@@ -11516,6 +11549,7 @@ redditarchive.com
 reddit.com
 redditmail.com
 redditmedia.com
+reddit.rnbastreams.com
 redditstatic.com
 redefine2.hit.stat24.com
 redefine.hit.stat24.com
@@ -11667,6 +11701,7 @@ rico.com.vc
 ridefox.com
 rietumu.lv
 riffreporter.de
+rigidindustries.com
 rijksmuseum.nl
 rileg.de
 ri.ms
@@ -11701,6 +11736,7 @@ rmb.ru
 rm-motors.pl
 rmp.rakuten.com
 r.mradx.net
+rnbastreams.com
 rncb.ru
 rndfnk.com
 r.nf
@@ -11712,6 +11748,7 @@ roblox.com
 roboform.com
 robokassa.ru
 rocketbank.ru
+rocket-chat-pub.kr.karrotmarket.com
 rocketreach.co
 rockstargames.com
 rod.gs
@@ -12054,6 +12091,7 @@ scribd.com
 scribol.com
 scripts.kataweb.it
 scr.wfcdn.de
+scryfall.io
 scsb.com.tw
 scu.org.tw
 sd-161673.dedibox.fr
@@ -12441,6 +12479,7 @@ sitecheck5.opera.com
 sitecheck6.opera.com
 sitecheck7.opera.com
 siteheart.com
+siteintercept.qualtrics.com
 sitescdn.net
 sites.google.com
 *.sites.hscoscdn10.net
@@ -13019,6 +13058,7 @@ sponsor.ajay.app
 spop.ams.plex.bz
 sportbible.com
 sportsbet.com.au
+sportscentral.io
 spoti.fi
 spotifycdn.net
 spotify.com
@@ -13403,6 +13443,7 @@ sv-03.mp4.sh
 svabank.ru
 sv.aq.qq.com
 svgrepo.com
+svgs.scryfall.io
 svh-api.ch
 svh-cloud.ch
 sviaz-bank.ru
@@ -15062,6 +15103,7 @@ vereinigtevolksbankeg.de
 vereinte-volksbank.de
 verification-va.byteoversea.com
 verification-va.byteoversea.com.edgesuite.net
+verifythis.com
 *.verisign.net
 verizon.com
 verkkopalkka.maventa.fi
@@ -15131,6 +15173,7 @@ view.email.nzz.ch
 view.genial.ly
 viewlift.com
 viewpoint.com
+viewpoint.rigidindustries.com
 *.view.virt.s7.exacttarget.com
 view.virt.s7.exacttarget.com
 viglink.com
@@ -15613,6 +15656,7 @@ wcc.edu.in
 wcpstatic.microsoft.com
 *.wd2go.com
 *.wdtinc.com
+weakstream.org
 wealthbar.com
 wealthfront.com
 wealthsimple.com
@@ -15796,6 +15840,7 @@ wix.com
 wixsite.com
 wizink.es
 wizzair.com
+wlrarshab.azureedge.net
 *.wl.spotify.com
 wl.spotify.com
 wma.bedegaming.com
@@ -18592,6 +18637,7 @@ www.fbwebpos.com
 www.fc2.com
 www.fc-zenit.ru
 www.fda.gov
+www.fdv2-t-msedge.net
 www.feb217.tk
 www.febbit.com
 www.federseebank.de
@@ -18872,6 +18918,7 @@ www.gate2shop.com
 www.gatech.edu
 www.gate.io
 www.gateline.net
+www.gate.sc
 www.gawex.pl
 www.gaw.kr
 www.gazbank.ru
@@ -18933,6 +18980,7 @@ www.getf.ly
 www.geti.in
 www.getinbank.pl
 www.getirapi.com
+www.getn7.io
 www.getnada.com
 www.getresponse.com
 www.getrevue.co
@@ -18974,6 +19022,7 @@ www.git.io
 www.gitlab.com
 www.git-scm.com
 www.gitter.im
+www.givemenbastreams.com
 www.gizmochina.com
 www.gizmodern.com
 www.gizmo.do
@@ -19411,6 +19460,7 @@ www.hex.tw
 www.hexun.com
 www.heytap.com
 www.heytapmobi.com
+www.hh-imgs.cyou
 www.hhs.gov
 www.hibu.com
 www.hicloud.com
@@ -19481,6 +19531,7 @@ www.hotdogsandads.com
 www.hotflick.net
 www.hotmail.com
 www.hotplug.ru
+www.hotpornfile.org
 www.hotspotshield.com
 www.hotstar.com
 www.house.gov
@@ -19562,6 +19613,7 @@ www.i2p.rocks
 www.i99.cz
 www.iai-shop.com
 www.iamhansen.xyz
+www.iamport.kr
 www.ibadual.com
 www.ibam24.ru
 www.ibank24.kz
@@ -19659,6 +19711,7 @@ www.ilibr.org
 www.ilix.in
 www.iln.io
 www.ilnk.io
+www.ilrc.org
 www.images-amazon.com
 www.imageshack.com
 www.imageshack.us
@@ -19767,6 +19820,7 @@ www.interactivebrokers.com
 www.intercomcdn.com
 www.intercom.com
 www.intercom.io
+www.intercom-mail.com
 www.intercommerz.ru
 www.intercredit.org
 www.intercredit.ru
@@ -19847,6 +19901,7 @@ www.isbank.ru
 www.isbmsk.ru
 www.isc.org
 www.is.gd
+www.ishalife.com
 www.isi.edu
 www.isnbank.ru
 www.isra.li
@@ -19984,6 +20039,7 @@ www.kanal-4.de
 www.kantar.com
 www.kapitalbank.az
 www.kaptcha.com
+www.karrotmarket.com
 www.kashflow.com
 www.kasikornbankgroup.com
 www.kask.us
@@ -20321,6 +20377,7 @@ www.lg.com
 www.lge.com
 www.lgn.ru
 www.lgtvsdp.com
+www.lgucdn.com
 www.lhv.ee
 www.liberation.fr
 www.liberbank.es
@@ -20332,6 +20389,7 @@ www.librespeed.org
 www.libreview.io
 www.lichousing.com
 www.lick.my
+www.lidarr.audio
 www.lidl.com
 www.lien.li
 www.lien.pl
@@ -20951,6 +21009,7 @@ www.muenster.im
 www.mueritz-sparkasse.de
 www.mufg.jp
 www.muganbank.az
+www.mult-imgs.cyou
 www.muscdn.com
 www.musical.ly
 www.mut.lu
@@ -21182,6 +21241,7 @@ www.nicou.ch
 www.nict.jp
 www.nifty.com
 www.nig.gr
+www.nightcafe.studio
 www.nih.gov
 www.nike.com
 www.nikkei.com
@@ -21383,6 +21443,7 @@ www.okta.com
 www.okteto.net
 www.okt.to
 www.olabank.ru
+www.olacast.live
 www.olark.com
 www.olb.de
 www.oldboystudy.com
@@ -21489,6 +21550,7 @@ www.openbtba.com
 www.opencdn.co
 www.opencmp.net
 www.opendns.com
+www.openhd.lol
 www.open-internet.nl
 www.openjdk.org
 www.open.ru
@@ -21587,6 +21649,7 @@ www.ovh.net
 www.ovh.to
 www.owl.li
 www.ow.ly
+www.oxen.io
 www.oxfordjournals.org
 www.o-x.fr
 www.oxtorrent.cx
@@ -21925,6 +21988,8 @@ www.prejit.cz
 www.premcred.ru
 www.preml.ge
 www.preodbank.ru
+www.presearch.com
+www.presearch.io
 www.presscustomizr.com
 www.pressekompass.net
 www.presslabs.com
@@ -22578,6 +22643,7 @@ www.richart.tw
 www.ridefox.com
 www.rietumu.lv
 www.riffreporter.de
+www.rigidindustries.com
 www.rijksmuseum.nl
 www.rileg.de
 www.ri.ms
@@ -22605,6 +22671,7 @@ www-rkz58128.ssl0d.com
 www.rmacadetstore.com
 www.rmb.ru
 www.rm-motors.pl
+www.rnbastreams.com
 www.rncb.ru
 www.rndfnk.com
 www.r.nf
@@ -22838,6 +22905,7 @@ www.screenshot.guru
 www.scribblelive.com
 www.scribd.com
 www.scribol.com
+www.scryfall.io
 www.sdacdn.com
 www.sdb.lk
 www.sdf.org
@@ -23546,6 +23614,7 @@ www.split.to
 www.spmailtechno.com
 www.spn.sr
 www.sportbible.com
+www.sportscentral.io
 www.spoti.fi
 www.spotifycdn.net
 www.spotify.com
@@ -24633,6 +24702,7 @@ www.verd.in
 www.vereinigte-sparkassen.de
 www.vereinigtevolksbankeg.de
 www.vereinte-volksbank.de
+www.verifythis.com
 www.verizon.com
 www.vesmir.cz
 www.vestabank.ru
@@ -25080,6 +25150,7 @@ www.way.to
 www.wb1.eu
 www.wb.md
 www.wbze.de
+www.weakstream.org
 www.wealthbar.com
 www.wealthfront.com
 www.wealthsimple.com
@@ -25505,6 +25576,7 @@ www.ziraatbank.de
 www.ziraatbank.me
 www.ziraatbank.ru
 www.ziraatbank.uz
+www.zivver.com
 www.zkb.ch
 www.zkcdn.net
 www.zkrat.me
@@ -25849,6 +25921,7 @@ ziraatbank.uz
 ziraatkatilim.com.tr
 ziraatyatirim.com.tr
 ziraatyatirim.matrikswebtrader.com
+zivver.com
 zkb.ch
 zkcdn.net
 zkrat.me

@@ -1,6 +1,5 @@
 adfoc.us
 email-clk.adguard.com
-email-link.adtidy.org
 aax-eu.amazon.de
 aax-eu.amazon.es
 aax-eu.amazon.fr
