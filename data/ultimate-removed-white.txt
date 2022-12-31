@@ -6,6 +6,8 @@ www.5.gp
 www.56.com
 6.gp
 www.6.gp
+9k.gg
+www.9k.gg
 9nl.com
 bat-bing-com.a-0001.a-msedge.net
 a-0004.a-msedge.net
@@ -343,6 +345,7 @@ analytics.edgekey.net
 79423.analytics.edgekey.net
 audio-ake.spotify.com.edgesuite.net
 heads-ak.spotify.com.edgesuite.net
+heads-akp.spotify.com.edgesuite.net
 heads4-ak.spotify.com.edgesuite.net
 sea.net.edu.cn
 mail.tsinghua.edu.cn
@@ -533,7 +536,6 @@ stats.live-video.net
 player.stats.live-video.net
 blogroll.livedoor.net
 liveperson.net
-adminlogin.liveperson.net
 lptag.liveperson.net
 va.v.liveperson.net
 www.liveperson.com
@@ -883,8 +885,11 @@ static.share-videos.se
 sharethis.com
 ws.sharethis.com
 www.sharethis.com
+sheerid.net
 content.sheerid.com
 marketing.sheerid.com
+orgsearch.sheerid.net
+platform-redirector-prod.sheerid.net
 shoosh.co
 i.shoosh.co
 v.shoosh.co
@@ -916,6 +921,8 @@ notice.sp-prod.net
 cdeatz.spartoo.it
 pov.spectrum.net
 split.to
+audio-cf.spotify.com
+audio-gc.spotify.com
 heads-fa.spotify.com
 shop.spreadshirt.com
 stanford.io

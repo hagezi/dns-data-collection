@@ -8,6 +8,7 @@ dns.containerpi.com
 jit.ddns.net
 dns.developer.li
 dns2.developer.li
+dns.flatuslifir.is
 dns.larsdebruin.net
 doh.libredns.org
 adblock.mydns.network

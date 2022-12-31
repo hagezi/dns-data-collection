@@ -2226,3 +2226,6 @@ mandrillapp.com
 amazonforum.com
 d1bd3wxsyuz0t7.cloudfront.net
 
+# verifying student status in YT Music or YT
+*.sheerid.net
+

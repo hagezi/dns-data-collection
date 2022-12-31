@@ -8,8 +8,10 @@ www.100xuexi.com
 17173.com
 p.d.1enm.com
 2144.cn
+21food.cn
 2mdn.net
 s0.2mdn.net
+51240.com
 52z.com
 56.com
 www.56.com
@@ -19,6 +21,7 @@ www.56.com
 www.888.com
 www.888poker.com
 88p2p.com
+973.com
 991.com
 9nl.com
 9wee.com
@@ -26,6 +29,7 @@ analytics.console.aws.a2z.com
 a8.net
 above.com
 www.above.com
+mut.ac.ke
 yu.ac.kr
 graph.accountkit.com
 acdid.acdsystems.com
@@ -196,6 +200,7 @@ cameraprive.com
 camonster.com
 camsoda.com
 www.camsoda.com
+caribbeancom.com
 devices.carnivalmobile.com
 carpediem.fr
 cartoonpornguide.com
@@ -206,6 +211,7 @@ om.cbsi.com
 s2.static.cfgr3.com
 chickenkiller.com
 chip-secured-download.de
+chrunlee.cn
 cint.com
 learn.cisecurity.org
 cjb.net
@@ -248,9 +254,11 @@ a8onlineshop.trendmicro.co.jp
 pvtag.yahoo.co.jp
 com.com
 baixaki.com.br
+clarins.com.cn
 afiliados.hostgator.com.br
 iask.com.cn
 tm.jsuol.com.br
+rayli.com.cn
 rdstation.com.br
 comagic.ru
 complexmedianetwork.com
@@ -347,11 +355,13 @@ www.easycounter.com
 easyflirt.com
 easyrencontre.com
 easysol.net
+ebates.com
 ebayclassifiedsgroup.com
 eboundservices.com
 www.eboundservices.com
 analytics.edgekey.net
 79423.analytics.edgekey.net
+chnu.edu.ua
 eindependencia.edu.mx
 sea.net.edu.cn
 effiliation.com
@@ -394,6 +404,7 @@ exosrv.com
 extreme-ip-lookup.com
 ezoic.net
 fapcat.com
+faptitans.com
 mparticle.map.fastly.net
 www.fastly-analytics.com
 fave.co
@@ -567,6 +578,7 @@ nexus.officeapps.live.com
 nexusrules.officeapps.live.com
 player.stats.live-video.net
 blogroll.livedoor.net
+livefyre.com
 livejasmin.com
 www.livejasmin.com
 server.iad.liveperson.net
@@ -693,6 +705,8 @@ www.npttech.com
 m1.nsimg.net
 m2.nsimg.net
 ntv.io
+nuskin.com
+www.nuskin.com
 www.nutaku.com
 ad.nwi.jp
 ens.nzz.ch
@@ -954,6 +968,7 @@ rmp.rakuten.com
 s-bid.rmp.rakuten.com
 ssp.rambler.ru
 ravm.tv
+real.com
 realsrv.com
 redirectingat.com
 redirectme.net
@@ -1153,6 +1168,7 @@ uptodatefinishconferenceroom.com
 uralweb.ru
 urbanairship.com
 device-api.urbanairship.com
+search.us.com
 userreport.com
 by.uservoice.com
 valuecommerce.com

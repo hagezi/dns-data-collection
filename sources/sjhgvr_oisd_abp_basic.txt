@@ -3163,10 +3163,12 @@ ad-admin.vnay.vn
 adadvisor.net
 ad.ae.doubleclick.net
 ad.aflamk1.net
+adagency1.com
 adagency.digital
 adagiobanner.s3.amazonaws.com
 adagionet.com
 adalgard-wol.com
+ad.aliceadsl.fr
 adalizer.com
 adalliance.io
 ad.aloodo.com
@@ -3833,6 +3835,7 @@ adisantarosaoreamuno.com
 adisfy.com
 adishankaracharyavedic.com
 adisn.com
+adisnet.com
 adispeedshop.com
 ad.it.doubleclick.net
 aditic.net
@@ -4245,6 +4248,7 @@ adomic.com
 adomik.com
 adomv.com
 adoneast.ru
+adone.com
 adone.ru
 adon.io
 adonion.com
@@ -4959,6 +4963,7 @@ adserver.directforce.com
 adserver.dotmusic.com
 adserver-e7.com
 adserver.emulation64.com
+adserver.esdirecto.com
 ad-server.eu
 adserver.filefront.com
 adserver.friendfinder.com
@@ -5081,6 +5086,7 @@ adserv.newcentury.net
 adservone.com
 adserv.postbulletin.com
 adserwer.xwords.pl
+ads.espaciolatino.com
 adsessionserv.com
 ad.setn.com
 adsettings.com
@@ -5316,6 +5322,7 @@ ads.livetv314.me
 adsloading.com
 adsloads.com
 adsloboclick.com
+ads.localhost.net.ar
 adslog.apexinnotech.com
 ads.lomadee.com
 adsloom.com
@@ -5431,15 +5438,18 @@ ads.northjersey.com
 adsnot.1javguru.xyz
 adsnot.1supjav.xyz
 ads.novinhagostosa10.com
+ads.noxvo.com
 ads.nyatider.nu
 ads.nyi.net
 ads.nytimes.com
 ads.nyx.cz
 ads.nzcity.co.nz
 ads.o2.pl
+ads.ociomedia.com
 ads.oddschecker.com
 adsoftware.com
 adsoftware.top
+ads.oi.com.br
 ads.okcimg.com
 adsoldier.com
 ads.ole.com
@@ -5457,6 +5467,7 @@ ads.o-networkaffiliates.com
 adsonflags.com
 ads.online.ie
 ads.ontarget.mobi
+ads.ontecnia.com
 ads.open.pl
 ads.opensubtitles.org
 ads.oppomobile.com
@@ -6372,6 +6383,7 @@ ad.wz.cz
 adx1.com
 adx2.adform.net
 adx3.adform.net
+adx.3sfmedia.com
 adx.adform.net
 adxadserv.com
 adxadtracker.com
@@ -6597,6 +6609,7 @@ affilae.com
 affilbox.cz
 affiliago.it
 affiliando.com
+affiliason.com
 affiliate.1800flowers.com
 affiliate.2mdn.net
 affiliate6.com
@@ -9572,6 +9585,7 @@ apavskmykcm.xyz
 apba.org.pk
 apc.edu.pk
 ap.cpatrk.net
+a-p-c-t.fr
 apdc3n.adpushup.com
 ap.delfi.ee
 apdigitalorg.112.2o7.net
@@ -13388,6 +13402,7 @@ befirstcdn.com
 beforehanddonkeyannouncement.com
 beforehandeccentricinhospitable.com
 beforetours.com
+before-you-go.com
 befrec.com
 befreeselling.com
 befriendgenialviscount.com
@@ -19025,6 +19040,7 @@ clickz.com
 click.zmctrack.net
 clickzs.com
 clickzzs.nl
+clicletters.com
 clicmanager.fr
 clicqueame.com
 clicvortex.com
@@ -21380,6 +21396,7 @@ crmx.eqvn.net
 crnsgngrpj.nl
 croakkeepingstable.com
 croap.org.br
+crobanner.com
 crocodile.brightonruby.com
 crocodileriverretreat.co.za
 crocopop.com
@@ -28325,6 +28342,7 @@ etaf.ci
 etahub.com
 etaillabs.com
 etapescaisse.com
+etarget.hu
 etargetnet.com
 etarg.ru
 etc.atja.jp
@@ -29507,6 +29525,7 @@ fascinatedgreetedgerminate.com
 fascinatingappraisalunderestimate.com
 fasferesa.com
 fashion41.co
+fashion4young.de
 fashionabacus.com
 fashionablegangsterexplosion.com
 fashionbayhyd.com
@@ -30598,6 +30617,7 @@ flonase.1.p2l.info
 flonase.3.p2l.info
 flonase.4.p2l.info
 flongssecos.com
+flonty.com
 floodgatebrokers.com
 floodingdaredsanctuary.com
 floodingonion.com
@@ -38589,6 +38609,7 @@ innovablinds.com
 innova.com.bo
 innovaexpress.co
 innovafact.pe
+innovafox.com
 innovaideas.net
 innovanaglobal.com
 innovartstudio.com
@@ -39368,6 +39389,7 @@ irtshop-destok.com
 irtshop-promo.com
 irtyc.com
 ir-uk.amazon-adsystem.com
+irun.org
 irvate.com
 irxcm.com
 is2a.mx
@@ -43246,6 +43268,7 @@ leojmp.com
 leokross.com
 leomonde.fr
 leona2.mom
+leonab.com
 leonardoadv.it
 leonardoconcon.com.br
 leonelbrim.com
@@ -49117,6 +49140,7 @@ multimdis.com
 multimediamars.com
 multimedia-projector.katrina.ru
 multimeter-digital.com
+multimilltrackz2.com
 multinet.com.co
 multipard.com
 multipartyshop.com
@@ -49445,6 +49469,7 @@ myekisan.com
 my.electricbalance.com
 my-eu.info
 myexclusiverewards.com
+myfactoryjob.fr
 myfamilyancestry.112.2o7.net
 myfarezone.net
 myfarmdata.io
@@ -51712,6 +51737,7 @@ nuvemnerd.com.br
 nuvgov.com
 nuvzuha.com
 nuwatekno.com
+nuxues.com
 nv.5.p2l.info
 nv6m.com
 nvdtechnology.com
@@ -51840,6 +51866,7 @@ oads.cracked.com
 oadsouzi.net
 oadz.com
 oafishobservation.com
+oafschamois.live
 oafsevasive.com
 oaftaijo.net
 oagnatch.com
@@ -53252,6 +53279,7 @@ ort-stsdk.vivo.com.cn
 orts.wixawin.com
 orvic.com.co
 orvilletourer.guru
+osadspro.com
 osamaeldrieny.com
 osam.org.ar
 osareoil.ir
@@ -55333,6 +55361,7 @@ pickytime.com
 piclick.kr
 picmedia.biz
 picolittos.com.br
+picpousa.fr
 picrnt.org.pk
 pics99.cumlouder.com
 pics99.porn300.com
@@ -55817,6 +55846,7 @@ playerasguadalajara.com
 playerassist.com
 player.ex.co
 player-feedback.p7s1video.net
+player.gliacloud.com
 player.kmpmedia.net
 player.movenetworks.com
 playersaid.com
@@ -59308,6 +59338,7 @@ rbrmotors.com.br
 r.browser.miui.com
 rbrxg.com
 rbsoftwares.in
+rbstobovaw.narod.ru
 rbsvmunnao.org.in
 rbthindic.xyz
 rbthre.work
@@ -60457,6 +60488,7 @@ revenuedirect.com
 revenueflex.com
 revenuegiants.com
 revenuehits.com
+revenue.infi.net
 revenuemantra.com
 revenue.net
 revenuenetwork.com
@@ -80522,6 +80554,7 @@ yourwebdesignguru.com
 yourwowfeed.com
 yourwownews.com
 yourwownewz.com
+yousaytoo.com
 youseat.com.br
 youshouge513.cn
 yousongstube.agency

@@ -52,6 +52,7 @@ www.88p2p.com
 www.973.com
 991.com
 www.991.com
+9k.gg
 9nl.com
 9wee.com
 www.9wee.com
@@ -1227,7 +1228,6 @@ livefyre.com
 livejasmin.com
 www.livejasmin.com
 liveperson.net
-adminlogin.liveperson.net
 iad.liveperson.net
 server.iad.liveperson.net
 lptag.liveperson.net
@@ -1551,6 +1551,8 @@ www.npttech.com
 m1.nsimg.net
 m2.nsimg.net
 ntv.io
+nuskin.com
+www.nuskin.com
 cdn1-images.nutaku.com
 www.nutaku.com
 events.gfe.nvidia.com
@@ -2034,7 +2036,6 @@ stats.paypal.com
 b.stats.paypal.com
 t.paypal.com
 pcapredict.com
-hawk.pcgamer.com
 www.pcgamesupply.com
 peerius.com
 intersport.peerius.com
@@ -2716,8 +2717,11 @@ sharethis.com
 ws.sharethis.com
 www.sharethis.com
 sharpay.io
+sheerid.net
 content.sheerid.com
 marketing.sheerid.com
+orgsearch.sheerid.net
+platform-redirector-prod.sheerid.net
 shnyagi.net
 shoebuy.com
 www.shoebuy.com

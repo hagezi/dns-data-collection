@@ -5,7 +5,6 @@ www.finden.tk
 search.gougeul.org
 searx.guillaumea.fr
 searx.handskemager.xyz
-searx.kvch.me
 searx.lambda.li
 searx.laquadrature.net
 searx.likkle.monster

@@ -342,6 +342,7 @@ first-vpn.info
 firstvpn.info
 fitschevpnt.tk
 fjazzpostvpn.tk
+dns.flatuslifir.is
 forex-0vpnmanage.tk
 forex-vpn-tunneltkgs.tk
 forex-vpn-tunneltkgssb.tk
@@ -382,7 +383,6 @@ freebestvpn.info
 freedom.cx
 freedom-vpn.info
 freedom-vpn.tk
-freedomvpn.ga
 freefastvpn.info
 freemobilevpn.tk
 freenewvpn.info
@@ -445,7 +445,6 @@ germanyvpns.tk
 getfreevpnusa.tk
 getvpn.cf
 getvpn.ga
-getvpn.info
 global-proxy.com
 globalvpn.info
 gold-vpn.info
@@ -587,7 +586,6 @@ lifevpn.info
 linksonlyeusavpn.tk
 litevpn.top
 lmpproxyssurfukvpn.tk
-lookingglass.site
 lovely-vpn.tk
 lowpricedvpn.info
 lxvpn-proxy.tk
@@ -699,12 +697,10 @@ personalvpn.tk
 phere-free-vpn.tk
 phpvpn12.tk
 pleasantvpn.info
-polandgrows.com
 pollproxy.info
 porn-vpn.tk
 pptp-vpn.tk
 privatevpn.tk
-pro-unblock.com
 prodialoglvpn.tk
 prodialoglvpns.tk
 prox-goodvpntks.tk
@@ -748,7 +744,6 @@ proxyebayoanonymovpns.tk
 proxyebayoanonymovpns0.tk
 proxyfanssvpn.tk
 proxyfanssvpns.tk
-proxyisp.com
 proxylikelys-vpn.tk
 proxyportals.info
 proxyserverfree.net
@@ -824,8 +819,6 @@ slightfreevpnusunblock.tk
 doh.dns.snopyta.org
 fi.doh.dns.snopyta.org
 fi.dot.dns.snopyta.org
-softvpn.ml
-spanproxy.com
 speedvpns.tk
 speedvpnyproxyiss.tk
 speedy-vpn.tk

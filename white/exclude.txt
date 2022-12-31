@@ -8685,6 +8685,7 @@ mastodon.uno
 mastodon.world
 mastodon.zaclys.com
 masto.es
+masto.nobigtech.es
 masto.nu
 masto.pt
 mastouille.fr
@@ -9590,6 +9591,7 @@ nn.de
 nnmstatic.win
 noaa.gov
 nobaeg.de
+nobigtech.es
 nobledesktop.com
 noc.social
 *.no-go.kelkoogroup.net
@@ -9774,6 +9776,7 @@ nuinvest.com.br
 nulled.to
 nu.nl
 nus.edu
+nuskin.com
 nutaku.com
 nutaku.net
 nutshell.com
@@ -12370,6 +12373,7 @@ s.hbrcdn.com
 sh.cn
 *.sheerid.com
 sheerid.com
+*.sheerid.net
 shein.com
 shieldsgazette.com
 shiftapis.com
@@ -14675,7 +14679,6 @@ uiccu.org
 uifr.ru
 uim.tifbs.net
 ui.skype.com
-uiuxdev.social
 ui.xboxlive.com
 *.uk-go.kelkoogroup.net
 uk-go.kelkoogroup.net
@@ -21306,6 +21309,7 @@ www.nn.de
 www.nnmstatic.win
 www.noaa.gov
 www.nobaeg.de
+www.nobigtech.es
 www.nobledesktop.com
 www.noc.social
 www.noho.st
@@ -21386,6 +21390,7 @@ www.nuernberg.de
 www.nulled.to
 www.nu.nl
 www.nus.edu
+www.nuskin.com
 www.nutaku.com
 www.nutaku.net
 www.nutshell.com
@@ -24421,7 +24426,6 @@ www.ug.cz
 www.ui8.ru
 www.uiccu.org
 www.uifr.ru
-www.uiuxdev.social
 www.ukmail.com
 www.ukoeln.de
 www.ukrgasbank.com
