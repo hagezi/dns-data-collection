@@ -1387,7 +1387,6 @@ pushwelcome.com
 pvmax.net
 pv.sohu.com
 pw.analytics.console.aws.a2z.com
-pxf.io
 p.yotpo.com
 pyzx.xyz
 q4ee.top
@@ -2053,6 +2052,7 @@ zahl4tf5z.world
 zahl4tf5z.xyz
 zahrvfbd.xyz
 zaqedc.top
+zasjfget.xyz
 zax01.com
 z.cdp-dev.cnn.com
 zcrui.com
@@ -2081,6 +2081,7 @@ zllxy.love
 zorosrv.com
 zqsj.xyz
 zsmyzg.cn
+zswl.so
 zuibandao.club
 zuqiuju.com
 zwdq.xyz

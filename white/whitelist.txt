@@ -60,6 +60,7 @@ aax-fe.amazon.co.jp
 aax-fe.amazon.com
 aax-fe.amazon.com.au
 aax-fe.amazon.sg
+c.amazon-adsystem.com
 
 # Amazon Video
 *.aiv-cdn.net
@@ -161,6 +162,7 @@ ns1.dropbox.com
 ns2.dropbox.com
 
 # Facebook
+*.c10r.facebook.com
 *graph-video.facebook.com
 *graph.facebook.com
 *graph.fbpigeon.com
@@ -201,6 +203,7 @@ raw.githubusercontent.com
 # Google
 *.android.pool.ntp.org
 *.client-channel.google.com
+*.clients*.google.com
 *.googlemail.com
 *.gstaticadssl.l.google.com
 accounts.google.com
@@ -211,19 +214,19 @@ analyticssearch-pa.googleapis.com
 android-context-data.googleapis.com
 android-safebrowsing.google.com
 android.apis.google.com
-android.clients.google.com
 android.googleapis.com
 androidwearcloudsync-pa.googleapis.com
 apis.google.com
-appsbackup-pa.clients6.google.com
 appsbackup-pa.googleapis.com
 calendar.google.com
 calendarsync-pa.googleapis.com
-clients*.google.com
+chat-dl.google.com
 clientservices.googleapis.com
 cloudsearch.googleapis.com
 commondatastorage.googleapis.com
 connectivitycheck.gstatic.com
+consent.google.com
+contacts.google.com
 content-autofill.googleapis.com
 cryptauthdevicesync.googleapis.com
 cryptauthenrollment.googleapis.com
@@ -252,6 +255,7 @@ gnpfesdk-pa.googleapis.com
 google.com
 google.de
 googleapis.com
+googlemail.l.google.com
 growth-pa.googleapis.com
 gsacollections-pa.googleapis.com
 gstatic.com
@@ -290,11 +294,13 @@ play.google.com
 play.googleapis.com
 playatoms-pa.googleapis.com
 playmoviesdfe-pa.googleapis.com
+plus.l.google.com
 reach-pa.googleapis.com
 redirector.googlevideo.com
 safebrowsing.google.com
 safebrowsing.googleapis.com
 save-pa.googleapis.com
+sb-ssl.google.com
 securetoken.googleapis.com
 securitydomain-pa.googleapis.com
 semanticlocation-pa.googleapis.com
@@ -317,6 +323,8 @@ userlocation.googleapis.com
 video-stats.l.google.com
 voilatile-pa.googleapis.com
 voledevice-pa.googleapis.com
+wallet.google.com
+www3.l.google.com
 xgapromomanager-pa.googleapis.com
 youtube-ui.l.google.com
 youtubei.googleapis.com
@@ -848,7 +856,7 @@ t.paypal.com
 cdn.elev.io
 
 # Upload Crash report
-# in.appcenter.ms
+in.appcenter.ms
 
 # Deploy mobile app updates directly to devices
 codepush.appcenter.ms
@@ -941,6 +949,7 @@ chip.com.tr
 
 # survey-based insights
 cint.com
+*.asynchronousmessaging.dashboard.co.uk
 
 # Calssmates site
 classmates.com
@@ -2073,6 +2082,7 @@ surveymyopinion.researchnow.com
 
 # Customer live chat support
 liveperson.com
+adminlogin.liveperson.net
 
 # https://github.com/hagezi/dns-blocklists/issues/96
 *.arc.epoq.de
@@ -2205,4 +2215,14 @@ majorgeeks.com
 
 # https://github.com/hagezi/dns-blocklists/issues/133
 stacksocial.com
+
+# Parcel tracking
+track.goshippo.com
+
+# Mandrill Mailchimp add-on - requesting a password, placing an order, links in emails, ...
+mandrillapp.com
+
+# https://github.com/hagezi/dns-blocklists/issues/136
+amazonforum.com
+d1bd3wxsyuz0t7.cloudfront.net
 

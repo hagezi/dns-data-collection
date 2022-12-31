@@ -336,6 +336,7 @@ wmlog.meituan.com
 metamark.net
 www.metamark.net
 api.bingads.microsoft.com
+adinsight.api.bingads.microsoft.com
 campaign.api.bingads.microsoft.com
 clientcenter.api.bingads.microsoft.com
 partner.api.bingads.microsoft.com

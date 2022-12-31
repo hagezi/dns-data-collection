@@ -244,6 +244,7 @@ glnk.io
 href.li
 sites.hscoscdn20.net
 sites.hscoscdn40.net
+mandrillapp.com
 go.microsoft.com
 target.microsoft.com
 image.email.microsoftemail.com

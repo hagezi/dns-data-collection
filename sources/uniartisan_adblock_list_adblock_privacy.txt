@@ -10455,6 +10455,7 @@ follow.megghanthompsoncoaching.com
 follow.thechelsealaboratory.com
 foodpackaging.kpfilms.com
 footstepsgroup.actonservice.com
+forecast.huffingtonpost.fr
 forecasttiger.com
 foregoingfowl.com
 foretellfifth.com
@@ -11552,7 +11553,6 @@ hspbotdetection.azurewebsites.net
 hsprzf.shinhwaworld.com
 hssyje.theathletesfoot.com.au
 hstats.askmiso.com
-hstats.hepsiburada.com
 h.threatmetrix.com
 htiagq.sheplers.com
 htmgrl.jollyroom.no

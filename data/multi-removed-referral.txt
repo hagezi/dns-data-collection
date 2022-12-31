@@ -86,7 +86,6 @@ offerscience.go2jump.org
 option.go2jump.org
 h0.t.hubspotemail.net
 linkto-ext-hp-com.ct.impactradius.com
-ad.list-manage.com
 paypal-verifications.us12.list-manage.com
 relaunchme.us15.list-manage.com
 instgram.us16.list-manage.com

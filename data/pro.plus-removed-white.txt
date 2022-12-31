@@ -52,7 +52,6 @@ www.88p2p.com
 www.973.com
 991.com
 www.991.com
-9k.gg
 9nl.com
 9wee.com
 www.9wee.com
@@ -180,6 +179,7 @@ www.amateurseite.com
 aan.amazon.com
 aax-us-iad.amazon.com
 amazon-adsystem.com
+c.amazon-adsystem.com
 kinesis.ap-southeast-1.amazonaws.com
 3fzst3kk8h.execute-api.eu-west-1.amazonaws.com
 6n2x6wg3fc.execute-api.eu-west-1.amazonaws.com
@@ -231,6 +231,7 @@ anura.io
 www.any.gs
 appcast.io
 codepush.appcenter.ms
+in.appcenter.ms
 appconsent.io
 cdn.appconsent.io
 collector.appconsent.io
@@ -523,6 +524,7 @@ clickmeter.com
 www.clickmeter.com
 cloudflareinsights.com
 www.cloudflareinsights.com
+d1bd3wxsyuz0t7.cloudfront.net
 d1lxz4vuik53pc.cloudfront.net
 d26b395fwzu5fz.cloudfront.net
 d291vdycu0ht11.cloudfront.net
@@ -931,6 +933,8 @@ www.goldilockstraining.com
 goodsearch.com
 www.goodsearch.com
 ads.google.com
+linkhelp.clients.google.com
+analytics.clients6.google.com
 id.google.de
 appspot-preview.l.google.com
 googleadapis.l.google.com
@@ -1223,6 +1227,7 @@ livefyre.com
 livejasmin.com
 www.livejasmin.com
 liveperson.net
+adminlogin.liveperson.net
 iad.liveperson.net
 server.iad.liveperson.net
 lptag.liveperson.net

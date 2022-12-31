@@ -419,6 +419,7 @@ ab13.mktossl.com
 abank.com.tr
 a-bank.com.ua
 abbr.sk
+abc11.tv
 abc7.la
 abc7ne.ws
 abcbank.de
@@ -600,6 +601,7 @@ admin.52ywp.com
 admin.ch
 admin.dable.io
 adminion.n-blade.ru
+adminlogin.liveperson.net
 admin.videoenpoche.info
 admitad.com
 ad.nl
@@ -1335,6 +1337,7 @@ amazon.co.uk
 amazoncrl.com
 amazon.de
 amazon.es
+amazonforum.com
 amazon.fr
 amazon.in
 amazon.it
@@ -1649,7 +1652,6 @@ app.opencdn.co
 *.app.plex.tv
 *.apps.apple.com
 apps.apple.com
-appsbackup-pa.clients6.google.com
 appsbackup-pa.googleapis.com
 appscdn.camilyo.software
 apps.cybonline.co.uk
@@ -1799,6 +1801,7 @@ astrr.ru
 asus.click
 asus.com
 asviobank.ua
+*.asynchronousmessaging.dashboard.co.uk
 atabank.com
 at.adtech.redventures.io
 atatus.com
@@ -2824,6 +2827,7 @@ by.uservoice.com
 bzfd.it
 bzh.me
 bz.tracker.bz
+*.c10r.facebook.com
 c10r.facebook.com
 c-1.mreadercdn.ru
 c2.piano.io
@@ -2856,6 +2860,7 @@ calyxinstitute.org
 calyxos.org
 cam4.es
 cam.ac.uk
+c.amazon-adsystem.com
 cambridge.org
 camelcamelcamel.com
 camera.lei001.com
@@ -2998,6 +3003,7 @@ cdn23720755.blazingcdn.net
 cdn-2.gamecoast.org
 cdn-33.2phimhay.net
 cdn77.monster
+cdn77.org
 cdn.abcotvs.com
 cdn.abcotvs.net
 cdn.agilebits.com
@@ -3177,6 +3183,7 @@ chasecanada.ca
 chasecdn.com
 chase.com
 chase.co.uk
+chat-dl.google.com
 chat-*.facebook.com
 chat.fairydust.space
 chat.kuki.ai
@@ -3448,7 +3455,7 @@ clients5.google.com
 clients6.google.com
 clientservices.googleapis.com
 client-s.gateway.messenger.live.com
-clients*.google.com
+*.clients*.google.com
 clients.google.com
 client.simplecoin.eu
 clients.l.google.com
@@ -3787,6 +3794,7 @@ consent.cookiefirst.com
 consent.dk
 consent.faz.net
 consentframework.com
+consent.google.com
 consent.gutefrage.net
 consent-manager-events.ogury.io
 consentmanager.mgr.consensu.org
@@ -3809,6 +3817,7 @@ constans.ru
 constantcontact.com
 construction21.org
 conta.cc
+contacts.google.com
 content.24ttl.stream
 content.aimatch.com
 content-autofill.googleapis.com
@@ -4083,6 +4092,7 @@ d.0fmm.com
 d.0mme.com
 d13itkw33a7sus.cloudfront.net
 d16s8pqtk4uodx.cloudfront.net
+d1bd3wxsyuz0t7.cloudfront.net
 d.1enm.com
 d1lxz4vuik53pc.cloudfront.net
 d1oxlq5h9kq8q5.cloudfront.net
@@ -4534,6 +4544,7 @@ dpd.de
 dp-gw-*.amazon.com
 dpiui.reedlan.com
 dpm.demdex.net
+dpo.st
 dp.ua
 dpurl.org
 dqa.samsung.com
@@ -5139,6 +5150,7 @@ events.data.trafficmanager.net
 events.gfe.nvidia.com
 events.release.narrativ.com
 everesttech.net
+everri.ch
 evert.net
 every1dns.net
 everydayporn.co
@@ -5227,6 +5239,7 @@ f1tv-cdn-cent-east.formula1.com.c.footprint.net
 f1tv-cdn-cent-live.formula1.com.c.footprint.net
 f1tv-cdn-cent-west.formula1.com.c.footprint.net
 f1tv-livedata.formula1.com
+f5yo.com
 fa.by
 facebook2.poker.zynga.com
 facebook.com
@@ -5259,6 +5272,7 @@ fapcat.com
 fapgrams.com
 fappenist.com
 faptitans.com
+faras.link
 fark.com
 fark.net
 farmersebank.com
@@ -5851,6 +5865,7 @@ gigacloud.ua
 *.giga.cube
 gigatorrents.ws
 gigatribe.com
+gigaz.in
 *.gigya.com
 gigya.com
 gin.ntt.net
@@ -6167,6 +6182,7 @@ google.lu
 google.lv
 google.ma
 *.googlemail.com
+googlemail.l.google.com
 google.md
 google.me
 google.meet
@@ -6262,6 +6278,7 @@ gorod23.ru
 gorod-812.ru
 gorzdrav.spb.ru
 go.scorptec.com.au
+goshippo.com
 go.shr.lc
 gosi.go.kr
 *.go.skimresources.com
@@ -6575,6 +6592,7 @@ hilton.com
 himg.nl
 hindustantimes.com
 hintertuxergletscher.at
+hi.sat.cool
 hisense.com
 hismileteeth.com
 hispace.hicloud.com
@@ -7293,6 +7311,7 @@ imwx.com
 *.in-addr.arpa
 in-addr.arpa.manitu.net
 in.agri-bank.com
+in.appcenter.ms
 inappcheck*.apple.com
 in-bank.ru
 inbiz.intesasanpaolo.com
@@ -9258,6 +9277,7 @@ my.plexapp.com
 my.pochtabank.ru
 mypoints.com
 myporn.club
+mypoya.com
 myppt.cc
 myqcloud.com
 myseria.pro
@@ -9924,6 +9944,7 @@ onedscolprd*.cloudapp.azure.com
 oneline.nextday.media
 *.onelink.me
 onelink.me
+onelink.to
 onelink-translations.com
 *.onenetworkdirect.net
 onenetworkdirect.net
@@ -10720,6 +10741,7 @@ plus-bank.ru
 plus.google.com
 plu.sh
 plus.im
+plus.l.google.com
 pl.wikipedia.org
 plytv.swarm.video
 pmdstatic.net
@@ -11996,6 +12018,7 @@ sas.com
 sas.samsungcloudsolution.com
 sa.symcb.com
 sat1.de
+sat.cool
 saturn.de
 sauberbank.com
 saurik.com
@@ -12026,6 +12049,7 @@ sbroker.de
 sbsbank.co.nz
 sbsibank.by
 sbsne.ws
+sb-ssl.google.com
 sbsub.com
 sbtonline.in
 sbux.co
@@ -12299,6 +12323,7 @@ sexsaoy.com
 sexyxxx.biz
 sf16.byteicdn.com
 sf16-sg-tos.ressocdn.com
+sf3c.tw
 sfba.social
 sfcne.ws
 sfconservancy.org
@@ -13591,6 +13616,7 @@ tasks-pa.googleapis.com
 tasvideos.org
 tatrabanka.sk
 tatsotsbank.ru
+tatung.site
 taunussparkasse.de
 tau.pe
 tavrich.ru
@@ -14364,6 +14390,7 @@ tracker.zekun.fun
 tracker.zemoj.com
 tracker.zerobytes.xyz
 tracker.zum.bi
+track.goshippo.com
 tracking.dpd.de
 tracking.epicgames.com
 tracking.exposed
@@ -15613,6 +15640,7 @@ wallet.advcash.com
 wallet.best
 wallet.bitcoin.com
 wallet.btc.com
+wallet.google.com
 wallet.rapida.ru
 walmart.com
 wambo.club
@@ -15741,6 +15769,7 @@ wesendit.com
 wespa.de
 westerwaldbank.de
 westkreis.de
+westm.in
 westpac.com.au
 westpac.co.nz
 wetransfer.com
@@ -16046,6 +16075,7 @@ www.3dsecure.no
 www.3dxchat.com
 www.3kb.xyz
 www.3le.ru
+www3.l.google.com
 www.3.ly
 www.3obieg.pl
 www.3ra.be
@@ -16153,6 +16183,7 @@ www.aareal.com
 www.aarsen.me
 www.aave.com
 www.abbr.sk
+www.abc11.tv
 www.abc7.la
 www.abc7ne.ws
 www.abcbank.de
@@ -16429,6 +16460,7 @@ www.amazon.com
 www.amazoncrl.com
 www.amazon.de
 www.amazon.es
+www.amazonforum.com
 www.amazon.fr
 www.amazon.in
 www.amazon.it
@@ -17391,6 +17423,7 @@ www.cdc.gov
 www.cdd5090t.tk
 www.cdm24.pl
 www.cdn77.monster
+www.cdn77.org
 www.cdn-apple.com
 www.cdnbunny.org
 www.cdngc.net
@@ -18160,6 +18193,7 @@ www.downforeveryoneorjustme.com
 www.download.windowsupdate.com
 www.dpbolvw.net
 www.dpd.de
+www.dpo.st
 www.dp.ua
 www.dpurl.org
 www.draw.io
@@ -18511,6 +18545,7 @@ www.evbstatic.com
 www.evenordbank.de
 www.eventbrite.com
 www.everesttech.net
+www.everri.ch
 www.evert.net
 www.every1dns.net
 www.everydayporn.co
@@ -18561,6 +18596,7 @@ www.ezoic.net
 www.ezurl.cc
 www.f1.com
 www.f1sh.de
+www.f5yo.com
 www.fa.by
 www.facebook.com
 www.facebookcorewwwi.onion
@@ -18587,6 +18623,7 @@ www.fapcat.com
 www.fapgrams.com
 www.fappenist.com
 www.faptitans.com
+www.faras.link
 www.fark.com
 www.fark.net
 www.farmersebank.com
@@ -19005,6 +19042,7 @@ www.gifts.com
 www.gigacloud.ua
 www.gigatorrents.ws
 www.gigatribe.com
+www.gigaz.in
 www.gigya.com
 www.giphy.com
 www.giraitalia.it
@@ -19274,6 +19312,7 @@ www.gopjn.com
 www.gorcomnet.ru
 www.gorod23.ru
 www.gorod-812.ru
+www.goshippo.com
 www.gosuslugi.ru
 www.got.cr
 www.gotinder.com
@@ -21055,6 +21094,7 @@ www.myob.com
 www.mypaste.fun
 www.mypoints.com
 www.myporn.club
+www.mypoya.com
 www.myppt.cc
 www.myqcloud.com
 www.myseria.pro
@@ -21466,6 +21506,7 @@ www.one.com
 www.onecount.net
 www.onedrive.com
 www.onelink.me
+www.onelink.to
 www.onelink-translations.com
 www.onenetworkdirect.net
 www.one.one
@@ -22842,6 +22883,7 @@ www.sapo.pt
 www.sascdn.com
 www.sas.com
 www.sat1.de
+www.sat.cool
 www.saturn.de
 www.sauberbank.com
 www.saurik.com
@@ -23000,6 +23042,7 @@ www.sevstar.net
 www.sexemulator.com
 www.sexsaoy.com
 www.sexyxxx.biz
+www.sf3c.tw
 www.sfba.social
 www.sfcne.ws
 www.sfconservancy.org
@@ -23872,6 +23915,7 @@ www.tas24.ua
 www.tasvideos.org
 www.tatrabanka.sk
 www.tatsotsbank.ru
+www.tatung.site
 www.taunussparkasse.de
 www.tau.pe
 www.tavrich.ru
@@ -25204,6 +25248,7 @@ www.wesendit.com
 www.wespa.de
 www.westerwaldbank.de
 www.westkreis.de
+www.westm.in
 www.wetransfer.com
 www.wettercomassets.com
 www.wfcdn.de

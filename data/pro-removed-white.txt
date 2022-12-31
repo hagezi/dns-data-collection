@@ -98,6 +98,7 @@ clickcease.com
 clickdimensions.com
 clickmeter.com
 cloudflareinsights.com
+d1bd3wxsyuz0t7.cloudfront.net
 cmswrexham.com
 sa.bbc.co.uk
 mybbc-analytics.files.bbci.co.uk
@@ -238,9 +239,7 @@ analytics.meituan.net
 metaffiliation.com
 micpn.com
 api.bingads.microsoft.com
-campaign.api.bingads.microsoft.com
-clientcenter.api.bingads.microsoft.com
-partner.api.bingads.microsoft.com
+adinsight.api.bingads.microsoft.com
 browser.events.data.microsoft.com
 statsfe2.update.microsoft.com
 vlscppe.microsoft.com
