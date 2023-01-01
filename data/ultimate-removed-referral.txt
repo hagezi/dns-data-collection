@@ -258,7 +258,6 @@ prf.hn
 ct.sendgrid.net
 open.spotify.com
 wl.spotify.com
-t.co
 ads.twitter.com
 analytics.twitter.com
 syndication.twitter.com

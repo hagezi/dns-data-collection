@@ -2229,3 +2229,39 @@ d1bd3wxsyuz0t7.cloudfront.net
 # verifying student status in YT Music or YT
 *.sheerid.net
 
+# Image sharing
+i.imgci.com
+
+# blocks espncricinfo's cricket statistics
+stats.espncricinfo.com
+
+# embedded widget chat service
+cbox.ws
+
+# Ticket Shop
+viagogo.de
+
+# Camouflage encyclopedia
+camopedia.org
+
+# gaming accessories
+sharkoon.com
+
+# aikQ Mail
+aikq.de
+
+# Shop
+airydress.com
+
+# Movie Streaming
+1kinobig.ru
+
+# ADLER Shop
+adlermode.com
+
+# Video Streaming
+*.videoland.com
+
+# Game
+clickerheroes.com
+

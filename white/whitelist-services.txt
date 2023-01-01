@@ -226,6 +226,7 @@ nflxext.com
 nflximg.net
 nflxso.net
 nflxvideo.net
+masto.nobigtech.es
 noc.social
 norden.social
 nrw.social
@@ -256,7 +257,6 @@ roblox.com
 robloxcdn.com
 rollenspiel.social
 ruby.social
-ruhr.social
 edge-skype-com.s-0001.s-msedge.net
 sc-cdn.net
 scdn.co
