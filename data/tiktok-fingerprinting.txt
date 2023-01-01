@@ -6,9 +6,12 @@ analytics-exp.us.tiktok.com
 analytics-sg.tiktok.com
 analytics-test.tiktok.com
 analytics.tiktok.com
+analytics.tiktokv.com
 analytics.us.tiktok.com
 applog.snssdk.com
 blog.byteoversea.com
+blogs.tiktok.com
+blogs.tiktokv.com
 blog.tiktok.com
 blog.tiktokv.com
 cdnlog-va-useast2a.byteoversea.com
@@ -112,6 +115,7 @@ log.byteoversea.com
 log-hl.snssdk.com
 log-i18n.tiktokv.com
 login.tiktok.com
+login.tiktokv.com
 log-lq.snssdk.com
 log-phx.tiktokv.com
 log-ru.tiktokv.com

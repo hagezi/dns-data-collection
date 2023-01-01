@@ -105,6 +105,7 @@ www.admitad.com
 ereg.adobe.com
 adobedtm.com
 assets.adobedtm.com
+www.adobedtm.com
 adocean.pl
 myao.adocean.pl
 www.adocean.pl
@@ -244,6 +245,7 @@ smoot.apple.com
 api.smoot.apple.com
 api-aka.smoot.apple.com
 daypass.api-aka.smoot.apple.com
+api-demo-mes.smoot.apple.com
 api-glb.smoot.apple.com
 daypass.api-glb.smoot.apple.com
 api-glb-aapne1a.smoot.apple.com
@@ -600,7 +602,6 @@ consentframework.com
 choices.consentframework.com
 consentmanager.net
 lbnew.consentmanager.net
-www.consentmanager.net
 conservativedailypost.com
 conta.cc
 get.contentpass.net
@@ -672,6 +673,7 @@ first-party-js.datadome.co
 com.first-party-js.datadome.co
 tidal.com.first-party-js.datadome.co
 dd.tidal.com.first-party-js.datadome.co
+sslgen-tidal.datadome.co
 datoporn.com
 www.datoporn.com
 dbankcloud.cn
@@ -795,7 +797,6 @@ carharttwip-de.arc.epoq.de
 carharttwip-gb.arc.epoq.de
 esmeyer-oxid6.arc.epoq.de
 gartenhaus-de.arc.epoq.de
-pinkorblue-be.arc.epoq.de
 pinkorblue-it.arc.epoq.de
 rebopharm24-de.arc.epoq.de
 rosebikes-de.arc.epoq.de
@@ -963,7 +964,6 @@ playmoviesdfe-pa.googleapis.com
 semanticlocation-pa.googleapis.com
 userlocation.googleapis.com
 googletagmanager.com
-ww.googletagmanager.com
 www.googletagmanager.com
 afs.googleusercontent.com
 gotraffic.net
@@ -996,7 +996,6 @@ hawalili.com
 beacon-v2.helpscout.net
 heroero.com
 heroeswm.ru
-www.heroeswm.ru
 hexun.com
 www.heytap.com
 heytapmobi.com
@@ -1069,8 +1068,10 @@ intelliad.de
 intercom.com
 api.intercom.io
 frontend-telemetry.intercom.io
+internal.intercom.io
 mobile-sdk-api.intercom.io
 b2r065l4-ios.mobile-sdk-api.intercom.io
+bkv28uhm-ios.mobile-sdk-api.intercom.io
 eriojnh3-android.mobile-sdk-api.intercom.io
 fjfoh75b-ios.mobile-sdk-api.intercom.io
 lk7fprhb-ios.mobile-sdk-api.intercom.io
@@ -1090,6 +1091,7 @@ inx.lv
 iocnt.net
 relay-client-c03.iocnt.net
 ioffer.com
+www.ioffer.com
 cloud-news.ionos.com
 iovation.com
 www.iovation.com
@@ -1158,7 +1160,6 @@ kizi10.org
 klaviyo.com
 a.klaviyo.com
 fast.a.klaviyo.com
-www.fast.a.klaviyo.com
 static.klaviyo.com
 klclick.com
 klclick1.com
@@ -1342,6 +1343,7 @@ p1.d.meituan.net
 p10.d.meituan.net
 p13.d.meituan.net
 p14.d.meituan.net
+p15.d.meituan.net
 p16.d.meituan.net
 p2.d.meituan.net
 p3.d.meituan.net
@@ -1409,11 +1411,13 @@ f5.market.mi-img.com
 micpn.com
 assets.micpn.com
 mmcapi.ads.microsoft.com
+mmcapi.ads-int.microsoft.com
 api.bingads.microsoft.com
 adinsight.api.bingads.microsoft.com
 campaign.api.bingads.microsoft.com
 clientcenter.api.bingads.microsoft.com
 partner.api.bingads.microsoft.com
+api.si.bingads.microsoft.com
 events.data.microsoft.com
 au-v10.events.data.microsoft.com
 au-v20.events.data.microsoft.com
@@ -1654,7 +1658,6 @@ a12600010354.cdn.optimizely.com
 a12856330147.cdn.optimizely.com
 a12862740503.cdn.optimizely.com
 a12894770201.cdn.optimizely.com
-a13222550.cdn.optimizely.com
 a13296620007.cdn.optimizely.com
 a13302150067.cdn.optimizely.com
 a134224613.cdn.optimizely.com
@@ -1663,7 +1666,6 @@ a1370244502.cdn.optimizely.com
 a14069890047.cdn.optimizely.com
 a14073630164.cdn.optimizely.com
 a14127233.cdn.optimizely.com
-a14154020203.cdn.optimizely.com
 a14202830234.cdn.optimizely.com
 a14212370012.cdn.optimizely.com
 a14322303.cdn.optimizely.com
@@ -1705,7 +1707,6 @@ a166211981.cdn.optimizely.com
 a166688199.cdn.optimizely.com
 a16721560778.cdn.optimizely.com
 a16844480238.cdn.optimizely.com
-a16853470015.cdn.optimizely.com
 a16854766608.cdn.optimizely.com
 a16868292551.cdn.optimizely.com
 a16870270003.cdn.optimizely.com
@@ -1716,10 +1717,7 @@ a16943174984.cdn.optimizely.com
 a16954880846.cdn.optimizely.com
 a17026340012.cdn.optimizely.com
 a17026851333.cdn.optimizely.com
-a17036703311.cdn.optimizely.com
-a17053551565.cdn.optimizely.com
 a1706490390.cdn.optimizely.com
-a17085262301.cdn.optimizely.com
 a17126690382.cdn.optimizely.com
 a17192180865.cdn.optimizely.com
 a1719570453.cdn.optimizely.com
@@ -1734,7 +1732,6 @@ a17432090628.cdn.optimizely.com
 a17445442224.cdn.optimizely.com
 a17474231206.cdn.optimizely.com
 a17477841202.cdn.optimizely.com
-a17495331463.cdn.optimizely.com
 a17503140280.cdn.optimizely.com
 a17510701075.cdn.optimizely.com
 a17529800006.cdn.optimizely.com
@@ -1769,13 +1766,11 @@ a18347140293.cdn.optimizely.com
 a18365751434.cdn.optimizely.com
 a18379630710.cdn.optimizely.com
 a18513981673.cdn.optimizely.com
-a18531890271.cdn.optimizely.com
 a18581841923.cdn.optimizely.com
 a1859010085.cdn.optimizely.com
 a1859790579.cdn.optimizely.com
 a18736142230.cdn.optimizely.com
 a18743582994.cdn.optimizely.com
-a18868670790.cdn.optimizely.com
 a19065870423.cdn.optimizely.com
 a19069622224.cdn.optimizely.com
 a19071450858.cdn.optimizely.com
@@ -1798,17 +1793,14 @@ a19962060864.cdn.optimizely.com
 a19963491707.cdn.optimizely.com
 a20013431166.cdn.optimizely.com
 a20035616984.cdn.optimizely.com
-a20060101821.cdn.optimizely.com
 a20094543751.cdn.optimizely.com
 a20101562208.cdn.optimizely.com
 a20104933992.cdn.optimizely.com
-a20105345443.cdn.optimizely.com
 a201252808.cdn.optimizely.com
 a20137790451.cdn.optimizely.com
 a20139847744.cdn.optimizely.com
 a20143900182.cdn.optimizely.com
 a20245427593.cdn.optimizely.com
-a2026481316.cdn.optimizely.com
 a20321350081.cdn.optimizely.com
 a20352597942.cdn.optimizely.com
 a20381590292.cdn.optimizely.com
@@ -1826,7 +1818,6 @@ a20843150475.cdn.optimizely.com
 a20864580600.cdn.optimizely.com
 a20883850312.cdn.optimizely.com
 a20896371799.cdn.optimizely.com
-a20898485993.cdn.optimizely.com
 a20920185503.cdn.optimizely.com
 a20925222669.cdn.optimizely.com
 a20976504213.cdn.optimizely.com
@@ -1840,9 +1831,9 @@ a21018620252.cdn.optimizely.com
 a21019290268.cdn.optimizely.com
 a21023511730.cdn.optimizely.com
 a21030810532.cdn.optimizely.com
-a21058700481.cdn.optimizely.com
 a21120400648.cdn.optimizely.com
 a21162760069.cdn.optimizely.com
+a21198080446.cdn.optimizely.com
 a21240482410.cdn.optimizely.com
 a21249030189.cdn.optimizely.com
 a21276281040.cdn.optimizely.com
@@ -1851,17 +1842,19 @@ a21309085.cdn.optimizely.com
 a21358250631.cdn.optimizely.com
 a21362120414.cdn.optimizely.com
 a21362261371.cdn.optimizely.com
+a21367690825.cdn.optimizely.com
 a21371430802.cdn.optimizely.com
 a21375730384.cdn.optimizely.com
 a21422610840.cdn.optimizely.com
 a214661394.cdn.optimizely.com
-a21467871943.cdn.optimizely.com
 a21471911092.cdn.optimizely.com
 a21485130138.cdn.optimizely.com
 a21617761511.cdn.optimizely.com
 a21625780072.cdn.optimizely.com
+a21630000199.cdn.optimizely.com
 a21645491094.cdn.optimizely.com
 a21723500485.cdn.optimizely.com
+a21777400434.cdn.optimizely.com
 a21837592637.cdn.optimizely.com
 a21853005795.cdn.optimizely.com
 a21861540101.cdn.optimizely.com
@@ -1877,15 +1870,12 @@ a22181110322.cdn.optimizely.com
 a2236295193.cdn.optimizely.com
 a22452380217.cdn.optimizely.com
 a22462820096.cdn.optimizely.com
-a2295740507.cdn.optimizely.com
 a2320460149.cdn.optimizely.com
 a2321860061.cdn.optimizely.com
 a2323230643.cdn.optimizely.com
 a2325110082.cdn.optimizely.com
 a234628017.cdn.optimizely.com
-a2364010203.cdn.optimizely.com
 a2427151003.cdn.optimizely.com
-a2443900815.cdn.optimizely.com
 a2513470821.cdn.optimizely.com
 a252819092.cdn.optimizely.com
 a2605830644.cdn.optimizely.com
@@ -1942,7 +1932,6 @@ a4978460394.cdn.optimizely.com
 a5090114122.cdn.optimizely.com
 a523170811.cdn.optimizely.com
 a524690941.cdn.optimizely.com
-a5271073.cdn.optimizely.com
 a536963401.cdn.optimizely.com
 a5414371492.cdn.optimizely.com
 a5435521705.cdn.optimizely.com
@@ -1952,7 +1941,6 @@ a5595260258.cdn.optimizely.com
 a591102174.cdn.optimizely.com
 a5935064.cdn.optimizely.com
 a5961084.cdn.optimizely.com
-a597080980.cdn.optimizely.com
 a61135178.cdn.optimizely.com
 a6131884851.cdn.optimizely.com
 a6136581106.cdn.optimizely.com
@@ -1990,7 +1978,6 @@ a8253175392.cdn.optimizely.com
 a8270235338.cdn.optimizely.com
 a8298686785.cdn.optimizely.com
 a8315240995.cdn.optimizely.com
-a83195956.cdn.optimizely.com
 a8343311344.cdn.optimizely.com
 a8357675368.cdn.optimizely.com
 a8382950752.cdn.optimizely.com
@@ -2126,7 +2113,6 @@ collector-pxdz588q90.perimeterx.net
 collector-pxeaddh9qu.perimeterx.net
 collector-pxekluwb0q.perimeterx.net
 collector-pxel3l4xih.perimeterx.net
-collector-pxev56my37.perimeterx.net
 collector-pxff0j69t5.perimeterx.net
 collector-pxg6pxz7v5.perimeterx.net
 collector-pxggsdqt2w.perimeterx.net
@@ -2166,6 +2152,7 @@ collector-pxliujcowl.perimeterx.net
 collector-pxljub4etb.perimeterx.net
 collector-pxlsxlyya5.perimeterx.net
 collector-pxm4c135au.perimeterx.net
+collector-pxm636svr4.perimeterx.net
 collector-pxmssu3zq0.perimeterx.net
 collector-pxn0ppyprl.perimeterx.net
 collector-pxn4sk5tyr.perimeterx.net
@@ -2180,6 +2167,7 @@ collector-pxogckki0e.perimeterx.net
 collector-pxok5l7bnk.perimeterx.net
 collector-pxoney1sgo.perimeterx.net
 collector-pxoyox6vj7.perimeterx.net
+collector-pxozw87cz0.perimeterx.net
 collector-pxp5ddh5ft.perimeterx.net
 collector-pxp6kjrele.perimeterx.net
 collector-pxpkewm2nh.perimeterx.net
@@ -2221,7 +2209,6 @@ collector-pxwd0fv66f.perimeterx.net
 collector-pxwlc8vx7t.perimeterx.net
 collector-pxwn0gh9ab.perimeterx.net
 collector-pxwutbset2.perimeterx.net
-collector-pxww4i4rc6.perimeterx.net
 collector-pxxgwm9nuh.perimeterx.net
 collector-pxxlphc6n3.perimeterx.net
 collector-pxxor1k5b6.perimeterx.net
@@ -2235,7 +2222,6 @@ collector-pxyv7uwv6h.perimeterx.net
 collector-pxyvfoxac.perimeterx.net
 collector-pxzd817sic.perimeterx.net
 collector-pxzhh9f9x0.perimeterx.net
-collector-pxznu59zhd.perimeterx.net
 collector-pxzsiso4g5.perimeterx.net
 httpscollector-px8fcgygk4.perimeterx.net
 httpscollector-pxzhh9f9x0.perimeterx.net
@@ -2349,13 +2335,13 @@ collector-px27m703hm.px-cloud.net
 collector-px2bubkzbv.px-cloud.net
 collector-px2e972lwz.px-cloud.net
 collector-px2sz8xyop.px-cloud.net
-collector-px2tcs0qig.px-cloud.net
 collector-px35rnwkzs.px-cloud.net
 collector-px35v5ygcp.px-cloud.net
 collector-px3c3ez9ug.px-cloud.net
 collector-px3d8mkyg1.px-cloud.net
 collector-px3gmccvw0.px-cloud.net
 collector-px3vk96i6i.px-cloud.net
+collector-px3wsk3d49.px-cloud.net
 collector-px3zezcyxc.px-cloud.net
 collector-px41v9jz72.px-cloud.net
 collector-px46scnlxs.px-cloud.net
@@ -2376,7 +2362,6 @@ collector-px6xnn2xkk.px-cloud.net
 collector-px78vmo82c.px-cloud.net
 collector-px7rns1bjj.px-cloud.net
 collector-px7u8gdto7.px-cloud.net
-collector-px7vv0zost.px-cloud.net
 collector-px85fbc6q9.px-cloud.net
 collector-px87wpo5ak.px-cloud.net
 collector-px8fcgygk4.px-cloud.net
@@ -2398,7 +2383,6 @@ collector-pxag6zzoxu.px-cloud.net
 collector-pxajdckzhd.px-cloud.net
 collector-pxaoit9cn0.px-cloud.net
 collector-pxbj5oofe8.px-cloud.net
-collector-pxclmbonip.px-cloud.net
 collector-pxczdhf737.px-cloud.net
 collector-pxdfu0nb9z.px-cloud.net
 collector-pxdiygqmfm.px-cloud.net
@@ -2426,6 +2410,7 @@ collector-pxhdpvz3pi.px-cloud.net
 collector-pxhmooramy.px-cloud.net
 collector-pxhp4b16gp.px-cloud.net
 collector-pxhsy3fa0i.px-cloud.net
+collector-pxhyg2lpf7.px-cloud.net
 collector-pxhyx10rg3.px-cloud.net
 collector-pxi19wznqb.px-cloud.net
 collector-pxidw5w468.px-cloud.net
@@ -2469,6 +2454,7 @@ collector-pxogckki0e.px-cloud.net
 collector-pxosx7m0dx.px-cloud.net
 collector-pxouqlb4fq.px-cloud.net
 collector-pxoyfhox4z.px-cloud.net
+collector-pxozrftrs9.px-cloud.net
 collector-pxp2oog666.px-cloud.net
 collector-pxp5ddh5ft.px-cloud.net
 collector-pxpftaypj9.px-cloud.net
@@ -2496,7 +2482,6 @@ collector-pxt1p5rban.px-cloud.net
 collector-pxt6dy78t8.px-cloud.net
 collector-pxtafvwz61.px-cloud.net
 collector-pxtfwrrc9p.px-cloud.net
-collector-pxtghjg5xw.px-cloud.net
 collector-pxtk74ox9h.px-cloud.net
 collector-pxtn88q85m.px-cloud.net
 collector-pxtpqmsk0q.px-cloud.net
@@ -2516,7 +2501,6 @@ collector-pxw2r2if6r.px-cloud.net
 collector-pxwjdtmg7v.px-cloud.net
 collector-pxwn0gh9ab.px-cloud.net
 collector-pxww4i4rc6.px-cloud.net
-collector-pxwxsron7t.px-cloud.net
 collector-pxxgwm9nuh.px-cloud.net
 collector-pxxiuo7qtj.px-cloud.net
 collector-pxxor1k5b6.px-cloud.net
@@ -2531,6 +2515,7 @@ collector-pxzd817sic.px-cloud.net
 collector-pxzhh9f9x0.px-cloud.net
 collector-pxznu59zhd.px-cloud.net
 collector-pxzyvfoxac.px-cloud.net
+csp.px-cloud.net
 stk.px-cloud.net
 pxlme.me
 www.pxlme.me
@@ -2657,7 +2642,6 @@ schibsted.io
 schibsted.media
 schneevonmorgen.com
 damoh.schneevonmorgen.com
-chipde.damoh.schneevonmorgen.com
 1.chipde.damoh.schneevonmorgen.com
 2.chipde.damoh.schneevonmorgen.com
 1.gmxnet.damoh.schneevonmorgen.com
@@ -2673,7 +2657,6 @@ de12-homad-lb.schneevonmorgen.com
 de19-homad-lb.schneevonmorgen.com
 de2-homad-lb.schneevonmorgen.com
 de3-homad-lb.schneevonmorgen.com
-de7-homad-lb.schneevonmorgen.com
 homad-global-configs.schneevonmorgen.com
 embed.scribblelive.com
 seadform.net
@@ -2723,7 +2706,6 @@ marketing.sheerid.com
 orgsearch.sheerid.net
 platform-redirector-prod.sheerid.net
 shnyagi.net
-shoebuy.com
 www.shoebuy.com
 shoosh.co
 i.shoosh.co
@@ -2863,6 +2845,7 @@ te.technical-service.net
 www.technical-service.net
 technorati.com
 test-iq.org
+www.test-iq.org
 tg.pe
 www.tg.pe
 thecounter.com
@@ -2938,7 +2921,6 @@ cmp.tvspielfilm.de
 tw.cx
 ads.twitch.tv
 edge.ads.twitch.tv
-edge-beta.ads.twitch.tv
 client-event-reporter.twitch.tv
 countess.twitch.tv
 fan.twitch.tv
@@ -2989,6 +2971,7 @@ www.videoproc.com
 vidible.tv
 cdn.vidible.tv
 viewpoint.com
+www.viewpoint.com
 viglink.com
 www.viglink.com
 vilynx.com
@@ -3012,7 +2995,6 @@ cpm.wargaming.net
 wasap.my
 webair.com
 webgains.com
-www.webgains.com
 www3.webhostingtalk.com
 weblockapp.com
 weborama.fr
@@ -3027,8 +3009,6 @@ damoh.welect.de
 ssl.1.damoh.welect.de
 2.damoh.welect.de
 ssl.2.damoh.welect.de
-3.damoh.welect.de
-ssl.3.damoh.welect.de
 wendise.com
 wfcdn.de
 i.wfcdn.de
@@ -3110,7 +3090,6 @@ zmags.com
 znctrack.net
 zomap.de
 lush-clouds.zomap.de
-swankyrule.zomap.de
 zoo.com
 www.zoo.com
 logfiles.zoom.us

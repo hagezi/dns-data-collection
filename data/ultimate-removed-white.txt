@@ -35,6 +35,7 @@ ccf.admeen.org
 tcf.admeen.org
 adobedtm.com
 assets.adobedtm.com
+www.adobedtm.com
 adv.li
 advcash.com
 wallet.advcash.com
@@ -116,6 +117,7 @@ smoot.apple.com
 api.smoot.apple.com
 api-aka.smoot.apple.com
 daypass.api-aka.smoot.apple.com
+api-demo-mes.smoot.apple.com
 api-glb.smoot.apple.com
 daypass.api-glb.smoot.apple.com
 api-glb-aapne1a.smoot.apple.com
@@ -296,7 +298,6 @@ consentmanager.mgr.consensu.org
 consent.dk
 consentmanager.net
 lbnew.consentmanager.net
-www.consentmanager.net
 conta.cc
 get.contentpass.net
 api.cortana.ai
@@ -313,6 +314,7 @@ first-party-js.datadome.co
 com.first-party-js.datadome.co
 tidal.com.first-party-js.datadome.co
 dd.tidal.com.first-party-js.datadome.co
+sslgen-tidal.datadome.co
 dbankcloud.cn
 dbankcloud.ru
 a-0001.dc-msedge.net
@@ -366,7 +368,6 @@ carharttwip-de.arc.epoq.de
 carharttwip-gb.arc.epoq.de
 esmeyer-oxid6.arc.epoq.de
 gartenhaus-de.arc.epoq.de
-pinkorblue-be.arc.epoq.de
 pinkorblue-it.arc.epoq.de
 rebopharm24-de.arc.epoq.de
 rosebikes-de.arc.epoq.de
@@ -438,7 +439,6 @@ v6exp3-ds.metric.gstatic.com
 v6exp3-v4.metric.gstatic.com
 beacon-v2.helpscout.net
 heroeswm.ru
-www.heroeswm.ru
 hexun.com
 heytapmobi.com
 client-uc.heytapmobi.com
@@ -458,8 +458,10 @@ insd.io
 intercom.com
 api.intercom.io
 frontend-telemetry.intercom.io
+internal.intercom.io
 mobile-sdk-api.intercom.io
 b2r065l4-ios.mobile-sdk-api.intercom.io
+bkv28uhm-ios.mobile-sdk-api.intercom.io
 eriojnh3-android.mobile-sdk-api.intercom.io
 fjfoh75b-ios.mobile-sdk-api.intercom.io
 lk7fprhb-ios.mobile-sdk-api.intercom.io
@@ -506,7 +508,6 @@ updateapis.kiwibrowser.com
 klaviyo.com
 a.klaviyo.com
 fast.a.klaviyo.com
-www.fast.a.klaviyo.com
 static.klaviyo.com
 klevu.com
 js.klevu.com
@@ -614,6 +615,7 @@ p1.d.meituan.net
 p10.d.meituan.net
 p13.d.meituan.net
 p14.d.meituan.net
+p15.d.meituan.net
 p16.d.meituan.net
 p2.d.meituan.net
 p3.d.meituan.net
@@ -678,11 +680,13 @@ f2.market.mi-img.com
 f3.market.mi-img.com
 f5.market.mi-img.com
 mmcapi.ads.microsoft.com
+mmcapi.ads-int.microsoft.com
 api.bingads.microsoft.com
 adinsight.api.bingads.microsoft.com
 campaign.api.bingads.microsoft.com
 clientcenter.api.bingads.microsoft.com
 partner.api.bingads.microsoft.com
+api.si.bingads.microsoft.com
 settings-win.data.microsoft.com
 ztd.dds.microsoft.com
 api.edgeoffer.microsoft.com
@@ -845,7 +849,6 @@ dim-aigeir.ach.sch.gr
 schibsted.media
 schneevonmorgen.com
 damoh.schneevonmorgen.com
-chipde.damoh.schneevonmorgen.com
 1.chipde.damoh.schneevonmorgen.com
 2.chipde.damoh.schneevonmorgen.com
 1.gmxnet.damoh.schneevonmorgen.com
@@ -861,7 +864,6 @@ de12-homad-lb.schneevonmorgen.com
 de19-homad-lb.schneevonmorgen.com
 de2-homad-lb.schneevonmorgen.com
 de3-homad-lb.schneevonmorgen.com
-de7-homad-lb.schneevonmorgen.com
 homad-global-configs.schneevonmorgen.com
 tracker.scoober.com
 embed.scribblelive.com
@@ -921,8 +923,6 @@ notice.sp-prod.net
 cdeatz.spartoo.it
 pov.spectrum.net
 split.to
-audio-cf.spotify.com
-audio-gc.spotify.com
 heads-fa.spotify.com
 shop.spreadshirt.com
 stanford.io
@@ -983,7 +983,6 @@ cdn.trustcommander.net
 cmp.tvspielfilm.de
 ads.twitch.tv
 edge.ads.twitch.tv
-edge-beta.ads.twitch.tv
 client-event-reporter.twitch.tv
 client-event-reporter-darklaunch.twitch.tv
 countess.twitch.tv
@@ -1020,8 +1019,6 @@ damoh.welect.de
 ssl.1.damoh.welect.de
 2.damoh.welect.de
 ssl.2.damoh.welect.de
-3.damoh.welect.de
-ssl.3.damoh.welect.de
 wfcdn.de
 i.wfcdn.de
 j.wfcdn.de
@@ -1053,7 +1050,6 @@ zinspilot.de
 www.zinspilot.de
 zomap.de
 lush-clouds.zomap.de
-swankyrule.zomap.de
 logfiles.zoom.us
 us04logfiles.zoom.us
 zopim.com

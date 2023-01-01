@@ -1698,7 +1698,6 @@ adcell.de
 adcenter.net
 adcent.jp
 adcentre.it-advanced.com
-adcentriconline.com
 ad.centrum.cz
 ad.cgi.cz
 ad.ch.doubleclick.net
@@ -3117,7 +3116,6 @@ ads.passaro-de-fogo.biz
 ads.passion.com
 ads.patch.com
 ads.paxnet.co.kr
-ad-sp.biz
 adspcces.ero-advertising.com
 adspeed.net
 ads.peel.com
@@ -3346,7 +3344,6 @@ ads.vserv.mobi
 ads.w3hoster.de
 ads.wamba.com
 adswap.com
-ads.wapx.cn
 ads.wash1000.com
 ads.watchmygf.net
 ads.waterbondage.com
@@ -6908,6 +6905,7 @@ d3oltyb66oj2v8.cloudfront.net
 d6y5.ads.pof.com
 d87.eu
 d.91.com
+d9c81ad3-85af-4ff6-8378-6038ea045e1b.akamaized.net
 d9d0e0.r.axf8.net
 daaa.ero-advertising.com
 dabcc.us.intellitxt.com

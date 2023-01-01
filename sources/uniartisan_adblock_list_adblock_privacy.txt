@@ -5209,7 +5209,6 @@ cdwlxi.cadremploi.fr
 cedexis.com
 cedexis-radar.net
 ceggfe.msc-kreuzfahrten.de
-ce.lijit.com
 cellstats.mako.co.il
 cenbrandlab.acspubs.org
 census.misterspex.at
@@ -22822,6 +22821,7 @@ stat.boredomtherapy.com
 stat.botdetector.ru
 stat.caijing.com.cn
 stat.canal-plus.com
+stat.cdngeek.com
 stat.clichehosting.de
 stat.clickfrog.ru
 statclick.nate.com

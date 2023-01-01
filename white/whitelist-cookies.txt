@@ -132,6 +132,7 @@ assets.civilcomments.com
 cloudflare.com
 cdnjs.cloudflare.com
 cloudfront.net
+d27rt3a60hh1lx.cloudfront.net
 d3q1qj9jzsu8nw.cloudfront.net
 clubbingtv.com
 cnn.com

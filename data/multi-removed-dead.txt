@@ -4056,7 +4056,9 @@ documentation.acxiom-online.com
 p.acxiom-online.com
 p-cn.acxiom-online.com
 www.acys.fun
+imap.cnci.ad.jp
 mail.cnci.ad.jp
+pop.cnci.ad.jp
 analytics.hadron.ad.gt
 www.ad-alp.net
 www.ad-analyze.jp
@@ -4205,7 +4207,6 @@ static.additionalmedia.com
 www.additionant.com
 www.addline-entersus.com
 www.adds-only.xyz
-i.addshoppers.com
 f.dlx.addthis.com
 l.dlx.addthis.com
 t.dlx.addthis.com
@@ -4809,11 +4810,8 @@ www.adsemirate.com
 abc13.adservd.com
 www.adservd.com
 www.adserve.io
-ad.adserver.pm
-static-leaseweb.adserver.pm
 www.adserver.gr
 www.adserver.mk
-www.adserver.pm
 www.adserver5.biz
 www.adservices2.com
 www.adservme.com
@@ -4856,7 +4854,6 @@ api3.adsmogo.com
 api3.adsmogo.net
 nexage2.adsmogo.net
 storage.adsmogo.com
-static.adsnative.com
 dashboard.adsninja.com
 www.adsovo.com
 hi-cdn.adsparc.net
@@ -5238,6 +5235,7 @@ www.affiliatelounge.com
 affiliatemillionaire.online
 www.affiliatemillionaire.online
 www.affiliateone.jp
+www.affiliateprom.day
 www.affiliation-france.com
 www.affiliscout.com
 affimityone.net
@@ -6037,6 +6035,7 @@ app.allkar.xyz
 www.allluck.cn
 allmiracle.us
 www.allmiracle.us
+www.allmusikcollection.xyz
 www.allmyad.com
 www.allnestek.com
 smart.allocine.fr
@@ -6767,6 +6766,7 @@ www.apiunlock.xyz
 www.apk-new.xyz
 apkaid.com
 www.apkaid.com
+www.apkcdndownload.com
 www.apkipa.info
 www.apkmobile-aw-download.com
 www.apkmobile-dv-download.com
@@ -8141,6 +8141,7 @@ www.babehairboutique.com
 babetiexpedition.com
 www.babetiexpedition.com
 www.babramon.info
+www.babssata.com
 www.babun.club
 www.babyboomboomads.com
 babydog.club
@@ -8872,6 +8873,7 @@ www.bestloans.tips
 bestmeal1.xyz
 www.bestmeal1.xyz
 www.bestnewsfeed.com
+www.bestofferssafe.com
 www.bestpage1.com
 www.bestpcdownload.com
 bestravel1.xyz
@@ -9275,6 +9277,7 @@ www.blackluiza.com
 blackoutday.ca
 www.blackoutday.ca
 www.blackpennew.com
+www.blacksprut.com
 www.blackstar.pro
 www.blaclurius.com
 www.blacurlik.com
@@ -9639,7 +9642,6 @@ www.boom-boom-vroom.com
 www.boomselljamwelunch.com
 prometheus.aws.boomtrain.com
 billing.boomtrain.com
-tr-9ea5553d73db99ecc83032fbf0af9c06.commerce.boomtrain.com
 discover.boomtrain.com
 events.boomtrain.com
 station.boomtrain.com
@@ -9949,6 +9951,7 @@ www.brisharten.lol
 www.briskeagle.io
 www.briskedmiskept.com
 www.briskpelican.io
+www.bristolchristian.org
 www.britcbd.pw
 api.britepool.com
 px.britepool.com
@@ -10169,6 +10172,7 @@ www.burnbubble.com
 burnsbuddyg.com
 www.burnsbuddyg.com
 www.burpee.xyz
+www.burseglueman.com
 www.burstblade.com
 www.bursulasnags.com
 www.bursultry-exprights.com
@@ -11443,6 +11447,7 @@ cdnsecurpay.fr
 www.cdnsecurpay.fr
 www.cdnspace.io
 www.cdnstoremedia.com
+www.cdntechone.com
 u.cdnwidget.com
 www.cdnwidget.com
 down04996472.cdnxiazai.com
@@ -11922,6 +11927,7 @@ www.chocchip.net
 www.chocohjuanfhdhf.com
 www.choconart.com
 www.choibong88.vin
+www.choicegoldcard.com
 ad.choiceradio.com
 choicesurveypanel.com
 www.choicesurveypanel.com
@@ -12252,7 +12258,6 @@ instagram.clevergirlscollective.com
 video.clevergirlscollective.com
 in.clevertap.com
 insights.clevertap.com
-in-spiky.clevertap-prod.com
 www.clfmm.cn
 www.clfxts.com
 www.cli2020.com
@@ -12687,7 +12692,6 @@ www.pauseforspacepublications.co.uk
 www.pieiron.co.uk
 konto-apppay.platkospw.co.pl
 konto-apppay.plawdkso.co.pl
-smtp.polytama.co.id
 unl29a8s-do28a8z.pontusutv.co.pl
 pythagorasandthat.co.uk
 lev27a7-els828a.qui90tv.co.pl
@@ -14732,6 +14736,7 @@ tr.datanyze.com
 www.dataose.top
 www.datasign.co
 oascentral.datasphere.com
+www.datatechone.com
 www.datatechonert.com
 community.dataxu.com
 login.dataxu.com
@@ -15251,6 +15256,7 @@ www.desktopdefence.com
 www.desktopnotificationshub.com
 www.desky.xyz
 www.desnumelom.com
+www.desorbslouvres.space
 www.desponddietist.com
 www.destinyrealty.in
 www.destyy.com
@@ -17071,6 +17077,7 @@ www.eggyey.com
 www.eggytiptops.com
 www.eghnmj.xyz
 www.egistonemes.com
+www.egoizecapsule.website
 www.egotizeoxgall.com
 www.egptz.cyou
 www.egreephu.com
@@ -18336,6 +18343,7 @@ www.fatihcolumbuses.net
 www.fatowzsis.com
 www.fatsosjogs.com
 www.fatstepn.click
+www.fatulichin.com
 www.fatwalkinger.club
 faultsderange.com
 www.faultsderange.com
@@ -23266,6 +23274,7 @@ www.hollerscanelos.com
 www.hollowafterthought.com
 c.holocaust.today
 www.holocaust.today
+www.holopinoe.com
 c.holorta.ru
 e.holorta.ru
 prior.holorta.ru
@@ -23686,7 +23695,6 @@ www.hynteroforion.com
 hypedrize.com
 www.hypedrize.com
 www.hypedrop.net
-dmp.hyperadx.com
 www.hyperadx.com
 www.hyperblue.de
 www.hyperlinksearch.net
@@ -24488,6 +24496,7 @@ cdn.apps.ifriends.net
 apps7b.ifriends.net
 cdn.mysite.ifriends.net
 www.ifriends.net
+www.ifrype.com
 www.ifvox.com
 www.ig1a.top
 www.igame2steam.com
@@ -24624,6 +24633,7 @@ www.iirpvchv.cn
 www.ijabiw.com
 hnl.ijgocb.cn
 wxfk.dcys.ijinshan.com
+cntj.zj.dcys.ijinshan.com
 cmplay.did.ijinshan.com
 kbd2.kpns.ijinshan.com
 www.ijkcmm.com
@@ -26031,6 +26041,7 @@ www.interactsh.com
 www.interdfp.com
 www.interdigit-reactivabono.top
 www.interestednesses.info
+www.interestmoments.com
 www.interestourflash.info
 www.interestsmoke.com
 www.interfacehelper.com
@@ -28078,7 +28089,6 @@ v98.keepitpumpin.io
 11509.v98.keepitpumpin.io
 11528.v98.keepitpumpin.io
 11533.v98.keepitpumpin.io
-12060.v98.keepitpumpin.io
 12888.v98.keepitpumpin.io
 13447.v98.keepitpumpin.io
 13767.v98.keepitpumpin.io
@@ -28089,7 +28099,6 @@ v98.keepitpumpin.io
 17822.v98.keepitpumpin.io
 18162.v98.keepitpumpin.io
 19002.v98.keepitpumpin.io
-19103.v98.keepitpumpin.io
 19819.v98.keepitpumpin.io
 20417.v98.keepitpumpin.io
 21211.v98.keepitpumpin.io
@@ -28101,7 +28110,6 @@ v98.keepitpumpin.io
 23891.v98.keepitpumpin.io
 23922.v98.keepitpumpin.io
 24535.v98.keepitpumpin.io
-26629.v98.keepitpumpin.io
 27726.v98.keepitpumpin.io
 28047.v98.keepitpumpin.io
 28081.v98.keepitpumpin.io
@@ -28117,11 +28125,11 @@ v98.keepitpumpin.io
 34885.v98.keepitpumpin.io
 37051.v98.keepitpumpin.io
 37189.v98.keepitpumpin.io
-37886.v98.keepitpumpin.io
 38247.v98.keepitpumpin.io
 38266.v98.keepitpumpin.io
 39386.v98.keepitpumpin.io
 40552.v98.keepitpumpin.io
+41757.v98.keepitpumpin.io
 42433.v98.keepitpumpin.io
 42451.v98.keepitpumpin.io
 44657.v98.keepitpumpin.io
@@ -28130,7 +28138,6 @@ v98.keepitpumpin.io
 45695.v98.keepitpumpin.io
 46159.v98.keepitpumpin.io
 46720.v98.keepitpumpin.io
-46829.v98.keepitpumpin.io
 48590.v98.keepitpumpin.io
 48591.v98.keepitpumpin.io
 48623.v98.keepitpumpin.io
@@ -29039,6 +29046,7 @@ helpcmslite1.ksmobile.com
 helpgrid1.ksmobile.com
 helplauncher1.ksmobile.com
 helpnewsrepublic1.ksmobile.com
+helpoemapplock0.ksmobile.com
 helpoemapplock1.ksmobile.com
 helpscreenoff0.ksmobile.com
 helpwhitetile1.ksmobile.com
@@ -29095,7 +29103,6 @@ out.kundenserver.de
 relay.kundenserver.de
 smtp.kundenserver.de
 smtpauth.kundenserver.de
-smtpmail.kundenserver.de
 smtps.kundenserver.de
 www.kungteabso.com
 www.kunidplishar.com
@@ -29642,6 +29649,7 @@ www.lefxryhuzyw.com
 www.legannextritinger.com
 legendfuntourism.com
 www.legendfuntourism.com
+www.legendsmaestri.com
 www.legerbbs.com
 www.legerikath.com
 www.legikqw6ps.com
@@ -29678,6 +29686,7 @@ safecenter.lcs.lenovomm.com
 wth.lenovomm.com
 www.lensesunduke.website
 autocounter.lentainform.com
+cm.lentainform.com
 jsc.lentainform.com
 s-img.lentainform.com
 servicer.lentainform.com
@@ -29871,6 +29880,7 @@ g.liang08.cn
 z.liang08.cn
 www.liangmei20221031.xyz
 www.lianliankanms.top
+dppx.lianwangtech.com
 staticwz.lianwangtech.com
 www.liaotian4.com
 www.libbetpalooka.life
@@ -30169,6 +30179,14 @@ www.liveprofit-pl.homes
 www.liveprofit-pl.quest
 www.liveprofit-pl.xyz
 okta.am-dev.identity.api.liveramp.com
+auth.cloud-native.liveramp.com
+prod.auth.cloud-native.liveramp.com
+staging.auth.cloud-native.liveramp.com
+snowflake.cloud-native.liveramp.com
+prod.snowflake.cloud-native.liveramp.com
+staging.snowflake.cloud-native.liveramp.com
+engineering.liveramp.com
+identity.liveramp.com
 lreudc01.ramp.liveramp.com
 lrusdc01.ramp.liveramp.com
 lrusdc02.ramp.liveramp.com
@@ -30277,7 +30295,6 @@ www.lmpf.eu
 www.lmpt.me
 www.lmr-resources.com
 www.lmtoken-pay.club
-com.ln.is
 www.lndonclkds.com
 www.lndus-tex.com
 www.lnflfbf.cn
@@ -30956,6 +30973,7 @@ www.magic4.biz
 www.magicalipone.com
 www.magicaljoin.com
 www.magicalmonth.com
+www.magicinstll.com
 www.magicishere.online
 magicmyphotos.com
 www.magicmyphotos.com
@@ -34437,6 +34455,7 @@ www.nafainvesting.com
 www.naftan.space
 www.nafulltiuk.com
 www.nagaaspirin.com
+www.naggedhechtia.tech
 nagie-zobacz.eu
 www.nagie-zobacz.eu
 www.nagrande.com
@@ -35054,6 +35073,7 @@ www.newmizban.xyz
 newpoltuncomueo.com
 www.newpoltuncomueo.com
 www.newprofitcontrol.com
+www.newprogrammatic.click
 www.newreven.com
 www.news-37876-mshome.com
 www.news-389767-mshome.com
@@ -35931,7 +35951,9 @@ www.ns5.biz
 ns5000wip.com
 www.ns5000wip.com
 telemetry.microsoft.com.nsatc.net
+oca.telemetry.microsoft.com.nsatc.net
 telecommand.telemetry.microsoft.com.nsatc.net
+watson.telemetry.microsoft.com.nsatc.net
 www.nsbjrf.top
 www.nsecurrent.com
 www.nsfdfdfdf.xyz
@@ -37203,9 +37225,6 @@ www.openads.org
 www.openair.pw
 www.opencandy.com
 www.opencoccoc.com
-ad.cpe.dotomi.com.sigpolicy.qq.p1.ash.opendns.com
-sync.ad.cpe.dotomi.com.sigpolicy.qq.p1.ash.opendns.com
-cookie.sync.ad.cpe.dotomi.com.sigpolicy.qq.p1.ash.opendns.com
 analytics.faw.sky.com.sigpolicy.qq.p1.lon.opendns.com
 analytics.yahoo.com.sigpolicy.qq.p1.nyc.opendns.com
 www.openenterprises.click
@@ -37268,6 +37287,7 @@ www.openxmarket.jp
 www.openxmlformat.org
 cdn.openxt.cn
 img.openxt.cn
+www.operarymishear.store
 www.operaserver.com
 www.operateheavilyswiftinfo-file.info
 operateurespaceclient.fr
@@ -37313,6 +37333,7 @@ www.opsnv.ru
 www.opsoomet.net
 www.opstag.com
 www.opswat.info
+www.opsworks-cm.io
 opt-trade.net
 www.opt-trade.net
 www.optad360.io
@@ -40109,6 +40130,7 @@ www.prettyoddboutique.com
 www.prettypasttime.com
 www.previousplayground.com
 www.previouspotato.com
+www.prewiregeebung.com
 ap-se-event.prfct.co
 www.priceactiontesla.biz
 www.priceconcept.eu
@@ -41261,6 +41283,7 @@ www.qji6.com
 www.qjing39.top
 www.qjudpxkisv.xyz
 www.qkobbgs.cyou
+www.qksrv.cc
 www.ql.tc
 qlink-ico.com
 www.qlink-ico.com
@@ -42901,6 +42924,7 @@ www.republicofaf.xyz
 repurikakamire.com
 www.repurikakamire.com
 www.requotehocker.com
+www.rerackbirma.com
 www.rerecall.com
 www.res.ms
 www.res-smartd.info
@@ -48658,6 +48682,7 @@ www.sadorsagreeng.com
 sadsamps.com
 www.sadsamps.com
 www.saecoprofintad.com
+www.safarlysins.com
 tracking.safe-click.net
 www.safe-connection21.com
 www.safe-link.mobi
@@ -48687,6 +48712,7 @@ www.safetytopdefense.biz
 www.safetytopstudy.us
 safeway01.ad.safeway.com
 safeway02.ad.safeway.com
+mlanps01.safeway02.ad.safeway.com
 direct.safone.tech
 www.sagacivisms.com
 www.sagastercel.com
@@ -49775,6 +49801,7 @@ www.shopingplan.com
 www.shopkrone.de
 www.shoplytics.com
 login-dev.shopperapproved.com
+www.shopsocially.com
 www.shorantonto.com
 www.shoreeds.com
 www.shortacut.tech
@@ -50260,6 +50287,7 @@ www.sleepxoomit.com
 sleetwelk.casa
 www.sleetwelk.casa
 www.sleevedcaelum.com
+www.slenderfetch.com
 sleuthlike-phantasiastic-handsome.xyz
 www.sleuthlike-phantasiastic-handsome.xyz
 www.slfpu.com
@@ -51195,6 +51223,7 @@ www.ssm.codes
 www.ssmyinteuk.com
 www.ssoapm.com
 www.ssobkhabar.top
+www.ssp-bcc-ads.com
 www.ssp-heartbidnet.monster
 www.ssp-theheartbidnet.monster
 sspeedvpn12.xyz
@@ -51862,6 +51891,7 @@ sf-00000567.web.sundaysky.com
 sf-00000735.web.sundaysky.com
 vpc-west-2.web.sundaysky.com
 zurichclaims.web.sundaysky.com
+www.sungarnonsane.com
 sunlovelapi.xyz
 www.sunlovelapi.xyz
 cdn.sunmaker.com
@@ -51906,7 +51936,6 @@ demo.superawesome.tv
 dev.superawesome.tv
 jira.superawesome.tv
 api.kws.superawesome.tv
-cpapi.kws.superawesome.tv
 events.kws.superawesome.tv
 take2.events.kws.superawesome.tv
 parentsapi.kws.superawesome.tv
@@ -53087,7 +53116,8 @@ www.testearb.tk
 www.testedtouch.com
 testpaypal.fr
 www.testpaypal.fr
-api.testrequest.info
+api3.testrequest.info
+api4.testrequest.info
 www.testsite34.com
 testsleu.site
 www.testsleu.site
@@ -53370,6 +53400,9 @@ www.thiokolduumvir.com
 thirdcredits.com
 www.thirdcredits.com
 www.thirdleggg.xyz
+abc25.a.thirdpresence.com
+ads301.a.thirdpresence.com
+yield-optimizer.thirdpresence.com
 www.thirdrespect.com
 www.thirstylettuce.com
 www.thirstyswing.com
@@ -54528,7 +54561,6 @@ www.trafficanalyzer.biz
 www.trafficconverter.biz
 www.trafficcost.ru
 assets.trafficfabrik.com
-rt.trafficfacts.com
 at.traffichunt.com
 www.trafficjuicer.com
 www.trafficjunction.com
@@ -55492,7 +55524,9 @@ au.umeng.co
 au.umeng.com
 com.umeng.com
 umeng.com.umeng.com
+andtt.umeng.com.umeng.com
 inwidget.umeng.com.umeng.com
+launchx.umeng.com.umeng.com
 lockit.umeng.com.umeng.com
 xpro.umeng.com.umeng.com
 fb.umeng.com
@@ -56437,6 +56471,8 @@ vakpsdk.pl
 www.vakpsdk.pl
 www.val-halla.xyz
 harlandclarkeivr.valassis.com
+beta.valassisdigital.com
+tools.valassisdigital.com
 www.valberto.com
 valdeznobleg.com
 www.valdeznobleg.com
@@ -57707,6 +57743,7 @@ www.web-visor.com
 www.web3-fixtool.org
 www.web3zh.cf
 www.webads.media
+search.webazilla.com
 www.webboldbravecourage.com
 webcachespace.com
 www.webcachespace.com
@@ -58303,6 +58340,7 @@ www.wontonsnosite.com
 www.wooanalytics.biz
 www.woobids.com
 www.woodmenopsonia.com
+www.woodsell.net
 www.wooglinoir.com
 www.woolenabled.com
 www.wootoash.net
@@ -59044,7 +59082,6 @@ www.xel-xel-fie.com
 ad.xelements.cn
 www.xelllwrite.com
 www.xen-prof.quest
-app.xenn.io
 www.xepkfd.com
 www.xerhibx.cn
 www.xeygaj.top
@@ -59824,6 +59861,7 @@ www.xxwd.ltd
 www.xxxconent.biz
 www.xxxlov.online
 adc.xxxlshop.de
+www.xxxmedia.bid
 www.xxxmyself.com
 www.xxxrevpushclcdu.com
 www.xxyolk.com
@@ -60398,6 +60436,7 @@ www.yieldads.com
 looker.yieldify.com
 sso.yieldify.com
 psj-dev.yieldlift.com
+www.yieldlift.io
 v2.yieldlove-ad-serving.net
 adstest.yieldmo.com
 api-cf.yieldmo.com

@@ -4101,6 +4101,7 @@ d1wp6m56sqw74a.cloudfront.net
 d1zgderxoe1a.cloudfront.net
 d231vab146qzfb.cloudfront.net
 d26b395fwzu5fz.cloudfront.net
+d27rt3a60hh1lx.cloudfront.net
 d28n7yywqog3r7.cloudfront.net
 d291vdycu0ht11.cloudfront.net
 d29usylhdk1xyu.cloudfront.net
@@ -8685,7 +8686,6 @@ mastodon.uno
 mastodon.world
 mastodon.zaclys.com
 masto.es
-masto.nobigtech.es
 masto.nu
 masto.pt
 mastouille.fr
@@ -9591,7 +9591,6 @@ nn.de
 nnmstatic.win
 noaa.gov
 nobaeg.de
-nobigtech.es
 nobledesktop.com
 noc.social
 *.no-go.kelkoogroup.net
@@ -14679,6 +14678,7 @@ uiccu.org
 uifr.ru
 uim.tifbs.net
 ui.skype.com
+uiuxdev.social
 ui.xboxlive.com
 *.uk-go.kelkoogroup.net
 uk-go.kelkoogroup.net
@@ -21309,7 +21309,6 @@ www.nn.de
 www.nnmstatic.win
 www.noaa.gov
 www.nobaeg.de
-www.nobigtech.es
 www.nobledesktop.com
 www.noc.social
 www.noho.st
@@ -24426,6 +24425,7 @@ www.ug.cz
 www.ui8.ru
 www.uiccu.org
 www.uifr.ru
+www.uiuxdev.social
 www.ukmail.com
 www.ukoeln.de
 www.ukrgasbank.com

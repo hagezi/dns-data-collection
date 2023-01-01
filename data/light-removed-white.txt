@@ -7,6 +7,7 @@ www.100xuexi.com
 123greetings.com
 17173.com
 p.d.1enm.com
+www.1ting.com
 2144.cn
 21food.cn
 2mdn.net
@@ -383,7 +384,6 @@ babymarkt-es.arc.epoq.de
 carharttwip-de.arc.epoq.de
 carharttwip-gb.arc.epoq.de
 esmeyer-oxid6.arc.epoq.de
-pinkorblue-be.arc.epoq.de
 pinkorblue-it.arc.epoq.de
 roseoubleu-fr.arc.epoq.de
 dcf.espn.com
@@ -451,7 +451,6 @@ gscounters.us1.gigya.com
 www.gigya.com
 girls.xyz
 player-feedback-v1.glomex.com
-gm99.com
 go-mpulse.net
 go2cloud.org
 goatcounter.com
@@ -543,7 +542,6 @@ mobilesdk-us.kampyle.com
 klaviyo.com
 a.klaviyo.com
 fast.a.klaviyo.com
-www.fast.a.klaviyo.com
 static.klaviyo.com
 klclick.com
 klclick1.com
@@ -853,6 +851,7 @@ collector-pxogckki0e.perimeterx.net
 collector-pxok5l7bnk.perimeterx.net
 collector-pxoney1sgo.perimeterx.net
 collector-pxoyox6vj7.perimeterx.net
+collector-pxozw87cz0.perimeterx.net
 collector-pxp5ddh5ft.perimeterx.net
 collector-pxq2tbjg6w.perimeterx.net
 collector-pxq76auu14.perimeterx.net
@@ -887,7 +886,6 @@ collector-pxwd0fv66f.perimeterx.net
 collector-pxwlc8vx7t.perimeterx.net
 collector-pxwn0gh9ab.perimeterx.net
 collector-pxwutbset2.perimeterx.net
-collector-pxww4i4rc6.perimeterx.net
 collector-pxxlphc6n3.perimeterx.net
 collector-pxxzjd5s2c.perimeterx.net
 collector-pxy5lkfmw7.perimeterx.net
@@ -1039,6 +1037,7 @@ shalltry.com
 static.share-videos.se
 sharethis.com
 ws.sharethis.com
+sharpay.io
 shoosh.co
 s.shopify.com
 v.shopify.com
@@ -1203,8 +1202,6 @@ damoh.welect.de
 ssl.1.damoh.welect.de
 2.damoh.welect.de
 ssl.2.damoh.welect.de
-3.damoh.welect.de
-ssl.3.damoh.welect.de
 wendise.com
 wilf.cn
 activity.windows.com

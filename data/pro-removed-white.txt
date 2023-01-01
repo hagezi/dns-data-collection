@@ -241,6 +241,7 @@ metaffiliation.com
 micpn.com
 api.bingads.microsoft.com
 adinsight.api.bingads.microsoft.com
+api.si.bingads.microsoft.com
 browser.events.data.microsoft.com
 statsfe2.update.microsoft.com
 vlscppe.microsoft.com
@@ -392,8 +393,6 @@ damoh.welect.de
 ssl.1.damoh.welect.de
 2.damoh.welect.de
 ssl.2.damoh.welect.de
-3.damoh.welect.de
-ssl.3.damoh.welect.de
 wilf.cn
 engage.windows.com
 wisepops.com

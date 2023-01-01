@@ -340,6 +340,7 @@ adinsight.api.bingads.microsoft.com
 campaign.api.bingads.microsoft.com
 clientcenter.api.bingads.microsoft.com
 partner.api.bingads.microsoft.com
+api.si.bingads.microsoft.com
 au-v10.events.data.microsoft.com
 au-v20.events.data.microsoft.com
 jp-v10.events.data.microsoft.com
@@ -576,8 +577,6 @@ damoh.welect.de
 ssl.1.damoh.welect.de
 2.damoh.welect.de
 ssl.2.damoh.welect.de
-3.damoh.welect.de
-ssl.3.damoh.welect.de
 whoisprivacyprotect.com
 www.whoisprivacyprotect.com
 wilf.cn

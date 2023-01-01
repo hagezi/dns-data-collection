@@ -226,7 +226,6 @@ nflxext.com
 nflximg.net
 nflxso.net
 nflxvideo.net
-masto.nobigtech.es
 noc.social
 norden.social
 nrw.social
@@ -311,6 +310,7 @@ twitch.tv
 twitchcdn.net
 twitter.com
 twttr.com
+uiuxdev.social
 union.place
 universeodon.com
 urbanists.social
