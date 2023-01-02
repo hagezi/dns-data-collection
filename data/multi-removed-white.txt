@@ -1,3 +1,5 @@
+1kinobig.ru
+www.1kinobig.ru
 3c5.com
 www.3c5.com
 5.gp
@@ -106,6 +108,7 @@ bootstrap.api.drift.com
 proto2ad.durasite.net
 ebayclassifiedsgroup.com
 www.ebayclassifiedsgroup.com
+heads-akp.spotify.com.edgesuite.net
 rtd-tm.everesttech.net
 exosrv.com
 sonar-iad.xx.fbcdn.net
@@ -212,6 +215,7 @@ ac.ebis.ne.jp
 daikoku.ebis.ne.jp
 valuecommerce.ne.jp
 cdn.onesignal.com
+geolocation.onetrust.com
 a10453949094.cdn.optimizely.com
 a10681260716.cdn.optimizely.com
 https.www.a10681260716.cdn.optimizely.com
@@ -330,6 +334,7 @@ at-config.sensic.net
 snapads.com
 pixel.solvemedia.com
 pixel-secure.solvemedia.com
+zwinqi.spartoo.pt
 springboardplatform.com
 www.springboardplatform.com
 images.taboola.com
@@ -339,6 +344,8 @@ radiofrance.targetspot.com
 www.targetspot.com
 tg.pe
 www.tg.pe
+thench.net
+www.thench.net
 tiny.ee
 www.tiny.ee
 tags-eu.tiqcdn.com

@@ -587,6 +587,7 @@ go.cj.com
 members.cj.com
 relay.cj.com
 signup.cj.com
+tracking-sj2.cj.com
 www.cj.com
 www5.cj.com
 clck.ru

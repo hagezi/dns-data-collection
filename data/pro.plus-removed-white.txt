@@ -6,6 +6,8 @@ p.d.0mme.com
 ad.10010.com
 123greetings.com
 p.d.1enm.com
+1kinobig.ru
+www.1kinobig.ru
 2mdn.net
 s0.2mdn.net
 dl.360safe.com
@@ -29,6 +31,7 @@ a-0006.a-msedge.net
 a-0008.a-msedge.net
 a-0009.a-msedge.net
 a-0011.a-msedge.net
+a8.net
 above.com
 www.above.com
 abuelos.com
@@ -39,9 +42,13 @@ acdid.acdsystems.com
 actuabd.com
 www.ad-magazin.de
 adcell.com
+addthis.com
 s7.addthis.com
+www.addthis.com
 addthiscdn.com
+addtoany.com
 static.addtoany.com
+www.addtoany.com
 adf.ly
 adfox.ru
 counter.adguard.com
@@ -437,6 +444,7 @@ cmp.dmgmediaprivacy.co.uk
 auto.netdirector.co.uk
 pavv.co.kr
 infolink.pavv.co.kr
+postshare.co.kr
 afl.rakuten.co.jp
 hb.afl.rakuten.co.jp
 pt.afl.rakuten.co.jp
@@ -561,7 +569,9 @@ www.dmdi.pl
 docodoco.jp
 api.docodoco.jp
 dotomi.com
+doubleclick.net
 l.doubleclick.net
+www.doubleclick.net
 doublepimp.com
 phn.doublepimp.com
 engine.phn.doublepimp.com
@@ -587,6 +597,7 @@ analytics.edgekey.net
 79423.analytics.edgekey.net
 audio-ake.spotify.com.edgesuite.net
 heads-ak.spotify.com.edgesuite.net
+heads-akp.spotify.com.edgesuite.net
 heads4-ak.spotify.com.edgesuite.net
 edigitalsurvey.com
 eindependencia.edu.mx
@@ -628,6 +639,7 @@ dcf.espn.com
 dcfdata.espn.com
 stats.espncricinfo.com
 esprima.org
+estream.to
 eterna.de
 ethn.io
 www.ethn.io
@@ -657,6 +669,7 @@ graph.facebook.com
 www.graph.facebook.com
 mqtt-p4.facebook.com
 staticxx.facebook.com
+fapcat.com
 faronics.com
 www.fashionista.com
 mparticle.map.fastly.net
@@ -716,6 +729,7 @@ app.gitbook.com
 gizmodern.com
 config-vvs.glomex.com
 player-feedback-v1.glomex.com
+gm99.com
 cov.gmlinteractive.com
 static.gmlinteractive.com
 go.ly
@@ -933,6 +947,7 @@ scnd.landsend.com
 lasagneandands.com
 www.lasagneandands.com
 my.leadpages.net
+leakix.net
 lightboxcdn.com
 www.lightboxcdn.com
 lightstep.com
@@ -1292,6 +1307,7 @@ cdn.onesignal.com
 sgqcvfjvr.onet.pl
 onetrust.com
 cdn-ukwest.onetrust.com
+geolocation.onetrust.com
 mobile-data.onetrust.io
 online-metrix.net
 h-charter.online-metrix.net
@@ -2357,6 +2373,8 @@ gdpr-tcfv2.sp-prod.net
 message.sp-prod.net
 mms.sp-prod.net
 cdeatz.spartoo.it
+nvaxcb.spartoo.com
+zwinqi.spartoo.pt
 pov.spectrum.net
 split.to
 auth.split.io
@@ -2427,6 +2445,8 @@ tg.pe
 www.tg.pe
 thecounter.com
 www.thecounter.com
+thench.net
+www.thench.net
 theslingshot.com
 thetacdn.net
 et.tidal.com
@@ -2535,6 +2555,8 @@ www.videoproc.com
 vidible.tv
 cdn.vidible.tv
 viewpoint.com
+viglink.com
+www.viglink.com
 vilynx.com
 public.vilynx.com
 ecn.dev.virtualearth.net

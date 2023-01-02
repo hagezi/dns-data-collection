@@ -1539,8 +1539,11 @@ api-v4.trbo.com
 
 # Shops
 *.spartoo.co.uk
+*.spartoo.com
 *.spartoo.de
 *.spartoo.it
+*.spartoo.pl
+*.spartoo.pt
 gizmodern.com
 
 # https://github.com/badmojr/1Hosts/issues/728
@@ -2264,4 +2267,13 @@ adlermode.com
 
 # Game
 clickerheroes.com
+
+# korean news site - https://github.com/hagezi/dns-blocklists/issues/140
+postshare.co.kr
+
+# LeakIX Platform - https://github.com/hagezi/dns-blocklists/issues/141
+leakix.net
+
+# Soundcloud and others in some regions
+geolocation.onetrust.com
 

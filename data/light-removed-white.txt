@@ -5,6 +5,8 @@ p.d.0fmm.com
 p.d.0mme.com
 123greetings.com
 p.d.1enm.com
+1kinobig.ru
+www.1kinobig.ru
 2mdn.net
 s0.2mdn.net
 56.com
@@ -13,15 +15,20 @@ www.56.com
 www.888poker.com
 9nl.com
 analytics.console.aws.a2z.com
+a8.net
 above.com
 www.above.com
 yu.ac.kr
 graph.accountkit.com
 acdid.acdsystems.com
 adcell.com
+addthis.com
 s7.addthis.com
+www.addthis.com
 addthiscdn.com
+addtoany.com
 static.addtoany.com
+www.addtoany.com
 adf.ly
 adform.net
 adfox.ru
@@ -279,7 +286,9 @@ dm-event.net
 dmdi.pl
 docodoco.jp
 dotomi.com
+doubleclick.net
 l.doubleclick.net
+www.doubleclick.net
 doublepimp.com
 phn.doublepimp.com
 engine.phn.doublepimp.com
@@ -321,6 +330,7 @@ roseoubleu-fr.arc.epoq.de
 dcf.espn.com
 dcfdata.espn.com
 esprima.org
+estream.to
 www.ethn.io
 msg.ettoday.net
 everesttech.net
@@ -334,6 +344,7 @@ exct.net
 exosrv.com
 extreme-ip-lookup.com
 ezoic.net
+fapcat.com
 mparticle.map.fastly.net
 www.fastly-analytics.com
 fave.co
@@ -460,6 +471,7 @@ scnd.landsend.com
 lasagneandands.com
 www.lasagneandands.com
 my.leadpages.net
+leakix.net
 api-cloudfront.life360.com
 lightboxcdn.com
 www.lightboxcdn.com
@@ -609,6 +621,7 @@ sc.omtrdc.net
 onecount.net
 onesignal.com
 cdn.onesignal.com
+geolocation.onetrust.com
 online-metrix.net
 h-sdk.online-metrix.net
 onlinepbx.ru
@@ -856,7 +869,6 @@ roistat.com
 www.rojadirecta.me
 rollbar.com
 rollercoin.com
-rotf.lol
 rpts.org
 p.d.rpts.org
 widget-cdn.rpxnow.com
@@ -934,6 +946,8 @@ images.sohu.com
 sojern.com
 pixel.solvemedia.com
 pixel-secure.solvemedia.com
+nvaxcb.spartoo.com
+zwinqi.spartoo.pt
 auth.split.io
 cdn.split.io
 traffic.spot.im
@@ -971,6 +985,7 @@ www.technical-service.net
 test-iq.org
 thecounter.com
 www.thecounter.com
+thench.net
 theslingshot.com
 uim.tifbs.net
 etl.tindersparks.com
@@ -1038,6 +1053,8 @@ videoplaza.tv
 vidible.tv
 cdn.vidible.tv
 viewpoint.com
+viglink.com
+www.viglink.com
 vilynx.com
 public.vilynx.com
 visualwebsiteoptimizer.com

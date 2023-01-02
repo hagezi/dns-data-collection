@@ -9931,7 +9931,6 @@ erraticreaction.com
 err.ifengcloud.ifeng.com
 errlogos.umeng.com
 error-collector.ted.com
-error.fc2.com
 errors.snackly.co
 error.videonow.ru
 err.rambler.ru
@@ -11552,6 +11551,7 @@ hspbotdetection.azurewebsites.net
 hsprzf.shinhwaworld.com
 hssyje.theathletesfoot.com.au
 hstats.askmiso.com
+hstats.hepsiburada.com
 h.threatmetrix.com
 htiagq.sheplers.com
 htmgrl.jollyroom.no
@@ -11637,6 +11637,7 @@ i.clean.gg
 i.compendium.com
 icu.getstorybox.com
 id5-sync.com
+idat.production.ippen.space
 idbkfy.kango-roo.com
 iddu1vvb7sk8-a.akamaihd.net
 ideadevice.actonservice.com
@@ -13362,6 +13363,7 @@ logging.prefixbox.com
 loggingservices.tribune.com
 logging.wilmaa.com
 logg.kiwi.com
+log-global.aliyuncs.com
 loggly.cheatsheet.com
 log.go2s.co
 log.gobankingrates.com

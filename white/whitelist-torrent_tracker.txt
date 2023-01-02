@@ -544,6 +544,7 @@ puresynergy.com
 bt.pusacg.org
 tracker.pussytorrents.org
 qtstm32fan.ru
+tracker.qu.ax
 tracker.quix.cf
 docker-tracker-production.up.railway.app
 x7x.up.railway.app

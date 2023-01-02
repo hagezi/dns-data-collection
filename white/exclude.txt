@@ -40,7 +40,6 @@
 0x.co
 0x.tf
 10010.com
-100xuexi.com
 10.20.sslip.io
 107.189.10.20.sslip.io
 10minutemail.com
@@ -130,7 +129,6 @@
 1.us.pool.ntp.org
 1wb2.net
 2000fun.com
-2000greetings.com
 [2001
 202.35.76.144.clients.your-server.de
 2030.ltsapis.goog
@@ -186,7 +184,6 @@
 2.openbsd.pool.ntp.org
 2.opensuse.pool.ntp.org
 2.opnsense.pool.ntp.org
-2performant.com
 2.pfsense.pool.ntp.org
 2phimhay.net
 2pl.us
@@ -294,7 +291,6 @@
 51mypc.cn
 520.jp
 52.58.128.163
-52pk.com
 52xiyou.com
 52ywp.com
 52z.com
@@ -347,10 +343,8 @@
 800pharm.com
 8684.cn
 86mall.com
-888.com
 888poker.com
 88nb.cc
-88p2p.com
 89.in-addr.arpa.manitu.net
 89q.sk
 8.beyondth.cn
@@ -362,7 +356,6 @@
 91mobiles.com
 91wan.com
 92url.com
-9377.com
 94-227-232-84.access.telenet.be
 944.la
 95.clients.your-server.de
@@ -441,7 +434,6 @@ abc11.tv
 abc7.la
 abc7ne.ws
 abcbank.de
-abc.es
 abchina.com
 abc.li
 abc.net.au
@@ -463,7 +455,6 @@ ablv.com
 abnamro.nl
 abnb.me
 aboutads.info
-about.co.kr
 about.com
 aboutcookies.org
 about.me
@@ -477,7 +468,6 @@ absolutbank.ru
 abtsgmuender-bank.de
 abuelos.com
 abufinzio.monocul.us
-abum.com
 abusix.com
 a-c-1.nowyouseeme.ru
 ac24horas.com
@@ -1144,13 +1134,11 @@ advertcn.com
 advertising.com
 advert.kf5.com
 adverts.ie
-adverty.com
 adv.li
 adweek.com
 adwolf.ru
 adwords.google.com
 adyen.com
-adzgame.com
 ae01.alicdn.com
 aeerso.space
 aegir.sexy
@@ -1256,7 +1244,6 @@ a.kickass.to
 akinator.com
 akinator.com.cdn.ezoic.net
 akinator.mobi
-aklamio.com
 *.a.klaviyo.com
 a.klaviyo.com
 akm.us.hbomaxcdn.com
@@ -1266,7 +1253,6 @@ akubebas.com
 al4a.com
 alahli.com
 alahlynet.com.eg
-alawar.com
 alawwalbank.com
 albacross.com
 albank.ru
@@ -1680,14 +1666,12 @@ applicast.ga.sony.net
 applicationinsights.io
 *.app.link
 app.link
-applixir.com
 app.mailjet.com
 appmeter.ru
 appmetrica.yandex.com
 appmetrica.yandex.ru
 appmifile.com
 appodeal.com
-appolicious.com
 app.opencdn.co
 *.app.plex.tv
 *.apps.apple.com
@@ -1778,7 +1762,6 @@ as43289.net
 as50464.net
 asadcdn.com
 asaha.com
-asahi.com
 asbank.ru
 asb.az
 asb.by
@@ -1790,7 +1773,6 @@ asger.xyz
 ashampoo.com
 ashleymadison.com
 asia.apple.com
-asiafriendfinder.com
 asianembed.io
 asianhobbyist.com
 asianloadcdn.com
@@ -1800,7 +1782,6 @@ asiaunited.com.ph
 asideas.de
 asimov.events.data.trafficmanager.net
 asin.cc
-askbot.com
 ask.com
 askozia.pool.ntp.org
 a.slashdotmedia.com
@@ -1936,7 +1917,6 @@ avantlink.com
 avanza.se
 avbank.ru
 aversbank.ru
-avgle.com
 avia.ideabank.ua
 avidly.com
 avistaz.to
@@ -2015,7 +1995,6 @@ bac.com
 backblazeb2.com
 backscatterer.org
 badges-content.teamspeak.com
-badoink.com
 badoo.com
 baibako.tv
 baidu.com
@@ -2097,7 +2076,6 @@ banesco.net
 banesconline.com
 banese.com.br
 banestes.com.br
-banggood.com
 bangkokbank.com
 bangumi.moe
 bank11.de
@@ -2227,7 +2205,6 @@ bank.woori.ru
 bank.zenit.ru
 bannerconnect.com
 banners.com
-bannersolutions.com
 banorte.com
 banpara.b.br
 banplusonline.com
@@ -2368,7 +2345,6 @@ bestfwdservice.com
 bestgore.com
 bestgore.fun
 bestof.s3.amazonaws.com
-bestonlinecoupons.com
 bestreviews.com
 bestvalueshoppingmall.com
 bestvpnrating.com
@@ -2424,7 +2400,6 @@ bida.im
 bidv.com
 bidv.vn
 bifrost-api.hotstar.com
-bigbangempire.com
 bigbank.ee
 bigboobsalert.com
 big-boss-tracker.net
@@ -2458,7 +2433,6 @@ bing.net
 bioquantum.co.za
 biovea.com
 bipblog.com
-biqle.ru
 bireysel.payfix.com.tr
 bireysel.turkishbank.com
 birkenwald.de
@@ -2552,7 +2526,6 @@ blog.conservation.org
 blog.disqus.com
 blogengage.com
 blog.fc2.com
-bloggerads.net
 blogger.com
 bloglines.com
 blog.logrocket.com
@@ -2569,7 +2542,6 @@ blogspot.fr
 blogspot.in
 blogspot.jp
 blogtopsites.com
-blogun.ru
 blokada.org
 blokas.io
 blombank.com
@@ -2594,7 +2566,6 @@ bmai.cc
 bmbank.com.ua
 bmc.cdn.office.net
 bmcedirect.ma
-bmetrack.com
 bmi.ir
 bmj.com
 bmj.de
@@ -2636,7 +2607,6 @@ boc.ru
 bodenseebank.de
 boi.re
 bok.com.tw
-bokecc.com
 bolagsverket.se
 bolha.com
 bolster.formstack.com
@@ -2710,7 +2680,6 @@ brantsteele.com
 brave.com
 bravia.dl.playstation.net
 bravo.ly
-brazzerssurvey.com
 brb.com.br
 brci.ro
 brde.com.br
@@ -2851,7 +2820,6 @@ burningseries.se
 burningseries.sx
 burningseries.vc
 bus.ideabank.ua
-businessbells.com
 business.faktura.ru
 businessinsider.com
 businessonline.ge
@@ -2946,7 +2914,6 @@ campaign-archive2.com
 campaignmanager.netdirector.co.uk
 campus.arte.tv
 campuscu.com
-camsoda.com
 canada.ca
 canadapost.ca
 canadianpharmacyntv.com
@@ -3010,7 +2977,6 @@ cartabcc.it
 cart.lazada.sg
 cartoonpornguide.com
 cartubank.ge
-cashdorado.de
 casim.ir
 castell-bank.de
 casttv.com
@@ -3250,7 +3216,6 @@ changehero.io
 changelly.com
 change.org
 *.change.org.cdn.cloudflare.net
-channel4.com
 channel.kakao.com
 chaos.social
 chariz.com
@@ -3706,7 +3671,6 @@ coinbase.com
 coininsider.com
 coinspot.com.au
 cointernet.com.co
-coinurl.com
 co.jp
 co.ke
 cokodive.com
@@ -3784,6 +3748,7 @@ com.kh
 com.kw
 com.lb
 com.lk
+comlpstaticnotfound.html
 com.ly
 *.commander1.com
 commander1.com
@@ -3833,7 +3798,6 @@ components2.gazzettaobjects.it
 components2.rcsobjects.it
 compound.finance
 com.pr
-compricer.se
 computel.fr
 computerbase.de
 computershare.com
@@ -3920,6 +3884,7 @@ contentsbridge.com
 content.unicredit.it
 content-videovard-delivery-s79.vidvard.link
 content.yikyakapi.net
+contentz.mkt932.comlpstaticnotfound.html
 continuum.dds.microsoft.com
 controleng.com
 control.phone.com
@@ -4133,7 +4098,6 @@ curelost.com
 curl.im
 cur.lv
 currency.com
-currentlyobsessed.me
 cust.a3fiber.se
 custhelp.com
 *.custom.bnc.lt
@@ -4613,7 +4577,6 @@ dontbubble.us
 donttrack.us
 dood.ws
 doogh.club
-doordash.com
 dopice.sk
 dor.ga.gov
 dosenit.com
@@ -4660,9 +4623,7 @@ dpurl.org
 dqa.samsung.com
 dr49lng3n1n2s.cloudfront.net
 draft.blogger.com
-dragonawaken.com
 dragonfly.pool.ntp.org
-dragzebra.com
 draw.io
 dreamcast.hk
 dreamhost.com
@@ -4793,7 +4754,6 @@ ea.com
 ea.galerieslafayette.com
 eantrag.ibb.de
 earth.google.com
-eas.ly
 eastwestbanker.com
 easy.ac
 easyanticheat.net
@@ -4809,7 +4769,6 @@ easyparts-rollerteile.de
 easypay.axisbank.co.in
 easypay.by
 easypay.ua
-easyrencontre.com
 easysol.net
 eatcells.com
 eat.de
@@ -4934,8 +4893,6 @@ edgesuite.net
 ed.gov
 ed.gr
 edigitalsurvey.com
-edirectory.co.uk
-ediva.gr
 edkj.club
 edoardocolombo.eu
 eds.xboxlive.com
@@ -5021,7 +4978,6 @@ elle.com
 ellemag.co
 elliegoulding.com
 ellisbank.com
-elmundo.es
 eloqua.com
 e.lowes.com
 elpais.com
@@ -5064,7 +5020,6 @@ email-tracking.infobip.com
 email.uber.com
 emalls.ir
 emarsys.net
-ematicsolutions.com
 embed.dugout.com
 embed.ly
 embedly.com
@@ -5133,7 +5088,6 @@ entrepreneur.com
 *.entrust.net
 enumizmatyczny.pl
 envato.market
-enviou.com.br
 envoy.com
 en.wikipedia.org
 eok.ee
@@ -5192,7 +5146,6 @@ esplus.ru
 es.pn
 espn.com
 espncricinfo.com
-espn.go.com
 esprima.org
 esqr.co
 esselungajob.it
@@ -5408,7 +5361,6 @@ fapality.com
 fapcat.com
 fapgrams.com
 fappenist.com
-faptitans.com
 faras.link
 fark.com
 fark.net
@@ -5617,17 +5569,14 @@ flatex.de
 flaticon.com
 flattr.com
 flawcra.cc
-fleshlight.com
 flessabank.de
 flic.kr
 flickr.com
 flightstats.com
-fling.com
 flintmobile.de
 flipboard.com
 flip.id
 flipp.com
-flipshope.com
 flirtymania.plus
 flocktory.com
 flomuz.io
@@ -5746,7 +5695,6 @@ frc.io
 freebsd.pool.ntp.org
 freedom.1776.ga
 freeforfonts.com
-freeforums.org
 free.fr
 freegeoip.net
 free-hearts.com
@@ -5762,7 +5710,6 @@ freestyleserver.com
 freethevbucks.com
 free-tracker.ga
 free-tracker.zooki.xyz
-freeware.de
 fresenius-kabi.com
 freshbooks.com
 freshdesk.de
@@ -5772,7 +5719,6 @@ freze.it
 *.fr-go.kelkoogroup.net
 fr-go.kelkoogroup.net
 friendfeed.com
-friendfinder.com
 friendfinderinc.com
 *.fritz.box
 fritz.box
@@ -5849,15 +5795,12 @@ g.alicdn.com
 gall.dcinside.com
 game168.com.tw
 game2.cn
-gameangel.com
 gamecircus.com
-gamecity.net
 game.clashroyaleapp.com
 gamecoast.net
 gamecoast.org
 gamedev.place
 gameguru.mobi
-gamehouse.com
 gamepedia.com
 gamepk.us
 gamersgate.com
@@ -5865,10 +5808,8 @@ gamersunite.com
 gamesgx.net
 gamesmojo.com
 gamexp.ru
-gamingadult.com
 gamingsociety.pl
 gamingwonderland.com
-gamooga.com
 gamyun.net
 gaoshouyou.com
 garanteprivacy.it
@@ -6009,7 +5950,6 @@ gfe.nvidia.com
 gfuel.ly
 gfwsl.geforce.com
 gfycat.com
-ggcorp.me
 gg.gg
 gghacks.com
 ggopjn.com
@@ -6036,7 +5976,6 @@ gigaz.in
 gigya.com
 giltcity.com
 gin.ntt.net
-giphy.com
 giraitalia.it
 girls.xyz
 gismeteo.ru
@@ -6121,10 +6060,8 @@ go.aws
 gobank-online.de
 gob.es
 go.blokada.org
-gocarrot.com
 go.com
 godaddy.com
-godatafeed.com
 go.dbs.com
 godlikeproductions.com
 godrk.de
@@ -6629,7 +6566,6 @@ halkbank.rs
 halkyatirim.com.tr
 hallertauer-volksbank.de
 halodoc.com
-haloscan.com
 halykpay.kz
 hama3.net
 hamburger-volksbank.de
@@ -6833,7 +6769,6 @@ home.yxgz.club
 home.yxgz.vip
 honoku.com
 hookers.nl
-hooligapps.com
 hopetech.com
 hopin-chat-dublin.stream-io-api.com
 hopin.com
@@ -6924,14 +6859,12 @@ httptoolkit.tech
 htz3.noho.st
 hua215.com.tw
 huaweiblog.de
-huawei.com
 *.huaweimobilewifi.com
 hubank.com
 hub.bugout.link
 hubs.la
 hubs.li
 hubs.ly
-hubspot.com
 *.hubspotemail.net
 hubspotemail.net
 hubspot.net
@@ -7357,11 +7290,9 @@ ifobs.bankcenter.com.ua
 ifobs.dvbank.ua
 ifobs.kredobank.com.ua
 iframely.net
-ifrype.com
 ift.tt
 ifttt.com
 igapromomanager-pa.googleapis.com
-ig.com.br
 ign.com
 ignimgs.com
 ignorelist.com
@@ -7388,7 +7319,6 @@ ikano.no
 ikb.de
 ikb.hr
 ikb.uci-bank.com
-ikea.com
 ikib.ru
 ik.my
 i.kredprombank.ru
@@ -7457,7 +7387,6 @@ imexnet.imexbanka.hr
 img1.blogblog.com
 img1.od-cdn.com
 img.ads.tvb.com
-imgadult.com
 img.alibaba.com
 img.bunnycdnn.ru
 imgci.com
@@ -7483,7 +7412,6 @@ img-va.myshopline.com
 img.vidible.tv
 img.yana.asideas.de
 img.zivver.com
-imlive.com
 immomo.com
 imoneybank.ru
 imore.com
@@ -7518,7 +7446,6 @@ independent.co.uk
 independentreserve.com
 indiamart.com
 indianbank.lk
-indianexpress.com
 indiatimes.com
 indiegalacdn.com
 indiegogo.com
@@ -7580,7 +7507,6 @@ innogamescdn.com
 innogames.com
 inoreader.com
 inquisitr.com
-inrdeals.com
 inresbank.ru
 inscience.news
 inscname.net
@@ -7605,7 +7531,6 @@ instantink.hpsmart.com
 instantlogosearch.com
 instantmessaging-pa.googleapis.com
 instapaper.com
-instreamvideo.ru
 instructables.com
 instructure.com
 intechbank.ru
@@ -7666,7 +7591,6 @@ intersport.peerius.com
 intervale.ru
 intesasanpaolobank.ro
 intesasanpaolo.com
-intimshop.ru
 intl.xiaomi.com
 intuitcdn.net
 intvrg.gib.gov.tr
@@ -7823,7 +7747,6 @@ it-go.kelkoogroup.net
 itiny.industrialbank.ua
 it-it-media-publications.shopfully.cloud
 itmagazine.ch
-itmedia.co.jp
 it.mediamass.net
 itm.im
 *.itotolink.net
@@ -7850,7 +7773,6 @@ ivybank.ru
 iwelt.de
 i.wfcdn.de
 iwin.com
-iwon.com
 iw.unistream.ru
 ix.de
 ixigua.com
@@ -7897,7 +7819,6 @@ jiesen.life
 jihsunbank.com.tw
 jiit.ac.in
 jimdo.com
-jimdofree.com
 jimstatic.com
 jio.com
 jiosaavn.com
@@ -8008,7 +7929,6 @@ kasseler-sparkasse.de
 kastatic.com
 katalk.kakao.com
 kataweb.it
-katch.ne.jp
 katushka.net
 katzr.net
 kautionen.aareal-bank.com
@@ -8132,7 +8052,6 @@ kokodayo.site
 kolektiva.social
 koli.services
 kombank.ru
-kompas.com
 konet.kovanica.hr
 kong-active.bsbportal.com
 kong-global.shz-amp-prod.shazamcloud.com
@@ -8198,7 +8117,6 @@ krunker.io
 krxd.net
 ks-bank.ru
 ks-cdn.com
-ks.cn
 ksgbank.com.ua
 ksib.ru
 ksk-anhalt-bitterfeld.de
@@ -8355,6 +8273,7 @@ lcut.in
 lddy.no
 l.doubleclick.net
 leadpages.net
+leakix.net
 leaknudes.com
 leanbox.us
 leanlibrary.com
@@ -8402,7 +8321,6 @@ lfjack.com
 lforr.elaine-asp.de
 lforr.elainelfo.net
 lgbbank.com
-lg.com
 lge.com
 lgin.msa.trafficmanager.net
 lgn.ru
@@ -8411,7 +8329,6 @@ lgtvsdp.com
 lgucdn.com
 lhv.ee
 li1406-230.members.linode.com
-liberation.fr
 liberbank.es
 libero.it
 libertybank.ge
@@ -8495,7 +8412,6 @@ linkd.pl
 linkedin.com
 *.link.epicgames.com
 link.epicgames.com
-linkfeed.ru
 *.link.freshmail.mx
 link.freshmail.mx
 link.gy
@@ -8540,7 +8456,6 @@ link.sylikes.com
 linksynergy.com
 linktech.cn
 linktr.ee
-linkwithin.com
 link.wizzair.com
 linkye.net
 linky.nu
@@ -8643,7 +8558,6 @@ location-api.hdhomerun.com
 locationhistoryaggregates-pa.googleapis.com
 loc.gov
 lockobank.ru
-lockview.cn
 loebbecke-bank.de
 log4jmemes.com
 logfiles.zoom.us
@@ -8724,7 +8638,6 @@ luvyle.com
 lv3.us.hbomaxcdn.com
 lvbet.pl
 lvvk.com
-lycos.com
 l.yimg.com
 lyksoomu.com
 lyretain.site
@@ -8801,7 +8714,6 @@ mail.onedrive.com
 mail.realliferpg.de
 mail.ru
 mailsac.com
-mailtrack.me
 mail.tsinghua.edu.cn
 mail.yahoo.com
 mail.zasaonsk.ga
@@ -8865,7 +8777,6 @@ maritim.de
 maritimebank.com
 markenmehrwert.com
 marketing.net.idealo-partner.com
-marketingplatform.google
 marketplace.cdn.mozilla.net
 marketwatch.com
 market.xiaomi.com
@@ -8991,7 +8902,6 @@ mediaclub.tv
 media.communities.win
 media.dssott.com
 mediaexpert.pl
-mediafire.com
 mediafirerepack.net
 mediaget.com
 media-imdb.com
@@ -9039,7 +8949,6 @@ mega4upload.com
 mega4up.org
 megabank.com.tw
 megabank.net
-megacool.co
 megafon.ru
 mega.nz
 megapay.sviaz-bank.ru
@@ -9109,7 +9018,6 @@ metrics.lidl.com
 metrics.torproject.org
 metrobankdirect.com
 metrobankonline.co.uk
-metro.co.uk
 metservice.com
 metzler.com
 meu.inss.gov.br
@@ -9132,7 +9040,6 @@ mha.fi
 mhc-*.myhomescreen.tv
 mhfreq.org
 m.hotmail.com
-miarroba.info
 mia.ru
 mib.devoncredit.ru
 micb.md
@@ -9157,7 +9064,6 @@ midas.gtimg.cn.cdn.ettdnsv.com
 midas.gtimg.cn.cloud.tc.qq.com
 midasplayer.com
 middleware.p7s1.io
-midomi.com
 mid.ru
 miedzyrzecz.biz
 migcredit.ru
@@ -9236,6 +9142,7 @@ mkt61.net
 mkt71.net
 mkt81.net
 mkt91.net
+mkt932.comlpstaticnotfound.html
 mktossl.com
 *.mktoweb.com
 mktoweb.com
@@ -9293,7 +9200,6 @@ moeblog.cn
 moeking.eu.org
 moeking.me
 moengage.com
-moevideo.net
 moeweb.pw
 mofylook.com
 mohela.com
@@ -9334,7 +9240,6 @@ mooma.sh
 moomoo.me
 moonburrow.club
 mooo.com
-mopo.jp
 more.sh
 morningbrew.com
 morpheus.com
@@ -9529,7 +9434,6 @@ my.morskoybank.com
 mymuesli.com
 mynt.xyz
 myob.com
-myoffers.co.uk
 mypaste.fun
 my.pervobank.ru
 myphonenumbers-pa.googleapis.com
@@ -9595,7 +9499,6 @@ nano.org
 nanorep.com
 nardgammon.com
 nardgammon.ru
-narod.ru
 narrativ.com
 nasa.gov
 nashownotes.com
@@ -9660,7 +9563,6 @@ neeva.co
 nefteprom.com
 neilo.webuntis.com
 neixin.cn
-nejmqianyan.cn
 ne.jp
 nekos96.xyz
 neobux.com
@@ -9704,7 +9606,6 @@ netguard.me
 net.idealo-partner.com
 net.in
 net.kentbank.hr
-netlify.app
 netlify.com
 net.ms
 net.orel.ru
@@ -9822,7 +9723,6 @@ nightcafe.studio
 nih.gov
 niiftri.irkutsk.ru
 nike.com
-nikkei.com
 nikoil.az
 nimiq.com
 nine.com.au
@@ -10073,7 +9973,6 @@ nyap2p.com
 nyc.he.net
 nydailynews.com
 nydn.us
-nydus.org
 nyer.cm
 ny.gov
 nykredit.dk
@@ -10160,7 +10059,6 @@ ohio.gov
 oi.bankia.es
 *oisd*
 oiyo.tk
-ojooo.com
 *.ojrq.net
 ojrq.net
 oklivetv.com
@@ -10568,7 +10466,6 @@ ourl.in
 ourl.tw
 ourweigh.in
 outlook.com
-over-blog.com
 over-blog-kiwi.com
 overcast-cdn.com
 overcast.fm
@@ -10577,7 +10474,6 @@ overflow.biz
 overseas.edu.lk
 overstock.com
 o.vg
-ovh.com
 ovh.co.uk
 ovh.net
 ovh.to
@@ -10616,7 +10512,6 @@ pagbrasil.com
 pagead46.l.doubleclick.net
 *.pagead.l.doubleclick.net
 pagead.l.doubleclick.net
-pagecount.com
 page.gitlab.com
 pages03.net
 pages.dev
@@ -10663,7 +10558,6 @@ p.asia
 pasientsky.no
 passeidireto.com
 passets-cdn.pinterest.com
-passion.com
 passion.io
 passolig.com.tr
 passotaksit.com.tr
@@ -10699,7 +10593,6 @@ pay.best2pay.net
 paycard.beeline.ru
 pay.cardstandard.ru
 paydirekt.de
-paydotcom.com
 payeasy.lk
 payeer.com
 pay.ertelecom.ru
@@ -10786,7 +10679,6 @@ pcinpact.com
 pckd.me
 pck.tv
 pcmag.com
-pcpop.com
 pc.qq.com
 pctmix.com
 pcwelt.de
@@ -10972,9 +10864,7 @@ play.aniview.com
 play-asia.com
 playatoms-pa.googleapis.com
 playback.edge.bamgrid.com
-playbuzz.com
 player-api.dreamlab.pl
-playerassist.com
 player.avplayer.com
 player-cdn.com
 player.cnevids.com
@@ -11004,8 +10894,6 @@ playstation.com.edgekey.net
 playstation.net
 *.playstation.net.edgekey88.net
 playstation.net.edgekey88.net
-playtem.com
-playtomic.com
 playwire.com
 plc.mx
 pldm.ml
@@ -11133,6 +11021,7 @@ post.gov.tw
 postil.com
 post.japanpost.jp
 postmediamontrealgazette2.files.wordpress.com
+postshare.co.kr
 *.postsign.docusign.com
 postsign.docusign.com
 *.post.spmailtechno.com
@@ -11143,7 +11032,6 @@ pov.spectrum.net
 pow7.com
 power-cdn.net
 powerlift-frontdesk.acompli.net
-powtoon.com
 ppapi.pl
 ppcprotect.com
 ppfr.it
@@ -11177,7 +11065,6 @@ press-start.com
 prestashop.com
 prestigecu.org
 prestige.minimafia.nl
-prezi.com
 prezzibenzina.it
 *.prf.hn
 prf.hn
@@ -11376,7 +11263,6 @@ pusha.se
 pushbullet.com
 pusherapp.com
 pusher.com
-pusherism.com
 push-fcdn-self-oversea.s.bytetcdn.com
 pushover.net
 pushpushgo.com
@@ -11453,6 +11339,7 @@ quantaprevidencia.com.br
 quantcast.com
 quantcast.mgr.consensu.org
 quartic.pl
+qu.ax
 quercia.com
 questionpro.com
 quibids.com
@@ -11620,7 +11507,6 @@ rakuten-bank.com.tw
 rakuten.co.jp
 rakuten.com
 rakutenmarketing.com
-rambla.be
 rambler.ru
 rams.com.au
 random.org
@@ -11688,7 +11574,6 @@ rbc.com
 rb-chamer-land.de
 rb-chiemgau-nord.de
 rbcroyalbank.com
-rbc.ru
 rb.cz
 rb-deggendorf.de
 rb-denzlingen-sexau.de
@@ -11851,7 +11736,6 @@ reach-pa.googleapis.com
 reactandshare.com
 readaloud.app
 readdle.cmail20.com
-readnotify.com
 ready4.icu
 realclear.com
 real.com
@@ -11865,7 +11749,6 @@ realtor.com
 reamaze.com
 rebelmouse.com
 rebelne.ws
-rebill.me
 rebrand.ly
 rebrandly.com
 *.rebrandlydomain.com
@@ -11913,7 +11796,6 @@ redir.fr
 redir.is
 *.redir.tradedoubler.com
 redir.tradedoubler.com
-redlightcenter.com
 redspot.tv
 redu.it
 redventures.io
@@ -11922,7 +11804,6 @@ reedlan.com
 referer.us
 referrer.disqus.com
 refini.tv
-reformal.ru
 reformgovernmentsurveillance.com
 ref.so
 reg.biv.sony.tv
@@ -12034,7 +11915,6 @@ rgsbank.ru
 rheingauer-volksbank.de
 rhel.pool.ntp.org
 rhoen-rennsteig-sparkasse.de
-ria.ru
 ribbank.com
 ricbank.com
 richardsw.club
@@ -12301,7 +12181,6 @@ salsify.com
 saludenestambul.com
 salz-helmreich.de
 salzlandsparkasse.de
-sam4m.com
 samba.com
 sampo.ru
 samsclub.com
@@ -12336,7 +12215,6 @@ santander.de
 santander.nl
 santepubliquefrance.fr
 saooti.com
-sapo.pt
 sascdn.com
 sas.com
 sas.samsungcloudsolution.com
@@ -12560,7 +12438,6 @@ securitydomain-pa.googleapis.com
 security.xiaomi.com
 sedo.com
 seebachgrund.de
-seedr.ru
 seek.com
 seeklogo.com
 seeligerbank.de
@@ -12583,7 +12460,6 @@ selfwealth.com.au
 selkombank.ru
 sellix.io
 sellpoint.net
-sellwild.com
 selly.pl
 semanticlocation-pa.googleapis.com
 sematext.com
@@ -12591,7 +12467,6 @@ semawur.com
 senate.gov
 sendgrid.net
 sendpulse.com
-sendspace.com
 sendspace.pl
 sendwise.sevensenders.com
 sendwyre.com
@@ -12651,7 +12526,6 @@ sevnb.ru
 sevstar.net
 sexemulator.com
 sexsaoy.com
-sexyxxx.biz
 sf16.byteicdn.com
 sf16-sg-tos.ressocdn.com
 sf3c.tw
@@ -12723,7 +12597,6 @@ shoebuy.com
 shoespie.com
 shoosh.co
 shoparize.com
-shopathome.com
 shop.bora-sauna.de
 shopcider.com
 shop.dangerfield.com.au
@@ -12733,10 +12606,8 @@ shope.ee
 shopfullyb2b.com
 shopfully.cloud
 shopify.com
-shopimind.com
 shop.mango.com
 shop-next.prod-ec1.foodspring.com
-shopperapproved.com
 shopping-feed.com
 shoppinglifestyle.biz
 shopping.t-online.de
@@ -12900,7 +12771,6 @@ sktorrent.eu
 sktorrent.net
 s-kukc.de
 sk-westerwald-sieg.de
-sky.com
 skynetcenter.me
 skynetcloud.site
 skypeassets.com
@@ -13098,7 +12968,6 @@ spadaka-hoengen.de
 spadaka-oeventrop.de
 spadaka-reken.de
 spade.twitch.tv
-spankbang.com
 s-pankki.fi
 spantechie.com
 sp-ao.shortpixel.ai
@@ -13343,6 +13212,7 @@ sparkasse-wuppertal.de
 sparkasse-zollernalb.de
 spark-rostov.ru
 sparta.qb.mig.tencent-cloud.net
+*.spartoo.com
 spartoo.com
 *.spartoo.co.uk
 spartoo.co.uk
@@ -13350,7 +13220,9 @@ spartoo.co.uk
 spartoo.de
 *.spartoo.it
 spartoo.it
+*.spartoo.pl
 spartoo.pl
+*.spartoo.pt
 spartoo.pt
 spaw.de
 spb.nz.ru
@@ -13434,7 +13306,6 @@ spmailtechno.com
 spmode.ne.jp
 spn.a1q7.net
 spn.sr
-spolecznosci.net
 sponsor.ajay.app
 sponsorkliks.com
 spop.ams.plex.bz
@@ -13463,7 +13334,6 @@ springfreetrampoline.com
 sprint.olabank.ru
 spr.ly
 spurtbank.ru
-sputniknews.com
 sq6.ru
 sqex.to
 squarespace.com
@@ -13724,7 +13594,6 @@ storify.com
 s.trackingmore.com
 strafe.com
 strandhof.de
-strands.com
 strangled.net
 strato.de
 strat.ru
@@ -13797,7 +13666,6 @@ suncorpbank.com.au
 suncorp.com.au
 s.uniqlo.com
 sunnybank.com.tw
-suntimes.com
 suo.im
 supermicro.com
 superrtl.de
@@ -14118,7 +13986,6 @@ terminal.ucs.su
 termin.telekom.de
 termsfeed.com
 termux.net
-terra.com.br
 terranovasecurity.com
 terranovasite.com
 tescobank.com
@@ -14158,18 +14025,15 @@ thebp.site
 thebytestore.co.uk
 thecity.m24.ru
 thecompany.pl
-theconversation.com
 thecounter.com
 thedailybeast.com
 thedaywestream.ru
 theempire.bz
-thefreedictionary.com
 thegamesdownload.net
 thegeeks.bz
 theglobeandmail.com
 thegrommet.com
 theguardian.com
-thehill.com
 *.the-home-depot-ca.pxf.io
 the-home-depot-ca.pxf.io
 thein.fo
@@ -14207,7 +14071,6 @@ thesa.us
 thesciverse.com
 theslingshot.com
 thesne.ws
-thesun.co.uk
 thetacdn.net
 thetimes.co.uk
 thetracker.org
@@ -14239,7 +14102,6 @@ thumbs-015.externulls.com
 thunkable.com
 tiaa.org
 ticari.yapikredi.com.tr
-ticketmaster.com
 ticket.uz.gov.ua
 tick.usask.ca
 tick.usno.navy.mil
@@ -14464,7 +14326,6 @@ torrentleech.org
 torrent.mp3quran.net
 torrent.nwps.ws
 torrentproject2.com
-torrent.pw
 torrent.resonatingmedia.com
 torrents.artixlinux.org
 torrent.skynetcenter.me
@@ -14715,6 +14576,7 @@ tracker.pomf.se
 tracker.publicbt.com
 tracker.publictracker.xyz
 tracker.pussytorrents.org
+tracker.qu.ax
 tracker.quix.cf
 tracker.rp-api.tech
 tracker.rsplwe.com
@@ -14842,7 +14704,6 @@ treasurydirect.gov
 trendmicro.co.jp
 trendmicro.com
 t.rend.tw
-tresensa.com
 tr.fuckbitcoin.xyz
 tr.highstar.shop
 trib.al
@@ -14930,7 +14791,6 @@ tubi.tv
 tu.bk.mufg.jp
 tucows.com
 tucowsdomains.com
-tudou.com
 tuenti.com
 tumblr.com
 tuner-api.hdhomerun.com
@@ -15048,7 +14908,6 @@ ucweb.com
 udc-service.mathworks.com
 udec.cl
 udel.edu
-udemy.com
 udengi.ru
 udhmgnsyvvxhaf1ygiax.larecontent.com
 udp-tracker.shittyurl.org
@@ -15097,7 +14956,6 @@ umich.edu
 ummz.umich.edu
 umn.edu
 umweltbank.de
-unam.mx
 unblockit.bet
 unc.edu
 underverse.su
@@ -15152,7 +15010,6 @@ unr.ly
 unscreen.com
 unsere-raiba.de
 unserevolksbank.de
-unsplash.com
 untangle.com
 untis.at
 u.nu
@@ -15594,8 +15451,6 @@ vidiocdn.com
 vidio.com
 vid.pr0gramm.com
 vid.puffyan.us
-vidpulse.com
-vidto.me
 vidvard.link
 vietcombank.com.vn
 vietinbank.vn
@@ -15855,7 +15710,6 @@ volkswagenbank.de
 vol.venezolano.com
 volvofinans.se
 vonq.io
-voodoo.io
 vorne.de
 vortex.data.trafficmanager.net
 vortex-win.data.microsoft.com
@@ -16090,7 +15944,6 @@ w.bilicdn1.com
 wb.md
 wb.mosoblbank.ru
 wbze.de
-wcc.edu.in
 wcpstatic.microsoft.com
 *.wd2go.com
 *.wdtinc.com
@@ -16242,7 +16095,6 @@ wikipedia.org
 wiki.pokemoncentral.it
 wikplayer.com
 wiktionary.org
-wildtangent.com
 wildvogel-futter.de
 wiley.com
 wilf.cn
@@ -16393,7 +16245,6 @@ www.0vu.cn
 www.0x.co
 www.0x.tf
 www.10010.com
-www.100xuexi.com
 www.10minutemail.com
 www.1177.se
 www.120181311.xyz
@@ -16447,7 +16298,6 @@ www.1url.cz
 www.1-url.net
 www.1wb2.net
 www.2000fun.com
-www.2000greetings.com
 www.20minutos.es
 www.2144.cn
 www.21food.cn
@@ -16474,7 +16324,6 @@ www.2.ly
 www.2mdn.net
 www.2ni.in
 www.2nu.gs
-www.2performant.com
 www.2phimhay.net
 www.2pl.us
 www.2tu.us
@@ -16528,7 +16377,6 @@ www.500px.org
 www.51240.com
 www.51mypc.cn
 www.520.jp
-www.52pk.com
 www.52xiyou.com
 www.52ywp.com
 www.52z.com
@@ -16571,10 +16419,8 @@ www.7zap.com
 www.800pharm.com
 www.8684.cn
 www.86mall.com
-www.888.com
 www.888poker.com
 www.88nb.cc
-www.88p2p.com
 www.89q.sk
 www.8.ly
 www.8pecxstudios.com
@@ -16583,7 +16429,6 @@ www.8vs.com
 www.91mobiles.com
 www.91wan.com
 www.92url.com
-www.9377.com
 www.944.la
 www.960303.xyz
 www.973.com
@@ -16625,7 +16470,6 @@ www.abc11.tv
 www.abc7.la
 www.abc7ne.ws
 www.abcbank.de
-www.abc.es
 www.abchina.com
 www.abc.li
 www.abcn.ws
@@ -16651,7 +16495,6 @@ www.abr.ru
 www.absolutbank.ru
 www.abtsgmuender-bank.de
 www.abuelos.com
-www.abum.com
 www.abusix.com
 www.ac24horas.com
 www.academia.edu
@@ -16756,12 +16599,10 @@ www.adverigo.com
 www.advertcn.com
 www.advertising.com
 www.adverts.ie
-www.adverty.com
 www.adv.li
 www.adweek.com
 www.adwolf.ru
 www.adyen.com
-www.adzgame.com
 www.aeerso.space
 www.aegir.sexy
 www.aeotec.com
@@ -16828,11 +16669,9 @@ www.akf.de
 www.akibank.ru
 www.akinator.com
 www.akinator.mobi
-www.aklamio.com
 www.akubebas.com
 www.al4a.com
 www.alahli.com
-www.alawar.com
 www.alawwalbank.com
 www.albacross.com
 www.albank.ru
@@ -17021,11 +16860,9 @@ www.appleiphonecell.com
 www.apple.news
 www.applicationinsights.io
 www.app.link
-www.applixir.com
 www.appmeter.ru
 www.appmifile.com
 www.appodeal.com
-www.appolicious.com
 www.appsflyer.com
 www.appspot.com
 www.appsumo.com
@@ -17078,7 +16915,6 @@ www.as43289.net
 www.as50464.net
 www.asadcdn.com
 www.asaha.com
-www.asahi.com
 www.asbank.ru
 www.asb.az
 www.asb.by
@@ -17086,13 +16922,11 @@ www.asciiflow.com
 www.asger.xyz
 www.ashampoo.com
 www.ashleymadison.com
-www.asiafriendfinder.com
 www.asianembed.io
 www.asianhobbyist.com
 www.asianloadcdn.com
 www.asideas.de
 www.asin.cc
-www.askbot.com
 www.ask.com
 www.asnbank.nl
 www.asos.com
@@ -17159,7 +16993,6 @@ www.avantlink.com
 www.avanza.se
 www.avbank.ru
 www.aversbank.ru
-www.avgle.com
 www.avidly.com
 www.avistaz.to
 www.avis-verifies.com
@@ -17199,7 +17032,6 @@ www.babytrackers.com
 www.bac.com
 www.backblazeb2.com
 www.backscatterer.org
-www.badoink.com
 www.badoo.com
 www.baibako.tv
 www.baidu.com
@@ -17253,7 +17085,6 @@ www.bandcamp.com
 www.bandito.org
 www.banesco.net
 www.banesconline.com
-www.banggood.com
 www.bangkokbank.com
 www.bangumi.moe
 www.bank11.de
@@ -17338,7 +17169,6 @@ www.bankuralsib.ru
 www.bankvl.ru
 www.bannerconnect.com
 www.banners.com
-www.bannersolutions.com
 www.banorte.com
 www.banplusonline.com
 www.banquelaurentienne.ca
@@ -17440,7 +17270,6 @@ www.beste-freundin-gesucht.de
 www.bestfwdservice.com
 www.bestgore.com
 www.bestgore.fun
-www.bestonlinecoupons.com
 www.bestreviews.com
 www.bestvalueshoppingmall.com
 www.bestvpnrating.com
@@ -17472,7 +17301,6 @@ www.bicentenariobu.com
 www.bida.im
 www.bidv.com
 www.bidv.vn
-www.bigbangempire.com
 www.bigbank.ee
 www.bigboobsalert.com
 www.big-boss-tracker.net
@@ -17502,7 +17330,6 @@ www.binged.it
 www.bing.net
 www.biovea.com
 www.bipblog.com
-www.biqle.ru
 www.birkenwald.de
 www.bistrozaim.ua
 www.bitbucket.org
@@ -17574,7 +17401,6 @@ www.blockchain.com
 www.blockfi.com
 www.blogblog.com
 www.blogengage.com
-www.bloggerads.net
 www.blogger.com
 www.bloglines.com
 www.bloglovin.com
@@ -17586,7 +17412,6 @@ www.blogspot.fr
 www.blogspot.in
 www.blogspot.jp
 www.blogtopsites.com
-www.blogun.ru
 www.blokada.org
 www.blokas.io
 www.blombank.com
@@ -17609,7 +17434,6 @@ www.blur.by
 www.bm23.com
 www.bmai.cc
 www.bmcedirect.ma
-www.bmetrack.com
 www.bmi.ir
 www.bmj.com
 www.bmj.de
@@ -17643,7 +17467,6 @@ www.boc.lk
 www.boc.ru
 www.bodenseebank.de
 www.boi.re
-www.bokecc.com
 www.bolagsverket.se
 www.bolha.com
 www.bom.so
@@ -17697,7 +17520,6 @@ www.brandonsli.com
 www.brantsteele.com
 www.brave.com
 www.bravo.ly
-www.brazzerssurvey.com
 www.brci.ro
 www.brdoffice.ro
 www.breakoutlist.com
@@ -17780,7 +17602,6 @@ www.burningseries.nz
 www.burningseries.se
 www.burningseries.sx
 www.burningseries.vc
-www.businessbells.com
 www.businessinsider.com
 www.businessonline.ge
 www.businessweek.com
@@ -17842,7 +17663,6 @@ www.camopedia.org
 www.campaign-archive1.com
 www.campaign-archive2.com
 www.campuscu.com
-www.camsoda.com
 www.canada.ca
 www.canadapost.ca
 www.canadianpharmacyntv.com
@@ -17879,7 +17699,6 @@ www.carrotquest.io
 www.cartabcc.it
 www.cartoonpornguide.com
 www.cartubank.ge
-www.cashdorado.de
 www.casim.ir
 www.castell-bank.de
 www.casttv.com
@@ -17959,7 +17778,6 @@ www.chanakancloud.net
 www.changehero.io
 www.changelly.com
 www.change.org
-www.channel4.com
 www.chaos.social
 www.chariz.com
 www.chasecanada.ca
@@ -18150,7 +17968,6 @@ www.co.im
 www.co.in
 www.coinbase.com
 www.coininsider.com
-www.coinurl.com
 www.co.jp
 www.co.ke
 www.cokodive.com
@@ -18207,6 +18024,7 @@ www.com.kh
 www.com.kw
 www.com.lb
 www.com.lk
+www.comlpstaticnotfound.html
 www.com.ly
 www.commander1.com
 www.commercegate.com
@@ -18239,7 +18057,6 @@ www.completeid.com
 www.complexmedianetwork.com
 www.compound.finance
 www.com.pr
-www.compricer.se
 www.computel.fr
 www.computerbase.de
 www.computershare.com
@@ -18415,7 +18232,6 @@ www.curelost.com
 www.curl.im
 www.cur.lv
 www.currency.com
-www.currentlyobsessed.me
 www.custhelp.com
 www.customer.io
 www.customeriomail.com
@@ -18695,7 +18511,6 @@ www.dontbubble.us
 www.donttrack.us
 www.dood.ws
 www.doogh.club
-www.doordash.com
 www.dopice.sk
 www.dosenit.com
 www.doshopify.com
@@ -18724,8 +18539,6 @@ www.dpd.de
 www.dpo.st
 www.dp.ua
 www.dpurl.org
-www.dragonawaken.com
-www.dragzebra.com
 www.draw.io
 www.dreamcast.hk
 www.dreamhost.com
@@ -18818,7 +18631,6 @@ www.e37.eu
 www.eab.ru
 www.eac-cdn.com
 www.ea.com
-www.eas.ly
 www.eastwestbanker.com
 www.easy.ac
 www.easyanticheat.net
@@ -18831,7 +18643,6 @@ www.easylist.club
 www.easyparts-rollerteile.de
 www.easypay.by
 www.easypay.ua
-www.easyrencontre.com
 www.easysol.net
 www.eatcells.com
 www.eat.de
@@ -18895,7 +18706,6 @@ www.edgesuite.net
 www.ed.gov
 www.ed.gr
 www.edigitalsurvey.com
-www.ediva.gr
 www.edkj.club
 www.edoardocolombo.eu
 www.edu.br
@@ -18958,7 +18768,6 @@ www.elle.com
 www.ellemag.co
 www.elliegoulding.com
 www.ellisbank.com
-www.elmundo.es
 www.eloqua.com
 www.elpais.com
 www.elsevier-ae.com
@@ -18971,7 +18780,6 @@ www.ely.re
 www.emailaccountlogin.co
 www.emalls.ir
 www.emarsys.net
-www.ematicsolutions.com
 www.embed.ly
 www.embedly.com
 www.emb.ru
@@ -19173,7 +18981,6 @@ www.fapality.com
 www.fapcat.com
 www.fapgrams.com
 www.fappenist.com
-www.faptitans.com
 www.faras.link
 www.fark.com
 www.fark.net
@@ -19321,17 +19128,14 @@ www.flatex.de
 www.flaticon.com
 www.flattr.com
 www.flawcra.cc
-www.fleshlight.com
 www.flessabank.de
 www.flic.kr
 www.flickr.com
 www.flightstats.com
-www.fling.com
 www.flintmobile.de
 www.flipboard.com
 www.flip.id
 www.flipp.com
-www.flipshope.com
 www.flirtymania.plus
 www.flocktory.com
 www.flomuz.io
@@ -19421,7 +19225,6 @@ www.franklintempleton.com
 www.fransabank.by
 www.frc.io
 www.freeforfonts.com
-www.freeforums.org
 www.free.fr
 www.freegeoip.net
 www.free-hearts.com
@@ -19434,7 +19237,6 @@ www.freeroms.com
 www.freestyleserver.com
 www.freethevbucks.com
 www.free-tracker.ga
-www.freeware.de
 www.fresenius-kabi.com
 www.freshbooks.com
 www.freshdesk.de
@@ -19442,7 +19244,6 @@ www.freshhoods.com
 www.freshmail.mx
 www.freze.it
 www.friendfeed.com
-www.friendfinder.com
 www.friendfinderinc.com
 www.fritz.box
 www.friv.cm
@@ -19497,14 +19298,11 @@ www.gaggle.fun
 www.ga.gov
 www.galerieslafayette.com
 www.game2.cn
-www.gameangel.com
 www.gamecircus.com
-www.gamecity.net
 www.gamecoast.net
 www.gamecoast.org
 www.gamedev.place
 www.gameguru.mobi
-www.gamehouse.com
 www.gamepedia.com
 www.gamepk.us
 www.gamersgate.com
@@ -19512,10 +19310,8 @@ www.gamersunite.com
 www.gamesgx.net
 www.gamesmojo.com
 www.gamexp.ru
-www.gamingadult.com
 www.gamingsociety.pl
 www.gamingwonderland.com
-www.gamooga.com
 www.gamyun.net
 www.gaoshouyou.com
 www.garanteprivacy.it
@@ -19602,7 +19398,6 @@ www.ge.tt
 www.getyounity.com
 www.gfuel.ly
 www.gfycat.com
-www.ggcorp.me
 www.gg.gg
 www.gghacks.com
 www.ggopjn.com
@@ -19623,7 +19418,6 @@ www.gigatribe.com
 www.gigaz.in
 www.gigya.com
 www.giltcity.com
-www.giphy.com
 www.giraitalia.it
 www.girls.xyz
 www.gismeteo.ru
@@ -19682,10 +19476,8 @@ www.goatcounter.com
 www.go.aws
 www.gobank-online.de
 www.gob.es
-www.gocarrot.com
 www.go.com
 www.godaddy.com
-www.godatafeed.com
 www.godlikeproductions.com
 www.godrk.de
 www.gofund.me
@@ -20000,7 +19792,6 @@ www.halkbank.mk
 www.halkbank.rs
 www.hallertauer-volksbank.de
 www.halodoc.com
-www.haloscan.com
 www.halykpay.kz
 www.hama3.net
 www.hamburger-volksbank.de
@@ -20142,7 +19933,6 @@ www.homestead.com
 www.homestyler.com
 www.honoku.com
 www.hookers.nl
-www.hooligapps.com
 www.hopetech.com
 www.hopin.com
 www.hopin.to
@@ -20207,12 +19997,10 @@ www.htp.re
 www.httpslink.com
 www.httptoolkit.tech
 www.huaweiblog.de
-www.huawei.com
 www.hubank.com
 www.hubs.la
 www.hubs.li
 www.hubs.ly
-www.hubspot.com
 www.hubspotemail.net
 www.hubspot.net
 www.hud.gov
@@ -20318,7 +20106,6 @@ www.iesnare.com
 www.ietf.org
 www.ifengimg.com
 www.iframely.net
-www.ifrype.com
 www.ift.tt
 www.ifttt.com
 www.ign.com
@@ -20337,7 +20124,6 @@ www.ikanobank.se
 www.ikano.no
 www.ikb.de
 www.ikb.hr
-www.ikea.com
 www.ikib.ru
 www.ik.my
 www.iktisatbank.com
@@ -20358,14 +20144,12 @@ www.imdb.com
 www.imdb.to
 www.imds-professional.com
 www.imexbanka.hr
-www.imgadult.com
 www.imgci.com
 www.imgix.net
 www.imgoingto.icu
 www.imgsmail.ru
 www.imgur.com
 www.imgur.io
-www.imlive.com
 www.immomo.com
 www.imoneybank.ru
 www.imore.com
@@ -20387,7 +20171,6 @@ www.indema.si
 www.independentreserve.com
 www.indiamart.com
 www.indianbank.lk
-www.indianexpress.com
 www.indiatimes.com
 www.indiegalacdn.com
 www.indiegogo.com
@@ -20429,7 +20212,6 @@ www.innogamescdn.com
 www.innogames.com
 www.inoreader.com
 www.inquisitr.com
-www.inrdeals.com
 www.inresbank.ru
 www.inscience.news
 www.inscname.net
@@ -20449,7 +20231,6 @@ www.instana.io
 www.instances.social
 www.instantlogosearch.com
 www.instapaper.com
-www.instreamvideo.ru
 www.instructables.com
 www.instructure.com
 www.intechbank.ru
@@ -20481,7 +20262,6 @@ www.intersport.no
 www.intervale.ru
 www.intesasanpaolobank.ro
 www.intesasanpaolo.com
-www.intimshop.ru
 www.intuitcdn.net
 www.in.ua
 www.invb.ru
@@ -20576,7 +20356,6 @@ www.i-vtb.by
 www.ivybank.ru
 www.iwelt.de
 www.iwin.com
-www.iwon.com
 www.ix.de
 www.ixigua.com
 www.ixiguavideo.com
@@ -20614,7 +20393,6 @@ www.jiayuan.com
 www.jieb.be
 www.jiesen.life
 www.jimdo.com
-www.jimdofree.com
 www.jimstatic.com
 www.jio.com
 www.jiosaavn.com
@@ -20803,7 +20581,6 @@ www.kokodayo.site
 www.kolektiva.social
 www.koli.services
 www.kombank.ru
-www.kompas.com
 www.kontrakt.ua
 www.kontur-ca.ru
 www.koolaburra.com
@@ -20859,7 +20636,6 @@ www.krunker.io
 www.krxd.net
 www.ks-bank.ru
 www.ks-cdn.com
-www.ks.cn
 www.ksib.ru
 www.ksk-anhalt-bitterfeld.de
 www.ksk-bautzen.de
@@ -20992,6 +20768,7 @@ www.lc-s.co
 www.lcut.in
 www.lddy.no
 www.leadpages.net
+www.leakix.net
 www.leaknudes.com
 www.leanbox.us
 www.leanlibrary.com
@@ -21032,13 +20809,11 @@ www.lexpress.fr
 www.lextel.it
 www.lfjack.com
 www.lgbbank.com
-www.lg.com
 www.lge.com
 www.lgn.ru
 www.lgtvsdp.com
 www.lgucdn.com
 www.lhv.ee
-www.liberation.fr
 www.liberbank.es
 www.libero.it
 www.libertybank.ge
@@ -21101,7 +20876,6 @@ www.linkbun.com
 www.linkd.in
 www.linkd.pl
 www.linkedin.com
-www.linkfeed.ru
 www.link.gy
 www.linkifier.com
 www.linklyhq.com
@@ -21119,7 +20893,6 @@ www.linksplit.io
 www.linksynergy.com
 www.linktech.cn
 www.linktr.ee
-www.linkwithin.com
 www.linkye.net
 www.linky.nu
 www.linode.com
@@ -21183,7 +20956,6 @@ www.localbitcoins.com
 www.localethereum.com
 www.loc.gov
 www.lockobank.ru
-www.lockview.cn
 www.loebbecke-bank.de
 www.log4jmemes.com
 www.loggly.com
@@ -21230,7 +21002,6 @@ www.lurl.cc
 www.luvyle.com
 www.lvbet.pl
 www.lvvk.com
-www.lycos.com
 www.lyksoomu.com
 www.lyretain.site
 www.lzd.co
@@ -21280,7 +21051,6 @@ www.mailjet.com
 www.mailkit.eu
 www.mail.ru
 www.mailsac.com
-www.mailtrack.me
 www.maimai.cn
 www.maineemploymentlawyerblog.com
 www.maine.gov
@@ -21321,7 +21091,6 @@ www.marinsm.com
 www.maritim.de
 www.maritimebank.com
 www.markenmehrwert.com
-www.marketingplatform.google
 www.marketwatch.com
 www.markitcdn.com
 www.markitondemand.com
@@ -21409,7 +21178,6 @@ www.media01.eu
 www.media-amazon.com
 www.mediaclub.tv
 www.mediaexpert.pl
-www.mediafire.com
 www.mediafirerepack.net
 www.mediaget.com
 www.media-imdb.com
@@ -21436,7 +21204,6 @@ www.meetup.com
 www.mega4upload.com
 www.mega4up.org
 www.megabank.net
-www.megacool.co
 www.megafon.ru
 www.mega.nz
 www.megapornfreehd.com
@@ -21493,7 +21260,6 @@ www.mgnet.me
 www.mgtracker.org
 www.mha.fi
 www.mhfreq.org
-www.miarroba.info
 www.mia.ru
 www.micb.md
 www.mic.fr
@@ -21509,7 +21275,6 @@ www.microsoftwindowsupdate.net
 www.microvirt.com
 www.midasplayer.com
 www.midea123.z-media.com.cn
-www.midomi.com
 www.mid.ru
 www.miedzyrzecz.biz
 www.migcredit.ru
@@ -21600,7 +21365,6 @@ www.modulbank.ru
 www.moeblog.cn
 www.moeking.me
 www.moengage.com
-www.moevideo.net
 www.moeweb.pw
 www.mofylook.com
 www.mohela.com
@@ -21629,7 +21393,6 @@ www.mooma.sh
 www.moomoo.me
 www.moonburrow.club
 www.mooo.com
-www.mopo.jp
 www.more.sh
 www.morningbrew.com
 www.morpheus.com
@@ -21806,7 +21569,6 @@ www.nano.org
 www.nanorep.com
 www.nardgammon.com
 www.nardgammon.ru
-www.narod.ru
 www.narrativ.com
 www.nartlof.com.br
 www.nasa.gov
@@ -21855,7 +21617,6 @@ www.neevacdn.net
 www.neeva.co
 www.nefteprom.com
 www.neixin.cn
-www.nejmqianyan.cn
 www.ne.jp
 www.nekos96.xyz
 www.neobux.com
@@ -21881,7 +21642,6 @@ www.netflix.com
 www.netflix.net
 www.netguard.me
 www.net.in
-www.netlify.app
 www.netlify.com
 www.net.ms
 www.netpnb.com
@@ -21952,7 +21712,6 @@ www.nig.gr
 www.nightcafe.studio
 www.nih.gov
 www.nike.com
-www.nikkei.com
 www.nikoil.az
 www.nimiq.com
 www.ninjastream.to
@@ -22084,7 +21843,6 @@ www.nyaa.uk
 www.nyap2p.com
 www.nydailynews.com
 www.nydn.us
-www.nydus.org
 www.nyer.cm
 www.ny.gov
 www.nykredit.dk
@@ -22144,7 +21902,6 @@ www.ohai.social
 www.ohga.it
 www.ohio.gov
 www.oiyo.tk
-www.ojooo.com
 www.ojrq.net
 www.oklivetv.com
 www.okmp3.ru
@@ -22357,14 +22114,12 @@ www.ourl.in
 www.ourl.tw
 www.ourweigh.in
 www.outlook.com
-www.over-blog.com
 www.over-blog-kiwi.com
 www.overcast-cdn.com
 www.overcast.fm
 www.overflow.biz
 www.overstock.com
 www.o.vg
-www.ovh.com
 www.ovh.net
 www.ovh.to
 www.owl.li
@@ -22383,7 +22138,6 @@ www.paba.hr
 www.pabcbank.com
 www.paddle.com
 www.pagbrasil.com
-www.pagecount.com
 www.pages03.net
 www.pages.dev
 www.pag.la
@@ -22415,7 +22169,6 @@ www.pashabank.az
 www.p.asia
 www.pasientsky.no
 www.passeidireto.com
-www.passion.com
 www.passion.io
 www.pastebin.com
 www.pastebin.pl
@@ -22429,7 +22182,6 @@ www.pax-bank.de
 www.payanyway.ru
 www.payback.pl
 www.paydirekt.de
-www.paydotcom.com
 www.payeasy.lk
 www.payeer.com
 www.paygateway.ru
@@ -22479,7 +22231,6 @@ www.pcinpact.com
 www.pckd.me
 www.pck.tv
 www.pcmag.com
-www.pcpop.com
 www.pctmix.com
 www.pcwelt.de
 www.pdf24.org
@@ -22598,8 +22349,6 @@ www.platron.ru
 www.plat.ru
 www.plausible.io
 www.play-asia.com
-www.playbuzz.com
-www.playerassist.com
 www.player-cdn.com
 www.player.fm
 www.playfamily.ru
@@ -22611,8 +22360,6 @@ www.playsaurus.com
 www.play.st
 www.playstation.com
 www.playstation.net
-www.playtem.com
-www.playtomic.com
 www.playwire.com
 www.plc.mx
 www.pldm.ml
@@ -22710,7 +22457,6 @@ www.postto.me
 www.potuk.com
 www.pow7.com
 www.power-cdn.net
-www.powtoon.com
 www.ppapi.pl
 www.ppcprotect.com
 www.ppfr.it
@@ -22738,7 +22484,6 @@ www.presslabs.net
 www.press-start.com
 www.prestashop.com
 www.prestigecu.org
-www.prezi.com
 www.prezzibenzina.it
 www.prf.hn
 www.prfshop.ru
@@ -22856,7 +22601,6 @@ www.pusha.se
 www.pushbullet.com
 www.pusherapp.com
 www.pusher.com
-www.pusherism.com
 www.pushover.net
 www.pushpushgo.com
 www.pussy.org
@@ -22907,6 +22651,7 @@ www.qualtrics.com
 www.quanmama.com
 www.quantcast.com
 www.quartic.pl
+www.qu.ax
 www.quercia.com
 www.questionpro.com
 www.quibids.com
@@ -23060,7 +22805,6 @@ www.raiplaysound.it
 www.rakbankonline.ae
 www.rakuten.com
 www.rakutenmarketing.com
-www.rambla.be
 www.rambler.ru
 www.random.org
 www.ransan.tk
@@ -23124,7 +22868,6 @@ www.rbc.com
 www.rb-chamer-land.de
 www.rb-chiemgau-nord.de
 www.rbcroyalbank.com
-www.rbc.ru
 www.rb.cz
 www.rb-deggendorf.de
 www.rb-denzlingen-sexau.de
@@ -23279,7 +23022,6 @@ www.rdz.me
 www.reachads.com
 www.reactandshare.com
 www.readaloud.app
-www.readnotify.com
 www.ready4.icu
 www.realclear.com
 www.real.com
@@ -23293,7 +23035,6 @@ www.realtor.com
 www.reamaze.com
 www.rebelmouse.com
 www.rebelne.ws
-www.rebill.me
 www.rebrand.ly
 www.rebrandly.com
 www.rebrandlydomain.com
@@ -23320,7 +23061,6 @@ www.redirectingat.com
 www.redirectme.net
 www.redir.fr
 www.redir.is
-www.redlightcenter.com
 www.redspot.tv
 www.redu.it
 www.redventures.io
@@ -23328,7 +23068,6 @@ www.redwoodcu.org
 www.reedlan.com
 www.referer.us
 www.refini.tv
-www.reformal.ru
 www.reformgovernmentsurveillance.com
 www.ref.so
 www.regex.info
@@ -23400,7 +23139,6 @@ www.rgho.st
 www.rgsbank.ru
 www.rheingauer-volksbank.de
 www.rhoen-rennsteig-sparkasse.de
-www.ria.ru
 www.ribbank.com
 www.ricbank.com
 www.richardsw.club
@@ -23578,7 +23316,6 @@ www.salsify.com
 www.saludenestambul.com
 www.salz-helmreich.de
 www.salzlandsparkasse.de
-www.sam4m.com
 www.samba.com
 www.sampo.ru
 www.samsclub.com
@@ -23606,7 +23343,6 @@ www.santander.de
 www.santander.nl
 www.santepubliquefrance.fr
 www.saooti.com
-www.sapo.pt
 www.sascdn.com
 www.sas.com
 www.sat1.de
@@ -23717,7 +23453,6 @@ www.securitybank.com
 www.security.com
 www.sedo.com
 www.seebachgrund.de
-www.seedr.ru
 www.seek.com
 www.seeklogo.com
 www.seeligerbank.de
@@ -23733,14 +23468,12 @@ www.selfbank.es
 www.selkombank.ru
 www.sellix.io
 www.sellpoint.net
-www.sellwild.com
 www.selly.pl
 www.sematext.com
 www.semawur.com
 www.senate.gov
 www.sendgrid.net
 www.sendpulse.com
-www.sendspace.com
 www.sendspace.pl
 www.sendwyre.com
 www.seniorpeoplemeet.com
@@ -23775,7 +23508,6 @@ www.sevnb.ru
 www.sevstar.net
 www.sexemulator.com
 www.sexsaoy.com
-www.sexyxxx.biz
 www.sf3c.tw
 www.sfba.social
 www.sfcne.ws
@@ -23828,15 +23560,12 @@ www.shoebuy.com
 www.shoespie.com
 www.shoosh.co
 www.shoparize.com
-www.shopathome.com
 www.shopcider.com
 www.sho.pe
 www.shope.ee
 www.shopfullyb2b.com
 www.shopfully.cloud
 www.shopify.com
-www.shopimind.com
-www.shopperapproved.com
 www.shopping-feed.com
 www.shoppinglifestyle.biz
 www.shop-pro.jp
@@ -23949,7 +23678,6 @@ www.sktorrent.eu
 www.sktorrent.net
 www.s-kukc.de
 www.sk-westerwald-sieg.de
-www.sky.com
 www.skynetcenter.me
 www.skynetcloud.site
 www.skypeassets.com
@@ -24092,7 +23820,6 @@ www.spadaka-friesoythe.de
 www.spadaka-hoengen.de
 www.spadaka-oeventrop.de
 www.spadaka-reken.de
-www.spankbang.com
 www.s-pankki.fi
 www.spantechie.com
 www.sparda-a.de
@@ -24413,7 +24140,6 @@ www.split.io
 www.split.to
 www.spmailtechno.com
 www.spn.sr
-www.spolecznosci.net
 www.sponsorkliks.com
 www.sportbible.com
 www.sportscentral.io
@@ -24430,7 +24156,6 @@ www.springer.com
 www.springfreetrampoline.com
 www.spr.ly
 www.spurtbank.ru
-www.sputniknews.com
 www.sq6.ru
 www.sqex.to
 www.squarespace.com
@@ -24537,7 +24262,6 @@ www.stofa.dk
 www.storify.com
 www.strafe.com
 www.strandhof.de
-www.strands.com
 www.strangled.net
 www.strato.de
 www.strat.ru
@@ -24576,7 +24300,6 @@ www.sueden.social
 www.sumologic.com
 www.sumy.ua
 www.suncalc.org
-www.suntimes.com
 www.suo.im
 www.supermicro.com
 www.superrtl.de
@@ -24803,18 +24526,15 @@ www.theblower.au
 www.thebluealliance.com
 www.thebp.site
 www.thecompany.pl
-www.theconversation.com
 www.thecounter.com
 www.thedailybeast.com
 www.thedaywestream.ru
 www.theempire.bz
-www.thefreedictionary.com
 www.thegamesdownload.net
 www.thegeeks.bz
 www.theglobeandmail.com
 www.thegrommet.com
 www.theguardian.com
-www.thehill.com
 www.thein.fo
 www.theinstapay.com
 www.theinterview-movie.com
@@ -24869,7 +24589,6 @@ www.thrusto.com
 www.thug.rocks
 www.thunkable.com
 www.tiaa.org
-www.ticketmaster.com
 www.tidal.com
 www.tidalhifi.com
 www.tidd.ly
@@ -24994,7 +24713,6 @@ www.torrent.eu.org
 www.torrentfreak.com
 www.torrentleech.org
 www.torrentproject2.com
-www.torrent.pw
 www.torrentsmd.com
 www.torrents-nn.cn
 www.torrentsnows.com
@@ -25060,7 +24778,6 @@ www.trck.me
 www.treasuredata.com
 www.treasurydirect.gov
 www.trendmicro.com
-www.tresensa.com
 www.trib.al
 www.tribalmixes.com
 www.tribdss.com
@@ -25117,7 +24834,6 @@ www.tubi.io
 www.tubi.tv
 www.tucows.com
 www.tucowsdomains.com
-www.tudou.com
 www.tuenti.com
 www.tumblr.com
 www.tunestotube.com
@@ -25203,7 +24919,6 @@ www.ucs.su
 www.ucweb.com
 www.udec.cl
 www.udel.edu
-www.udemy.com
 www.udengi.ru
 www.ufc.ge
 www.ufibox.com
@@ -25233,7 +24948,6 @@ www.ume.la
 www.umich.edu
 www.umn.edu
 www.umweltbank.de
-www.unam.mx
 www.unblockit.bet
 www.unc.edu
 www.underverse.su
@@ -25277,7 +24991,6 @@ www.unr.ly
 www.unscreen.com
 www.unsere-raiba.de
 www.unserevolksbank.de
-www.unsplash.com
 www.untangle.com
 www.untis.at
 www.u.nu
@@ -25581,8 +25294,6 @@ www.vidible.tv
 www.vidiload.com
 www.vidiocdn.com
 www.vidio.com
-www.vidpulse.com
-www.vidto.me
 www.vidvard.link
 www.vietinbank.vn
 www.viewbug.com
@@ -25802,7 +25513,6 @@ www.volksbank-zwickau.de
 www.volkswagenbank.de
 www.volvofinans.se
 www.vonq.io
-www.voodoo.io
 www.vorne.de
 www.vostbank.ru
 www.vov.li
@@ -26100,7 +25810,6 @@ www.wikiofthrones.com
 www.wikipedia.org
 www.wikplayer.com
 www.wiktionary.org
-www.wildtangent.com
 www.wildvogel-futter.de
 www.wiley.com
 www.wilf.cn
@@ -26208,7 +25917,6 @@ w.wwwww.wtf
 www.wwwww.wtf
 www.wwy.me
 www.wxw.moe
-www.wy213.com
 www.wzcdn804.net
 www.x10.com
 www.x10.mx
@@ -26239,7 +25947,6 @@ www.xg4ken.com
 www.x.gd
 www.xgd.in
 www.xgp.pl
-www.xhamster.com
 www.xiaomi.com
 www.xib.me
 www.ximalaya.com
@@ -26249,12 +25956,10 @@ www.xinhuanet.com
 www.xkcd.com
 www.xl8.eu
 www.x-link.pl
-www.xlovecam.com
 www.xn--80aae3af7av6a7a.xn--p1ai
 www.xneon.com
 www.xn--httenberger-bank-jzb.de
 www.x.nu
-www.xnxx.com
 www.xoe.cz
 www.xpixl.me
 www.x-plarium.com
@@ -26416,7 +26121,6 @@ www.zeplin.io
 www.zepterbank.by
 www.zer0day.ch
 www.zer0day.to
-www.zergnet.com
 www.zerobytes.xyz
 www.zerodollarmovies.com
 www.zerossl.com
@@ -26434,7 +26138,6 @@ www.zhongmin.cn
 www.ziddu.com
 www.ziffdavis.com
 www.ziffstatic.com
-www.zigzag.vn
 www.zillow.com
 www.zillowstatic.com
 www.zi.ma
@@ -26479,7 +26182,6 @@ www.zscaler.com
 www.zshorten.com
 www.zsms.net
 www.zsw.ca
-www.ztgame.com
 www.zti.me
 www.zt.ua
 www.zuhaowan.com
@@ -26494,7 +26196,6 @@ www.zz.ht
 wwy.me
 wx.qq.com
 wxw.moe
-wy213.com
 wzcdn804.net
 x10.com
 x10.mx
@@ -26542,7 +26243,6 @@ xgapromomanager-pa.googleapis.com
 x.gd
 xgd.in
 xgp.pl
-xhamster.com
 xiaomi.com
 xib.me
 ximalaya.com
@@ -26556,7 +26256,6 @@ xkcd.com
 xkms.xbolive.com
 xl8.eu
 x-link.pl
-xlovecam.com
 xmpp-prod.monksoftware.it
 xn--80aae3af7av6a7a.xn--p1ai
 xneon.com
@@ -26564,7 +26263,6 @@ xn--httenberger-bank-jzb.de
 x.ns.gin.ntt.net
 x.nu
 xnvda7fch4zhr.mangadex.network
-xnxx.com
 xoe.cz
 *.xp.apple.com
 xp.apple.com
@@ -26768,7 +26466,6 @@ zeplin.io
 zepterbank.by
 zer0day.ch
 zer0day.to
-zergnet.com
 zerobytes.xyz
 zerodollarmovies.com
 zerossl.com
@@ -26786,7 +26483,6 @@ zhongmin.cn
 ziddu.com
 ziffdavis.com
 ziffstatic.com
-zigzag.vn
 zillow.com
 zillowstatic.com
 zi.ma
@@ -26865,7 +26561,6 @@ zscaler.com
 zshorten.com
 zsms.net
 zsw.ca
-ztgame.com
 zti.me
 ztm.waw.pl
 z.tochka.com

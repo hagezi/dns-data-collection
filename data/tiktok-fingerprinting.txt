@@ -9,6 +9,7 @@ analytics.tiktok.com
 analytics.tiktokv.com
 analytics.us.tiktok.com
 applog.snssdk.com
+applog.tiktokv.com
 blog.byteoversea.com
 blogs.tiktok.com
 blogs.tiktokv.com

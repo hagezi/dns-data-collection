@@ -65,6 +65,7 @@ ads.cc-dt.com
 creative.cc-dt.com
 banners.cj.com
 relay.cj.com
+tracking-sj2.cj.com
 www5.cj.com
 conforama.commander1.com
 engage.commander1.com

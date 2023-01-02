@@ -1,3 +1,5 @@
+1kinobig.ru
+www.1kinobig.ru
 3c5.com
 www.3c5.com
 5.gp
@@ -285,6 +287,7 @@ appx.transient.amazon.co.uk
 auto.netdirector.co.uk
 pavv.co.kr
 infolink.pavv.co.kr
+postshare.co.kr
 check2.tsb.co.uk
 ns11.whois.co.kr
 tm.jsuol.com.br
@@ -384,6 +387,7 @@ ezoic.net
 g.ezoic.net
 mqtt-mini.facebook.com
 mqtt-p4.facebook.com
+fapcat.com
 faronics.com
 mparticle.map.fastly.net
 fave.co
@@ -517,6 +521,7 @@ www.ku6.com
 px4-ads-linkedin-com.ipv4.l-0005.l-msedge.net
 analytics-visualstudio-com.l-0009.l-msedge.net
 scnd.landsend.com
+leakix.net
 metrics.lidl.com
 lightstep.com
 collector.lightstep.com
@@ -915,6 +920,8 @@ message1195.sp-prod.net
 mms.sp-prod.net
 notice.sp-prod.net
 cdeatz.spartoo.it
+nvaxcb.spartoo.com
+zwinqi.spartoo.pt
 pov.spectrum.net
 split.to
 heads-fa.spotify.com

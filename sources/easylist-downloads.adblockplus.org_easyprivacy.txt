@@ -5170,7 +5170,6 @@ erp.qwic.nl
 erraticreaction.com
 err.ifengcloud.ifeng.com
 error-collector.ted.com
-error.fc2.com
 errors.snackly.co
 error.videonow.ru
 ert5.rmcsport.tv
@@ -5999,6 +5998,7 @@ hsadspixel.net
 hs-analytics.net
 hsleadflows.net
 hspbotdetection.azurewebsites.net
+hstats.hepsiburada.com
 htmgrl.jollyroom.no
 hub.firestonecompleteautocare.com
 hub.hubinternational.com
@@ -6835,6 +6835,7 @@ logging.cmp-resources.link
 logging.je-apps.com
 logging.wilmaa.com
 logg.kiwi.com
+log-global.aliyuncs.com
 log.go.com
 log.gs3.goo.ne.jp
 loggychops.paulsmith.site
