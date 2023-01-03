@@ -125,8 +125,6 @@ u7111053.ct.sendgrid.net
 u7747409.ct.sendgrid.net
 u8253848.ct.sendgrid.net
 u9810308.ct.sendgrid.net
-bs.serving-sys.com
-tracking.bs.serving-sys.com
 us.bs.serving-sys.com
 static.shareasale.com
 clkax.tradedoubler.com

@@ -134,7 +134,6 @@ tracer.jp
 tracker.kantan-access.com
 trigs-sockets.com
 valueclick.jp
-valueclick.ne.jp
 vukipoerg.com
 waqool.com
 webtracker.jp

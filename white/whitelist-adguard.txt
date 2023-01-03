@@ -717,7 +717,6 @@ thanachartbank.co.th
 tisco.co.th
 tsb.co.nz
 tsb.co.uk
-check2.tsb.co.uk
 hb.unionbank.co.il
 epay.unionbankofindia.co.in
 unionbankonline.co.in
@@ -1291,7 +1290,6 @@ eff.org
 egolomt.mn
 ibank.eka-bank.ru
 ekapusta.ru
-login.eki-net.com
 ibank.ekp.lv
 eksiup.com
 ibank.elbin-bank.ru
@@ -2381,7 +2379,7 @@ onesignal.com
 sgqcvfjvr.onet.pl
 onezaim.ru
 onfastspring.com
-h-sdk.online-metrix.net
+online-metrix.net
 onlinebank.kz
 onlinebanking-aktivbank.de
 onlinebanking-alxinger-bank.de

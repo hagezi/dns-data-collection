@@ -85,9 +85,6 @@ mrporter-creative.prf.hn
 qksrv.net
 tracking.s24.com
 app.sephora.com
-bs.serving-sys.com
-tracking.bs.serving-sys.com
-us.bs.serving-sys.com
 shareasale.com
 a.slashdotmedia.com
 click.email.sonos.com

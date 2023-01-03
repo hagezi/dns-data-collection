@@ -3225,7 +3225,6 @@ cars.smartleasing.com.au
 carte.fleet-page.total.fr
 carzbz.braincandy.net
 carzbz.triviatoday.com
-casalemedia.com
 cashbeet.com
 caspionlog.appspot.com
 ca.ssl.holdmybeerconsulting.com
@@ -3857,6 +3856,7 @@ critictruck.com
 crm-analytics.imweb.ru
 crm.casabaca.com
 crocetta.viessmann.it
+crossees.com
 crowdedmass.com
 crsspxl.com
 crta.and.co.uk
@@ -5217,6 +5217,7 @@ eulerian.thalasseo.com
 eulerian.voyage-prive.com
 euler.pmu.fr
 eultech.fnac.com
+eu-mobile.events.data.microsoft.com
 eurogamer-it.eurogamer.it
 eurogamer-pl.eurogamer.pl
 eurogamer-pt.eurogamer.pt
@@ -7941,7 +7942,6 @@ mon.ingservices.nl
 monitor.azure.com
 monitor.channel4.com
 monitor.music.qq.com
-monorail-edge.shopifysvc.com
 montpalatin.handicap.fr
 monu.delivery
 mon.us.tiktokv.com
@@ -8641,6 +8641,7 @@ plausible.billfox.co
 plausible.bostad.shop
 plausible.bots.gg
 plausible.brandonly.me
+plausiblecdn.co
 plausible.conveyal.com
 plausible.corbettbarr.com
 plausible.deploymentfromscratch.com
@@ -10115,6 +10116,7 @@ sls2.loisirsencheres.com
 slx.searchdiscovery.com
 smallbeginner.com
 s.mannes.tech
+smashquartz.com
 smashshoe.com
 smashsurprise.com
 smatning.volkswagen.se
@@ -14123,6 +14125,7 @@ twus-mms.theweek.com
 txfryh.terra.com.br
 txv0.destinia.hu
 txvoin.with2.net
+t.y8.com
 tybfxw.puma.com
 typicalairplane.com
 typicalteeth.com
@@ -14229,6 +14232,7 @@ uploads.owa.net.zooplus.fr
 upstats.yadro.ru
 upwwgd.zentempel.com
 upz1.destinia.lt
+uqd.io
 urbanairship.com
 urc.taboolasyndication.com
 ureoaw.netthandelen.no

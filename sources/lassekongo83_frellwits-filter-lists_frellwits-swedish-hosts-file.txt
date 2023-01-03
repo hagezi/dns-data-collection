@@ -724,6 +724,7 @@ sannsyn.com
 sb.scorecardresearch.com
 sbs.deliveryengine.adswizz.com
 scdn.cxense.com
+schibsted-cdn.relevant-digital.com
 science.omni.se
 sc.lfeeder.com
 script.crazyegg.com
@@ -856,6 +857,7 @@ tags.refinery89.com
 tags.smilewanted.com
 tags.webtraffic.se
 tag.targeting.unrulymedia.com
+tapet.bonniernews.se
 tb.de17a.com
 tcd.tourn.se
 t.contentinsights.com
@@ -883,6 +885,7 @@ tracker-v4.gamedock.io
 tracker.zummycloud.com
 tracking.adviralmedia.com
 tracking.bonnier.news
+tracking.ditv.di.se
 tracking.eurosport.com
 tracking.inboxads.com
 tracking.missaffiliate.com

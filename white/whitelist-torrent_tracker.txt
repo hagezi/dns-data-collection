@@ -476,6 +476,7 @@ torrent.nwps.ws
 tracker.nyaa.uk
 open.nyaatorrents.info
 t.nyaatracker.com
+montreal.nyap2p.com
 open.nyap2p.com
 tracker.nyap2p.com
 bt.oiyo.tk

@@ -4,7 +4,9 @@ mp.apmebf.com
 1d2s3-alternate.app.link
 3thku.app.link
 4cb8q.app.link
+4r1un.app.link
 4vujo.app.link
+5ieck-alternate.app.link
 5ozmo.app.link
 82v8b.app.link
 ansuk.app.link
@@ -114,7 +116,6 @@ hotmail.us3.list-manage.com
 t.lt02.net
 mandrillapp.com
 click.email.microsoftemail.com
-click.mlsend.com
 click.mail.onedrive.com
 ass.onelink.me
 newww.onelink.me

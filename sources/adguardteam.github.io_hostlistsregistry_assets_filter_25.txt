@@ -229,6 +229,7 @@ reqde.afreecatv.com
 rubiconproject.com
 safeframe.googlesyndication.com
 searchad-phinf.pstatic.net
+search-ads-api.joongna.com
 serv.ds.kakao.com
 shoppingbox.zum.com
 shoppingcall.me

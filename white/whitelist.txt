@@ -2277,3 +2277,9 @@ leakix.net
 # Soundcloud and others in some regions
 geolocation.onetrust.com
 
+# Images in apps and mails
+appboy-images.com
+
+# Banggood App
+banggood.com
+

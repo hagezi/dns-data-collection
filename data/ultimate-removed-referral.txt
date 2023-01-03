@@ -9,6 +9,7 @@ aax-us-east-retail-direct.amazon.com
 aax-eu-retail-direct.amazon-adsystem.com
 aax-us-east-retail-direct.amazon-adsystem.com
 c.apple.com
+awstrack.me
 bnc.lt
 custom.bnc.lt
 clck.ru

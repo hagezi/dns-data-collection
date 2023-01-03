@@ -225,7 +225,6 @@ gstatic.com
 happypancake.se
 helios.pl
 hentaiz.net
-hoquangdai.com
 static.hotjar.com
 howkteam.vn
 cds.w6x3h2w2.hwcdn.net
@@ -254,7 +253,6 @@ jakbudowac.pl
 cdn.jsdelivr.net
 justnerd.it
 p.jwpcdn.com
-content.jwplatform.com
 jyllands-posten.dk
 videoads.kakao.com
 karwan.tv
@@ -262,7 +260,6 @@ oasjs.kataweb.it
 khedame.com
 app.khz.se
 kinofen.net
-kinonet.pl
 komorkomania.pl
 kompas.com
 komputerswiat.pl
