@@ -4539,6 +4539,7 @@ de.dhgate.com
 dedibox.fr
 deejay.it
 deezer.com
+defcon.social
 defendershield.com
 defly.io
 def-vef.xboxlive.com
@@ -4878,7 +4879,6 @@ dreamhost.com
 dreamlab.pl
 dreamstime.com
 dreamtoplay.com
-dresden.network
 dresslily.com
 dressupwho.com
 dribbble.com
@@ -8457,6 +8457,7 @@ iplwin.us
 i.po.st
 ipotekabank.com
 ipoteka-tut.ru
+ippen.space
 ip.sb
 ipsp.com
 ipstack.com
@@ -9650,7 +9651,6 @@ mastodon.uno
 mastodon.world
 mastodon.zaclys.com
 masto.es
-masto.nobigtech.es
 masto.nu
 masto.pt
 mastouille.fr
@@ -10596,7 +10596,6 @@ nn.de
 nnmstatic.win
 noaa.gov
 nobaeg.de
-nobigtech.es
 nobledesktop.com
 noc.social
 nodalninja.com
@@ -11591,6 +11590,7 @@ pervobank.ru
 pestleanalysis.com
 petrobr.as
 pewrsr.ch
+pewtix.com
 pexels.com
 pf-api.kakao.com
 pfbank.ru
@@ -12106,6 +12106,7 @@ public.popcorn-tracker.org
 public.publictracker.xyz
 public.sn.files.1drv.com
 publictracker.ch
+public-tracker.ml
 public.tracker.vraphim.com
 publictracker.xyz
 public-tracker.zooki.xyz
@@ -14889,6 +14890,7 @@ tencentcs.cn
 tencentcs.cn.cdn.qcloudcdn.cn
 tenderbank.ru
 tenforums.com
+tenping.kr
 teraboxcdn.com
 terabox.com
 ter.li
@@ -19484,6 +19486,7 @@ wwwdecide.com
 www.dedibox.fr
 www.deejay.it
 www.deezer.com
+www.defcon.social
 www.defendershield.com
 www.defly.io
 www.degoo.com
@@ -19711,7 +19714,6 @@ www.dreamhost.com
 www.dreamlab.pl
 www.dreamstime.com
 www.dreamtoplay.com
-www.dresden.network
 www.dresslily.com
 www.dressupwho.com
 www.dribbble.com
@@ -21997,6 +21999,7 @@ www.iplsc.com
 www.iplwin.us
 www.ipotekabank.com
 www.ipoteka-tut.ru
+www.ippen.space
 www.ip.sb
 www.ipsp.com
 www.ipstack.com
@@ -23472,7 +23475,6 @@ www.nn.de
 www.nnmstatic.win
 www.noaa.gov
 www.nobaeg.de
-www.nobigtech.es
 www.nobledesktop.com
 www.noc.social
 www.nodalninja.com
@@ -24017,6 +24019,7 @@ www.pervobank.ru
 www.pestleanalysis.com
 www.petrobr.as
 www.pewrsr.ch
+www.pewtix.com
 www.pexels.com
 www.pfbank.ru
 www.pfsbank.ru
@@ -24344,6 +24347,7 @@ www.ptm.ro
 www.publicbt.com
 www.publicidees.com
 www.publictracker.ch
+www.public-tracker.ml
 www.publictracker.xyz
 www.publiekeomroep.nl
 www.publitas.com
@@ -26294,6 +26298,7 @@ www.tencentcs.cn
 *.www.tendawifi.com
 www.tenderbank.ru
 www.tenforums.com
+www.tenping.kr
 www.teraboxcdn.com
 www.terabox.com
 www.ter.li

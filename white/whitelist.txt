@@ -2283,3 +2283,6 @@ appboy-images.com
 # Banggood App
 banggood.com
 
+# https://github.com/hagezi/dns-blocklists/issues/144
+tenping.kr
+

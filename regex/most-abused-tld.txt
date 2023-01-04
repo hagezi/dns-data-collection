@@ -1,3 +1,4 @@
+\.agency$
 \.asia$
 \.associates$
 \.bar$
@@ -9,12 +10,14 @@
 \.casa$
 \.cf$
 \.cfd$
+\.ci$
 \.click$
 \.cricket$
 \.cyou$
 \.date$
 \.degree$
 \.discount$
+\.email$
 \.financial$
 \.fit$
 \.fyi$
@@ -31,9 +34,13 @@
 \.ooo$
 \.pw$
 \.quest$
+\.recipes$
 \.rest$
 \.review$
 \.sbs$
+\.sex$
+\.sexy$
+\.software$
 \.su$
 \.surf$
 \.tk$
@@ -41,4 +48,5 @@
 \.top$
 \.wang$
 \.webcam$
+\.win$
 \.work$

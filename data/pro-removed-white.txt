@@ -106,6 +106,7 @@ dable.io
 datadoghq-browser-agent.com
 demdex.net
 deskpi.com
+img.response.digicert.com
 smetrics.digicert.com
 app.updates.digicert.com
 dealabs.digidip.net
@@ -161,6 +162,7 @@ cloud-news.ionos.com
 iovation.com
 iplogger.com
 iplogger.org
+ippen.space
 ipstack.com
 j.gs
 mobilesdk-au.kampyle.com
@@ -283,7 +285,6 @@ online.sh.cn
 shar.es
 sharethis.com
 content.sheerid.com
-marketing.sheerid.com
 shorte.st
 p.shure.com
 simp.ly
@@ -294,6 +295,7 @@ snapads.com
 softonic.com
 pixel.solvemedia.com
 pixel-secure.solvemedia.com
+cdeatz.spartoo.it
 pov.spectrum.net
 split.to
 srvtrck.com

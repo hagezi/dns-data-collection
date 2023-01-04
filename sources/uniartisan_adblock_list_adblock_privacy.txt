@@ -10330,6 +10330,7 @@ events.tremorhub.com
 events.tubecup.org
 events.turbosquid.com
 events.tvtime.com
+events.ubembed.com
 events.virtusize.jp
 events.webdock.io
 events.whisk.com
@@ -12613,6 +12614,7 @@ iopqct.drogasil.com.br
 ios.bugly.qq.com
 iozozb.shapertools.com
 ip2c.landscape.co.jp
+ip7prksb2muxvmmh25t6rxl2te0tfulc.lambda-url.eu-west-1.on.aws
 ipapi.tmbi.com
 ipcc.vnpt.com.vn
 ipcheck.blogsys.jp
@@ -22050,6 +22052,7 @@ somtrdc.jobstreet.com.ph
 somtrdc.jobstreet.com.sg
 somtr.financialengines.com
 som.vrbo.com
+sonar.viously.com
 s-onetag.com
 songssmoke.com
 songsterritory.com
@@ -23673,6 +23676,7 @@ stats.strikogkod.dk
 stats.studypages.com
 stats.stylight.it
 stats.sublimesecurity.com
+stats.suedtirolerjobs.it
 stats.suenicholls.com
 stats.suf.one
 stats.suite101.com

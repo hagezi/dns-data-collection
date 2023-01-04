@@ -397,6 +397,7 @@ dba.dk
 dealbay.com
 dealtime.com
 deezer.com
+defcon.social
 det.social
 social.dev-wiki.de
 didce.com
@@ -442,7 +443,6 @@ douyinvod.com
 draftjs.org
 dreamcast.hk
 dreamtoplay.com
-dresden.network
 media.dssott.com
 dzcdn.net
 e-bay.com
@@ -1136,7 +1136,6 @@ nflxext.com
 nflximg.net
 nflxso.net
 nflxvideo.net
-masto.nobigtech.es
 noc.social
 norden.social
 nrw.social
@@ -1161,6 +1160,7 @@ paisapay.cc
 paisapay.info
 paisapay.tv
 parse.com
+pewtix.com
 piaille.fr
 pinimg.com
 pol.social

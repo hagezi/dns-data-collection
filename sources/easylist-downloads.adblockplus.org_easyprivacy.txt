@@ -5285,6 +5285,7 @@ eventstream.dodopizza.com
 event-stream.spot.im
 events.tubecup.org
 events.turbosquid.com
+events.ubembed.com
 events.whisk.com
 event.syndigo.cloud
 events.yourcx.io
@@ -6308,6 +6309,7 @@ iooecb.bergzeit.de
 iopqct.drogasil.com.br
 iozozb.shapertools.com
 ip2c.landscape.co.jp
+ip7prksb2muxvmmh25t6rxl2te0tfulc.lambda-url.eu-west-1.on.aws
 ipapi.tmbi.com
 ipcheck.blogsys.jp
 ip.cliphunter.com
@@ -11276,6 +11278,7 @@ somni.vikingrivercruises.com
 somn.sonypictures.com
 somn.wholesalehalloweencostumes.com
 somtr.financialengines.com
+sonar.viously.com
 s-onetag.com
 songssmoke.com
 songsterritory.com
@@ -12100,6 +12103,7 @@ stats.strikogkod.dk
 stats.studypages.com
 stats.stylight.it
 stats.sublimesecurity.com
+stats.suedtirolerjobs.it
 stats.suenicholls.com
 stats.suf.one
 stats.sunpeaksstables.com
@@ -14043,6 +14047,7 @@ tr.urfk06y.espmp-nifr.net
 tr.urfk07s.espmp-nifr.net
 trusted-web-seal.cybertrust.ne.jp
 trust.mitutoyo.com
+trust-provider.com
 trust.titanhq.com
 tru.webelapp.com
 tr.videofutur.fr

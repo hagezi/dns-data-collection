@@ -529,6 +529,7 @@ hcbt.pp.ua
 ttk.pp.ua
 proaudiotorrents.org
 psyco.fr
+public-tracker.ml
 tracker.publicbt.com
 publictracker.ch
 publictracker.xyz

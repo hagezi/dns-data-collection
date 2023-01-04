@@ -172,6 +172,7 @@ iplogger.com
 iplogger.org
 www.iplogger.com
 www.iplogger.org
+ippen.space
 mobilesdk-au.kampyle.com
 mobilesdk-can.kampyle.com
 mobilesdk-eu.kampyle.com
@@ -832,6 +833,8 @@ player.tabooporns.com
 targetspot.com
 radiofrance.targetspot.com
 www.targetspot.com
+tenping.kr
+www.tenping.kr
 tg.pe
 www.tg.pe
 thench.net

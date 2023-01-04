@@ -5172,6 +5172,7 @@ d232xh9rapx5ux.cloudfront.net
 d23497a4qog89t.cloudfront.net
 d23c06na.one
 d273w4c3z6esqq.cloudfront.net
+d2dsya5bkwoi1u.cloudfront.net
 d2fbg7ftk2kfi3.cloudfront.net
 d2gtzq6vrs67vv.cloudfront.net
 d2idc6pw30xvpl.cloudfront.net
@@ -5349,6 +5350,7 @@ dasdas.ir
 dashacreations.co.za
 dash.bbcinternationalnews.com
 dash-bi.com
+dash.cloudflareo.club
 dash.cloudflare-protect.workers.dev
 dashmeshinstitute.com
 das-schokoladenmaedchen.de
@@ -5909,6 +5911,7 @@ direitodotrabalhonapratica.com.br
 diresaica.gob.pe
 disatravel.com
 discodearado.com
+discordcom.top
 discosycintasdenver.com
 discountshadesdirect.com
 discoverindia.co.in
@@ -13009,6 +13012,7 @@ markyoursuccess.com
 marlineevdesaglikhizmeti.com
 marmadeals.com
 marmolnatural.net
+maroccowin.top
 marocindicators.com
 marodriguezbooks.com
 marooner.top
@@ -13513,6 +13517,7 @@ microservicenet.com.br
 microsofer.top
 microsoft1337.ddns.net
 microsoftbooks.proxydns.com
+microsofteams.top
 microsoftindonesia.my.id
 microsoftservice.tk
 microsoft-stroge.co
@@ -13539,6 +13544,7 @@ mietdelhi.edu.in
 mifumotz.com
 miguelvegas.com
 mihanmajale.ir
+mikallan.win
 mikeliturgintza.com
 mikro.pk
 mikrosunger.com.tr
@@ -13698,6 +13704,7 @@ mkrollingmachinery.com
 mkscleaning.com.au
 mkwavinyikasafaris.com
 mland.mk
+mlcrosofteams.top
 mlgc.com.mx
 mlidaxeraza.com
 mlitary.cfd
@@ -14580,6 +14587,7 @@ newcitypharmacy.lk
 newcom.ma
 newcrestpty.com
 newday24.com
+newdoberman.xyz
 newdominok.tk
 new-edltiwe.tk
 newegyrepublic.com
@@ -17945,6 +17953,7 @@ sammis.co.ke
 samonpetroleum.com
 samosparadise.com
 sampack.biz
+samploader.com
 sampradaaconsultancy.com
 sampradaaconsultancy.in
 samrattv.com
@@ -18541,6 +18550,7 @@ seven-motors.com
 sevensend.net
 seventradings.com
 seventysevenag.ch
+sevenways.top
 sewagex.com
 sexearicjeh.com
 sexshopmayorista.cl
@@ -20682,6 +20692,7 @@ themeevent.pk
 themescolor.com
 themightytrucker.com
 themkmart.com
+themocca.xyz
 themomskitchen.co.in
 themoneylender.in
 themoonclublagoons.com.mx
@@ -21026,6 +21037,7 @@ toricbook.com
 torneosemprevanti.it
 tornton.xyz
 torontobicycles.com
+torproject.top
 torquecontrollers.co.ke
 torr3sholdings.com
 torrantautomobile.com
@@ -22297,8 +22309,11 @@ vvat22.con-ip.com
 vvft.hu
 vvgicteraifatak.org.in
 vvirat.in
+vvv-discord.top
 vwchargerinstallation.com
 vwhomecharger.com
+vwv-discord.top
+vwvv-discord.top
 vyshyvanka.ga
 vyttal.com
 vyws.org
@@ -22806,9 +22821,15 @@ wustat-microsoft.com
 wuzyx.net.xsph.ru
 wv2022.com
 wvhostbrasil.com.br
+wvvw-citrix.top
+wvw-adobe.top
+wvw-discord.top
+wvw-irs-forms.top
 wvwvwvwvwvwv.f3322.net
 ww.hostrocketsupport.net
 wwide.in
+wwv-discord.top
+wwv-slack.top
 www.0xff.digital
 www1.gggatat456.com
 www.73uu.com
@@ -22819,6 +22840,7 @@ www-adobe.top
 wwwadobe.top
 www.affice366.com
 www.alwaysasusual.com
+www-anydeskcom.top
 www-anydesk.top
 wwwanydesk.top
 www.asdjlcna.tk
@@ -22879,6 +22901,7 @@ www.hzyotoy.com
 www-irs-forms.top
 www-irs.top
 www.ishabi.info
+www.jincheng4917.cn
 www.kar98k.icu
 www.kbxueerli.ml
 www.keysoft.space
@@ -22889,9 +22912,12 @@ www-lbreofflce.top
 www.leatheus.tk
 www-libreofflce.top
 www.linkkedin.life
+www-llbreofflce.top
 www.loaclhost.cf
 www.microsofer.top
 www.microsoftav.shop
+www-microsofteams.top
+www-microsoftteams.top
 www.microsoft-update.club
 www.myflowershop.online
 www.myfood123.tk
@@ -22899,6 +22925,7 @@ www.newsmach.com
 www-obsproject.top
 www.office.live.cn.cdn.dnsv1.com.cn
 www.onemusic24.com
+www-onenote.top
 www.onestepstar.com
 www.paradisetechsoft.com
 www.pasadonline.com
@@ -22950,6 +22977,7 @@ wwwwanydesk.top
 wwww-citrix.top
 wwww-discordcom.top
 wwww-discord.top
+wwwwdiscord.top
 wwww-dlscordcom.top
 wwww-dlscord.top
 www-webex.top
@@ -22957,6 +22985,8 @@ wwwwebex.top
 www.whatjs.gq
 www-whatsapp.top
 wwww.hostrocketsupport.net
+wwww-irs-forms.top
+wwww-irs-form.top
 www.wltenghui.com
 www.woohomez.com
 www.worldsgates.com
