@@ -1,5 +1,3 @@
-1kinobig.ru
-www.1kinobig.ru
 3c5.com
 www.3c5.com
 5.gp
@@ -26,11 +24,11 @@ beta.partners.adsterra.com
 publishers.adsterra.com
 beta.publishers.adsterra.com
 www.adsterra.com
-adwolf.ru
 a.adwolf.ru
-www.adwolf.ru
 afi-b.com
 www.afi-b.com
+post.i.api.ahrtv.cn
+api.map.ahrtv.cn
 api.eu-west-1.aiv-delivery.net
 api.us-east-1.aiv-delivery.net
 api.us-west-2.aiv-delivery.net
@@ -76,13 +74,12 @@ www.bshare.cn
 buysellads.net
 seu.cleverreach.com
 337727.seu2.cleverreach.com
-click-url.com
-www.click-url.com
 sa.bbc.co.uk
 dmgmediaprivacy.co.uk
 cmp.dmgmediaprivacy.co.uk
 hb.afl.rakuten.co.jp
 grp07.ias.rakuten.co.jp
+rilibiao.com.cn
 stats.comunio.de
 choices.consentframework.com
 consent.cookiefirst.com
@@ -106,8 +103,6 @@ www.dable.io
 a-0001.dc-msedge.net
 c-0001.dc-msedge.net
 dm-event.net
-dmdi.pl
-www.dmdi.pl
 phn.doublepimp.com
 api.drift.com
 bootstrap.api.drift.com
@@ -128,8 +123,6 @@ www.facebooktv.net
 facedbook.com
 www.facedbook.com
 sonar-iad.xx.fbcdn.net
-fbthirdpartypixel.com
-www.fbthirdpartypixel.com
 gameroom.com
 www.gameroom.com
 str.hit.gemius.pl
@@ -140,8 +133,6 @@ cdn2.gigya.com
 cdn3.gigya.com
 gscounters.eu1.gigya.com
 gscounters.gigya.com
-go.ly
-www.go.ly
 gravityrd-services.com
 p2-aahhyknavsj2m-wtnlrzkba6lht33q-if-v6exp3-v4.metric.gstatic.com
 p2-f6rp6piuxns4u-uzq4vp76bu3w2tso-if-v6exp3-v4.metric.gstatic.com
@@ -594,21 +585,6 @@ qn4omaj3y75pxdrkox4rd5ouf6ywhfmhaumfxau6e01e45d1e86985dbsac.d.aa.online-metrix.n
 rrx68giz-06777725bc636d43e50625eef1c38c822ba0ceea-mob.d.aa.online-metrix.net
 rrx68giz-474f4415ad616d50d5fca57649d097ad94f4f069-mob.d.aa.online-metrix.net
 sru4c3g1-e13a275afc1be3fa4b69907c5abe03b1ed23c045-sac.d.aa.online-metrix.net
-udd8uxur-3177aeee72945b1dba9d0d661dc7c8874f4ee048-mob.d.aa.online-metrix.net
-udd8uxur-3390409faa5cc350f54f576e16d370fafe88a785-mob.d.aa.online-metrix.net
-udd8uxur-606a6d055b02d70a68859662d1aa48e7d5398caa-mob.d.aa.online-metrix.net
-udd8uxur-680135d99e7386637e370c87d6d50e64dc745594-mob.d.aa.online-metrix.net
-udd8uxur-695b4d73702d9026d0c07e63cbb81325a37d2033-mob.d.aa.online-metrix.net
-udd8uxur-6cefed30ca6034d538e6f077a0315d60f60830ae-mob.d.aa.online-metrix.net
-udd8uxur-827072721b4f8d685f232e97caca412860a8ecd9-mob.d.aa.online-metrix.net
-udd8uxur-996a7ad29112cd3e73bea56ca44496bccc36f047-mob.d.aa.online-metrix.net
-udd8uxur-a9282868fae5fbe7d84dbf8b1fb7cd5da8f4eac6-mob.d.aa.online-metrix.net
-udd8uxur-aabd5c980d2db19a8956078c18e799d2814549fd-mob.d.aa.online-metrix.net
-udd8uxur-b370f58e69a07c861ea634333ea4e52b8605e257-mob.d.aa.online-metrix.net
-udd8uxur-c4648c35204175607c5fc80e5858e48125411f55-mob.d.aa.online-metrix.net
-udd8uxur-d800c8baeb61fa904dcd1bb3465dd61c2fad24d5-mob.d.aa.online-metrix.net
-udd8uxur-de40705a4f09eab29610df6708d90f911d084f1e-mob.d.aa.online-metrix.net
-udd8uxur-f9499cd695852e3b013a4a4adcda5b5e82104f0f-mob.d.aa.online-metrix.net
 udd8uxurbc574a5lbjsgi3vgugrdsbigiutmhiiy44ba26938d541896sac.d.aa.online-metrix.net
 ulk99l7b-e7cb439aacbdd7b077693ad2d578aacfc420b2b3-sac.d.aa.online-metrix.net
 ummqowa2-402cfa740cdcd1b80e0f9c6878ee910710cf7181-sac.d.aa.online-metrix.net
@@ -626,7 +602,6 @@ usllpic03tpxebimslbdebvfrijftppegwqwglni76db00c93ab97182sac.d.aa.online-metrix.n
 usllpic03xuyoylkwxyarvu3skbvqgvbknztpt5x1f2855c68e6b1ea0sac.d.aa.online-metrix.net
 usllpic04wgrjfwtug7w3x6qqynywktkhsx6lloi1dc281d96940d168sac.d.aa.online-metrix.net
 usllpic06f2goza5ztdpisgmoml2vs2lnix3aeya82f55401399f07cfsac.d.aa.online-metrix.net
-usllpic074xjn624voaxgek3i6au3jq6dltzhksjee0cc28fd06b1f04ice.d.aa.online-metrix.net
 usllpic0755yk2e5l24ozegnc3pb7tk24xy3z2ui36dac7802727a934sac.d.aa.online-metrix.net
 usllpic075lirswkeqkml673oalmdfopkfalu6y6da214fd03c0cbb06sac.d.aa.online-metrix.net
 usllpic07nifilwmdkgtq2hr5sargmopszy3jr2ld9abba57b80bda5fsac.d.aa.online-metrix.net
@@ -637,7 +612,6 @@ usllpic0l5qrqz7io3m4hzotsaxgzvtx3gxyyuz7f7fbab333bbcc2fdsac.d.aa.online-metrix.n
 usllpic0niagbsj3m5cahnpvrx3ey2mgm6umwvui9ffde432c7921484sac.d.aa.online-metrix.net
 usllpic0oed7ktbbs5vs5zc7ib5ulpvdg23stqxa813da119701d38d7sac.d.aa.online-metrix.net
 usllpic0pb4atejxzea2juutzer7yxlumrnphk5a68581c4e8da3b815sac.d.aa.online-metrix.net
-usllpic0t2pn524tpkwrcapjr5azqvbfrrisvcax3ed9f5ea163ba9fdice.d.aa.online-metrix.net
 usllpic0xdzbav4yn2uymjdzfml6yr532gjfcuqc1b8857b9471ed1easac.d.aa.online-metrix.net
 v60nf4oj-f08f098565b75b9cabe6a0816923dc3d9473cabc-sac.d.aa.online-metrix.net
 v60nf4oj7bkuzg2rsan6wlon6pfg7oopornxzkxm4c9646ab67f1bf19sac.d.aa.online-metrix.net
@@ -833,8 +807,6 @@ player.tabooporns.com
 targetspot.com
 radiofrance.targetspot.com
 www.targetspot.com
-tenping.kr
-www.tenping.kr
 tg.pe
 www.tg.pe
 thench.net
@@ -876,4 +848,6 @@ ftr2.external.xerox.com
 api.miui.security.xiaomi.com
 xxxjmp.com
 l.yimg.com
+yundabao.cn
+www.yundabao.cn
 cdn.zopim.com

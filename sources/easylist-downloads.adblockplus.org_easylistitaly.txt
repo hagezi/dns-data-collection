@@ -3,6 +3,7 @@ adagiobanner.s3.amazonaws.com
 ad.citynews.it
 ad.jamba.it
 ad.missena.io
+adserver.ilgazzettinovesuviano.com
 advx.esprimo.com
 affiliatetxt.nextmediaweb.com
 affiliati.bet2bet.it

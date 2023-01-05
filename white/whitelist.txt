@@ -735,6 +735,7 @@ licenses.ashampoo.com
 
 # n-tv Livestream
 te.technical-service.net
+te.ip-prod.aws-cbc.cloud
 
 # https://github.com/badmojr/1Hosts/issues/553
 api.revenuecat.com
@@ -2285,4 +2286,7 @@ banggood.com
 
 # https://github.com/hagezi/dns-blocklists/issues/144
 tenping.kr
+
+# https://github.com/hagezi/dns-blocklists/issues/145
+opentelemetry.io
 

@@ -66,7 +66,6 @@ allawnos.com
 component-ota-in.allawnos.com
 component-ota-sg.allawnos.com
 ota-recruit-sg.allawnos.com
-amazon-adsystem.com
 kinesis.ap-southeast-1.amazonaws.com
 3fzst3kk8h.execute-api.eu-west-1.amazonaws.com
 6n2x6wg3fc.execute-api.eu-west-1.amazonaws.com
@@ -90,6 +89,7 @@ e6yeun02cb.execute-api.us-east-1.amazonaws.com
 fqicudrbaf.execute-api.us-east-1.amazonaws.com
 l026e7vji8.execute-api.us-east-1.amazonaws.com
 pn8sm7rjuc.execute-api.us-east-1.amazonaws.com
+qe6evcafs0.execute-api.us-east-1.amazonaws.com
 r74n1rfbqi.execute-api.us-east-1.amazonaws.com
 t0wkqjqlwh.execute-api.us-east-1.amazonaws.com
 v76ndo1am9.execute-api.us-east-1.amazonaws.com
@@ -221,6 +221,7 @@ www.atlasdmt.com
 avis-verifies.com
 avplayer.com
 player.avplayer.com
+web.diagnostic.networking.aws.dev
 awxcdn.com
 monitor.azure.com
 js.monitor.azure.com
@@ -283,13 +284,13 @@ seu1.cleverreach.com
 seu2.cleverreach.com
 337727.seu2.cleverreach.com
 click-url.com
-www.click-url.com
 clickmeter.com
 www.clickmeter.com
 cloudflareinsights.com
 www.cloudflareinsights.com
 d1bd3wxsyuz0t7.cloudfront.net
 d291vdycu0ht11.cloudfront.net
+dxz5jxhrrzigf.cloudfront.net
 fm.cnbc.com
 appx.transient.amazon.co.uk
 auto.netdirector.co.uk
@@ -345,7 +346,6 @@ digidip.net
 dealabs.digidip.net
 dm-event.net
 dmdi.pl
-www.dmdi.pl
 doublepimp.com
 phn.doublepimp.com
 engine.phn.doublepimp.com
@@ -410,6 +410,7 @@ facebooik.com
 www.facebooik.com
 mqtt-mini.facebook.com
 mqtt-p4.facebook.com
+facebookcoronavirus.com
 facebookofsex.com
 facebooktv.net
 www.facebooktv.net
@@ -426,7 +427,6 @@ instagram.felp1-1.fna.fbcdn.net
 scontent-nrt1-1.xx.fbcdn.net
 sonar-iad.xx.fbcdn.net
 fbthirdpartypixel.com
-www.fbthirdpartypixel.com
 ff-01.com
 ff-02.com
 ff-03.com
@@ -454,8 +454,6 @@ config-vvs.glomex.com
 player-feedback-v1.glomex.com
 cov.gmlinteractive.com
 static.gmlinteractive.com
-go.ly
-www.go.ly
 goatcounter.com
 linkhelp.clients.google.com
 analytics.clients6.google.com
@@ -474,6 +472,7 @@ p5-lj5aujgj7jl7w-r2pmxqvndsgx2im2-931517-i1-v6exp3-v4.metric.gstatic.com
 p5-lj5aujgj7jl7w-r2pmxqvndsgx2im2-931517-i2-v6exp3-ds.metric.gstatic.com
 v6exp3-ds.metric.gstatic.com
 v6exp3-v4.metric.gstatic.com
+guiama.is
 hackerfacebook.com
 www.hackerfacebook.com
 beacon-v2.helpscout.net
@@ -791,6 +790,8 @@ online-metrix.net
 h-charter.online-metrix.net
 h-fidelity.online-metrix.net
 h-microsoft.online-metrix.net
+opentelemetry.io
+www.opentelemetry.io
 opinary.com
 api.opinary.com
 widgets.opinary.com
@@ -1019,18 +1020,12 @@ switchy.io
 systeme.io
 t2m.io
 player.tabooporns.com
-tagcommander.com
-cdn.tagcommander.com
 talentwunder.com
 audid-api.taobao.com
 tarafdari.com
 www.tarafdari.com
 tagm.tchibo.de
-technical-service.net
-te.technical-service.net
-www.technical-service.net
 tenping.kr
-www.tenping.kr
 tg.pe
 www.tg.pe
 go.theregister.com

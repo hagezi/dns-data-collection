@@ -94,7 +94,6 @@ advertising.com
 adverts.ie
 adwolf.ru
 a.adwolf.ru
-www.adwolf.ru
 som.aeroplan.com
 affiliatly.com
 www.affiliatly.com
@@ -161,6 +160,7 @@ e6yeun02cb.execute-api.us-east-1.amazonaws.com
 fqicudrbaf.execute-api.us-east-1.amazonaws.com
 l026e7vji8.execute-api.us-east-1.amazonaws.com
 pn8sm7rjuc.execute-api.us-east-1.amazonaws.com
+qe6evcafs0.execute-api.us-east-1.amazonaws.com
 r74n1rfbqi.execute-api.us-east-1.amazonaws.com
 t0wkqjqlwh.execute-api.us-east-1.amazonaws.com
 v76ndo1am9.execute-api.us-east-1.amazonaws.com
@@ -332,6 +332,7 @@ aweber.com
 www.aweber.com
 awin1.com
 web.diagnostic.networking.aws.dev
+te.ip-prod.aws-cbc.cloud
 monitor.azure.com
 js.monitor.azure.com
 excel-telemetry.wac.trafficmanager.net.b-0016.b-dc-msedge.net.b-0016.b-msedge.net
@@ -422,7 +423,6 @@ seu1.cleverreach.com
 seu2.cleverreach.com
 337727.seu2.cleverreach.com
 click-url.com
-www.click-url.com
 clickbank.com
 www.clickbank.com
 clickcease.com
@@ -574,7 +574,6 @@ visit.digidip.net
 digitaladvisor.dk
 dm-event.net
 dmdi.pl
-www.dmdi.pl
 docodoco.jp
 api.docodoco.jp
 dotomi.com
@@ -690,6 +689,7 @@ connect.facebook.net
 graph.facebook.com
 mqtt-p4.facebook.com
 staticxx.facebook.com
+facebookcoronavirus.com
 facebookofsex.com
 facebooktv.net
 www.facebooktv.net
@@ -709,7 +709,6 @@ scontent-nrt1-1.xx.fbcdn.net
 sonar-iad.xx.fbcdn.net
 fbshare.me
 fbthirdpartypixel.com
-www.fbthirdpartypixel.com
 error.fc2.com
 ff-01.com
 ff-02.com
@@ -762,8 +761,6 @@ player-feedback-v1.glomex.com
 gm99.com
 cov.gmlinteractive.com
 static.gmlinteractive.com
-go.ly
-www.go.ly
 go-mpulse.net
 go2cloud.org
 goatcounter.com
@@ -819,6 +816,7 @@ p5-lj5aujgj7jl7w-r2pmxqvndsgx2im2-931517-i1-v6exp3-v4.metric.gstatic.com
 p5-lj5aujgj7jl7w-r2pmxqvndsgx2im2-931517-i2-v6exp3-ds.metric.gstatic.com
 v6exp3-ds.metric.gstatic.com
 v6exp3-v4.metric.gstatic.com
+guiama.is
 guidetopetersburg.com
 consent.gutefrage.net
 perr.h-cdn.com
@@ -1357,6 +1355,8 @@ opecloud.com
 cdn.opecloud.com
 opencmp.net
 cdn.opencmp.net
+opentelemetry.io
+www.opentelemetry.io
 api.opinary.com
 widgets.opinary.com
 optimizely.com
@@ -2499,7 +2499,6 @@ technical-service.net
 te.technical-service.net
 www.technical-service.net
 tenping.kr
-www.tenping.kr
 test-iq.org
 www.test-iq.org
 tg.pe

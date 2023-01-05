@@ -6,8 +6,6 @@ aax-eu.amazon.fr
 aax-eu.amazon.in
 aax-eu.amazon.it
 aax-us-east-retail-direct.amazon.com
-aax-eu-retail-direct.amazon-adsystem.com
-aax-us-east-retail-direct.amazon-adsystem.com
 c.apple.com
 awstrack.me
 bnc.lt

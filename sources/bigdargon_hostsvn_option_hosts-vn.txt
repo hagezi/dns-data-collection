@@ -946,6 +946,7 @@ log.zamba.vn
 logzh.dantocmiennui.vn
 logzh.vietnamplus.vn
 log.zingmp3.vn
+log.zingnews.com.vn
 log.zingnews.vn
 loind.mobio.vn
 l.onfluencer.net
@@ -1715,6 +1716,7 @@ zalo-ads-td.zadn.vn
 zalo-ads.zadn.vn
 za.zapps.vn
 za.zingmp3.vn
+za.zingnews.com.vn
 za.zingnews.vn
 zigzag.vn
 zlog.mp3.zing.vn

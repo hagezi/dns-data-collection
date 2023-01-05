@@ -66,6 +66,8 @@ www.affiliatly.com
 afi-b.com
 www.afi-b.com
 agilecrm.com
+post.i.api.ahrtv.cn
+api.map.ahrtv.cn
 aimatch.com
 content.aimatch.com
 airbrake.io
@@ -91,6 +93,7 @@ c.amazon-adsystem.com
 ws-na.amazon-adsystem.com
 9w2zed1szg.execute-api.us-east-1.amazonaws.com
 bin5y4muil.execute-api.us-east-1.amazonaws.com
+qe6evcafs0.execute-api.us-east-1.amazonaws.com
 v4vw4ytvo4.execute-api.us-east-2.amazonaws.com
 explore.amd.com
 amgload.net
@@ -459,7 +462,6 @@ iplogger.com
 iplogger.org
 www.iplogger.com
 www.iplogger.org
-ippen.space
 ipstack.com
 iterable.com
 static.iterable.com
@@ -631,7 +633,6 @@ www.nutaku.com
 ad.nwi.jp
 ens.nzz.ch
 track.nzz.ch
-static-blau.o9.de
 ogury.io
 consent-manager-events.ogury.io
 okt.to

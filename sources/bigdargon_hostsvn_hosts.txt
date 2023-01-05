@@ -1794,6 +1794,7 @@ advil.waze.com
 advinapps.com
 advinci.co
 advinci.net
+adviralmedia.com
 ad.virtual-nights.com
 advisormedia.cz
 adviva.com
@@ -2272,6 +2273,7 @@ analytics.agoda.com
 analytics.ahrefs.com
 analytics.aita.gov.vn
 analytics.alright.network
+analytics.amazing-media.com
 analytics.ambient-platform.com
 analytics.amplitude.com
 analytics.anthill.vn
@@ -2364,6 +2366,7 @@ analytics-production.hapyak.com
 analytics.proper.io
 analytics.publitas.com
 analytics.query.yahoo.com
+analytics.ravelz.com
 analytics.rayjump.com
 analytics.rever.vn
 analytics.r.msn.com
@@ -5387,6 +5390,7 @@ craveandlamb.com
 crawlability.com
 crawlclocks.com
 crawler.speakol.com
+crazyabuse.pro
 crazyegg.com
 crazypopups.com
 crb.kargo.com
@@ -5472,6 +5476,7 @@ crunchyroll.adtrackers.net
 crunchyroll.bannertrack.net
 crwdcntrl.net
 crypt2.appboy.com
+cryptox-ads.io
 cs.adingo.jp
 cs.admanmedia.com
 cs.askingpoint.com
@@ -6405,6 +6410,7 @@ efetotjnrjbntto.com
 effateuncrisp.com
 effectivecpmcontent.com
 effectivecpmgate.com
+effectivecreativeformat.com
 effectivedisplaycontent.com
 effectivedisplayformat.com
 effectivedisplayformats.com
@@ -7931,6 +7937,7 @@ iframe.adxxx.com
 ifrb.a8.net
 ignaik.tenmax.io
 ignite.adtima.vn
+ignorant-union.pro
 igwlfwsogwetw.com
 ih.adscale.de
 i.histats.com
@@ -8127,6 +8134,7 @@ imprsgmp.taboola.com
 impr.taboola.com
 imp.startappservice.com
 imps.urekamedia.com
+imps.xoom-ads.com
 impulsehands.com
 imrworldwide.com
 imrww.exelator.com
@@ -9218,6 +9226,7 @@ log.zamba.vn
 logzh.dantocmiennui.vn
 logzh.vietnamplus.vn
 log.zingmp3.vn
+log.zingnews.com.vn
 log.zingnews.vn
 loind.mobio.vn
 lois.nend.net
@@ -9417,10 +9426,12 @@ match.justpremium.com
 match.prod.bidr.io
 match.sharethrough.com
 match.taboola.com
+mat.cryptox-ads.io
 mathcountryside.com
 matheranalytics.com
 mathtag.com
 mathtag.com.edgekey.net
+mat.luckyspin666.com
 matomo.cloud
 matomo.ecoe.vn
 matomo.hicity.vn
@@ -10295,6 +10306,7 @@ nv-ad.24hstatic.com
 nvirginia-my.mobfox.com
 nvmjdpbjgrh.com
 nv.vi-serve.com
+nwmqhgeixqan.com
 nxtck.com
 ny1-bid.adsrvr.org
 nyalacornily.cam
@@ -10354,6 +10366,7 @@ offclaydolon.com
 offerforge.com
 offerfusion.com
 offer.fyber.com
+offergate-apps-publicity.com
 offer.gop1.co
 offerimage.com
 offermatica.com
@@ -11256,6 +11269,7 @@ p.presage.io
 pps-log.op-mobile.opera.com
 pq.ad.gt
 pq-direct.revsci.net
+pqplkjwwezfrn.com
 praddpro.de
 pr.adxxx.com
 praght.tech
@@ -11500,6 +11514,7 @@ pub.akadigital.vn
 pub.automatad.com
 pub.chez.com
 pub.club-internet.fr
+pub.cryptox-ads.io
 pub-dev.novaonx.com
 pubdirecte.com
 pub.doubleverify.com
@@ -12422,6 +12437,7 @@ rvkthygqhe.com
 rvrpushserv.com
 r.wowreality.info
 rws.a8.net
+rwturquxinm.com
 rxcdn.1rx.io
 rxpsaofevrikmi.com
 ryeeffortoccupy.com
@@ -12640,6 +12656,7 @@ sdk.adspruce.com
 sdk.a-mo.net
 sdk-analytics.inner-active.mobi
 sdk-android.ad.smaato.net
+sdk-api.cryptox-ads.io
 sdk-api-v1.singular.net
 sdk.appadhoc.com
 sdk.appnext.com
@@ -14801,6 +14818,7 @@ tracking-web.smobgame.com
 tracking.winadx.com
 tracking.xapads.com
 tracking-xaxis.adsafety.net
+tracking.xoom-ads.com
 tracking.yieldlove-ad-serving.net
 tracking.yomedia.vn
 trackity.tiki.vn
@@ -15226,6 +15244,7 @@ uptolike.com
 uptrendsdata.com
 upv4.moatads.com
 urechar.com
+urimnugocfr.com
 urlcash.net
 url.ds.duapps.com
 urlhandler.aniview.com
@@ -16359,6 +16378,7 @@ www.duapps.com
 www.dynamicadx.com
 www.eclick.vn
 www.ecpms.net
+www.effectivecreativeformat.com
 www.ematicsolutions.com
 www.emjcd.com
 www.entravision.com
@@ -16788,6 +16808,7 @@ www.wootric.com
 www.xadsmart.com
 www.xapads.com
 www.xmlppcbuzz.com
+www.xoom-ads.com
 www.yadro.ru
 www.yeah1publishing.com
 www.yieldlab.net
@@ -16810,6 +16831,7 @@ wyvpjsfhywm.com
 wywy.com
 wzrkt.com
 wz.tynt.com
+wzuisptxzqbb.com
 x2.mookie1.com
 x2sfa.javgg.eu
 xacthuc.autoads.asia
@@ -16858,6 +16880,7 @@ xlviiirdr.com
 xlviirdr.com
 xmadsapi.codon.vn
 xmadsapi.joboko.com
+xmkmuadkefzav.com
 xml2.rklmstr.com
 xml.accesstrade.net
 xml.admidainsight.com
@@ -16885,6 +16908,7 @@ xml.revrtb.net
 xml.rklmstr.com
 xml.showcasethat.com
 xng.trbo.com
+xoom-ads.com
 x.o-s.io
 xovq5nemr.com
 xpbbyiqbcawamy.com
@@ -17047,6 +17071,7 @@ zarget.com
 zarpop.com
 za.zapps.vn
 za.zingmp3.vn
+za.zingnews.com.vn
 za.zingnews.vn
 zbwp6ghm.com
 zc.adswizz.com
@@ -17108,6 +17133,7 @@ zoover.bannertrack.net
 z.opmnstr.com
 z.optmnstr.com
 zorprhbnwbezie.com
+zpbhjatpnaovj.com
 zplayer.trk.zapps.vn
 zplayer-trk.zdn.vn
 zqtk.net

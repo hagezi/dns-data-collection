@@ -664,6 +664,7 @@ tracker.tricitytorrents.com
 tronml.cf
 tsundere.pw
 mts.tvbit.co
+tracker.tvgc.win
 uatracker.net
 tracker0.ufibox.com
 edu.uifr.ru

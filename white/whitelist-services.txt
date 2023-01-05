@@ -1113,6 +1113,7 @@ minecraftservices.com
 mobilefacebook.com
 mojang.com
 moneywithfacebook.com
+mstdn.ca
 mstdn.jp
 mstdn.party
 mstdn.plus
@@ -1457,7 +1458,6 @@ youtubemobilesupport.com
 yt.be
 ytimg.com
 z.cn
-mastodon.zaclys.com
 zhihu.com
 zhimg.com
 ebay.zj.cn

@@ -342,7 +342,6 @@ treasuredata.com
 trustedform.com
 spade.sci.twitch.tv
 builder-assets.unbounce.com
-uplynk.com
 uptobox.com
 go.usa.gov
 api.useinsider.com

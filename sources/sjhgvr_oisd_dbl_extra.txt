@@ -422,6 +422,7 @@ events.mapbox.com
 events.release.narrativ.com
 events.split.io
 everesttech.net
+evergage.com
 evidon.com
 evt.mxplay.com
 exactag.com
@@ -1576,6 +1577,7 @@ www.eulerian.net
 www.eum-appdynamics.com
 www.everestop.io
 www.everesttech.net
+www.evergage.com
 www.evidon.com
 www.exactag.com
 www.exacttargetapis.com

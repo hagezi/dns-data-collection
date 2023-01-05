@@ -2616,6 +2616,7 @@ app.hailstate.com
 app.hokiesports.com
 app.info.coopenae.fi.cr
 appinfosoryz.carte-gr.total.fr
+applets.ebxcdn.com
 apple.www.letv.com
 applink.getbambu.com
 applog.yiche.com
@@ -12507,6 +12508,7 @@ sytuzk.nissanvimontlaval.com
 szakms.bygghemma.se
 t0y.toyota.ca
 t.10er-tagesticket.de
+t13.io
 t1.benefits.tops.co.th
 t1.discover.flashnews.com.au
 t1.stadiumgoods.com

@@ -23,6 +23,8 @@ adservicemedia.dk
 adswizz.com
 adultfriendfinder.com
 adv.li
+post.i.api.ahrtv.cn
+api.map.ahrtv.cn
 aimatch.com
 api.eu-west-1.aiv-delivery.net
 api.us-east-1.aiv-delivery.net
@@ -96,6 +98,7 @@ hb.afl.rakuten.co.jp
 check2.tsb.co.uk
 pvtag.yahoo.co.jp
 adc.api.nine.com.au
+rilibiao.com.cn
 connatix.com
 consent.cookiefirst.com
 crazyegg.com
@@ -126,6 +129,7 @@ msg.ettoday.net
 everesttech.net
 exosrv.com
 g.ezoic.net
+facebookcoronavirus.com
 faronics.com
 fave.co
 files.im
@@ -140,9 +144,9 @@ georiot.com
 gscounters.eu1.gigya.com
 gscounters.gigya.com
 gizmodern.com
-go.ly
 www-googletagmanager.l.google.com
 googletagmanager.com
+guiama.is
 hockerty.de
 host-tracker.com
 htl.li
