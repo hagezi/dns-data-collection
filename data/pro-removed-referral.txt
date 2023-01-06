@@ -3,9 +3,6 @@ adfoc.us
 email-clk.adguard.com
 campaign.adobe.com
 t.ac.pandora.com.cname.campaign.adobe.com
-e2.panerabread.com.cname.campaign.adobe.com
-m.e2.panerabread.com.cname.campaign.adobe.com
-t.e2.panerabread.com.cname.campaign.adobe.com
 affiliatefuture.com
 anrdoezrs.net
 apmebf.com

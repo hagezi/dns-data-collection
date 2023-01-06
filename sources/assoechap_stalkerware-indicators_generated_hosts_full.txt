@@ -491,6 +491,7 @@ pc.spykontrol.com
 pctattletale.com
 pctattletalev2.s3.amazonaws.com
 pc.viptelefonprogrami.com
+pgv4.com
 phone-backup-service.firebaseio.com
 phonecontrolapp-e2c64.firebaseio.com
 phonedata.me
@@ -871,6 +872,7 @@ www.mspy.com
 www.mspyonline.com
 www.mtoolapp.net
 www.mydwnd.com
+www.pgv4.com
 www.reptilicus.net
 www.sentrypc.download
 www.sentrypc.net
@@ -894,5 +896,6 @@ xmyevq.birxpk.com
 xnore.com
 xnspy.com
 xpcpanel.com
+x.pgv4.com
 zdalnakontrola.pl
 zoemob.firebaseio.com

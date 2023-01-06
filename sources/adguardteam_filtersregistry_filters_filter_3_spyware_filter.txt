@@ -2348,6 +2348,7 @@ analytics.sixtmiddleeast.com
 analytics.sixtshlomo.com
 analytics.skyscanner.net
 analytics.slashdotmedia.com
+analytics.slidesai.io
 analytics.snappea.com
 analytics.snaptube.app
 analytics.souazi.com
@@ -19256,6 +19257,7 @@ tp.quelle.de
 t.premii.com
 t.procrastinator.tips
 tp.sheego.de
+tpstelemetry.tencent.com
 tp.universal.at
 t.purduesports.com
 tp.witt-international.cz

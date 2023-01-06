@@ -1140,6 +1140,7 @@ advert.kf5.com
 adverts.ie
 adv.li
 adweek.com
+adweek.it
 adwolf.ru
 adwords.google.com
 adyen.com
@@ -1189,6 +1190,7 @@ ahagamecenter.com
 ahd.ruten.com.tw
 ahesube.anadoluhayat.com.tr
 ahoo.it
+*.ahrtv.cn
 ai6.net
 aibank.co.il
 aib.ie
@@ -2040,6 +2042,7 @@ awsautopilot.com
 awsautoscaling.com
 aws-border.cn
 awsbraket.com
+aws-cbc.cloud
 awscloud.com
 aws.com
 awscommandlineinterface.com
@@ -3201,6 +3204,7 @@ cdn.bestreviews.com
 cdn.bitmovin.com
 cdn.blaize.io
 cdn.bluebillywig.com
+cdn.brid.tv
 cdnbunny.org
 cdn.city-news.ovh
 cdn.civiccomputing.com
@@ -3287,6 +3291,7 @@ cdn.survey.medallia.com
 cdn.syndication.twimg.com
 cdn.tagcommander.com
 cdn.tinypass.com
+cdn.tpdads.com
 cdn.trustcommander.net
 cdn.turner.com
 cdn.ubi.com
@@ -4147,6 +4152,7 @@ cpanel.com
 cpanel.net
 c.paypal.com
 cp.bluesnap.com
+cpe-104-34-3-152.socal.res.rr.com
 cpm.wargaming.net
 cpnscdn.com
 cptrack.de
@@ -4393,6 +4399,7 @@ data-bg.net
 data.cnn.com
 datadoghq-browser-agent.com
 datadoghq.com
+datadoghq.eu
 datadome.co
 datafront.co
 data.here.com
@@ -4648,6 +4655,7 @@ dis.gd
 disguised.nl
 disk.yandex.net
 disk.yandex.ru
+di.sn
 disney.com
 disneynow.com
 disney.playback.edge.bamgrid.com
@@ -6131,6 +6139,7 @@ fidobank.ua
 fidomarket.ua
 fidor.de
 fifa.com
+fightclubnews.cz
 figma.com
 *.fi-go.kelkoogroup.net
 fi-go.kelkoogroup.net
@@ -6748,9 +6757,13 @@ gogoplay.in
 gogoplay.io
 gohighbrow.com
 go.id
+go.id.me
 goingelectric.de
+go.intel-academy.com
+go.intigriti.com
 go.kr
 goku.to
+go.lamotte.fr
 goldenglobalbank.com.tr
 goldenpay.az
 golem.de
@@ -7941,6 +7954,7 @@ idg.se
 id.i2i.jp
 idiagnostics.apple.com
 idiagnostics.apple.com.akadns.net
+id.me
 idmsa.apple.com
 idnes.cz
 idnotify.com
@@ -8033,6 +8047,7 @@ images2.minutemediacdn.com
 images2-qnmotori.gazzettaobjects.it
 images4-g.ravelrycache.com
 imagesak.secureserver.net
+*.images-amazon.com
 images-amazon.com
 images.cdn.scarabresearch.com
 images.dmca.com
@@ -8217,6 +8232,7 @@ instapaper.com
 instructables.com
 instructure.com
 intechbank.ru
+intel-academy.com
 intel.com
 intelink.gov
 intellectmoney.ru
@@ -8275,6 +8291,7 @@ intersport.peerius.com
 intervale.ru
 intesasanpaolobank.ro
 intesasanpaolo.com
+intigriti.com
 intl.xiaomi.com
 intuitcdn.net
 intvrg.gib.gov.tr
@@ -8352,6 +8369,7 @@ i.po.st
 ipotekabank.com
 ipoteka-tut.ru
 ippen.space
+ip-prod.aws-cbc.cloud
 ip.sb
 ipsp.com
 ipstack.com
@@ -8399,6 +8417,7 @@ isi.edu
 isk.richardsw.club
 isnbank.ru
 isra.li
+issp.ac.cn
 issuu.com
 istatmenus.app
 istockphoto.com
@@ -8924,6 +8943,7 @@ ladbible.com
 lakameraobscura.com
 lakelucerne.ch
 lam.bo
+lamotte.fr
 *.lan
 landbank.com.tw
 landbank-horlofftal.de
@@ -9303,6 +9323,7 @@ loushao.net
 loveapp.com
 lovizaim.ru
 lowendbox.com
+low.es
 lowes.com
 lp25.fr
 lpages.co
@@ -9541,6 +9562,7 @@ maxpark.com
 maybank2u.com.my
 maybank.co.id
 mayitek.com
+mayocl.in
 mayoclinic.org
 mb1.as50464.net
 mb2.as50464.net
@@ -9572,6 +9594,7 @@ mcombank.ru
 mcrouter.net
 mcrouter.org
 mctcu.org
+mcys.co
 mdc53.com
 *.mdhcdn.com
 mdidesign.ca
@@ -12583,6 +12606,7 @@ resonabank.co.jp
 resonatingmedia.com
 responsys.net
 res-r.lfjack.com
+res.rr.com
 ressocdn.com
 resso.com
 resso.me
@@ -12600,6 +12624,7 @@ retail.patriabank.ro
 retail.santander.co.uk
 retail.sdm.ru
 rethink.net
+rethinktw.cc
 retracker01-msk-virt.corbina.net
 retracker.akado-ural.ru
 retracker.baikal-telecom.net
@@ -12651,6 +12676,7 @@ riffreporter.de
 rigidindustries.com
 rijksmuseum.nl
 rileg.de
+rilibiao.com.cn
 ri.ms
 rinet.ru
 ringcentral.com
@@ -12759,6 +12785,7 @@ rpxnow.com
 rqb.ir
 rrbank.ru
 rrb.ru
+rr.com
 rs6.net
 r.sascdn.com
 rsb.ru
@@ -13610,6 +13637,7 @@ snssdk.com
 snsw.us
 snyk.co
 sob-bank.de
+socal.res.rr.com
 soc.cr
 socel.net
 social.anoxinon.de
@@ -14653,6 +14681,7 @@ techgyd.com
 techhub.social
 techjury.net
 tech.lgbt
+technical-service.net
 technorati.com
 techopedia.com
 techradar.com
@@ -14666,6 +14695,7 @@ techzine.nl
 ted.com
 tedox.de
 tehconnection.eu
+te.ip-prod.aws-cbc.cloud
 tejaratbank.ir
 tekcities.com
 tek.io
@@ -14732,6 +14762,7 @@ test.cmp.quantcast.com
 test-iq.org
 test.quantcast.mgr.consensu.org
 tetaneutral.net
+te.technical-service.net
 tetrapolis.spb.ru
 texbank.ru
 texoviva.com
@@ -14797,6 +14828,7 @@ theodoric.fr
 theoks.net
 theom.nz
 theopportunityproject.org
+theory.issp.ac.cn
 thepay.com.ua
 thepayup.ru
 thepcspy.com
@@ -15096,6 +15128,7 @@ t.overflow.biz
 towerauction.com
 t.paypal.com
 tpb.vn
+tpdads.com
 tpddns.cn
 tp-emea.exactag.com
 *.tplinkwifi.net
@@ -17344,6 +17377,7 @@ www.advertising.com
 www.adverts.ie
 www.adv.li
 www.adweek.com
+www.adweek.it
 www.adwolf.ru
 www.adyen.com
 www.aeerso.space
@@ -17812,6 +17846,7 @@ www.awsautopilot.com
 www.awsautoscaling.com
 www.aws-border.cn
 www.awsbraket.com
+www.aws-cbc.cloud
 www.awscloud.com
 www.aws.com
 www.awscommandlineinterface.com
@@ -19195,6 +19230,7 @@ www.dashlane.com
 www.data-bg.net
 www.datadoghq-browser-agent.com
 www.datadoghq.com
+www.datadoghq.eu
 www.datadome.co
 www.datafront.co
 www.dataknet.com
@@ -19354,6 +19390,7 @@ www.discourse.org
 www.discover.com
 www.dis.gd
 www.disguised.nl
+www.di.sn
 www.disney.com
 www.disneynow.com
 www.disneyplus.com
@@ -20435,6 +20472,7 @@ www.fidobank.ua
 www.fidomarket.ua
 www.fidor.de
 www.fifa.com
+www.fightclubnews.cz
 www.figma.com
 www.fileeagle.com
 www.filehorse.com
@@ -21492,6 +21530,7 @@ www.ideaonline.ua
 www.identisoft.pt
 www.idg.de
 www.idg.se
+www.id.me
 www.idnes.cz
 www.idnotify.com
 www.idocdn.com
@@ -21633,6 +21672,7 @@ www.instapaper.com
 www.instructables.com
 www.instructure.com
 www.intechbank.ru
+www.intel-academy.com
 www.intel.com
 www.intelink.gov
 www.intellectmoney.ru
@@ -21662,6 +21702,7 @@ www.intersport.no
 www.intervale.ru
 www.intesasanpaolobank.ro
 www.intesasanpaolo.com
+www.intigriti.com
 www.intuitcdn.net
 www.in.ua
 www.invb.ru
@@ -22146,6 +22187,7 @@ www.ladbible.com
 www.lakameraobscura.com
 www.lakelucerne.ch
 www.lam.bo
+www.lamotte.fr
 www.landbank-horlofftal.de
 www.landingi.com
 www.landsend.com
@@ -22392,6 +22434,7 @@ www.loushao.net
 www.loveapp.com
 www.lovizaim.ru
 www.lowendbox.com
+www.low.es
 www.lowes.com
 www.lp25.fr
 www.lpages.co
@@ -22553,6 +22596,7 @@ www.maventa.fi
 www.maxmind.com
 www.maxpark.com
 www.mayitek.com
+www.mayocl.in
 www.mayoclinic.org
 www.mbank.cz
 www.mbank.pl
@@ -22574,6 +22618,7 @@ www.mcombank.ru
 www.mcrouter.net
 www.mcrouter.org
 www.mctcu.org
+www.mcys.co
 www.mdc53.com
 www.mdidesign.ca
 www.mdl29.net
@@ -24556,6 +24601,7 @@ www.resumebuild.com
 www.resursbank.se
 www.res-x.com
 www.rethink.net
+www.rethinktw.cc
 www.retroachievements.org
 www.retrogames.cc
 www.reunion.com
@@ -24676,6 +24722,7 @@ www.rpxnow.com
 www.rqb.ir
 www.rrbank.ru
 www.rrb.ru
+www.rr.com
 www.rs6.net
 www.rsb.ru
 www.rsc.li
@@ -25898,6 +25945,7 @@ www.techgyd.com
 www.techhub.social
 www.techjury.net
 www.tech.lgbt
+www.technical-service.net
 www.technorati.com
 www.techopedia.com
 www.techradar.com
@@ -26191,6 +26239,7 @@ www.toutiaoimg.com
 www.toutiaovod.com
 www.towerauction.com
 www.tpb.vn
+www.tpdads.com
 www.tpddns.cn
 www.tpmr.com
 www.tr5.in
@@ -27642,6 +27691,7 @@ www.ytimg.com
 www.ytmnd.com
 www.yts.mx
 www.yuk.nu
+www.yundabao.cn
 www.yun.ir
 www.yupoo.com
 www.yusercontent.com
@@ -28160,6 +28210,7 @@ yu.ac.kr
 yuantabank.com.tw
 yui.yahooapis.com
 yuk.nu
+yundabao.cn
 yun.ir
 yupoo.com
 yusercontent.com

@@ -27,8 +27,6 @@ www.adsterra.com
 a.adwolf.ru
 afi-b.com
 www.afi-b.com
-post.i.api.ahrtv.cn
-api.map.ahrtv.cn
 api.eu-west-1.aiv-delivery.net
 api.us-east-1.aiv-delivery.net
 api.us-west-2.aiv-delivery.net
@@ -46,6 +44,7 @@ pe4axtzs7e.execute-api.eu-west-2.amazonaws.com
 bin5y4muil.execute-api.us-east-1.amazonaws.com
 e6yeun02cb.execute-api.us-east-1.amazonaws.com
 fqicudrbaf.execute-api.us-east-1.amazonaws.com
+qe6evcafs0.execute-api.us-east-1.amazonaws.com
 r74n1rfbqi.execute-api.us-east-1.amazonaws.com
 v76ndo1am9.execute-api.us-east-1.amazonaws.com
 xt4ahhp8o9.execute-api.us-east-1.amazonaws.com
@@ -79,7 +78,6 @@ dmgmediaprivacy.co.uk
 cmp.dmgmediaprivacy.co.uk
 hb.afl.rakuten.co.jp
 grp07.ias.rakuten.co.jp
-rilibiao.com.cn
 stats.comunio.de
 choices.consentframework.com
 consent.cookiefirst.com
@@ -111,7 +109,6 @@ ebayadvertising.com
 www.ebayadvertising.com
 ebayclassifiedsgroup.com
 www.ebayclassifiedsgroup.com
-heads-akp.spotify.com.edgesuite.net
 rtd-tm.everesttech.net
 exosrv.com
 facebgook.com
@@ -779,8 +776,6 @@ at.adtech.redventures.io
 roistat.com
 stash.roistat.com
 www.roistat.com
-rollercoin.com
-www.rollercoin.com
 rutarget.ru
 track.rutarget.ru
 sail-personalize.com
@@ -791,15 +786,11 @@ dim-aigeir.ach.sch.gr
 2.chipde.damoh.schneevonmorgen.com
 1.gmxnet.damoh.schneevonmorgen.com
 homad-global-configs.schneevonmorgen.com
-sellpoint.net
-a.sellpoint.net
-www.sellpoint.net
 at-config.sensic.net
 serving-sys.com
 snapads.com
 pixel.solvemedia.com
 pixel-secure.solvemedia.com
-zwinqi.spartoo.pt
 springboardplatform.com
 www.springboardplatform.com
 images.taboola.com
@@ -814,6 +805,7 @@ www.thench.net
 tiny.ee
 www.tiny.ee
 tags-eu.tiqcdn.com
+cdn.tpdads.com
 treasuredata.com
 www.treasuredata.com
 ads.tvb.com
@@ -835,6 +827,7 @@ www.valuecommerce.com
 wa.sv
 webpush.jp
 www.webpush.jp
+damoh.welect.de
 whoisprivacyprotect.com
 www.whoisprivacyprotect.com
 wisepops.com
@@ -848,6 +841,4 @@ ftr2.external.xerox.com
 api.miui.security.xiaomi.com
 xxxjmp.com
 l.yimg.com
-yundabao.cn
-www.yundabao.cn
 cdn.zopim.com

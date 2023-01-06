@@ -3549,6 +3549,7 @@ analytics.sixtshlomo.com
 analytics.skyscanner.net
 analytics.slashdotmedia.com
 analytics.sleeknote.com
+analytics.slidesai.io
 analytics.snappea.com
 analytics.snaptube.app
 analytics.snidigital.com
@@ -25334,6 +25335,7 @@ t.premii.com
 t.procrastinator.tips
 t.prod1.discover.binge.com.au
 tp.sheego.de
+tpstelemetry.tencent.com
 t.pswec.com
 tpubrk.eobuv.com
 tp.universal.at
@@ -28003,6 +28005,7 @@ visit.theglobeandmail.com
 visit.webhosting.yahoo.com
 visma.e-conomic.com
 visma.e-conomic.dk
+visor.sberbank.ru
 viunge.tns-gallup.dk
 viva.api.xiaoying.co
 vivaciousveil.com

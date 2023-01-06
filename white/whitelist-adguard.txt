@@ -1158,6 +1158,7 @@ nettbank2.danskebank.no
 verkkopankki2.danskebank.fi
 www2.danskebank.ee
 dashlane.com
+datadoghq.eu
 logs.datadoghq.com
 datadoghq-browser-agent.com
 datadome.co
@@ -3871,6 +3872,7 @@ secure.upc.ua
 uphold.com
 card.uplati.ru
 upma.org
+upoint.id
 formy.upriver.ru
 ibank.uralexpress.ru
 uralfd.ru

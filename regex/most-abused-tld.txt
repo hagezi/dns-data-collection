@@ -47,6 +47,7 @@
 \.sex$
 \.sexy$
 \.shop$
+\.site$
 \.software$
 \.su$
 \.surf$
@@ -57,4 +58,6 @@
 \.webcam$
 \.win$
 \.work$
+\.xxx$
+\.yandex$
 \.zone$

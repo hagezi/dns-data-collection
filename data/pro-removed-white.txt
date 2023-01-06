@@ -23,8 +23,6 @@ adservicemedia.dk
 adswizz.com
 adultfriendfinder.com
 adv.li
-post.i.api.ahrtv.cn
-api.map.ahrtv.cn
 aimatch.com
 api.eu-west-1.aiv-delivery.net
 api.us-east-1.aiv-delivery.net
@@ -44,6 +42,7 @@ bin5y4muil.execute-api.us-east-1.amazonaws.com
 e6yeun02cb.execute-api.us-east-1.amazonaws.com
 fqicudrbaf.execute-api.us-east-1.amazonaws.com
 pn8sm7rjuc.execute-api.us-east-1.amazonaws.com
+qe6evcafs0.execute-api.us-east-1.amazonaws.com
 v76ndo1am9.execute-api.us-east-1.amazonaws.com
 xt4ahhp8o9.execute-api.us-east-1.amazonaws.com
 yqchpwxvbg.execute-api.us-east-1.amazonaws.com
@@ -98,7 +97,6 @@ hb.afl.rakuten.co.jp
 check2.tsb.co.uk
 pvtag.yahoo.co.jp
 adc.api.nine.com.au
-rilibiao.com.cn
 connatix.com
 consent.cookiefirst.com
 crazyegg.com
@@ -129,7 +127,6 @@ msg.ettoday.net
 everesttech.net
 exosrv.com
 g.ezoic.net
-facebookcoronavirus.com
 faronics.com
 fave.co
 files.im
@@ -146,7 +143,6 @@ gscounters.gigya.com
 gizmodern.com
 www-googletagmanager.l.google.com
 googletagmanager.com
-guiama.is
 hockerty.de
 host-tracker.com
 htl.li
@@ -316,6 +312,7 @@ uim.tifbs.net
 tiny.ee
 tags.tiqcdn.com
 totalav.com
+tpdads.com
 tracemyip.org
 tradedoubler.com
 tradetracker.net
@@ -340,6 +337,7 @@ omniture.walmart.com
 webgains.com
 weborama.fr
 webpower.eu
+damoh.welect.de
 engage.windows.com
 wisepops.com
 xxxjmp.com

@@ -42,6 +42,7 @@ web.diagnostic.networking.aws.dev
 mas-ext*.amazon.com
 
 # Amazon Shopping (in-app links)
+*.images-amazon.com
 aax-*-retail-direct.amazon-adsystem.com
 aax-*-retail-direct.amazon.com
 aax-eu.amazon.ae
@@ -2289,4 +2290,8 @@ tenping.kr
 
 # https://github.com/hagezi/dns-blocklists/issues/145
 opentelemetry.io
+
+# https://github.com/hagezi/dns-blocklists/issues/165
+cdn.brid.tv
+cdn.tpdads.com
 

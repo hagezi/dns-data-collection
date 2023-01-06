@@ -4065,6 +4065,7 @@ angpar.112.2o7.net
 angtr.112.2o7.net
 angts.112.2o7.net
 angvac.112.2o7.net
+anickdnickd-benchmarks.adjust.com
 animalch.sakura.ne.jp
 anners.ero-advertising.com
 anon.doubleclick.speedera.net
@@ -4233,7 +4234,9 @@ app.adjust.comapp.adjust.comapp.adjust.comapp.adjust.comapp.adjust.comapp.adjust
 app.adjust.io
 app.app-authority.com
 app-authority.com
+app-benchconceptshipsks.adjust.com
 app-benchmarks.adjust.com
+app-bwestportnchmarks.adjust.com
 appcache.admission.net
 appcloud-center.com
 app-c.net
@@ -9330,6 +9333,7 @@ i.image-ad.jp
 i-image-ad-jp.ad-cloud.jp
 i.jads.co
 i.kissmetrics.com
+ikpnetgw.adjust.com
 i.l.cnn.net
 ilead.itrack.it
 il.girls.xyz
@@ -9802,6 +9806,7 @@ jabu.popunder.ru
 jacksonsun.us.intellitxt.com
 jadina-counter.de
 j.adticker.net
+jahoyspornstashnkins-2.adjust.com
 jaicon.webscouter.net
 jakeludington.us.intellitxt.com
 james.adbutler.de
@@ -9809,6 +9814,7 @@ j.amoad.com
 j-a-net.jp
 ja.newtabtv.com
 japan.inmobi.com
+japhethobare-cloud.adjust.com
 ja.reimageplus.com
 ja.revolvermaps.com
 jcarter.spinbox.net
@@ -10002,6 +10008,7 @@ keywordlink3.xlisting.jp
 keywordmax.com
 keyword.netscape.com
 kickback.ad.abema.io
+kickpp-benchmkickrks.adjust.com
 k.iinfo.cz
 killerstartups.us.intellitxt.com
 kimcurlrvsms.com
@@ -11503,6 +11510,7 @@ newyork.cbslocal.us.intellitxt.com
 newyorkmagazine.112.2o7.net
 next.adjust.com
 nextlevel.com
+next-qa-4-control-qa-3.adjust.com
 nextround.us.intellitxt.com
 nexus.ensighten.com
 nfsx.com
@@ -11594,6 +11602,7 @@ northjersey.112.2o7.net
 northwestairlines.112.2o7.net
 northwesternmutual.com.102.122.2o7.net
 norwegiancruiseline.112.2o7.net
+norwood-app-benchmarks.adjust.com
 nossl.aafp.org
 nossl.policeone.com
 notice.kakaku.com
@@ -12655,6 +12664,7 @@ pzd.rakuten.co.jp
 q1.checkm8.com
 q1digital.checkm8.com
 qa-1.adjust.com
+qa-2lanuevaconciencia.adjust.com
 qa-lauridsl.adjust.com
 q.azcentral.com
 qckjmp.com
@@ -16464,7 +16474,11 @@ zataz.fr.intellitxt.com
 zatznotfunny.us.intellitxt.com
 zbiornik.com
 z.blogads.com
+zbx-frontartifactorynd.adjust.com
+zbx-frontenbbecker.adjust.com
 zbx-frontend.adjust.com
+zbx-fropc3525tepc3525d.adjust.com
+zbx-frsyaratco-mantend.adjust.com
 zdau-builder.122.2o7.net
 zdau-zdnetau.122.2o7.net
 zdf.de.edgesuite.net

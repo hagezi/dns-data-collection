@@ -1806,12 +1806,14 @@ ad.vkoolzzz.net
 adv-links.com
 adv.livedoor.com
 advmanager.techfun.pl
+advm.brznetwork.com
 adv.mxmcdn.net
 adv.nexthardware.com
 ad.vnnayngaytin.vn
 advnt.com
 advolution.de
 adv.pushtimize.com
+advs.brznetwork.com
 adv.sec.intl.miui.com
 adv.sec.miui.com
 advserver.cgv.vn
@@ -2649,6 +2651,7 @@ api.flurry.com
 api.flygame.io
 api.forshrd.com
 api.fouanalytics.com
+api.fpjs.io
 api.fuseplatform.net
 apifwd.growingio.com
 api.fyber.com
@@ -2972,6 +2975,8 @@ app.woopra.com
 app.wootric.com
 app.xdrig.com
 apr.lijit.com
+aps1.fptls2.com
+aps1.fptls.com
 aps.hearstnp.com
 ap-southeast-1.prod.pr.analytics.console.aws.a2z.com
 ap-southeast.load.exelator.com
@@ -3887,6 +3892,7 @@ browser-intake-datadoghq.com
 browser-update.org
 browsiprod.com
 br.x.cnt.my
+brznetwork.com
 bs1.showheroes.com
 bs.ad-stir.com
 bsch.serving-sys.com
@@ -4775,9 +4781,6 @@ cjbmanagement.com
 cj.com
 cj.dotomi.com
 cjlog.com
-cjmgw.vnptmedia.vn
-cjm.mytv.vn
-cjm.vnptmedia.vn
 cjs.ptengine.com
 cjt1.net
 cjt3w2kxrv.com
@@ -5670,6 +5673,7 @@ da.inmobi.com
 daisycontroversy.com
 dakic-ia-300.com
 daleriki.com
+damaged-shop.pro
 damdoor.com
 danarimedia.xml.ak-is2.net
 danban.com
@@ -6603,6 +6607,8 @@ eu-edge.ad1x.com
 euintraspec.specificmedia.com
 eulerian.com
 eu-m.stat-rock.com
+eun1.fptls2.com
+eun1.fptls.com
 eurekster.com
 euroclick.com
 euro.klick.vn
@@ -7001,9 +7007,13 @@ fourier.taobao.com
 fout.jp
 fp.advertising.microsoft.com
 fp-cdn.azureedge.net
+fpjs.io
 fp.measure.office.com
 fp.metricswpsh.com
+fpnpmcdn.net
 fp.studio.inmobicdn.net
+fptls2.com
+fptls.com
 fqtag.com
 fra-01.braze.eu
 fra-02.braze.eu
@@ -8364,14 +8374,6 @@ iovation.com
 ip4.tracker-api.my.com
 ipac.ctnsnet.com
 ipa.pushwoosh.com
-ipccegov.vnptmedia.vn
-ipcc.mytv.com.vn
-ipcc.shop.vnpt.vn
-ipcc.vinaphone.com.vn
-ipcc.vinaphoneplus.com.vn
-ipcc-vnp1.vnptmedia.vn
-ipcc.vnpt.com.vn
-ipcc.vnptmedia.vn
 ipds.adm.admixer.com
 ipe.ivitrack.com
 iperceptions.com
@@ -14099,6 +14101,7 @@ swordfishdc.com
 swordgoose.com
 sworkitads.herokuapp.com
 swpsvc.com
+swrggntsvmsgv.com
 swrve.com
 sw.wpu.sh
 sya9yncn3q.com
@@ -15276,6 +15279,8 @@ us.claroadsxml.com
 us.clickcdn.co
 us-content.mediaforge.com
 us.creativecdn.com
+use1.fptls2.com
+use1.fptls.com
 us-east-1.event.prod.bidr.io
 us-east-1.prod.pr.analytics.console.aws.a2z.com
 us-east-1.prod.pw.analytics.console.aws.a2z.com
@@ -15698,6 +15703,7 @@ vlogerads.com
 vlogoflife.com
 vlxx.host
 vm5apis.com
+vmcxdaynkhnekp.com
 vmm-pixel.invitemedia.com
 vmmpxl.com
 vmweb.net
@@ -17046,6 +17052,7 @@ yume.com
 yumkelis.com
 yummy2.consumable.com
 yummy.consumable.com
+yxpmtdzlsv.com
 z3dmbpl6309s.com
 z5x.net
 z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me

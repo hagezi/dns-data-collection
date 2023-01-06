@@ -481,9 +481,6 @@ checker.cityads.com
 chiasephim.xyz
 cityads.com
 cityadstrack.com
-cjmgw.vnptmedia.vn
-cjm.mytv.vn
-cjm.vnptmedia.vn
 cleverads.vn
 clevernet.vn
 cli.ambient-platform.com
@@ -787,14 +784,6 @@ intranet.dcorp.com.vn
 in-view.gammaplatform.com
 invite.baomoi.com
 iosalpha.onfluencer.net
-ipccegov.vnptmedia.vn
-ipcc.mytv.com.vn
-ipcc.shop.vnpt.vn
-ipcc.vinaphone.com.vn
-ipcc.vinaphoneplus.com.vn
-ipcc-vnp1.vnptmedia.vn
-ipcc.vnpt.com.vn
-ipcc.vnptmedia.vn
 itim.vn
 jana1.jeoway.net
 j.eclick.vn
