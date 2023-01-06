@@ -53,6 +53,8 @@ gecko22-normal-alisg.tiktokv.com
 gecko22-normal.tiktokv.com
 gecko22-normal-useast1a.tiktokv.com
 gecko22-normal-useast2a.tiktokv.com
+gecko31-normal-useast1a.tiktokv.com
+gecko31-normal-useast2a.tiktokv.com
 gecko-boot.tiktokv.com
 gecko-pangle-hl.snssdk.com
 gecko-pangle-lf.snssdk.com

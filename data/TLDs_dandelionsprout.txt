@@ -1,0 +1,14 @@
+|*.agency^$denyallow=battlefield.agency|shortcut.agency
+|*.bid^
+|*.cf^$denyallow=google.cf|rths.cf|voitures.cf|assembleenationale-rca.cf|cps-rca.cf|acap.cf|miraculousladybug.cf|scrat.cf
+|*.cfd^
+|*.discount^
+|*.ga^$denyallow=google.ga|filtri-dns.ga|dgdi.ga|voitures.ga|economie-gabon.ga|9191.ga|animevsub.ga
+|*.gdn^
+|*.gq^$denyallow=deimos.gq|inege.gq|tvgelive.gq|comprarcarros.gq
+|*.loan^
+|*.monster^$denyallow=egybest.monster|yts.monster|cloudcdn.monster|fedi.monster
+|*.ooo^
+|*.pw^$denyallow=libgen.pw|petridish.pw|palaugov.pw|dpc.pw|zikrap.pw|demonoid.pw|bittor.pw|buttercup.pw|rezka.pw|darkcrystal.pw|xor.pw|fullhdfilmizlesene.pw|b00k.pw|gopass.pw|vost.pw
+|*.sbs^
+|*.top^$denyallow=corriente.top|gdtot.top|nicenature.top|reminder.top|magocoro.top|castlevania.top|suiten.top|shucks.top|1stream.top|ambr.top|techblog.top|changlam10.top|changlam11.top|pdcdn1.top|mastodon.top|pressplay.top

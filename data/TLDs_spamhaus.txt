@@ -1,0 +1,10 @@
+|*.beauty^
+|*.cf^
+|*.cn^
+|*.fit^
+|*.gq^
+|*.live^
+|*.ml^
+|*.monster^
+|*.surf^
+|*.top^

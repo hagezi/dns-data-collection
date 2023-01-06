@@ -2295,3 +2295,6 @@ opentelemetry.io
 cdn.brid.tv
 cdn.tpdads.com
 
+# Weather Apps/Maps - e.g. Carrot Weather
+*.aerisapi.com
+

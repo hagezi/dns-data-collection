@@ -12,6 +12,7 @@
 \.cfd$
 \.ci$
 \.click$
+\.cn$
 \.cricket$
 \.cyou$
 \.date$
@@ -27,6 +28,7 @@
 \.gdn$
 \.gq$
 \.icu$
+\.in$
 \.kp$
 \.link$
 \.live$
@@ -43,6 +45,7 @@
 \.recipes$
 \.rest$
 \.review$
+\.ru$
 \.sbs$
 \.sex$
 \.sexy$
@@ -59,5 +62,6 @@
 \.win$
 \.work$
 \.xxx$
+\.xyz$
 \.yandex$
 \.zone$
