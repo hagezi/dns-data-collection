@@ -2301,3 +2301,6 @@ cdn.tpdads.com
 # https://github.com/hagezi/dns-blocklists/issues/168
 app.link.nba.com
 
+# https://github.com/hagezi/dns-blocklists/issues/169
+*.tnt-ea.com
+

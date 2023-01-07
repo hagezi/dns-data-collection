@@ -1,6 +1,7 @@
 |*.beauty^
 |*.cf^
 |*.cn^
+|*.degree^
 |*.fit^
 |*.gq^
 |*.live^

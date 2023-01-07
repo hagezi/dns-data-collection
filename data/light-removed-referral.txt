@@ -428,6 +428,7 @@ www.qrsg2.app.link
 share-team.app.link
 ccs-king.customlinks.appsflyer.com
 fhs-king.customlinks.appsflyer.com
+realtor.customlinks.appsflyer.com
 ad.atdmt.com
 static.ad.atdmt.com
 avantlink.com
@@ -469,6 +470,7 @@ aquazzura.commander1.com
 carrefouron.commander1.com
 celio.commander1.com
 clarins.commander1.com
+cofidis.commander1.com
 collect.commander1.com
 conforama.commander1.com
 credit-agricole.commander1.com
@@ -488,6 +490,7 @@ miremoncompte.commander1.com
 mix-phoenix.commander1.com
 moschino.commander1.com
 mytheresa.commander1.com
+naturedecouvertes.commander1.com
 ovh.commander1.com
 philosophy.commander1.com
 piquadro.commander1.com
@@ -516,12 +519,14 @@ pagead.l.doubleclick.net
 pagead46.l.doubleclick.net
 dpbolvw.net
 www.dpbolvw.net
+ad.dyntracker.de
 track.effiliation.com
 p01a.hs.eloqua.com
 p01c.hs.eloqua.com
 p01e.hs.eloqua.com
 p01f.hs.eloqua.com
 p01g.hs.eloqua.com
+p01h.hs.eloqua.com
 p01i.hs.eloqua.com
 p01j.hs.eloqua.com
 p01k.hs.eloqua.com
@@ -551,7 +556,6 @@ s1129361478.hs.eloqua.com
 s1165.hs.eloqua.com
 s1240377118.hs.eloqua.com
 s1258972516.hs.eloqua.com
-s1265708786.hs.eloqua.com
 s1284661142.hs.eloqua.com
 s1311950425.hs.eloqua.com
 s1439730185.hs.eloqua.com
@@ -568,6 +572,7 @@ s2138.hs.eloqua.com
 s266319173.hs.eloqua.com
 s3049749.hs.eloqua.com
 s334284386.hs.eloqua.com
+s341921710.hs.eloqua.com
 s441910513.hs.eloqua.com
 s566810826.hs.eloqua.com
 s795651218.hs.eloqua.com
@@ -912,6 +917,7 @@ a.nonstoppartner.net
 ojrq.net
 adore-me.ojrq.net
 alldatadiy.ojrq.net
+allenedmonds.ojrq.net
 american-airlines.ojrq.net
 annaslinens.ojrq.net
 atl.ojrq.net
@@ -1021,9 +1027,7 @@ aos-creative.prf.hn
 creative.prf.hn
 freepik-creative.prf.hn
 hbomax.prf.hn
-iu-creative.prf.hn
 mrporter-creative.prf.hn
-philipsglobal.prf.hn
 saucony.prf.hn
 ssense.prf.hn
 stubhub.prf.hn
@@ -1086,7 +1090,6 @@ adaptrichmediauk.solution.weborama.fr
 aimfar.solution.weborama.fr
 autoscout24.solution.weborama.fr
 bancoctt.solution.weborama.fr
-bankinterportugal1.solution.weborama.fr
 bayardmediaactivationfr.solution.weborama.fr
 bmwnl.solution.weborama.fr
 bouyguestelecomfr.solution.weborama.fr
@@ -1101,16 +1104,17 @@ dgt.solution.weborama.fr
 disneynl.solution.weborama.fr
 dpgmediabe1.solution.weborama.fr
 edf.solution.weborama.fr
+eldorado.solution.weborama.fr
 endesapt.solution.weborama.fr
 essentnl.solution.weborama.fr
 eurojackpotnl1.solution.weborama.fr
 fairplaycasinonl.solution.weborama.fr
+geoxit.solution.weborama.fr
 goededoelenloterijnl.solution.weborama.fr
 greenhousenl.solution.weborama.fr
 groupelaposte.solution.weborama.fr
 groupelapostefranalytics.solution.weborama.fr
 hollandcasinoonline.solution.weborama.fr
-idae.solution.weborama.fr
 intermarchecampaign.solution.weborama.fr
 jaguarlandrover.solution.weborama.fr
 jlrportugal.solution.weborama.fr
@@ -1118,10 +1122,10 @@ knabnl1.solution.weborama.fr
 lambimbomx.solution.weborama.fr
 lbcwamfactory.solution.weborama.fr
 lequipecampagne.solution.weborama.fr
+lesmousquetaires.solution.weborama.fr
 lidlnl.solution.weborama.fr
 mhi.solution.weborama.fr
 netprofiler1.solution.weborama.fr
-newlotusweb.solution.weborama.fr
 omnicommediagroupnl.solution.weborama.fr
 pg2.solution.weborama.fr
 pgacatalunya1.solution.weborama.fr
@@ -1147,7 +1151,6 @@ wam-yahoo.solution.weborama.fr
 wamfactory.solution.weborama.fr
 wcm.solution.weborama.fr
 weboes.solution.weborama.fr
-webopt.solution.weborama.fr
 weboramanl1.solution.weborama.fr
 xg4ken.com
 101.xg4ken.com
@@ -1206,11 +1209,9 @@ xg4ken.com
 8493.xg4ken.com
 8627.xg4ken.com
 8682.xg4ken.com
-8683.xg4ken.com
 8759.xg4ken.com
 8775.xg4ken.com
 8808.xg4ken.com
-9.xg4ken.com
 events.xg4ken.com
 ktag-eu-west-prod.xg4ken.com
 ktag-us-east-prod.xg4ken.com
@@ -1218,4 +1219,3 @@ match.xg4ken.com
 resources.xg4ken.com
 services.xg4ken.com
 www.xg4ken.com
-3582601.redirect.appmetrica.yandex.com
