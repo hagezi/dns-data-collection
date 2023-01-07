@@ -2,7 +2,6 @@
 adfoc.us
 email-clk.adguard.com
 campaign.adobe.com
-t.ac.pandora.com.cname.campaign.adobe.com
 affiliatefuture.com
 anrdoezrs.net
 apmebf.com
@@ -22,7 +21,6 @@ bfast.com
 click.em.blizzard.com
 eulerian.brandalley.fr
 cc-dt.com
-ads.cc-dt.com
 cse3.chausport.com
 cj.com
 adservice.google.co.in

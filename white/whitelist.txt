@@ -2298,3 +2298,6 @@ cdn.tpdads.com
 # Weather Apps/Maps - e.g. Carrot Weather
 *.aerisapi.com
 
+# https://github.com/hagezi/dns-blocklists/issues/168
+app.link.nba.com
+

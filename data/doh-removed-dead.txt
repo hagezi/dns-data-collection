@@ -13,5 +13,6 @@ dns.larsdebruin.net
 doh.libredns.org
 adblock.mydns.network
 doh.netweaver.uk
+a.passcloud.xyz
 fi.doh.dns.snopyta.org
 doh.gslb2.xfinity.com

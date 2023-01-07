@@ -18,6 +18,7 @@ email-opn.adguard.com
 adition.com
 adjust.com
 myao.adocean.pl
+ads-twitter.com
 adsafety.net
 adservicemedia.dk
 adswizz.com
@@ -25,9 +26,6 @@ adultfriendfinder.com
 adv.li
 aimatch.com
 api.eu-west-1.aiv-delivery.net
-api.us-east-1.aiv-delivery.net
-api.us-west-2.aiv-delivery.net
-v10-win.vortex.data.microsoft.com.akadns.net
 albacross.com
 alipromo.com
 alitems.com
@@ -76,7 +74,6 @@ bmcdn2.com
 p.brid.tv
 pages.bsigroup.com
 buyeasy.by
-captcha-display.com
 cbox.ws
 cf2.me
 click.e.change.org
@@ -89,7 +86,6 @@ clickcease.com
 clickdimensions.com
 clickmeter.com
 cloudflareinsights.com
-sa.bbc.co.uk
 mybbc-analytics.files.bbci.co.uk
 cmp.dmgmediaprivacy.co.uk
 pavv.co.kr
@@ -144,7 +140,6 @@ gizmodern.com
 www-googletagmanager.l.google.com
 googletagmanager.com
 hockerty.de
-host-tracker.com
 htl.li
 hxtrack.com
 content.ibanking-services.com
@@ -202,7 +197,6 @@ mediavoice.com
 analytics.meituan.net
 metaffiliation.com
 micpn.com
-api.bingads.microsoft.com
 browser.events.data.microsoft.com
 statsfe2.update.microsoft.com
 vlscppe.microsoft.com
@@ -219,10 +213,7 @@ mhc-sec-us.myhomescreen.tv
 short.mypaste.fun
 mysp.ac
 myvisualiq.net
-cm-beacon.nakanohito.jp
-cm-widget.nakanohito.jp
-support-beacon.nakanohito.jp
-support-widget.nakanohito.jp
+app.link.nba.com
 geo.ngtv.io
 nimiq.com
 nonstoppartner.net
@@ -277,7 +268,6 @@ recommender.scarabresearch.com
 tv-static.scdn.co
 seadform.net
 sensic.net
-at-config.sensic.net
 serving-sys.com
 cdn.sgmntfy.com
 sh.st
@@ -333,11 +323,12 @@ go.usa.gov
 valuecommerce.com
 videoadex.com
 visualwebsiteoptimizer.com
+vk.sv
+vkcache.com
 omniture.walmart.com
 webgains.com
 weborama.fr
 webpower.eu
-damoh.welect.de
 engage.windows.com
 wisepops.com
 xxxjmp.com

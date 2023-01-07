@@ -48,6 +48,7 @@ myao.adocean.pl
 www.adocean.pl
 adrelayer.com
 s.adrise.tv
+ads-twitter.com
 adsafety.net
 www.adsafety.net
 adservicemedia.dk
@@ -57,7 +58,6 @@ www.adswizz.com
 adultfriendfinder.com
 www.adultfriendfinder.com
 adups.com
-wallet.advcash.com
 advertising.com
 adwolf.ru
 som.aeroplan.com
@@ -335,7 +335,6 @@ carharttwip-de.arc.epoq.de
 carharttwip-gb.arc.epoq.de
 esmeyer-oxid6.arc.epoq.de
 fahrrad-de.arc.epoq.de
-office-partner.arc.epoq.de
 pinkorblue-it.arc.epoq.de
 rosebikes-de.arc.epoq.de
 roseoubleu-fr.arc.epoq.de
@@ -462,7 +461,6 @@ iterable.com
 static.iterable.com
 itsfogo.com
 jiathis.com
-www.jiathis.com
 jqueryscript.net
 crbcdn.jsfiddle.net
 jwpltx.com
@@ -491,7 +489,6 @@ api-cloudfront.life360.com
 lightboxcdn.com
 www.lightboxcdn.com
 lightstep.com
-lihi1.cc
 tr.line.me
 torimochi.line-apps.com
 itad.linetv.tw
@@ -593,7 +590,6 @@ msgfocus.com
 otf.msn.com
 mybluemix.net
 mypoints.com
-mysp.ac
 myvisualiq.net
 myway.com
 www.myway.com
@@ -662,6 +658,7 @@ h-3z5dc3wi.online-metrix.net
 h-6rj18la4.online-metrix.net
 h-859g1sil.online-metrix.net
 h-87rxrdob.online-metrix.net
+h-accountonline.online-metrix.net
 h-accurint.online-metrix.net
 h-adp.online-metrix.net
 h-afterpay.online-metrix.net
@@ -679,7 +676,6 @@ h-cas.online-metrix.net
 h-cco37scf.online-metrix.net
 h-cdiscount.online-metrix.net
 h-chase.online-metrix.net
-h-citibank.online-metrix.net
 h-citibank-hk.online-metrix.net
 h-citibank-in.online-metrix.net
 h-citibank-mx.online-metrix.net
@@ -698,6 +694,7 @@ h-ebay.online-metrix.net
 h-ebay-kleinanzeigen.online-metrix.net
 h-emirates.online-metrix.net
 h-fisglobal.online-metrix.net
+h-freelancer1.online-metrix.net
 h-goldmanimd.online-metrix.net
 h-goldmansachs2.online-metrix.net
 h-gusto.online-metrix.net
@@ -715,6 +712,7 @@ h-k8vif92e-lulu.online-metrix.net
 h-ljcjjbch.online-metrix.net
 h-lloyds-soc.online-metrix.net
 h-marktplaats.online-metrix.net
+h-mbna.online-metrix.net
 h-mercadolibre.online-metrix.net
 h-metlife.online-metrix.net
 h-missionlane.online-metrix.net
@@ -740,11 +738,13 @@ h-svbconnect.online-metrix.net
 h-tdbank.online-metrix.net
 h-tesco.online-metrix.net
 h-twctexas.online-metrix.net
+h-uplift.online-metrix.net
 h-ups.online-metrix.net
 h-uptodate.online-metrix.net
 h-v60nf4oj-2.online-metrix.net
 h-virtualgaming.online-metrix.net
 h-werally.online-metrix.net
+h-worldremit.online-metrix.net
 h6.online-metrix.net
 nsproxy.online-metrix.net
 rbc.online-metrix.net
@@ -840,7 +840,6 @@ collector-pxgnttli3a.perimeterx.net
 collector-pxhaoa7d0e.perimeterx.net
 collector-pxhmjy2xc9.perimeterx.net
 collector-pxhp8smlqx.perimeterx.net
-collector-pxhsy3fa0i.perimeterx.net
 collector-pxi6tiuhx7.perimeterx.net
 collector-pxi9arxhgt.perimeterx.net
 collector-pxionjoia0.perimeterx.net
@@ -874,6 +873,7 @@ collector-pxnu7yjejr.perimeterx.net
 collector-pxnxskdg2l.perimeterx.net
 collector-pxo30jt0ai.perimeterx.net
 collector-pxo5zaohtj.perimeterx.net
+collector-pxock1tfcy.perimeterx.net
 collector-pxogckki0e.perimeterx.net
 collector-pxok5l7bnk.perimeterx.net
 collector-pxoney1sgo.perimeterx.net
@@ -996,6 +996,7 @@ roistat.com
 www.rojadirecta.me
 rollbar.com
 rollercoin.com
+rotf.lol
 rpts.org
 p.d.rpts.org
 widget-cdn.rpxnow.com
@@ -1055,7 +1056,6 @@ s.shopify.com
 v.shopify.com
 shopvote.de
 shorte.st
-shorturl.ae
 p.shure.com
 silverpop.com
 site5.com
@@ -1111,6 +1111,7 @@ tagm.tchibo.de
 technical-service.net
 te.technical-service.net
 www.technical-service.net
+tellapart.com
 tenping.kr
 test-iq.org
 thecounter.com
@@ -1190,6 +1191,7 @@ vilynx.com
 public.vilynx.com
 visualwebsiteoptimizer.com
 www.visualwebsiteoptimizer.com
+vkcache.com
 mplusps.ims.vodafone.com
 mpluswf.ims.vodafone.com
 www.vxcash.net
@@ -1203,6 +1205,8 @@ webpower.eu
 webpush.jp
 webtrends.com
 damoh.welect.de
+1.damoh.welect.de
+ssl.1.damoh.welect.de
 activity.windows.com
 assets.activity.windows.com
 engage.windows.com

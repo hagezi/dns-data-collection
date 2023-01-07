@@ -525,7 +525,6 @@ adservio.tech
 adservrs.com
 adservrs.com.edgekey.net
 ads.eu.msn.com
-ads.exactdrive.com
 ads.expat-blog.biz
 adsfac.eu
 adsfac.net
@@ -1453,6 +1452,7 @@ consciouscheese.com
 consensad.com
 consensu.org
 contadores.miarroba.com
+contaxe.de
 content22.online.citi.com
 content.acc-hd.de
 content.ad
@@ -2252,7 +2252,6 @@ mantisadnetwork.com
 marinsm.com
 markedcrayon.com
 markedpail.com
-market-buster.com
 marketing.888.com
 marketing.desertcart.com
 marketing.hearstmagazines.nl
@@ -2499,7 +2498,6 @@ offerforge.com
 offer.fyber.com
 offermatica.com
 offer.sponsorpay.com
-offshoreanglehost.com
 oglasi.posjetnica.com
 ogury.com
 ojrq.net

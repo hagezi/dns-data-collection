@@ -321,7 +321,6 @@ store.blingyy.com
 store.boododa.com
 store.booliving.com
 store.bradcroninnapo82.myshopify.com
-store.buddhakind.com
 store.burgershirt.com
 store.buydubuy.com
 store.carmenfloral.com
@@ -358,6 +357,7 @@ store.hookahheroes.com
 store.icelandclothing.myshopify.com
 store.ikiha.com
 store.infinityto.com
+store.januashop.com
 store.jellystores.com
 store.joseph-holland.com
 store.khoinguyenhanoi.vn
