@@ -2442,6 +2442,7 @@ analytics.surfline.com
 analytics.surov.fi
 analytics.sweep.net
 analytics.sydney.edu.au
+analytics.synchrony.com
 analytics.synedat.com
 analytics.tabichan.jp
 analytics.tbs.com
@@ -7944,6 +7945,7 @@ mond.post.ch
 mon.ingservices.nl
 monitor.azure.com
 monitor.channel4.com
+monitoring.iraiser.eu
 monitor.music.qq.com
 montpalatin.handicap.fr
 monu.delivery
@@ -9152,6 +9154,7 @@ rs.mail.ru
 rs.sinajs.cn
 rs.smc.tf
 r.stripe.com
+rsx.afterpay.com
 rta2.inews.co.uk
 rta2.metro.co.uk
 rta2.newzit.com

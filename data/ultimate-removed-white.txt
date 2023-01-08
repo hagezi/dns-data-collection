@@ -271,6 +271,7 @@ s2.static.cfgr3.com
 click.e.change.org
 chicdn.net
 tmetrix.my.chick-fil-a.com
+chillx.top
 chip-secured-download.de
 cint.com
 www.cint.com
@@ -703,6 +704,7 @@ statsfe2.update.microsoft.com
 vlscppe.microsoft.com
 assets.minutemediacdn.com
 images2.minutemediacdn.com
+mntzrlt.net
 moengage.com
 sdk-02.moengage.com
 www.moengage.com

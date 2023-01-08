@@ -2304,3 +2304,9 @@ app.link.nba.com
 # https://github.com/hagezi/dns-blocklists/issues/169
 *.tnt-ea.com
 
+# https://github.com/hagezi/dns-blocklists/issues/171
+mntzrlt.net
+
+# https://github.com/hagezi/dns-blocklists/issues/171
+chillx.top
+

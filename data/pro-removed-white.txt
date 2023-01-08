@@ -195,6 +195,7 @@ vlscppe.microsoft.com
 minexmr.com
 mixpanel.com
 mlsend.com
+mntzrlt.net
 moengage.com
 telemetry.mozilla.org
 mradx.net

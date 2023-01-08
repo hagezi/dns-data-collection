@@ -2285,6 +2285,7 @@ driverupdater.software
 drivethelife.com
 drivotracker.com
 www.drivotracker.com
+dropbox-debug.com
 dropbox-online.com
 instructorledlearning.dropboxbusiness.com
 dropcatch.com
@@ -4375,6 +4376,8 @@ luckygain.life
 luckyorange.net
 settings.luckyorange.net
 luckypool.io
+luckypuppy.top
+www.luckypuppy.top
 ludevices.com
 ludi.com
 lulusoft.com
@@ -6610,7 +6613,6 @@ simp.ly
 simple-backupbooster.com
 simplelogin.co
 simplemining.net
-simplemobile.com
 simpliftsbefore.info
 simplycellphonesforyou.com
 www.simplycellphonesforyou.com

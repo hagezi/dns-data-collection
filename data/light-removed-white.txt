@@ -564,6 +564,7 @@ mkt51.net
 mlsend.com
 mmstat.com
 log.mmstat.com
+mntzrlt.net
 moengage.com
 sdk-02.moengage.com
 cookie.monster.com
