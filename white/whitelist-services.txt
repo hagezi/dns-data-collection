@@ -63,7 +63,6 @@ amazon-launchpad.com
 amazonalexavoxcon.com
 amazonauthorinsights.com
 amazonaws.cn
-amazonaws.com
 amazonaws.tv
 impala-media-production.s3.amazonaws.com
 amazonaws-china.com

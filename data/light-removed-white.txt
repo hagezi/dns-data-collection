@@ -93,7 +93,6 @@ bin5y4muil.execute-api.us-east-1.amazonaws.com
 qe6evcafs0.execute-api.us-east-1.amazonaws.com
 v4vw4ytvo4.execute-api.us-east-2.amazonaws.com
 explore.amd.com
-amgload.net
 www1.amnhealthcare.com
 amplitude.com
 analytics.amplitude.com
@@ -173,7 +172,6 @@ stipple.cachefly.net
 devices.carnivalmobile.com
 cbox.ws
 www.cbox.ws
-dw.cbsi.com
 om.cbsi.com
 s2.static.cfgr3.com
 chickenkiller.com
@@ -320,9 +318,11 @@ eulatracking-public-service-prod06.ol.epicgames.com
 tracking.epicgames.com
 arc.epoq.de
 babymarkt-de.arc.epoq.de
+babymarkt-es.arc.epoq.de
 carharttwip-de.arc.epoq.de
 carharttwip-gb.arc.epoq.de
 esmeyer-oxid6.arc.epoq.de
+pinkorblue-be.arc.epoq.de
 pinkorblue-it.arc.epoq.de
 roseoubleu-fr.arc.epoq.de
 dcf.espn.com
@@ -380,7 +380,6 @@ gscounters.gigya.com
 gscounters.us1.gigya.com
 www.gigya.com
 player-feedback-v1.glomex.com
-gm99.com
 go-mpulse.net
 go2cloud.org
 goatcounter.com
@@ -447,6 +446,7 @@ iterable.com
 static.iterable.com
 itsfogo.com
 jiathis.com
+www.jiathis.com
 jqueryscript.net
 crbcdn.jsfiddle.net
 jwpltx.com
@@ -474,7 +474,6 @@ api-cloudfront.life360.com
 lightboxcdn.com
 www.lightboxcdn.com
 lightstep.com
-lihi1.cc
 tr.line.me
 torimochi.line-apps.com
 itad.linetv.tw
@@ -528,12 +527,12 @@ analytics.meituan.net
 api-unionid.meituan.com
 hreport.meituan.com
 report.meituan.com
+wmlog.meituan.com
 metaffiliation.com
 metricool.com
 micpn.com
 assets.micpn.com
 api.bingads.microsoft.com
-campaign.api.bingads.microsoft.com
 events.data.microsoft.com
 au-v10.events.data.microsoft.com
 au-v20.events.data.microsoft.com
@@ -553,7 +552,6 @@ v20.events.data.microsoft.com
 vortex-win.data.microsoft.com
 v10.vortex-win.data.microsoft.com
 v20.vortex-win.data.microsoft.com
-diagnostics.support.microsoft.com
 midasplayer.com
 minexmr.com
 assets.minutemediacdn.com
@@ -576,6 +574,7 @@ msgfocus.com
 otf.msn.com
 mybluemix.net
 mypoints.com
+mysp.ac
 myvisualiq.net
 myway.com
 www.myway.com
@@ -633,17 +632,15 @@ citidirect.online-metrix.net
 h-cards.citidirect.online-metrix.net
 bdc-cdn.com.online-metrix.net
 h-tm.bdc-cdn.com.online-metrix.net
-ddcprod.online-metrix.net
-h-worldpay.ddcprod.online-metrix.net
 eu-aa.online-metrix.net
 h.online-metrix.net
 a-sac.h.online-metrix.net
 h-2ql3c6py.online-metrix.net
 h-3z5dc3wi.online-metrix.net
 h-6rj18la4.online-metrix.net
+h-7hs48cp7.online-metrix.net
 h-859g1sil.online-metrix.net
 h-87rxrdob.online-metrix.net
-h-accountonline.online-metrix.net
 h-accurint.online-metrix.net
 h-adp.online-metrix.net
 h-afterpay.online-metrix.net
@@ -651,7 +648,6 @@ h-americanfirstfinance.online-metrix.net
 h-ameriprise.online-metrix.net
 h-api.online-metrix.net
 h-apruvd.online-metrix.net
-h-asurion.online-metrix.net
 h-bangkokbank.online-metrix.net
 h-beachbody.online-metrix.net
 h-bestbuy.online-metrix.net
@@ -666,9 +662,7 @@ h-citibank-mx.online-metrix.net
 h-citibankonline.online-metrix.net
 h-citidirect.online-metrix.net
 h-citizensbankonline.online-metrix.net
-h-citizenscommercial.online-metrix.net
 h-cjwi5pjh.online-metrix.net
-h-coutts.online-metrix.net
 h-cybersource.online-metrix.net
 h-dell.online-metrix.net
 h-dstssc.online-metrix.net
@@ -677,7 +671,6 @@ h-ebay.online-metrix.net
 h-ebay-kleinanzeigen.online-metrix.net
 h-emirates.online-metrix.net
 h-fisglobal.online-metrix.net
-h-freelancer1.online-metrix.net
 h-goldmanimd.online-metrix.net
 h-goldmansachs2.online-metrix.net
 h-gusto.online-metrix.net
@@ -687,12 +680,11 @@ h-hsbcmx.online-metrix.net
 h-huntington.online-metrix.net
 h-ibotta.online-metrix.net
 h-iddataweb.online-metrix.net
+h-imvucontent.online-metrix.net
 h-instacart.online-metrix.net
-h-interacetransfer.online-metrix.net
 h-k8vif92e-au.online-metrix.net
 h-k8vif92e-av.online-metrix.net
 h-k8vif92e-lulu.online-metrix.net
-h-lillypulitzer.online-metrix.net
 h-ljcjjbch.online-metrix.net
 h-lloyds-soc.online-metrix.net
 h-marktplaats.online-metrix.net
@@ -722,13 +714,11 @@ h-svbconnect.online-metrix.net
 h-tdbank.online-metrix.net
 h-tesco.online-metrix.net
 h-twctexas.online-metrix.net
-h-uplift.online-metrix.net
 h-ups.online-metrix.net
 h-uptodate.online-metrix.net
 h-v60nf4oj-2.online-metrix.net
 h-virtualgaming.online-metrix.net
 h-werally.online-metrix.net
-h-worldremit.online-metrix.net
 h6.online-metrix.net
 nsproxy.online-metrix.net
 rbc.online-metrix.net
@@ -788,7 +778,6 @@ collector-px3thq532g.perimeterx.net
 collector-px4176swub.perimeterx.net
 collector-px4bl2n9n9.perimeterx.net
 collector-px4hls1l20.perimeterx.net
-collector-px5cg3t23p.perimeterx.net
 collector-px68u10iqr.perimeterx.net
 collector-px79jlzlt4.perimeterx.net
 collector-px7e6sf60s.perimeterx.net
@@ -857,12 +846,10 @@ collector-pxnu7yjejr.perimeterx.net
 collector-pxnxskdg2l.perimeterx.net
 collector-pxo30jt0ai.perimeterx.net
 collector-pxo5zaohtj.perimeterx.net
-collector-pxock1tfcy.perimeterx.net
 collector-pxogckki0e.perimeterx.net
 collector-pxok5l7bnk.perimeterx.net
 collector-pxoney1sgo.perimeterx.net
 collector-pxoyox6vj7.perimeterx.net
-collector-pxozw87cz0.perimeterx.net
 collector-pxp5ddh5ft.perimeterx.net
 collector-pxq2tbjg6w.perimeterx.net
 collector-pxq76auu14.perimeterx.net
@@ -1173,7 +1160,6 @@ vilynx.com
 public.vilynx.com
 visualwebsiteoptimizer.com
 www.visualwebsiteoptimizer.com
-vk.sv
 mplusps.ims.vodafone.com
 mpluswf.ims.vodafone.com
 www.vxcash.net

@@ -118,6 +118,8 @@ p5-lj5aujgj7jl7w-r2pmxqvndsgx2im2-931517-i2-v6exp3-ds.metric.gstatic.com
 v6exp3-ds.metric.gstatic.com
 v6exp3-v4.metric.gstatic.com
 consent.gutefrage.net
+hoo.gl
+www.hoo.gl
 t2.hulu.com
 i2i.jp
 id.i2i.jp

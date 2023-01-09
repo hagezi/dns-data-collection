@@ -134,6 +134,7 @@ gizmodern.com
 www-googletagmanager.l.google.com
 googletagmanager.com
 hockerty.de
+hoo.gl
 htl.li
 hxtrack.com
 content.ibanking-services.com
@@ -174,7 +175,6 @@ torimochi.line-apps.com
 l.linklyhq.com
 litix.io
 livefyre.com
-lmy.de
 loadercdn.com
 lt27.de
 tracking.magnetmail.net

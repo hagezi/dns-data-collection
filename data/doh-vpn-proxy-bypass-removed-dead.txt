@@ -636,6 +636,7 @@ naujiavpnas8.tk
 naujiavpns.tk
 naujiavpnunblock.tk
 nerve-vpn.tk
+files-slickvpn.netdna-ssl.com
 doh.netweaver.uk
 new-vpn.info
 newbestvpn.info

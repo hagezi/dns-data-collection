@@ -260,6 +260,7 @@
 46.73.46.78.clients.your-server.de
 46.78.clients.your-server.de
 47.ip-51-68-199.eu
+49rs.co
 4.babico.name.tr
 4-c-0003.c-msedge.net
 4.cn
@@ -2993,6 +2994,7 @@ cdn77.monster
 cdn77.org
 cdn.abcotvs.com
 cdn.abcotvs.net
+cdn.adf.ly
 cdn.agilebits.com
 cdn.akubebas.com
 cdn.ampproject.org
@@ -4395,6 +4397,7 @@ dkb.de
 dk-go.kelkoogroup.net
 dkm.de
 dknet730.com
+dky.bz
 dl.360safe.com
 dld.bz
 dl.delivery.mp.microsoft.com
@@ -5871,6 +5874,8 @@ gmj.tw
 gmlinteractive.com
 gmmobileservices.gm.com
 g.msn.com
+g.msn.com.nsatc.net
+g-msn-com-nsatc.trafficmanager.net
 gmx.com
 gmx.net
 gnbsudameris.com.co
@@ -6587,6 +6592,7 @@ home.wanadoo.nl
 home.yxgz.club
 home.yxgz.vip
 honoku.com
+hoo.gl
 hookers.nl
 hopetech.com
 hopin-chat-dublin.stream-io-api.com
@@ -6662,6 +6668,7 @@ hsforms.com
 hsforms.net
 hs.llnwd.net
 hs-scripts.com
+htgb.co
 htl.li
 ht.ly
 html5zombo.com
@@ -9081,6 +9088,7 @@ msgs.jp
 msh.amazon.co.uk
 msm8916.com
 msn.com
+msn.com.nsatc.net
 msn-net.ru
 mspbank.ru
 ms.spr.ly
@@ -11021,6 +11029,7 @@ pxlme.me
 pxu.co
 py6.ru
 python.org
+pzdls.co
 q14.mrqls.to
 qantasmoney.com
 qastack.com.de
@@ -11670,6 +11679,7 @@ rizy.ir
 r-kioski.fi
 rl-cdn.psyonix.com
 rlpp.psynet.gg
+rlu.ru
 rmacadetstore.com
 r.mail.ru
 rmb.ru
@@ -11815,6 +11825,7 @@ rvbwemding.de
 rv-direkt.de
 rv-ebe.de
 r-volksbank.de
+rwl.io
 r.worldssl.net
 ryjer.com
 rytmynatury.pl
@@ -13387,6 +13398,7 @@ svrbank.ru
 svyaznoy.ru
 svy.mk
 swa.info
+swa.is
 swankyrule.zomap.de
 swappa.com
 swarm3.network
@@ -13935,9 +13947,11 @@ tns-sifo.se
 tntvillage.scambioetico.org
 tnvge.co
 tnwcdn.com
+tnw.to
 t.nyaatracker.com
 tny.cz
 tny.im
+tny.so
 to8.cc
 tochka.com
 tock.usask.ca
@@ -15565,7 +15579,6 @@ wartburg-sparkasse.de
 wasabii.com.tw
 wasabisys.com
 wasap.my
-washex.am
 washington.edu
 washingtonpost.com
 washingtontimes.com
@@ -15825,6 +15838,7 @@ wp.me
 wpmu2.azurewebsites.net
 wp.pl
 wq.microsoft.com
+wrctr.co
 wrd.cm
 wric.ca
 writerimranc.ca
@@ -15984,6 +15998,7 @@ www.3sat.de
 www3.webhostingtalk.com
 www.3xpl.stream
 www.3x.si
+www.49rs.co
 www.4.cn
 www.4ever.tk
 www.4game.com
@@ -17999,6 +18014,7 @@ www.dji.com
 www.dkb.de
 www.dkm.de
 www.dknet730.com
+www.dky.bz
 www.dld.bz
 www.dler.com
 www.dler.org
@@ -19391,6 +19407,7 @@ www.homes.jp
 www.homestead.com
 www.homestyler.com
 www.honoku.com
+www.hoo.gl
 www.hookers.nl
 www.hopetech.com
 www.hopin.com
@@ -19445,6 +19462,7 @@ www.hse.ru
 www.hsforms.com
 www.hsforms.net
 www.hs-scripts.com
+www.htgb.co
 www.htl.li
 www.ht.ly
 www.html5zombo.com
@@ -21994,6 +22012,7 @@ www.pxlme.me
 www.pxu.co
 www.py6.ru
 www.python.org
+www.pzdls.co
 www.qantasmoney.com
 www.qb.by
 www.qbn.ru
@@ -22537,6 +22556,7 @@ www.rizy.ir
 www.r-kioski.fi
 www.r-kioski.fi.hosted-by.frantic.com
 www-rkz58128.ssl0d.com
+www.rlu.ru
 www.rmacadetstore.com
 www.rmb.ru
 www.rm-motors.pl
@@ -22641,6 +22661,7 @@ www.rvbwemding.de
 www.rv-direkt.de
 www.rv-ebe.de
 www.r-volksbank.de
+www.rwl.io
 www.ryjer.com
 www.rytmynatury.pl
 www.rzd.ru
@@ -23664,6 +23685,7 @@ www.svrbank.ru
 www.svyaznoy.ru
 www.svy.mk
 www.swa.info
+www.swa.is
 www.swappa.com
 www.swarm3.network
 www.swarm.video
@@ -23996,8 +24018,10 @@ www.tnsne.ws
 www.tns-sifo.se
 www.tnvge.co
 www.tnwcdn.com
+www.tnw.to
 www.tny.cz
 www.tny.im
+www.tny.so
 www.to8.cc
 www.tochka.com
 www.today.com
@@ -24996,7 +25020,6 @@ www.warp.plus
 www.wartburg-sparkasse.de
 www.wasabisys.com
 www.wasap.my
-www.washex.am
 www.washington.edu
 www.washingtonpost.com
 www.washingtontimes.com
@@ -25176,6 +25199,7 @@ www.wphub.com
 www.wpimg.pl
 www.wp.me
 www.wp.pl
+www.wrctr.co
 www.wrd.cm
 www.wric.ca
 www.writerimranc.ca

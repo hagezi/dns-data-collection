@@ -372,6 +372,8 @@ continuum.dds.microsoft.com
 cs.dds.microsoft.com
 g.live.com
 g.msn.com
+g-msn-com-nsatc.trafficmanager.net
+g.msn.com.nsatc.net
 go.microsoft.com
 go.trouter.skype.com
 insideruser.microsoft.com
@@ -627,10 +629,12 @@ axiadids.net
 *.cloud.axiadids.net
 
 # Videos on different websites do not start when the following domains are blocked:
+*.damoh.*.de
 *.schneevonmorgen.com
 *.schneevonmorgen.com.s3.amazonaws.com
 *.ultimedia.com
-*.damoh.*.de
+cdnapisec.kaltura.com
+cfvod.kaltura.com
 config-vvs.glomex.com
 consent.dk
 engine.phn.doublepimp.com
@@ -2300,6 +2304,8 @@ cdn.tpdads.com
 
 # https://github.com/hagezi/dns-blocklists/issues/168
 app.link.nba.com
+clickdimensions.com
+custom.bnc.lt
 
 # https://github.com/hagezi/dns-blocklists/issues/169
 *.tnt-ea.com
@@ -2309,4 +2315,7 @@ mntzrlt.net
 
 # https://github.com/hagezi/dns-blocklists/issues/171
 chillx.top
+
+# https://github.com/hagezi/dns-blocklists/issues/174
+cdn.adf.ly
 
