@@ -2,14 +2,14 @@
 |*.cn^$denyallow=google.cn|www.chinadaily.com.cn|360.cn|china.com.cn|china.org.cn|rednet.cn|amazon.cn|alexa.cn|sina.com.cn|nvgs.nvidia.cn
 |*.degree^$denyallow=opf.degree|three60.degree
 |*.fit^$denyallow=appetit.fit|clubb.fit|pridegym.fit|justget.fit
-|*.fun^$denyallow=20anime.fun|98e.fun|apkmody.fun|applemc.fun|bestgore.fun|cdn.fun|d21.fun|dedmoroz.fun|egybist.fun|enza.fun|filmapik21.fun|gaggle.fun|hifiporn.fun|klik.fun|libgen.fun|likenews.fun|lordserial.fun|memesoundboard.fun|mypornvid.fun|neal.fun|oldmovies.fun|plutonews.fun|porncum.fun|pornking.fun|pornmaster.fun|solarmovie.fun|team1x1.fun|terbit21.fun|thepiratebay-plus.strem.fun|uploding.fun|videosxxx.fun|vigoo.fun|www.wondertrip.fun|luotphim.fun|filmapik21.fun|egybist.fun|98e.fun
+|*.fun^$denyallow=20anime.fun|98e.fun|apkmody.fun|applemc.fun|bestgore.fun|cdn.fun|d21.fun|dedmoroz.fun|egybist.fun|enza.fun|filmapik21.fun|gaggle.fun|hifiporn.fun|klik.fun|libgen.fun|likenews.fun|lordserial.fun|memesoundboard.fun|mypornvid.fun|neal.fun|oldmovies.fun|plutonews.fun|porncum.fun|pornking.fun|pornmaster.fun|solarmovie.fun|team1x1.fun|terbit21.fun|thepiratebay-plus.strem.fun|uploding.fun|videosxxx.fun|vigoo.fun|www.wondertrip.fun|luotphim.fun
 |*.in^$denyallow=google.co.in
 |*.loans^
 |*.ml^$denyallow=google.ml|melody.ml|info-matin.ml|amap.ml|mastodon.ml|nothingprivate.ml|lingva.ml|lemmy.ml|beatbump.ml|prompt.ml|biblioreads.ml
 |*.online^$denyallow=ero-labs.online|amedia.online|allhen.online|chainsaw-man-manga.online|manga1st.online
 |*.quest^$denyallow=0x00.quest|prednisonetab.quest
 |*.ru^$denyallow=google.ru|aliexpress.ru|yandex.ru|dzen.ru|journal.tinkoff.ru
-|*.site^$denyallow=business.site|anitube.site|wuxiaworld.site|notube.site|fmoviesto.site|secreto.site|metrolagu.site|cdmstudy.site
+|*.site^$denyallow=business.site|anitube.site|wuxiaworld.site|notube.site|fmoviesto.site|secreto.site|metrolagu.site|cdmstudy.site|blocklist.site
 |*.surf^$denyallow=surfstation.surf|kayaking.surf|quran.surf|s-wings.surf
 |*.tk^$denyallow=google.tk|coolcmd.tk|budterence.tk|transportnews.tk|c0d3c.tk|tokelau-info.tk|loljp-wiki.tk|ninetail.tk|goshujin.tk|graph.tk|nolfrevival.tk|bstweaker.tk|nbd-media.tk|gotofap.tk|coppersurfer.tk|fakaofo.tk
 |*.zone^$denyallow=typinggames.zone|martech.zone|kinogo.zone|kidtopia.zone|itsm.zone

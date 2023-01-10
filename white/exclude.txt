@@ -1852,6 +1852,8 @@ au.ms
 auone.jp
 auslogics.com
 auspost.com.au
+auspost.com.au.ssl.d2.sc.omtrdc.net
+au.ssl.d2.sc.omtrdc.net
 aus.waterfox.net
 auth0.com
 auth-a.services.vnc.com
@@ -3623,6 +3625,7 @@ com.akadns.net
 com.akamaized.net
 com.ar
 com.au
+com.au.ssl.d2.sc.omtrdc.net
 com.az
 com.bd
 com.be
@@ -3736,6 +3739,8 @@ com.sb
 com.sched.ssdv6.tdnsv6.com
 com.sg
 com.sl
+com.ssl.d1.sc.omtrdc.net
+com.ssl.sc.omtrdc.net
 com.sv
 com.tj
 com.tr
@@ -4078,6 +4083,7 @@ d1bd3wxsyuz0t7.cloudfront.net
 d.1enm.com
 d1lxz4vuik53pc.cloudfront.net
 d1oxlq5h9kq8q5.cloudfront.net
+d1.sc.omtrdc.net
 d1tcqh4bio8cty.cloudfront.net
 d1wp6m56sqw74a.cloudfront.net
 d1zgderxoe1a.cloudfront.net
@@ -4088,6 +4094,7 @@ d28n7yywqog3r7.cloudfront.net
 d291vdycu0ht11.cloudfront.net
 d29usylhdk1xyu.cloudfront.net
 d2c8v52ll5s99u.cloudfront.net
+d2.sc.omtrdc.net
 d2zah9y47r7bi2.cloudfront.net
 d33wubrfki0l68.cloudfront.net
 d3hb14vkzrxvla.cloudfront.net
@@ -4377,6 +4384,7 @@ disk.yandex.ru
 di.sn
 disney.com
 disneyplus.com
+disneyplus.com.ssl.sc.omtrdc.net
 disney-plus.net
 dispatcher.rndfnk.com
 displaycatalog.mp.microsoft.com
@@ -9762,6 +9770,8 @@ oasjs.lastampa.it
 oasjs.repubblica.it
 oath.com
 oa.tr.line.me
+o.auspost.com.au
+o.auspost.com.au.ssl.d2.sc.omtrdc.net
 oauth*.googleapis.com
 o-bank.com
 obank.tw
@@ -10638,6 +10648,7 @@ playsaurus.com
 play.st
 playstation.com
 playstation.com.edgekey.net
+playstation.com.ssl.d1.sc.omtrdc.net
 playstation.net
 *.playstation.net.edgekey88.net
 playstation.net.edgekey88.net
@@ -13071,6 +13082,8 @@ ssl0d.com
 ssl.ak.dynamic.tiles.virtualearth.net
 ssl.ak.tiles.virtualearth.net
 ssl.biglion.ru
+ssl.d1.sc.omtrdc.net
+ssl.d2.sc.omtrdc.net
 ssl.easypay.by
 ssl.fastly.net
 sslgen-tidal.datadome.co
@@ -13079,7 +13092,9 @@ ssl.gstatic.com
 ssl-images-amazon.com
 sslip.io
 ssl-nl.persgroep.edgekey.net
+ssl.o.auspost.com.au
 ssl.p.jwpcdn.com
+ssl.sc.omtrdc.net
 ssl.vrbanknet.de
 ssm1.internet.sony.tv
 ssm2.internet.sony.tv

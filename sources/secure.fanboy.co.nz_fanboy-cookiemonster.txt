@@ -28,6 +28,7 @@ consent.23g.io
 consent.amateurphotographer.co.uk
 consent.berliner-kurier.de
 consent.cmp.oath.com
+consent.digiapi.com
 consentement.ouest-france.fr
 consent.faz.net
 consent.gutefrage.net

@@ -98,6 +98,7 @@ browser.events.data.microsoft.com
 browser-http-intake.logs.datadoghq.com
 browser-http-intake.logs.datadoghq.eu
 browser-update.org
+bs.serving-sys.com
 btloader.com
 c2.taboola.com
 c3.taboola.com
@@ -436,6 +437,7 @@ securepubads.g.doubleclick.net
 secure.quantserve.com
 seg.ad.gt
 sentry.io
+servedbyadbutler.com
 servicer.idealmedia.io
 services.vlitag.com
 settings.crashlytics.com

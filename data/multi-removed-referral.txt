@@ -14,6 +14,7 @@ qqrp.adj.st
 r8qs.adj.st
 sxj8.adj.st
 uy2r.adj.st
+t.ac.pandora.com.cname.campaign.adobe.com
 banners.affiliatefuture.com
 scripts.affiliatefuture.com
 tags.affiliatefuture.com
@@ -124,6 +125,7 @@ u7747409.ct.sendgrid.net
 u8253848.ct.sendgrid.net
 u9810308.ct.sendgrid.net
 bs.serving-sys.com
+tracking.bs.serving-sys.com
 us.bs.serving-sys.com
 static.shareasale.com
 clkax.tradedoubler.com

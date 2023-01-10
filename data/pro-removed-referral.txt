@@ -2,6 +2,7 @@
 adfoc.us
 email-clk.adguard.com
 campaign.adobe.com
+t.ac.pandora.com.cname.campaign.adobe.com
 affiliatefuture.com
 anrdoezrs.net
 apmebf.com
@@ -21,6 +22,7 @@ bfast.com
 click.em.blizzard.com
 eulerian.brandalley.fr
 cc-dt.com
+ads.cc-dt.com
 cse3.chausport.com
 cj.com
 adservice.google.co.in
@@ -84,6 +86,8 @@ qksrv.net
 tracking.s24.com
 app.sephora.com
 bs.serving-sys.com
+tracking.bs.serving-sys.com
+us.bs.serving-sys.com
 shareasale.com
 a.slashdotmedia.com
 click.email.sonos.com

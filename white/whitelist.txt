@@ -125,7 +125,7 @@ cdnjs.cloudflare.co
 # Disney+
 disney-plus.net
 disneyplus.com
-# disneyplus.com.ssl.sc.omtrdc.net
+disneyplus.com.ssl.sc.omtrdc.net
 *.dss.map.fastly.net
 *.dssott.com
 *.dssott.com.akamaized.net
@@ -436,7 +436,7 @@ paypalobjects.com
 # Sony (Playstation)
 playstation.com
 api.playstation.com.edgekey.net
-# playstation.com.ssl.d1.sc.omtrdc.net
+playstation.com.ssl.d1.sc.omtrdc.net
 playstation.net
 *.playstation.net.edgekey88.net
 *.sonycoment.loris-e.llnwd.net
@@ -2315,4 +2315,8 @@ assets.rbl.ms
 
 # Links in mails from Peek & Cloppenburg and others
 puc-cdn.exponea.com
+
+# https://github.com/hagezi/dns-blocklists/issues/180
+ssl.o.auspost.com.au
+o.auspost.com.au.ssl.d2.sc.omtrdc.net
 

@@ -467,7 +467,6 @@ check2.tsb.co.uk
 ns11.whois.co.kr
 pvtag.yahoo.co.jp
 com.com
-o.auspost.com.au
 ssl.o.auspost.com.au
 afiliados.hostgator.com.br
 tm.jsuol.com.br
@@ -675,7 +674,6 @@ www.exchange4media.com
 exct.net
 exosrv.com
 exponea.com
-www.exponea.com
 7hoqd16sufw9f9h3swlkdt6lqdn3ud.ext-twitch.tv
 extreme-ip-lookup.com
 ezoic.net
@@ -1325,7 +1323,16 @@ consent-manager-events.ogury.io
 okt.to
 omtrdc.net
 sc.omtrdc.net
+d1.sc.omtrdc.net
+ssl.d1.sc.omtrdc.net
+com.ssl.d1.sc.omtrdc.net
+playstation.com.ssl.d1.sc.omtrdc.net
+d2.sc.omtrdc.net
+ssl.d2.sc.omtrdc.net
 generalmotorscorporation.sc.omtrdc.net
+ssl.sc.omtrdc.net
+com.ssl.sc.omtrdc.net
+disneyplus.com.ssl.sc.omtrdc.net
 users.on.net
 onecount.net
 onesignal.com

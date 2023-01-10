@@ -25,6 +25,9 @@ adultfriendfinder.com
 adv.li
 aimatch.com
 api.eu-west-1.aiv-delivery.net
+api.us-east-1.aiv-delivery.net
+api.us-west-2.aiv-delivery.net
+v10-win.vortex.data.microsoft.com.akadns.net
 albacross.com
 alipromo.com
 alitems.com
@@ -82,6 +85,7 @@ learn.cisecurity.org
 clickbank.com
 clickcease.com
 clickmeter.com
+sa.bbc.co.uk
 cmp.dmgmediaprivacy.co.uk
 pavv.co.kr
 hb.afl.rakuten.co.jp
@@ -134,6 +138,7 @@ gizmodern.com
 googletagmanager.com
 hockerty.de
 hoo.gl
+host-tracker.com
 htl.li
 hxtrack.com
 content.ibanking-services.com
@@ -190,6 +195,7 @@ analytics.meituan.net
 go.messengerpeople.com
 metaffiliation.com
 micpn.com
+api.bingads.microsoft.com
 browser.events.data.microsoft.com
 statsfe2.update.microsoft.com
 vlscppe.microsoft.com
@@ -207,6 +213,10 @@ mhc-sec-us.myhomescreen.tv
 short.mypaste.fun
 mysp.ac
 myvisualiq.net
+cm-beacon.nakanohito.jp
+cm-widget.nakanohito.jp
+support-beacon.nakanohito.jp
+support-widget.nakanohito.jp
 geo.ngtv.io
 nimiq.com
 nonstoppartner.net
@@ -260,6 +270,7 @@ recommender.scarabresearch.com
 tv-static.scdn.co
 seadform.net
 sensic.net
+at-config.sensic.net
 cdn.sgmntfy.com
 sh.st
 online.sh.cn

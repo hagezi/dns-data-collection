@@ -113,10 +113,8 @@ hotmail.us3.list-manage.com
 t.lt02.net
 mandrillapp.com
 click.email.microsoftemail.com
-click.mlsend.com
 click.mail.onedrive.com
 ass.onelink.me
-newww.onelink.me
 spectrum.onelink.me
 sy.onelink.me
 show.onenetworkdirect.net

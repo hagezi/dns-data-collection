@@ -29,6 +29,9 @@ a.adwolf.ru
 afi-b.com
 www.afi-b.com
 api.eu-west-1.aiv-delivery.net
+api.us-east-1.aiv-delivery.net
+api.us-west-2.aiv-delivery.net
+v10-win.vortex.data.microsoft.com.akadns.net
 statics-marketingsites-eus-ms-com.akamaized.net
 statics-marketingsites-neu-ms-com.akamaized.net
 ws-na.amazon-adsystem.com
@@ -66,6 +69,7 @@ www.bshare.cn
 seu.cleverreach.com
 337727.seu2.cleverreach.com
 bbs.cndeaf.com
+sa.bbc.co.uk
 dmgmediaprivacy.co.uk
 cmp.dmgmediaprivacy.co.uk
 hb.afl.rakuten.co.jp
@@ -123,6 +127,7 @@ v6exp3-v4.metric.gstatic.com
 consent.gutefrage.net
 hoo.gl
 www.hoo.gl
+host-tracker.com
 t2.hulu.com
 i2i.jp
 id.i2i.jp
@@ -727,6 +732,7 @@ dim-aigeir.ach.sch.gr
 2.chipde.damoh.schneevonmorgen.com
 1.gmxnet.damoh.schneevonmorgen.com
 homad-global-configs.schneevonmorgen.com
+at-config.sensic.net
 shorturl.at
 www.shorturl.at
 pixel.solvemedia.com

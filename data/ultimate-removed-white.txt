@@ -300,6 +300,7 @@ infolink.pavv.co.kr
 postshare.co.kr
 check2.tsb.co.uk
 ns11.whois.co.kr
+ssl.o.auspost.com.au
 tm.jsuol.com.br
 commentsengine.com
 www.commentsengine.com
@@ -767,6 +768,17 @@ o0bc.com
 go.oaktreecapital.com
 image.email.office.com
 okt.to
+omtrdc.net
+sc.omtrdc.net
+d1.sc.omtrdc.net
+ssl.d1.sc.omtrdc.net
+com.ssl.d1.sc.omtrdc.net
+playstation.com.ssl.d1.sc.omtrdc.net
+d2.sc.omtrdc.net
+ssl.d2.sc.omtrdc.net
+ssl.sc.omtrdc.net
+com.ssl.sc.omtrdc.net
+disneyplus.com.ssl.sc.omtrdc.net
 mobile-data.onetrust.io
 online-metrix.net
 h-charter.online-metrix.net
