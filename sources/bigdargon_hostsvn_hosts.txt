@@ -2532,11 +2532,14 @@ apex.go.sonobi.com
 aphidsclee.com
 a.photowonder.net
 aphycolourses.info
+api16-access-gcp.pangle-b.io
 api16-access-gcp.pangle.io
+api16-access-sg.pangle-b.io
 api16-access-sg.pangle.io
 api16-access-va.pangle.io
 api16-endcard-pack-sg.pangle.io
 api16-log-gcp.pangle.io
+api16-log-sg.pangle-b.io
 api16-log-sg.pangle.io
 api1.indexexchange.com
 api-2-0.spot.im
@@ -2651,7 +2654,6 @@ api.flurry.com
 api.flygame.io
 api.forshrd.com
 api.fouanalytics.com
-api.fpjs.io
 api.fuseplatform.net
 apifwd.growingio.com
 api.fyber.com
@@ -2975,8 +2977,6 @@ app.woopra.com
 app.wootric.com
 app.xdrig.com
 apr.lijit.com
-aps1.fptls2.com
-aps1.fptls.com
 aps.hearstnp.com
 ap-southeast-1.prod.pr.analytics.console.aws.a2z.com
 ap-southeast.load.exelator.com
@@ -4784,6 +4784,7 @@ cjlog.com
 cjs.ptengine.com
 cjt1.net
 cjt3w2kxrv.com
+cjxomyilmv.com
 ck.ads.heytapmobi.com
 ck.connatix.com
 ck.jads.co
@@ -6607,8 +6608,6 @@ eu-edge.ad1x.com
 euintraspec.specificmedia.com
 eulerian.com
 eu-m.stat-rock.com
-eun1.fptls2.com
-eun1.fptls.com
 eurekster.com
 euroclick.com
 euro.klick.vn
@@ -7007,13 +7006,10 @@ fourier.taobao.com
 fout.jp
 fp.advertising.microsoft.com
 fp-cdn.azureedge.net
-fpjs.io
 fp.measure.office.com
 fp.metricswpsh.com
 fpnpmcdn.net
 fp.studio.inmobicdn.net
-fptls2.com
-fptls.com
 fqtag.com
 fra-01.braze.eu
 fra-02.braze.eu
@@ -7662,6 +7658,7 @@ hi-cdn.adsparc.net
 hidden.gogoceleb.com
 hidelen.com
 hi.districtm.ca
+highcpmrevenuenetwork.com
 highfalutinroom.com
 highlandscoffee.adsota.com
 highmaidfhr.com
@@ -7758,6 +7755,7 @@ howdoesin.net
 howtubray.com
 hp-api.omnitagjs.com
 h.parrable.com
+hpijkah.com
 hprofits.com
 hpr.outbrain.com
 hpyrdr.com
@@ -7809,6 +7807,7 @@ hwdata2.aniview.com
 hwpnocpctu.com
 hwstats.unity3d.com
 hw.zuimeitianqi.com
+hxgqqxopf.com
 hybird.rayjump.com
 hybrid.ai
 hydra.adsfactor.net
@@ -8734,6 +8733,7 @@ klkstrm.kargo.com
 k.logging.admicro.vn
 klog.hiido.com
 klsdee.com
+kmfwrqdp.com
 kneeansweras.com
 knop.yadro.ru
 knorex.com
@@ -10584,6 +10584,7 @@ outlookabsorb.com
 outloud.outbrain.com
 out.popads.net
 output.nend.net
+outrageousmeet.pro
 outrotomr.com
 outsliggooa.com
 out-there-media.com
@@ -10704,6 +10705,7 @@ panagiatelia.website
 pandasloveforlife.com
 panel.ioam.de
 panel.sociaplus.com
+pangle-b.io
 pangle.io
 pansidlike.net
 pansymerbaby.com
@@ -10867,6 +10869,7 @@ peer39.com
 peggedolga.com
 pegloang.com
 pe.intentiq.com
+pejzeexukxo.com
 pelagicmismate.com
 pennilesscomingall.com
 pennyweb.com
@@ -11398,6 +11401,7 @@ profiles.tagger.opecloud.com
 profi-para.com
 profitablecpmgate.com
 profitablegate.com
+profitablegatetocontent.com
 profitrumour.com
 profitshare.ro
 profserv01.smaato.net
@@ -11743,6 +11747,7 @@ qrlsx.com
 qsearch.media.net
 qs.ioam.de
 qstukqmsddqgs.com
+qthiqwum.com
 quackexclusfdfjd.com
 quacksquirrel.com
 quadrupleclick.com
@@ -13871,6 +13876,7 @@ st-e.cdp.asia
 st.eclick.vn
 steelhouse.com
 steelhousemedia.com
+steeltour.pro
 steepto.com
 steinfqwe6782beck.com
 stelagharris.com
@@ -15154,6 +15160,7 @@ ulead.urekamedia.com
 ulogs.umengcloud.com
 ulogs.umeng.com
 ul.pubpowerplatform.io
+ulrzovfukgkljw.com
 ultimateclixx.com
 ultimedia.com
 ultramercial.com
@@ -15279,8 +15286,6 @@ us.claroadsxml.com
 us.clickcdn.co
 us-content.mediaforge.com
 us.creativecdn.com
-use1.fptls2.com
-use1.fptls.com
 us-east-1.event.prod.bidr.io
 us-east-1.prod.pr.analytics.console.aws.a2z.com
 us-east-1.prod.pw.analytics.console.aws.a2z.com
@@ -16913,6 +16918,7 @@ xml.revrtb.com
 xml.revrtb.net
 xml.rklmstr.com
 xml.showcasethat.com
+xmvftaoz.com
 xng.trbo.com
 xoom-ads.com
 x.o-s.io
@@ -17058,6 +17064,7 @@ z5x.net
 z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me
 za.baomoi.com
 zabbix.bidgear.com
+zabpbhko.com
 zalo-ads-240-td.zadn.vn
 zalo-ads-240.zadn.vn
 zalo-ads-480-td.zadn.vn

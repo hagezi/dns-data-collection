@@ -180,6 +180,8 @@ api-glb-mia.smoot.apple.com
 daypass.api-glb-mia.smoot.apple.com
 api-glb-msp.smoot.apple.com
 daypass.api-glb-msp.smoot.apple.com
+api-glb-mum.smoot.apple.com
+daypass.api-glb-mum.smoot.apple.com
 api-glb-nyc.smoot.apple.com
 daypass.api-glb-nyc.smoot.apple.com
 api-glb-par.smoot.apple.com
@@ -188,6 +190,7 @@ api-glb-rno.smoot.apple.com
 daypass.api-glb-rno.smoot.apple.com
 api-glb-sea.smoot.apple.com
 daypass.api-glb-sea.smoot.apple.com
+api-glb-sel.smoot.apple.com
 api-glb-sin.smoot.apple.com
 daypass.api-glb-sin.smoot.apple.com
 api-glb-sjc.smoot.apple.com
@@ -197,10 +200,10 @@ daypass.api-glb-tpe.smoot.apple.com
 api-glb-use1a.smoot.apple.com
 api-glb-use1b.smoot.apple.com
 api-glb-use1c.smoot.apple.com
-api-glb-use2b.smoot.apple.com
 api-glb-use2c.smoot.apple.com
 api-glb-usw2b.smoot.apple.com
 api-glb-usw2c.smoot.apple.com
+api-p-ap-j.smoot.apple.com
 api-siri.smoot.apple.com
 api2.smoot.apple.com
 cdn.smoot.apple.com
@@ -247,6 +250,7 @@ p.brid.tv
 services.brid.tv
 brightcove.net
 audience.api.brightcove.com
+beacon.playback.api.brightcove.com
 budurl.com
 bufferapp.com
 abeagle-public.buzzfeed.com
@@ -273,7 +277,6 @@ tmetrix.my.chick-fil-a.com
 chillx.top
 chip-secured-download.de
 cint.com
-www.cint.com
 learn.cisecurity.org
 cjb.net
 classmates.com
@@ -281,7 +284,6 @@ www.classmates.com
 www.clck.ru
 seu.cleverreach.com
 36222.seu.cleverreach.com
-seu1.cleverreach.com
 seu2.cleverreach.com
 337727.seu2.cleverreach.com
 clickdimensions.com
@@ -299,6 +301,8 @@ postshare.co.kr
 check2.tsb.co.uk
 ns11.whois.co.kr
 tm.jsuol.com.br
+commentsengine.com
+www.commentsengine.com
 connatix.com
 capi.connatix.com
 cd.connatix.com
@@ -328,7 +332,6 @@ first-party-js.datadome.co
 com.first-party-js.datadome.co
 tidal.com.first-party-js.datadome.co
 dd.tidal.com.first-party-js.datadome.co
-sslgen-tidal.datadome.co
 dbankcloud.cn
 dbankcloud.ru
 a-0001.dc-msedge.net
@@ -337,7 +340,6 @@ deskpi.com
 de.dhgate.com
 tag.dickssportinggoods.com
 metrics.digicert.com
-img.response.digicert.com
 seal.digicert.com
 smetrics.digicert.com
 updates.digicert.com
@@ -377,9 +379,11 @@ arc.epoq.de
 babymarkt-de.arc.epoq.de
 babymarkt-es.arc.epoq.de
 carharttwip-de.arc.epoq.de
+carharttwip-fr.arc.epoq.de
 carharttwip-gb.arc.epoq.de
 esmeyer-oxid6.arc.epoq.de
 gartenhaus-de.arc.epoq.de
+manor-ch.arc.epoq.de
 pinkorblue-be.arc.epoq.de
 pinkorblue-it.arc.epoq.de
 rebopharm24-de.arc.epoq.de
@@ -389,6 +393,7 @@ dcf.espn.com
 dcfdata.espn.com
 stats.espncricinfo.com
 eterna.de
+www.eterna.de
 msg.ettoday.net
 7hoqd16sufw9f9h3swlkdt6lqdn3ud.ext-twitch.tv
 ezoic.net
@@ -451,7 +456,9 @@ v6exp3-ds.metric.gstatic.com
 v6exp3-v4.metric.gstatic.com
 beacon-v2.helpscout.net
 heroeswm.ru
+www.heroeswm.ru
 hexun.com
+www.hexun.com
 heytapmobi.com
 client-uc.heytapmobi.com
 hockerty.de
@@ -476,10 +483,7 @@ mobile-sdk-api.intercom.io
 b2r065l4-ios.mobile-sdk-api.intercom.io
 bkv28uhm-ios.mobile-sdk-api.intercom.io
 fjfoh75b-ios.mobile-sdk-api.intercom.io
-lk7fprhb-ios.mobile-sdk-api.intercom.io
-riezdrz0-ios.mobile-sdk-api.intercom.io
 x88j33yc-ios.mobile-sdk-api.intercom.io
-yqs3zlze-ios.mobile-sdk-api.intercom.io
 ztawwxuu-android.mobile-sdk-api.intercom.io
 ztawwxuu-ios.mobile-sdk-api.intercom.io
 nexus-websocket-a.intercom.io
@@ -526,7 +530,6 @@ fast.a.klaviyo.com
 static.klaviyo.com
 klevu.com
 js.klevu.com
-www.klevu.com
 knet.cn
 koisea.com
 ku6.com
@@ -563,6 +566,7 @@ lnks.gd
 lpsnmedia.net
 www.lpsnmedia.net
 lt27.de
+lurl.cc
 mackeeper.com
 mailerlite.com
 www.mailerlite.com
@@ -654,6 +658,8 @@ logan-rtl.dreport.meituan.net
 maplocatesdksnapshot.dreport.meituan.net
 met-badge.dreport.meituan.net
 met-cronet-reporter.dreport.meituan.net
+met-horn-log.dreport.meituan.net
+metrics-android.dreport.meituan.net
 metrics-env-android.dreport.meituan.net
 metrics-meituan-android.dreport.meituan.net
 metrics-picture.dreport.meituan.net
@@ -662,6 +668,7 @@ prism-report-ddd.dreport.meituan.net
 prism-report-knb.dreport.meituan.net
 prism-report-mrn.dreport.meituan.net
 prism-report-net.dreport.meituan.net
+qcs-fe-mplog.dreport.meituan.net
 route-stats.dreport.meituan.net
 sniffer-android.dreport.meituan.net
 flowplus.meituan.net
@@ -683,7 +690,6 @@ s0.meituan.net
 s1.meituan.net
 s3.meituan.net
 s3plus.meituan.net
-s3plus-img.meituan.net
 s3plus-shon.meituan.net
 static.meituan.net
 vfile.meituan.net
@@ -700,7 +706,6 @@ f1.market.mi-img.com
 f2.market.mi-img.com
 f3.market.mi-img.com
 f5.market.mi-img.com
-mmcapi.ads.microsoft.com
 api.bingads.microsoft.com
 campaign.api.bingads.microsoft.com
 clientcenter.api.bingads.microsoft.com
@@ -767,7 +772,6 @@ online-metrix.net
 h-charter.online-metrix.net
 h-fidelity.online-metrix.net
 h-microsoft.online-metrix.net
-h-tsb.online-metrix.net
 opentelemetry.io
 opinary.com
 api.opinary.com
@@ -800,6 +804,7 @@ privacy-mgmt.com
 cdn.privacy-mgmt.com
 privacymanager.io
 cmp-consent-tool.privacymanager.io
+psce.pw
 publitas.com
 pusher.com
 cf-us-popular.dash.pv-cdn.net
@@ -812,7 +817,7 @@ qqc.co
 siteintercept.qualtrics.com
 zn1ynnliufrct75cb-paypalxm.siteintercept.qualtrics.com
 zn2rjw8v8ecfgyigt-paypalxm.siteintercept.qualtrics.com
-zn824xgjyopuf0rcx-paypalxm.siteintercept.qualtrics.com
+zn5jpiwcvswgilgu9-paypalxm.siteintercept.qualtrics.com
 www.qualtrics.com
 quantcast.com
 cmp.quantcast.com
@@ -821,10 +826,12 @@ ablink.account.quizlet.com
 ravm.tv
 d3tracking.rbc.com
 rbl.ms
+assets.rbl.ms
 assets.realclear.com
 realtimestatistics.net
 www.realtimestatistics.net
 cdn.reamaze.com
+rebelmouse.io
 rebrand.ly
 rebuyengine.com
 reconis.co
@@ -834,6 +841,7 @@ adtech.redventures.io
 at.adtech.redventures.io
 refini.tv
 remind.me
+replug.link
 research.net
 opinions.research-interactive.com
 researchnow.com
@@ -862,7 +870,6 @@ images.cdn.scarabresearch.com
 recommender.scarabresearch.com
 recommender-eu.scarabresearch.com
 scarf.sh
-static.scarf.sh
 adstudio-assets.scdn.co
 heads-fa.scdn.co
 quicksilver.scdn.co
@@ -880,16 +887,13 @@ spiegelde.damoh.schneevonmorgen.com
 tonlinede.damoh.schneevonmorgen.com
 1.tonlinede.damoh.schneevonmorgen.com
 weltde.damoh.schneevonmorgen.com
-1.weltde.damoh.schneevonmorgen.com
 de1-homad-lb.schneevonmorgen.com
 de10-homad-lb.schneevonmorgen.com
-de11-homad-lb.schneevonmorgen.com
-de12-homad-lb.schneevonmorgen.com
 de19-homad-lb.schneevonmorgen.com
 de2-homad-lb.schneevonmorgen.com
 de3-homad-lb.schneevonmorgen.com
 de7-homad-lb.schneevonmorgen.com
-de8-homad-lb.schneevonmorgen.com
+de9-homad-lb.schneevonmorgen.com
 homad-global-configs.schneevonmorgen.com
 tracker.scoober.com
 embed.scribblelive.com
@@ -1066,6 +1070,7 @@ zinspilot.de
 www.zinspilot.de
 zomap.de
 lush-clouds.zomap.de
+swankyrule.zomap.de
 logfiles.zoom.us
 us04logfiles.zoom.us
 zopim.com

@@ -3230,6 +3230,7 @@ acs.sia.eu
 siab.ru
 sibank.ru
 cb1.sichbank.com
+sift.com
 signal-iduna.de
 signicat.com
 cs.silverpop.com
@@ -3801,6 +3802,7 @@ api.truckersmp.com
 trueidentity.com
 trust.ru
 trust.zone
+trust-provider.com
 tbank.trustbank.by
 trustedid.com
 sealserver.trustwave.com

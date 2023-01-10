@@ -133,6 +133,7 @@ cdn.taboola.com
 cdn.unblockia.com
 cdp.cloud.unity3d.com
 ce.lijit.com
+certify-amp.alexametrics.com
 certify-js.alexametrics.com
 champagne.futurecdn.net
 cimri.api.useinsider.com
@@ -156,6 +157,8 @@ core-waw-1.wildcard.dns.army
 counter.yadro.ru
 countly.fibabanka.com.tr
 creativecdn.com
+csi.gstatic.com
+csp-reporting.cloudflare.com
 d15kdpgjg3unno.cloudfront.net
 d31qbv1cthcecs.cloudfront.net
 d.applovin.com
@@ -317,7 +320,6 @@ mbls.visilabs.net
 mc2tnzs73p3554cjc7h876m-gfm4.device.marketingcloudapis.com
 mcfk02nd3k8q7w75g9yxxcc6yj20.device.marketingcloudapis.com
 mc.webvisor.org
-mc.yandex.ru
 me-client.eservice.emarsys.net
 med-api.admost.com
 metrics.fitanalytics.com
@@ -411,6 +413,7 @@ s0.2mdn.net
 s1.adform.net
 s2.adform.net
 s2s.adjust.com
+s7.addthis.com
 s8t.teads.tv
 s.amazon-adsystem.com
 samsungturkey.demdex.net
@@ -485,6 +488,7 @@ tags.tiqcdn.com
 targeting.unrulymedia.com
 td.doubleclick.net
 tempest.services.disqus.com
+tme.112.2o7.net
 top-fwz1.mail.ru
 tpc.googlesyndication.com
 tps30.doubleverify.com
@@ -504,6 +508,7 @@ u.openx.net
 ups.analytics.yahoo.com
 u.startup.mobile.webvisor.com
 us-u.openx.net
+vars.hotjar.com
 vidstat.taboola.com
 visitor.omnitagjs.com
 web.webpushs.com

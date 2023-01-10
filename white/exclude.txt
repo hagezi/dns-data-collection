@@ -309,6 +309,7 @@
 6.gp
 6.ly
 6ms.biz
+71a.xyz
 73.46.78.clients.your-server.de
 76.144.clients.your-server.de
 76.gd
@@ -1381,9 +1382,8 @@ analitik.edevlet.gov.tr
 analytics.amplitude.com
 analytics.barnebys.sh
 analytics.edgekey.net
-analyticsinsights-pa.googleapis.com
 analytics.linkre.direct
-analyticssearch-pa.googleapis.com
+analytics*-pa.googleapis.com
 *.analytics.twitter.com
 analytics.twitter.com
 ana.ms
@@ -1786,7 +1786,9 @@ assets.minutemediacdn.com
 assets.mmsrg.com
 assets.pinterest.com
 assets.raspberrypi.com
+assets.rbl.ms
 assets.realclear.com
+assets.rebelmouse.io
 assets-s3-us-east-1.ceros.com
 assets.sitescdn.net
 assets.subito.it
@@ -1830,8 +1832,7 @@ atres.red
 atsn.ac.th
 att.com
 attestation.xboxlive.com
-*.atv-ext-*.amazon.com
-*.atv-ext.amazon.com
+*.atv-ext*.amazon.com
 at.vibe.com
 *.atv-ps.amazon.com
 auctor.tv
@@ -3064,9 +3065,7 @@ cdn.nivoli.com
 cdn-noc.net
 cdn.office.net
 cdn.onesignal.com
-cdn.opecloud.com
 cdn.opencmp.net
-*.cdn.optimizely.com
 cdn.otstatic.com
 cdn.parkiet.com
 cdn.pinknews.co.uk
@@ -3172,7 +3171,7 @@ chasecdn.com
 chase.com
 chase.co.uk
 chat-dl.google.com
-chat-*.facebook.com
+chat*.facebook.com
 chat.fairydust.space
 chat.kuki.ai
 chatroll.com
@@ -3682,6 +3681,7 @@ commander1.com
 commbank.com.au
 commento.getblog.cn
 comments.br24.de
+commentsengine.com
 commercegate.com
 commerce.microsoft.com
 commerzbank.com
@@ -3973,8 +3973,7 @@ cr.portainer.io
 cr.tl
 crunchyroll.com
 cryoutcreations.eu
-cryptauthdevicesync.googleapis.com
-cryptauthenrollment.googleapis.com
+cryptauth*.googleapis.com
 cryptonator.com
 cs439.wpc.4d34.edgecastcdn.net
 cs4.wpc.teliacdn.net
@@ -4827,6 +4826,7 @@ elevenforum.com
 elev.io
 eleximg.com
 e-life.ru
+elink.clickdimensions.com
 elitedangerous.com
 eliteoz.com.au
 elitezones.ro
@@ -4906,8 +4906,7 @@ en25.com
 enable-javascript.com
 enamora.de
 encrypted-data.xyz
-encrypted-tbn*.gstatic.com
-encrypted-vtbn*.gstatic.com
+encrypted-*.gstatic.com
 endpoint1-s03prdeuscompsvc.prd.bmc.cdn.office.net
 endpot.com
 enel.it
@@ -5106,6 +5105,7 @@ evyy.net
 ewebdevelopment.com
 eweka.nl
 ewr1.vultrobjects.com
+ewr-gmbh.de
 ex9.co
 e-xacbank.com
 exactag.com
@@ -5155,7 +5155,7 @@ express-credit.in.ua
 expressemailmarketing.com
 expr.ru
 extension.extfans.com
-external-*.xx.fbcdn.net
+external*.xx.fbcdn.net
 externulls.com
 extfans.com
 extra.unicreditbank.hu
@@ -5200,6 +5200,7 @@ faktor.mgr.consensu.org
 faktura.ru
 fal.cn
 falco3d.com
+fallback.c10r.facebook.com
 fam.ag
 fanboy.co.nz
 fandan.co
@@ -5418,6 +5419,7 @@ flightstats.com
 flintmobile.de
 flipboard.com
 flip.id
+flip.it
 flipp.com
 flirtymania.plus
 flocktory.com
@@ -8957,8 +8959,7 @@ mobile.bet365.com
 mobilecrashreporting.googleapis.com
 mobile-data.onetrust.io
 mobile.de
-mobilemaps.googleapis.com
-mobilemaps-pa-gz.googleapis.com
+mobilemaps*.googleapis.com
 mobile-messenger.intercom.com
 mobilenet.cz
 mobilesdk-*.kampyle.com
@@ -9761,7 +9762,7 @@ oasjs.lastampa.it
 oasjs.repubblica.it
 oath.com
 oa.tr.line.me
-oauth2.googleapis.com
+oauth*.googleapis.com
 o-bank.com
 obank.tw
 obconline.co.in
@@ -9883,6 +9884,7 @@ onetrust.mgr.consensu.org
 onezaim.ru
 onfastspring.com
 onforb.es
+on.ft.com
 *.onion
 onion.com
 online.adcb.com
@@ -10028,6 +10030,7 @@ online.rccf.ua
 online.sbbank.ru
 onlinesbi.com
 onlinesbiglobal.com
+onlineservice.ewr-gmbh.de
 online.sevcred.ru
 online.severgazbank.ru
 online.sh.cn
@@ -10057,12 +10060,12 @@ onstmettinger-bank.de
 onthe.io
 onvista-bank.de
 onvix.tv
+on.wsj.com
 onx.la
 oobesaas.adobe.com
 ooshirts.com
 ooyala.com
 opautoclicker.com
-opecloud.com
 opelbank.de
 open.4ever.tk
 open6.demonii.com
@@ -10455,9 +10458,8 @@ pekao24.pl
 pekao.com.pl
 penfed.org
 pensionsmyndigheten.se
+people*.googleapis.com
 peoplem.ag
-people-pa.googleapis.com
-peoplestack-pa.googleapis.com
 peopo.org
 peple.com.tr
 *.pepperjamnetwork.com
@@ -10489,6 +10491,7 @@ pf.comertbank.md
 pfm.psbank.ru
 pfsbank.ru
 pfsense.pool.ntp.org
+pg3d.app
 pg.eazy2pay.com
 pgol.it
 pgorelease-assets.nianticstatic.com
@@ -10622,8 +10625,7 @@ players.brightcove.net
 player.tabooporns.com
 player.zerostream.de
 playfamily.ru
-play-fe.googleapis.com
-play.googleapis.com
+play*.googleapis.com
 play.google.com
 playhydrax.com
 play.kakao.com
@@ -11473,6 +11475,7 @@ realtimestatistics.net
 realtor.com
 reamaze.com
 rebelmouse.com
+rebelmouse.io
 rebelne.ws
 rebel.pl
 rebrand.ly
@@ -11560,6 +11563,7 @@ reolink.com
 rep-art.ynh.fr
 *.repeater.asus.com
 replicate.com
+replug.link
 repo.chariz.com
 repo.co.kr
 repo.dynastic.co
@@ -12028,7 +12032,7 @@ scmedia.itsfogo.com
 scnd.landsend.com
 scnlog.me
 sc.omtrdc.net
-scontent-*.xx.fbcdn.net
+scontent*.xx.fbcdn.net
 scontent.xx.fbcdn.net
 scoober.com
 s.coop
@@ -12198,6 +12202,7 @@ sensefuel.live
 sensic.net
 sensor.community
 seosprint.net
+seph.me
 sephora.com
 sephora.fr
 sephora.pl
@@ -12385,6 +12390,7 @@ sicredi.com.br
 s.id
 sie.ag
 si.edu
+sift.com
 sigmacdn.net
 signal-iduna.de
 signal.org
@@ -13128,12 +13134,14 @@ star.c10r.facebook.com
 stardata.it
 staredit.net
 star*.facebook.com
+star.fallback.c10r.facebook.com
 stargate.cse.ss-inf.net
 stargrave.org
 starhotels.com
 starka.st
 starlingbank.com
 star-mini.c10r.facebook.com
+star-mini.fallback.c10r.facebook.com
 start2pay.com
 startbuyingonebay.com
 startmail.com
@@ -13340,8 +13348,7 @@ subtorrents.li
 subventas.com
 suche.t-online.de
 sueddeutsche.de
-suggestqueries.google.com
-suggestqueries.l.google.com
+suggestqueries*.google.com
 *.suite15.emarsys.net
 suite15.emarsys.net
 sukebei.tracker.wf
@@ -13886,6 +13893,7 @@ tiny.pl
 tiny.sg
 tinyurl.com
 tinyurl.hu
+tinyurl.mobi
 tiny-vps.com
 tipard.com
 t-ipconnect.de
@@ -13975,8 +13983,8 @@ ton.com.br
 toneden.io
 t-online.de
 tools4noobs.com
+tools*.google.com
 tools.google.com
-tools.l.google.com
 tools.pdf24.org
 to.pbs.org
 topfreegames.com
@@ -14432,6 +14440,7 @@ trustedid.com
 trustedreviews.com
 truste-svc.net
 trustpilot.com
+trust-provider.com
 trust.ru
 trustwave.com
 trust.zone
@@ -15536,6 +15545,7 @@ v.vvid.cc
 vwdservices.com
 v.wpimg.pl
 vxcash.net
+vxn.link
 vyborg-bank.ru
 vystarcu.org
 vz.to
@@ -15608,6 +15618,7 @@ weakstream.org
 wealthbar.com
 wealthfront.com
 wealthsimple.com
+weare.rs
 weatherapi.market.xiaomi.com
 weather.com
 web66.com.tw
@@ -16036,6 +16047,7 @@ www.6g6.eu
 www.6.gp
 www.6.ly
 www.6ms.biz
+www.71a.xyz
 www.76.gd
 www.777.com
 www.77.ai
@@ -17600,6 +17612,7 @@ www.com.lk
 www.comlpstaticnotfound.html
 www.com.ly
 www.commander1.com
+www.commentsengine.com
 www.commercegate.com
 www.commerzbank.com
 www.commerzbank.de
@@ -18422,6 +18435,7 @@ www.evry.com
 www.evyy.net
 www.ewebdevelopment.com
 www.eweka.nl
+www.ewr-gmbh.de
 www.ex9.co
 www.e-xacbank.com
 www.exactag.com
@@ -18633,6 +18647,7 @@ www.flightstats.com
 www.flintmobile.de
 www.flipboard.com
 www.flip.id
+www.flip.it
 www.flipp.com
 www.flirtymania.plus
 www.flocktory.com
@@ -21424,7 +21439,6 @@ www.onx.la
 www.ooshirts.com
 www.ooyala.com
 www.opautoclicker.com
-www.opecloud.com
 www.opelbank.de
 www.openbank.es
 www.openbank.ru
@@ -21674,6 +21688,7 @@ www.pewrsr.ch
 www.pexels.com
 www.pfbank.ru
 www.pfsbank.ru
+www.pg3d.app
 www.pgol.it
 www.philips.com
 www.philips.to
@@ -22419,6 +22434,7 @@ www.realtimestatistics.net
 www.realtor.com
 www.reamaze.com
 www.rebelmouse.com
+www.rebelmouse.io
 www.rebelne.ws
 www.rebel.pl
 www.rebrand.ly
@@ -22474,6 +22490,7 @@ www.rentalsystems.com
 www.rentry.org
 www.reolink.com
 www.replicate.com
+www.replug.link
 www.repology.org
 www.report-uri.com
 www.repstatic.it
@@ -22862,6 +22879,7 @@ www.sensefuel.live
 www.sensic.net
 www.sensor.community
 www.seosprint.net
+www.seph.me
 www.sephora.com
 www.sephora.fr
 www.sephora.pl
@@ -22986,6 +23004,7 @@ www.sichbank.com
 www.s.id
 www.sie.ag
 www.si.edu
+www.sift.com
 www.sigmacdn.net
 www.signal-iduna.de
 www.signal.org
@@ -23980,6 +23999,7 @@ www.tiny.pl
 www.tiny.sg
 www.tinyurl.com
 www.tinyurl.hu
+www.tinyurl.mobi
 www.tiny-vps.com
 www.tipard.com
 www.t-ipconnect.de
@@ -24155,6 +24175,7 @@ www.trustedid.com
 www.trustedreviews.com
 www.truste-svc.net
 www.trustpilot.com
+www.trust-provider.com
 www.trust.ru
 www.trustwave.com
 www.trust.zone
@@ -24988,6 +25009,7 @@ www.vvrb.de
 www.vv.vg
 www.vwdservices.com
 www.vxcash.net
+www.vxn.link
 www.vyborg-bank.ru
 www.vystarcu.org
 www.vz.to
@@ -25041,6 +25063,7 @@ www.weakstream.org
 www.wealthbar.com
 www.wealthfront.com
 www.wealthsimple.com
+www.weare.rs
 www.weather.com
 www.web99.eu
 www.webair.com
@@ -25289,6 +25312,7 @@ www.xxxjmp.com
 www.xxxtor.com
 www.xxx-tracker.com
 www.xxxvogue.net
+www.xy2.eu
 www.xyaz.cn
 www.xy.com
 www.y2mate.com
@@ -25590,6 +25614,7 @@ xxxtor.com
 xxx-tracker.com
 xxxvogue.net
 xxx.xxtor.com
+xy2.eu
 xyaz.cn
 xy.com
 y2mate.com

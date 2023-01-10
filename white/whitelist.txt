@@ -68,8 +68,7 @@ c.amazon-adsystem.com
 *.aiv-cdn.net.c.footprint.net
 *.aiv-delivery.net
 *.amazonvideo.com
-*.atv-ext-*.amazon.com
-*.atv-ext.amazon.com
+*.atv-ext*.amazon.com
 *.atv-ps.amazon.com
 *.primevideo.com
 *.pv-cdn.net
@@ -169,11 +168,11 @@ ns2.dropbox.com
 *graph.fbpigeon.com
 *graph.instagram.com
 api.facebook.com
-chat-*.facebook.com
+chat*.facebook.com
 connect.facebook.com
 connect.facebook.net
 edge-mqtt.facebook.com
-external-*.xx.fbcdn.net
+external*.xx.fbcdn.net
 facebook.com
 gateway.facebook.com
 i.instagram.com
@@ -182,7 +181,7 @@ lm.facebook.com
 mqtt*.facebook.com
 msgr*.facebook.com
 platform.instagram.com
-scontent-*.xx.fbcdn.net
+scontent*.xx.fbcdn.net
 star*.facebook.com
 web.facebook.com
 
@@ -210,8 +209,7 @@ raw.githubusercontent.com
 accounts.google.com
 afs.googleusercontent.com
 ajax.googleapis.com
-analyticsinsights-pa.googleapis.com
-analyticssearch-pa.googleapis.com
+analytics*-pa.googleapis.com
 android-context-data.googleapis.com
 android-safebrowsing.google.com
 android.apis.google.com
@@ -229,16 +227,14 @@ connectivitycheck.gstatic.com
 consent.google.com
 contacts.google.com
 content-autofill.googleapis.com
-cryptauthdevicesync.googleapis.com
-cryptauthenrollment.googleapis.com
+cryptauth*.googleapis.com
 cse.google.com
 device-provisioning.googleapis.com
 deviceintegritytokens-pa.googleapis.com
 discover-pa.googleapis.com
 docs.google.com
 drive.google.com
-encrypted-tbn*.gstatic.com
-encrypted-vtbn*.gstatic.com
+encrypted-*.gstatic.com
 feedburner.google.com
 firebasedynamiclinks*.googleapis.com
 firebaseinappmessaging.googleapis.com
@@ -277,22 +273,19 @@ manifest.googlevideo.com
 maps.googleapis.com
 meetings.googleapis.com
 mobilecrashreporting.googleapis.com
-mobilemaps-pa-gz.googleapis.com
-mobilemaps.googleapis.com
+mobilemaps*.googleapis.com
 mtalk.google.com
 myphonenumbers-pa.googleapis.com
 notifications-pa.googleapis.com
-oauth2.googleapis.com
+oauth*.googleapis.com
 ogs.google.com
 optimizationguide-pa.googleapis.com
 padlet-uploads.storage.googleapis.com
-people-pa.googleapis.com
-peoplestack-pa.googleapis.com
+people*.googleapis.com
 phonedeviceverification-pa.googleapis.com
 pki-goog.l.google.com
-play-fe.googleapis.com
+play*.googleapis.com
 play.google.com
-play.googleapis.com
 playatoms-pa.googleapis.com
 playmoviesdfe-pa.googleapis.com
 plus.l.google.com
@@ -309,14 +302,12 @@ sites.google.com
 ssl.gstatic.com
 staging-locationhistory-pa.sandbox.googleapis.com
 storage.googleapis.com
-suggestqueries.google.com
-suggestqueries.l.google.com
+suggestqueries*.google.com
 supl.google.com
 support.google.com
 tasks-pa.googleapis.com
 telephonyspamprotect-pa.googleapis.com
-tools.google.com
-tools.l.google.com
+tools*.google.com
 translate.google.com
 ulp1p-pa.googleapis.com
 update.googleapis.com
@@ -667,7 +658,7 @@ email-link.adtidy.org
 # Misc (Breaking)
 assets.dwell.com
 assets.mmsrg.com
-cdn.opecloud.com
+# cdn.opecloud.com
 compass.pressekompass.net
 content.aimatch.com
 i1.wp.com
@@ -1775,10 +1766,6 @@ streamsb.net
 # VPS forum
 lowendbox.com
 
-# PerimeterX (HUMAN Security) is an application security and anti fraud solution
-*.perimeterx.net
-*.px-cloud.net
-
 # platform for interactive content
 view.genial.ly
 
@@ -2318,4 +2305,14 @@ chillx.top
 
 # https://github.com/hagezi/dns-blocklists/issues/174
 cdn.adf.ly
+
+# https://github.com/hagezi/dns-blocklists/issues/177
+commentsengine.com
+
+# https://github.com/hagezi/dns-blocklists/issues/178
+assets.rebelmouse.io
+assets.rbl.ms
+
+# Links in mails from Peek & Cloppenburg and others
+puc-cdn.exponea.com
 
