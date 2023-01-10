@@ -13185,6 +13185,7 @@ tracking.allopneus.com
 tracking.alphacard.com
 tracking.americaneagle.com
 tracking.apac.business.samsung.com
+tracking-api-4lasu2nlcq-ew.a.run.app
 trackingapi.cloudapp.net
 tracking.arabiancentres.com
 tracking.asialadies.de

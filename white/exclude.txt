@@ -3817,6 +3817,7 @@ content-videovard-delivery-s79.vidvard.link
 content.yikyakapi.net
 contentz.mkt932.comlpstaticnotfound.html
 continuum.dds.microsoft.com
+*.controld.com
 controleng.com
 control.phone.com
 conversantmedia.com
@@ -4224,6 +4225,7 @@ ddunlimited.net
 dealabs.digidip.net
 dealcatcher.com
 dealclub.de
+dealdoktor.de
 deathfromabove1979.com
 de.aukey.com
 deb.debian.org
@@ -5400,6 +5402,9 @@ firefox.settings.services.mozilla.com
 firestone-main.holydaygames.org
 firestore.clients6.google.com
 firestore.googleapis.com
+firewall-gateway.com
+firewall-gateway.de
+firewall-gateway.net
 fireworkapi.com
 fireworks.eu.org
 fireworktv.com
@@ -9181,12 +9186,15 @@ myfamilymobile.com
 myfav.es
 myfedloan.org
 myfirewalla.com
+my-firewall.org
+myfirewall.org
 myflixer.to
 myfonts.com
 myfonts.net
 myfreecams.com
 *.myfritz.box
 *.myfritz.net
+my-gateway.de
 myhalyk.kz
 my.helaba.bank
 myip.wtf
@@ -9219,6 +9227,7 @@ myporn.club
 mypoya.com
 myppt.cc
 myqcloud.com
+my-router.de
 myseria.pro
 my.sevdesk.de
 myshopify.com
@@ -12948,6 +12957,9 @@ spb.ru
 spclient.spotify.com
 spclient.wg.spotify.com
 spcne.ws
+spdns.de
+spdns.eu
+spdns.org
 spd-sachsen.de
 spdy3.maps.rostaxi.org
 speakpipe.com
@@ -17924,6 +17936,7 @@ www.ddp.net
 www.ddunlimited.net
 www.dealcatcher.com
 www.dealclub.de
+www.dealdoktor.de
 www.deathfromabove1979.com
 www.debian.org
 www.debijenkorf.de
@@ -18639,6 +18652,9 @@ www.firebasedatabase.app
 www.firebaseio.com
 www.firebit.org
 www.firefox.com
+www.firewall-gateway.com
+www.firewall-gateway.de
+www.firewall-gateway.net
 www.fireworkapi.com
 www.fireworktv.com
 www.firkloveren.no
@@ -20956,10 +20972,13 @@ www.myfamilymobile.com
 www.myfav.es
 www.myfedloan.org
 www.myfirewalla.com
+www.my-firewall.org
+www.myfirewall.org
 www.myflixer.to
 www.myfonts.com
 www.myfonts.net
 www.myfreecams.com
+www.my-gateway.de
 www.myhalyk.kz
 www.myip.wtf
 www.mykassa.kz
@@ -20976,6 +20995,7 @@ www.myporn.club
 www.mypoya.com
 www.myppt.cc
 www.myqcloud.com
+www.my-router.de
 www.myseria.pro
 www.myshopify.com
 www.myshopline.com
@@ -23469,6 +23489,9 @@ www.spartoo.pt
 www.spaw.de
 www.spb.ru
 www.spcne.ws
+www.spdns.de
+www.spdns.eu
+www.spdns.org
 www.spd-sachsen.de
 www.speakpipe.com
 www.spectrocoin.com

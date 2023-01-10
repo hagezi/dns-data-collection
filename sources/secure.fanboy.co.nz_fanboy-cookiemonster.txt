@@ -32,7 +32,6 @@ consent.digiapi.com
 consentement.ouest-france.fr
 consent.faz.net
 consent.gutefrage.net
-consent.ladbible.com
 consent.nationalworld.com
 consent.prismamedia.com
 consent.themeteocompany.com

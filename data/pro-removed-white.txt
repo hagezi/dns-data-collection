@@ -75,7 +75,6 @@ bmcdn2.com
 p.brid.tv
 pages.bsigroup.com
 buyeasy.by
-cbox.ws
 cf2.me
 click.e.change.org
 tmetrix.my.chick-fil-a.com
@@ -91,9 +90,9 @@ pavv.co.kr
 hb.afl.rakuten.co.jp
 check2.tsb.co.uk
 pvtag.yahoo.co.jp
-ssl.o.auspost.com.au
 adc.api.nine.com.au
 connatix.com
+stats.controld.com
 consent.cookiefirst.com
 crazyegg.com
 cs.co
@@ -325,6 +324,7 @@ go.usa.gov
 valuecommerce.com
 videoadex.com
 visualwebsiteoptimizer.com
+vk.sv
 omniture.walmart.com
 webgains.com
 weborama.fr

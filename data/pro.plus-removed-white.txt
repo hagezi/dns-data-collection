@@ -35,9 +35,6 @@ a8.net
 above.com
 www.above.com
 abuelos.com
-moyu.ac.cn
-api.moyu.ac.cn
-track.moyu.ac.cn
 yu.ac.kr
 ac24horas.com
 graph.accountkit.com
@@ -98,6 +95,7 @@ advertising.com
 adverts.ie
 adwolf.ru
 a.adwolf.ru
+www.adwolf.ru
 aerisapi.com
 api.aerisapi.com
 cdn.aerisapi.com
@@ -445,7 +443,6 @@ djtflbt20bdde.cloudfront.net
 dxz5jxhrrzigf.cloudfront.net
 cloudns.cl
 cmail20.com
-bbs.cndeaf.com
 data.cnn.com
 appx.transient.amazon.co.uk
 sa.bbc.co.uk
@@ -473,8 +470,6 @@ tm.jsuol.com.br
 adc.api.nine.com.au
 rdstation.com.br
 comagic.ru
-commentsengine.com
-www.commentsengine.com
 complexmedianetwork.com
 connatix.com
 capi.connatix.com
@@ -500,6 +495,7 @@ www.consentmanager.net
 conta.cc
 contentpass.net
 get.contentpass.net
+stats.controld.com
 www.conversantmedia.com
 conviva.com
 www.conviva.com
@@ -579,6 +575,7 @@ dealabs.digidip.net
 visit.digidip.net
 digitaladvisor.dk
 dmdi.pl
+www.dmdi.pl
 docodoco.jp
 api.docodoco.jp
 dotomi.com
@@ -747,6 +744,8 @@ player-feedback-v1.glomex.com
 gm99.com
 cov.gmlinteractive.com
 static.gmlinteractive.com
+go.ly
+www.go.ly
 go-mpulse.net
 go2cloud.org
 goatcounter.com
@@ -806,6 +805,8 @@ v6exp3-v4.metric.gstatic.com
 guidetopetersburg.com
 consent.gutefrage.net
 perr.h-cdn.com
+han.gl
+www.han.gl
 beacon-v2.helpscout.net
 heroeswm.ru
 www.heroeswm.ru
@@ -978,6 +979,8 @@ lihi1.com
 www.lihi1.com
 lihi2.cc
 www.lihi2.cc
+lihi3.cc
+www.lihi3.cc
 tr.line.me
 oa.tr.line.me
 torimochi.line-apps.com
@@ -1696,7 +1699,6 @@ a989617545.cdn.optimizely.com
 a9952002.cdn.optimizely.com
 console-telemetry.oci.oraclecloud.com
 orangeclickmedia.com
-stisa.org.cn
 ad.ourgame.com
 middleware.p7s1.io
 pages03.net
@@ -1902,6 +1904,7 @@ per2.segmentify.com
 segpay.com
 sellpoint.net
 a.sellpoint.net
+www.sellpoint.net
 sematext.com
 www.sematext.com
 sendpulse.com
@@ -1933,8 +1936,6 @@ v.shopify.com
 shopvote.de
 www.shopvote.de
 shorte.st
-shorturl.at
-www.shorturl.at
 p.shure.com
 silverpop.com
 simp.ly

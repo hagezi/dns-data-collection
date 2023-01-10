@@ -149,6 +149,7 @@ allocine.fr
 aluson-eclairage.fr
 ams.amazon.com
 amazon-adsystem.com
+z-na.amazon-adsystem.com
 amazonaws.com
 bitbucket-connect-icons.s3.amazonaws.com
 hotflicknet.s3.amazonaws.com
@@ -659,6 +660,7 @@ googleapis.com
 ajax.googleapis.com
 fonts.googleapis.com
 imasdk.googleapis.com
+pagead2.googlesyndication.com
 tpc.googlesyndication.com
 googleusercontent.com
 googlewatchblog.de

@@ -180,8 +180,6 @@ api-glb-mia.smoot.apple.com
 daypass.api-glb-mia.smoot.apple.com
 api-glb-msp.smoot.apple.com
 daypass.api-glb-msp.smoot.apple.com
-api-glb-mum.smoot.apple.com
-daypass.api-glb-mum.smoot.apple.com
 api-glb-nyc.smoot.apple.com
 daypass.api-glb-nyc.smoot.apple.com
 api-glb-par.smoot.apple.com
@@ -190,7 +188,6 @@ api-glb-rno.smoot.apple.com
 daypass.api-glb-rno.smoot.apple.com
 api-glb-sea.smoot.apple.com
 daypass.api-glb-sea.smoot.apple.com
-api-glb-sel.smoot.apple.com
 api-glb-sin.smoot.apple.com
 daypass.api-glb-sin.smoot.apple.com
 api-glb-sjc.smoot.apple.com
@@ -200,10 +197,10 @@ daypass.api-glb-tpe.smoot.apple.com
 api-glb-use1a.smoot.apple.com
 api-glb-use1b.smoot.apple.com
 api-glb-use1c.smoot.apple.com
+api-glb-use2b.smoot.apple.com
 api-glb-use2c.smoot.apple.com
 api-glb-usw2b.smoot.apple.com
 api-glb-usw2c.smoot.apple.com
-api-p-ap-j.smoot.apple.com
 api-siri.smoot.apple.com
 api2.smoot.apple.com
 cdn.smoot.apple.com
@@ -277,6 +274,7 @@ tmetrix.my.chick-fil-a.com
 chillx.top
 chip-secured-download.de
 cint.com
+www.cint.com
 learn.cisecurity.org
 cjb.net
 classmates.com
@@ -284,6 +282,7 @@ www.classmates.com
 www.clck.ru
 seu.cleverreach.com
 36222.seu.cleverreach.com
+seu1.cleverreach.com
 seu2.cleverreach.com
 337727.seu2.cleverreach.com
 clickdimensions.com
@@ -302,8 +301,6 @@ check2.tsb.co.uk
 ns11.whois.co.kr
 ssl.o.auspost.com.au
 tm.jsuol.com.br
-commentsengine.com
-www.commentsengine.com
 connatix.com
 capi.connatix.com
 cd.connatix.com
@@ -319,6 +316,7 @@ www.consentmanager.net
 conta.cc
 contentpass.net
 get.contentpass.net
+stats.controld.com
 api.cortana.ai
 static.cloud.coveo.com
 cptrack.de
@@ -333,6 +331,7 @@ first-party-js.datadome.co
 com.first-party-js.datadome.co
 tidal.com.first-party-js.datadome.co
 dd.tidal.com.first-party-js.datadome.co
+sslgen-tidal.datadome.co
 dbankcloud.cn
 dbankcloud.ru
 a-0001.dc-msedge.net
@@ -349,6 +348,7 @@ images.updates.digicert.com
 digidip.net
 dealabs.digidip.net
 dmdi.pl
+www.dmdi.pl
 doublepimp.com
 phn.doublepimp.com
 engine.phn.doublepimp.com
@@ -378,14 +378,11 @@ eulatracking-public-service-prod.ol.epicgames.com
 eulatracking-public-service-prod06.ol.epicgames.com
 arc.epoq.de
 babymarkt-de.arc.epoq.de
-babymarkt-es.arc.epoq.de
 carharttwip-de.arc.epoq.de
-carharttwip-fr.arc.epoq.de
 carharttwip-gb.arc.epoq.de
 esmeyer-oxid6.arc.epoq.de
 gartenhaus-de.arc.epoq.de
 manor-ch.arc.epoq.de
-pinkorblue-be.arc.epoq.de
 pinkorblue-it.arc.epoq.de
 rebopharm24-de.arc.epoq.de
 rosebikes-de.arc.epoq.de
@@ -394,7 +391,6 @@ dcf.espn.com
 dcfdata.espn.com
 stats.espncricinfo.com
 eterna.de
-www.eterna.de
 msg.ettoday.net
 7hoqd16sufw9f9h3swlkdt6lqdn3ud.ext-twitch.tv
 ezoic.net
@@ -436,6 +432,8 @@ config-vvs.glomex.com
 player-feedback-v1.glomex.com
 cov.gmlinteractive.com
 static.gmlinteractive.com
+go.ly
+www.go.ly
 goatcounter.com
 linkhelp.clients.google.com
 analytics.clients6.google.com
@@ -455,11 +453,11 @@ p5-lj5aujgj7jl7w-r2pmxqvndsgx2im2-931517-i1-v6exp3-v4.metric.gstatic.com
 p5-lj5aujgj7jl7w-r2pmxqvndsgx2im2-931517-i2-v6exp3-ds.metric.gstatic.com
 v6exp3-ds.metric.gstatic.com
 v6exp3-v4.metric.gstatic.com
+han.gl
+www.han.gl
 beacon-v2.helpscout.net
 heroeswm.ru
-www.heroeswm.ru
 hexun.com
-www.hexun.com
 heytapmobi.com
 client-uc.heytapmobi.com
 hockerty.de
@@ -483,8 +481,12 @@ frontend-telemetry.intercom.io
 mobile-sdk-api.intercom.io
 b2r065l4-ios.mobile-sdk-api.intercom.io
 bkv28uhm-ios.mobile-sdk-api.intercom.io
+eriojnh3-android.mobile-sdk-api.intercom.io
 fjfoh75b-ios.mobile-sdk-api.intercom.io
+ifepaosc-ios.mobile-sdk-api.intercom.io
+riezdrz0-ios.mobile-sdk-api.intercom.io
 x88j33yc-ios.mobile-sdk-api.intercom.io
+yqs3zlze-ios.mobile-sdk-api.intercom.io
 ztawwxuu-android.mobile-sdk-api.intercom.io
 ztawwxuu-ios.mobile-sdk-api.intercom.io
 nexus-websocket-a.intercom.io
@@ -528,6 +530,7 @@ updateapis.kiwibrowser.com
 klaviyo.com
 a.klaviyo.com
 fast.a.klaviyo.com
+www.fast.a.klaviyo.com
 static.klaviyo.com
 klevu.com
 js.klevu.com
@@ -548,6 +551,8 @@ lihi1.com
 www.lihi1.com
 lihi2.cc
 www.lihi2.cc
+lihi3.cc
+www.lihi3.cc
 cs.liiift.io
 itad.linetv.tw
 link.ac
@@ -567,7 +572,6 @@ lnks.gd
 lpsnmedia.net
 www.lpsnmedia.net
 lt27.de
-lurl.cc
 mackeeper.com
 mailerlite.com
 www.mailerlite.com
@@ -619,7 +623,6 @@ d.meituan.net
 babel-statistics-android.d.meituan.net
 bd0.d.meituan.net
 c14.d.meituan.net
-c15.d.meituan.net
 data-sdk-uuid-log.d.meituan.net
 m0.d.meituan.net
 m1.d.meituan.net
@@ -646,7 +649,6 @@ p3.d.meituan.net
 p4.d.meituan.net
 p5.d.meituan.net
 p6.d.meituan.net
-p9.d.meituan.net
 route-stats.d.meituan.net
 s0.d.meituan.net
 s1.d.meituan.net
@@ -659,9 +661,6 @@ logan-rtl.dreport.meituan.net
 maplocatesdksnapshot.dreport.meituan.net
 met-badge.dreport.meituan.net
 met-cronet-reporter.dreport.meituan.net
-met-horn-log.dreport.meituan.net
-metrics-android.dreport.meituan.net
-metrics-env-android.dreport.meituan.net
 metrics-meituan-android.dreport.meituan.net
 metrics-picture.dreport.meituan.net
 prism-report-custom.dreport.meituan.net
@@ -669,7 +668,6 @@ prism-report-ddd.dreport.meituan.net
 prism-report-knb.dreport.meituan.net
 prism-report-mrn.dreport.meituan.net
 prism-report-net.dreport.meituan.net
-qcs-fe-mplog.dreport.meituan.net
 route-stats.dreport.meituan.net
 sniffer-android.dreport.meituan.net
 flowplus.meituan.net
@@ -697,6 +695,7 @@ vfile.meituan.net
 w.meituan.net
 adgame.waimai.meituan.com
 wmlog.meituan.com
+wreport.meituan.net
 wreport1.meituan.net
 messengerpeople.com
 go.messengerpeople.com
@@ -707,6 +706,7 @@ f1.market.mi-img.com
 f2.market.mi-img.com
 f3.market.mi-img.com
 f5.market.mi-img.com
+mmcapi.ads.microsoft.com
 api.bingads.microsoft.com
 campaign.api.bingads.microsoft.com
 clientcenter.api.bingads.microsoft.com
@@ -776,6 +776,8 @@ com.ssl.d1.sc.omtrdc.net
 playstation.com.ssl.d1.sc.omtrdc.net
 d2.sc.omtrdc.net
 ssl.d2.sc.omtrdc.net
+au.ssl.d2.sc.omtrdc.net
+com.au.ssl.d2.sc.omtrdc.net
 ssl.sc.omtrdc.net
 com.ssl.sc.omtrdc.net
 disneyplus.com.ssl.sc.omtrdc.net
@@ -784,6 +786,7 @@ online-metrix.net
 h-charter.online-metrix.net
 h-fidelity.online-metrix.net
 h-microsoft.online-metrix.net
+h-tsb.online-metrix.net
 opentelemetry.io
 opinary.com
 api.opinary.com
@@ -816,7 +819,6 @@ privacy-mgmt.com
 cdn.privacy-mgmt.com
 privacymanager.io
 cmp-consent-tool.privacymanager.io
-psce.pw
 publitas.com
 pusher.com
 cf-us-popular.dash.pv-cdn.net
@@ -829,7 +831,7 @@ qqc.co
 siteintercept.qualtrics.com
 zn1ynnliufrct75cb-paypalxm.siteintercept.qualtrics.com
 zn2rjw8v8ecfgyigt-paypalxm.siteintercept.qualtrics.com
-zn5jpiwcvswgilgu9-paypalxm.siteintercept.qualtrics.com
+zn824xgjyopuf0rcx-paypalxm.siteintercept.qualtrics.com
 www.qualtrics.com
 quantcast.com
 cmp.quantcast.com
@@ -882,6 +884,7 @@ images.cdn.scarabresearch.com
 recommender.scarabresearch.com
 recommender-eu.scarabresearch.com
 scarf.sh
+static.scarf.sh
 adstudio-assets.scdn.co
 heads-fa.scdn.co
 quicksilver.scdn.co
@@ -892,20 +895,28 @@ dim-aigeir.ach.sch.gr
 schibsted.media
 schneevonmorgen.com
 damoh.schneevonmorgen.com
+chipde.damoh.schneevonmorgen.com
 1.chipde.damoh.schneevonmorgen.com
 2.chipde.damoh.schneevonmorgen.com
+computerbildde.damoh.schneevonmorgen.com
+gigade.damoh.schneevonmorgen.com
 1.gmxnet.damoh.schneevonmorgen.com
-spiegelde.damoh.schneevonmorgen.com
+golemde.damoh.schneevonmorgen.com
+kickerde.damoh.schneevonmorgen.com
+1.kickerde.damoh.schneevonmorgen.com
 tonlinede.damoh.schneevonmorgen.com
 1.tonlinede.damoh.schneevonmorgen.com
 weltde.damoh.schneevonmorgen.com
+1.weltde.damoh.schneevonmorgen.com
 de1-homad-lb.schneevonmorgen.com
 de10-homad-lb.schneevonmorgen.com
+de11-homad-lb.schneevonmorgen.com
+de12-homad-lb.schneevonmorgen.com
 de19-homad-lb.schneevonmorgen.com
 de2-homad-lb.schneevonmorgen.com
 de3-homad-lb.schneevonmorgen.com
 de7-homad-lb.schneevonmorgen.com
-de9-homad-lb.schneevonmorgen.com
+de8-homad-lb.schneevonmorgen.com
 homad-global-configs.schneevonmorgen.com
 tracker.scoober.com
 embed.scribblelive.com
@@ -934,8 +945,6 @@ v.shoosh.co
 shopvote.de
 www.shopvote.de
 shorte.st
-shorturl.at
-www.shorturl.at
 p.shure.com
 simp.ly
 assets.sitescdn.net
@@ -1051,6 +1060,8 @@ mpluswf.ims.vodafone.com
 fy.v.vrv.co
 wa.sv
 wabetainfo.com
+damoh.welect.de
+1.damoh.welect.de
 wfcdn.de
 i.wfcdn.de
 j.wfcdn.de
@@ -1060,7 +1071,6 @@ image.engage.windows.com
 wn.nr
 wpbeaches.com
 get.x-link.pl
-beacons.xboxlive.com
 f1.market.xiaomi.com
 f2.market.xiaomi.com
 f3.market.xiaomi.com

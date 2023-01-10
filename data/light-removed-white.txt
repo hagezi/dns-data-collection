@@ -237,6 +237,7 @@ vendorlist.consensu.org
 consentframework.com
 choices.consentframework.com
 consentmanager.net
+stats.controld.com
 www.conversantmedia.com
 conviva.com
 cookiefirst.com

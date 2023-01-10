@@ -2022,7 +2022,6 @@ ad.mediatoday.co.kr
 admedia.wsod.com
 ad.mediba.jp
 admeld.adnxs.com
-admeld.com
 admeld-match.dotomi.com
 admeme.net
 admention.adspirit.de
@@ -2068,7 +2067,6 @@ admoda.com
 ad.mo.doubleclick.net
 admonitor.com
 ad.moreto.net
-admost.nl
 ad.motiveinteractive.com
 ad-move.jp
 adm.shinobi.jp
@@ -2131,6 +2129,7 @@ ad.ohmynews.com
 ado.icorp.ro
 adone.yicha.jp
 adonspot.com
+ad-optima.com
 adopt.specificclick.net
 ad.orange-park.jp
 ad.orbitel.bg
@@ -2804,7 +2803,6 @@ adserv.quality-channel.de
 ads.eu.msn.com
 adseu.novem.pl
 ads.evtv1.com
-ads.exactdrive.com
 ads.exactseek.com
 ads.exchange-it.com
 ad.sexcount.de
@@ -2852,11 +2850,10 @@ ads.fuckingmachines.com
 ads.fulldls.com
 ads.fulltiltpoker.com
 ads.fxclix.com
+ads-game-187f4.firebaseapp.com
 ads.gamecity.net
 ads.gamesbannernet.com
-ads.gameservers.com
 ads.gamespyid.com
-ads.gamigo.de
 ads.gaming-universe.de
 ad.sg.doubleclick.net
 adsgen.bangbros.com
@@ -3102,7 +3099,6 @@ ads.outpersonals.com
 ads.oxymoronent.com
 adsp1.i2i.jp
 adspacds.ero-advertising.com
-adspace.ro
 adspaces2.ero-advertising.com
 adspaces.ero-ades.ero-advertising.com
 adspaces.ero-advertising.com
@@ -3317,7 +3313,6 @@ ads.usatoday.com
 ads.us.e-planning.net
 ads.usercash.com
 ads-ussj1.focalink.com
-ads-ussnv2.focalink.com
 ads.usualgirls.com
 ads.utopiad.com
 ads.valuead.com
@@ -3674,7 +3669,6 @@ adx.ibibo.com
 adxpansion.com
 adxpose.com
 ad.xrea.com
-adxxx.org
 ad.yadro.ru
 ad.yahoo.com
 ad.yam.com.tw
@@ -3892,7 +3886,6 @@ alfatraffic.com
 algbdconsumerloyalty.112.2o7.net
 algqusglobal.112.2o7.net
 a.ligatus.com
-alivegirls.com
 alive.us.intellitxt.com
 all4spy.com
 allbritton.122.2o7.net
@@ -3982,7 +3975,6 @@ analytics-api-samples.googlecode.com
 analytics.apnewsregistry.com
 analytics.app-adforce.jp
 analytics.archive.org
-analytics.atdmt.com
 analytics.atomiconline.com
 analytics.aweber.com
 analytics.brightedge.com
@@ -4174,7 +4166,6 @@ api.afi-b.com
 api.airpush.com
 api.analytics.omgpop.com
 api.appsflyer.com
-api.atdmt.com
 api.bcfads.com
 api.b.hatena.ne.jp
 api.bookmark.rakuten.co.jp
@@ -4327,7 +4318,6 @@ a.sakh.com
 as.amanad.adtdp.com
 as.ao.impact-ad.jp
 as.autoforums.com
-as.bi.impact-ad.jp
 as.casalemedia.com
 as.cd.impact-ad.jp
 as.ch.impact-ad.jp
@@ -4417,7 +4407,6 @@ ata.ero-advertising.com
 at.amgdgt.com
 at.amoad.com
 at.atwola.com
-atdmt.com
 a.tea-nifty.com
 atemda.com
 a.tempurpedic.com
@@ -4494,7 +4483,6 @@ autou.vodone.cn
 autoweb.112.2o7.net
 avalon.topbucks.com
 avanato.com
-avantlink.com
 avatarcash.com
 avazudsp.net
 avenfeld.com
@@ -4506,7 +4494,6 @@ a.visualrevenue.com
 avnet.com.102.122.2o7.net
 avnglobalprod.112.2o7.net
 avod.ad.abema.io
-avokazu.com
 avon.112.2o7.net
 a.vonage.com
 avp.innity.com
@@ -4735,7 +4722,6 @@ bank30.clicks.mp.mydas.mobi
 bank30.mi.ads.mp.mydas.mobi
 bank30.mi.clicks.mp.mydas.mobi
 bank31.clicks.mp.mydas.mobi
-bank31.mi.ads.mp.mydas.mobi
 bank31.mi.clicks.mp.mydas.mobi
 bank32.clicks.mp.mydas.mobi
 bank32.mi.ads.mp.mydas.mobi
@@ -4771,8 +4757,6 @@ bank42.clicks.mp.mydas.mobi
 bank42.mi.ads.mp.mydas.mobi
 bank42.mi.clicks.mp.mydas.mobi
 bank43.ads.mp.mydas.mobi
-bank43.clicks.mp.mydas.mobi
-bank43.mi.ads.mp.mydas.mobi
 bank43.mi.clicks.mp.mydas.mobi
 bank44.ads.mp.mydas.mobi
 bank44.clicks.mp.mydas.mobi
@@ -4892,7 +4876,6 @@ banne4s.ero-advertising.com
 banner1.50megs.com
 banner1.bcdc.home.ne.jp
 banner1.pornhost.com
-banner.33drugs.com
 banner3.a411.com
 banner.50megs.com
 banner.adlink.de
@@ -4937,7 +4920,6 @@ banner-exchange.nl
 bannerexchange.troglod.com
 banner.fairpoker.com
 bannerfarm.aolp.jp
-banner-farm.com
 banner.finn.no
 bannerforge.com
 banner.freeservers.com
@@ -9891,6 +9873,7 @@ js.abh.jp
 js.adflare.jp
 js.adjust.com
 js.adlink.net
+js.ad-optima.com
 js.adscale.de
 js.ad-spire.net
 jsads.sina.com.hk
@@ -10499,6 +10482,7 @@ mail.adcolony.com
 mail-admin.afi-b.com
 mailadmin.amoad.com
 mail.ad-move.jp
+mail.ad-optima.com
 mail.ad-track.jp
 mail.afi-b.com
 mail.amoad.com
@@ -10596,6 +10580,7 @@ maruta.be
 masalatalk.us.intellitxt.com
 mas.sector.sk
 massmerchandise.com
+master.ad-optima.com
 masterh1.adriver.ru
 masterh2.adriver.ru
 masterh3.adriver.ru
@@ -10696,6 +10681,7 @@ media.adfrontiers.com
 media.ad-link.jp
 media.admob.com
 media-ad.mynavi.jp
+media.ad-optima.com
 media.adrevolver.com
 media-adrunner.mycomputer.com
 media.ad-seek.jp
@@ -15262,6 +15248,7 @@ ts.afi-b.com
 ts.istrack.com
 t.skimresources.com
 ts.lsfinteractive.com
+tsmc.adjust.com
 ts.nakanohito.jp
 t.snowball.com
 ts.richmedia.yahoo.com

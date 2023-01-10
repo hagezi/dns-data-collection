@@ -10,9 +10,6 @@ a-0006.a-msedge.net
 a-0008.a-msedge.net
 a-0009.a-msedge.net
 a-0011.a-msedge.net
-moyu.ac.cn
-api.moyu.ac.cn
-track.moyu.ac.cn
 acdid.acdsystems.com
 login.adition.com
 s.adrise.tv
@@ -25,7 +22,9 @@ beta.partners.adsterra.com
 publishers.adsterra.com
 beta.publishers.adsterra.com
 www.adsterra.com
+adwolf.ru
 a.adwolf.ru
+www.adwolf.ru
 afi-b.com
 www.afi-b.com
 api.eu-west-1.aiv-delivery.net
@@ -68,14 +67,11 @@ bshare.cn
 www.bshare.cn
 seu.cleverreach.com
 337727.seu2.cleverreach.com
-bbs.cndeaf.com
 sa.bbc.co.uk
 dmgmediaprivacy.co.uk
 cmp.dmgmediaprivacy.co.uk
 hb.afl.rakuten.co.jp
 grp07.ias.rakuten.co.jp
-commentsengine.com
-www.commentsengine.com
 stats.comunio.de
 choices.consentframework.com
 consent.cookiefirst.com
@@ -97,6 +93,8 @@ admin.dable.io
 www.dable.io
 a-0001.dc-msedge.net
 c-0001.dc-msedge.net
+dmdi.pl
+www.dmdi.pl
 api.drift.com
 bootstrap.api.drift.com
 proto2ad.durasite.net
@@ -113,6 +111,8 @@ cdn2.gigya.com
 cdn3.gigya.com
 gscounters.eu1.gigya.com
 gscounters.gigya.com
+go.ly
+www.go.ly
 p2-aahhyknavsj2m-wtnlrzkba6lht33q-if-v6exp3-v4.metric.gstatic.com
 p2-f6rp6piuxns4u-uzq4vp76bu3w2tso-if-v6exp3-v4.metric.gstatic.com
 p2-n3zurhre4jjvk-can5rb2f2a4urcxh-if-v6exp3-v4.metric.gstatic.com
@@ -125,6 +125,8 @@ p5-lj5aujgj7jl7w-r2pmxqvndsgx2im2-931517-i2-v6exp3-ds.metric.gstatic.com
 v6exp3-ds.metric.gstatic.com
 v6exp3-v4.metric.gstatic.com
 consent.gutefrage.net
+han.gl
+www.han.gl
 hoo.gl
 www.hoo.gl
 host-tracker.com
@@ -154,6 +156,8 @@ lihi1.com
 www.lihi1.com
 lihi2.cc
 www.lihi2.cc
+lihi3.cc
+www.lihi3.cc
 tr.line.me
 oa.tr.line.me
 link.ac
@@ -422,7 +426,6 @@ geolocation.onetrust.com
 37grhzhn-fa533b6aee12bf7d3a738b451104edb64299535a-sac.d.aa.online-metrix.net
 37grhzhn-fb2f70c696d18764a44998a76a8702f6534ea301-sac.d.aa.online-metrix.net
 37grhzhn-ff289f24b58639a065d84ebe0f6f0bea52023730-sac.d.aa.online-metrix.net
-3dj9ki1xvxc2jkloutpqc2b42pkjpubky6rthurj22c23673cf11591csac.d.aa.online-metrix.net
 3rofau106fmvnteokenlcrehf6gkwzy4uw5ltkvma6bdb29a5a270d32sac.d.aa.online-metrix.net
 3u2bmrkg-4237c85d69d0e8d86cb4bed0ed8b24b8dc4a0810-mob.d.aa.online-metrix.net
 5g3kt0kj-aaf357f6cc98a32833446cdefdbf2d2b81c8be07-sac.d.aa.online-metrix.net
@@ -459,7 +462,6 @@ geolocation.onetrust.com
 5m4egoqhnkwozgmtvyudwqrl4d653atuczctbwbp86ff9525ceacae08sac.d.aa.online-metrix.net
 5xs5smv67ckpbaasu2tjbx4ppxr33z2yeojge7n31aec4a2792a0a0edsac.d.aa.online-metrix.net
 72k6ns9a6ucyh5hfzcbpch3oao6wkirhpgxctzhh7d3dc87615a99117sac.d.aa.online-metrix.net
-72k6ns9akyf53shwaqdwbefdwnm7homlaaxodp7oc7fe776a6c6d3917sac.d.aa.online-metrix.net
 78jlmbtl2l53vzaokzbphiijesoojrv345bi7wfe0f2e56dc52ef4622sac.d.aa.online-metrix.net
 78jlmbtl5usapebaqh6yu5i7sevkcde2pjr3sjcgf8c793d55098e09fsac.d.aa.online-metrix.net
 78jlmbtlcyvxqogzcu2fvpwok27zbxmwca5ld36i110e47a7c90fa132sac.d.aa.online-metrix.net
@@ -491,15 +493,11 @@ fsymclue-c12f9f84a62826107e77220603e6338def5b0cb3-sac.d.aa.online-metrix.net
 gp9h38j0-1be8c19e8d375846d2f2adca107b0b9372068bc8-sac.d.aa.online-metrix.net
 hgy2n0ks2q2nchjzyjffuqzoquou3z4nijyotlu3600005703f940ff4sac.d.aa.online-metrix.net
 hgy2n0ks5c7ahnqulqgq6sxwam7tukc5jpoypxvn004d9702a3df52d5sac.d.aa.online-metrix.net
-hgy2n0ks7o3h6zuwpo5mdhbpklm2idifefmnxrhkbd3a1c3de22edcc4sac.d.aa.online-metrix.net
 hgy2n0ksc7twsqcstqas2l5oenpbnbo3isex3ayl8fb2cc2b99b581f3sac.d.aa.online-metrix.net
 hgy2n0ksj2jadagx72jjlq6ecdiru3jrprlrvl4c91229659e1f72365sac.d.aa.online-metrix.net
 hgy2n0ksk3s5xnq2fpng2lu4j5oki4pldszmzry607b54b1fb056300csac.d.aa.online-metrix.net
 hgy2n0ksnhubwkj4rtvfoqhh5wta52aqftdc4tgf2cd0b2ca9fc1e58esac.d.aa.online-metrix.net
-hgy2n0ksvj46mmeh3bs3yruzkurqixigpqw26e3pf2ff159fb67b297bsac.d.aa.online-metrix.net
-hgy2n0kswp6fk7o7w7h2ihmk2stj5ayt3ougakrsfe0a336fe4277618sac.d.aa.online-metrix.net
 hgy2n0ksxpbp2s7jcbt4h33isdnj5edc4ndqytbq4761b7566797b74esac.d.aa.online-metrix.net
-hgy2n0ksyb34dhpajr26nrb5wicwyuqdixttpbs6d5a46b586ceb3079sac.d.aa.online-metrix.net
 hgy2n0kszxz4eyhezu4ooclmpkfebyaiewj7m7z5b5950b4440dc5e69sac.d.aa.online-metrix.net
 i8n5h0pwidjyuqk3v7kumfnerdeujreyz5n4577l68d742027550090dsac.d.aa.online-metrix.net
 ilahopdq-9d31f84d5b7dae0da29a6dbde5674c58c733b881-sac.d.aa.online-metrix.net
@@ -542,8 +540,6 @@ m5o81ypt-f576029ffbe6d846cf41a77a36399905b916d2df-mob.d.aa.online-metrix.net
 ncwzrc4k-0e928cbb84a0502c614a07ce8cc2f1cc8522d52f-sac.d.aa.online-metrix.net
 ncwzrc4kav4fmr2pjwleazxuala7usvyitqzlqtdb622bbd7dda2980esac.d.aa.online-metrix.net
 o7f2hmf64ajaosbzzt2jwfkc54pjqo4w3yd4yzxb4f2cb95e2af11e93sac.d.aa.online-metrix.net
-o7f2hmf6g24zhwoiqs5oq3khhbtivsssuebfhi2pecab269109031a59sac.d.aa.online-metrix.net
-o7f2hmf6svrkapyobhyhp3sg7drlebl6teupz6xl61ab41a21b74b951sac.d.aa.online-metrix.net
 ow85iiu02imauftagik3sj4pvw5qhpq6aie3jr3zb06766f9b5334af5sac.d.aa.online-metrix.net
 ow85iiu0nb3v7iogb376fkxu5zao7xevqatzekorf9a769b1b7935e86sac.d.aa.online-metrix.net
 qn4omaj37u66oetg6afv33s6atb5arl42wu3y4ji041dfa959182e11esac.d.aa.online-metrix.net
@@ -569,8 +565,6 @@ usllpic0-c831182b393da9c71af4b70690d7c67bc9fb10ec-sac.d.aa.online-metrix.net
 usllpic0-cf4eda9f277eea6f4981f865ee1713ce219bde73-sac.d.aa.online-metrix.net
 usllpic0-d0e75ab25e636ebc2672793c0abe1e8e1eb0428d-sac.d.aa.online-metrix.net
 usllpic0-dba746ca6c6995792ddc35cd1d64be4eca2e426e-sac.d.aa.online-metrix.net
-usllpic03tpxebimslbdebvfrijftppegwqwglni76db00c93ab97182sac.d.aa.online-metrix.net
-usllpic03xuyoylkwxyarvu3skbvqgvbknztpt5x1f2855c68e6b1ea0sac.d.aa.online-metrix.net
 usllpic04wgrjfwtug7w3x6qqynywktkhsx6lloi1dc281d96940d168sac.d.aa.online-metrix.net
 usllpic06f2goza5ztdpisgmoml2vs2lnix3aeya82f55401399f07cfsac.d.aa.online-metrix.net
 usllpic0755yk2e5l24ozegnc3pb7tk24xy3z2ui36dac7802727a934sac.d.aa.online-metrix.net
@@ -582,7 +576,6 @@ usllpic0emyocbvfjfehklx3z7m66mzfxvlqc2vm19e5c171b412ac04sac.d.aa.online-metrix.n
 usllpic0l5qrqz7io3m4hzotsaxgzvtx3gxyyuz7f7fbab333bbcc2fdsac.d.aa.online-metrix.net
 usllpic0niagbsj3m5cahnpvrx3ey2mgm6umwvui9ffde432c7921484sac.d.aa.online-metrix.net
 usllpic0oed7ktbbs5vs5zc7ib5ulpvdg23stqxa813da119701d38d7sac.d.aa.online-metrix.net
-usllpic0pb4atejxzea2juutzer7yxlumrnphk5a68581c4e8da3b815sac.d.aa.online-metrix.net
 usllpic0xdzbav4yn2uymjdzfml6yr532gjfcuqc1b8857b9471ed1easac.d.aa.online-metrix.net
 v60nf4oj-f08f098565b75b9cabe6a0816923dc3d9473cabc-sac.d.aa.online-metrix.net
 v60nf4oj7bkuzg2rsan6wlon6pfg7oopornxzkxm4c9646ab67f1bf19sac.d.aa.online-metrix.net
@@ -618,7 +611,6 @@ w2txo5aatxagpttuf4vqn3edz7lgi7yykur3lbgw841cbad3623a8e1esac.d.aa.online-metrix.n
 w2txo5aauvditxrrv5ajipdnbmm4ofpsdstwdt4y2243cd610ec09056sac.d.aa.online-metrix.net
 w2txo5aauvditxrrv5ajipdnbmm4ofpsdstwdt4y78585af64f59d2fbsac.d.aa.online-metrix.net
 w2txo5aauvditxrrv5ajipdnbmm4ofpsdstwdt4y9f2767a18443f93esac.d.aa.online-metrix.net
-wfw5lfw8s4fdcr4c7wwfbpqaunzre5bhaisfvhqh406a91672fb8d400sac.d.aa.online-metrix.net
 y6jn8c31-17e70da7ace30f0822ae25475144923edfc0d156-sac.d.aa.online-metrix.net
 y6jn8c31-3152b18f5d0c75effa4e0aca5ec24557a80690c3-sac.d.aa.online-metrix.net
 y6jn8c31-372124a09a234076abdb19c7e87ba4f6a491a5b6-sac.d.aa.online-metrix.net
@@ -707,7 +699,6 @@ a8507201684.cdn.optimizely.com
 a8571253058.cdn.optimizely.com
 a989617545.cdn.optimizely.com
 console-telemetry.oci.oraclecloud.com
-stisa.org.cn
 ad.ourgame.com
 parg.co
 www.parg.co
@@ -716,12 +707,13 @@ pxlme.me
 www.pxlme.me
 go.qb.by
 lmbsy.qq.com
-assets.rbl.ms
 at.adtech.redventures.io
 replug.link
 roistat.com
 stash.roistat.com
 www.roistat.com
+rollercoin.com
+www.rollercoin.com
 rotf.lol
 www.rotf.lol
 track.rutarget.ru
@@ -732,9 +724,10 @@ dim-aigeir.ach.sch.gr
 2.chipde.damoh.schneevonmorgen.com
 1.gmxnet.damoh.schneevonmorgen.com
 homad-global-configs.schneevonmorgen.com
+sellpoint.net
+a.sellpoint.net
+www.sellpoint.net
 at-config.sensic.net
-shorturl.at
-www.shorturl.at
 pixel.solvemedia.com
 pixel-secure.solvemedia.com
 springboardplatform.com
