@@ -247,6 +247,7 @@ p.brid.tv
 services.brid.tv
 brightcove.net
 audience.api.brightcove.com
+gallery-metrics.api.brightcove.com
 beacon.playback.api.brightcove.com
 budurl.com
 bufferapp.com
@@ -348,7 +349,6 @@ images.updates.digicert.com
 digidip.net
 dealabs.digidip.net
 dmdi.pl
-www.dmdi.pl
 doublepimp.com
 phn.doublepimp.com
 engine.phn.doublepimp.com
@@ -435,11 +435,14 @@ static.gmlinteractive.com
 go.ly
 www.go.ly
 goatcounter.com
+goo.su
 linkhelp.clients.google.com
 analytics.clients6.google.com
 consent.google.com
 afs.googleusercontent.com
 track.goshippo.com
+grhb.me
+www.grhb.me
 metric.gstatic.com
 p2-c7yk5kcwmqtue-n3glbwsb7bbwlgti-552937-i2-v6exp3.ds.metric.gstatic.com
 p2-aahhyknavsj2m-wtnlrzkba6lht33q-if-v6exp3-v4.metric.gstatic.com

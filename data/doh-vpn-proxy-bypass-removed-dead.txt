@@ -664,6 +664,7 @@ newvpnshop.info
 newvpnsite.info
 anonymizer.nntime.com
 no-1-vpn.tk
+no-block.net
 no-free-vpn.tk
 no1vpn.tk
 noblock-sitesevpn.tk

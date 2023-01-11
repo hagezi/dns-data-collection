@@ -102,7 +102,6 @@ t.media01.eu
 cdn.mmtro.com
 seg.mmtro.com
 tgt.mmtro.com
-ahejtw.onelink.me
 akumeha.onelink.me
 doktor-se.onelink.me
 snssdk1233.onelink.me

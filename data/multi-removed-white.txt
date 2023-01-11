@@ -22,9 +22,7 @@ beta.partners.adsterra.com
 publishers.adsterra.com
 beta.publishers.adsterra.com
 www.adsterra.com
-adwolf.ru
 a.adwolf.ru
-www.adwolf.ru
 afi-b.com
 www.afi-b.com
 api.eu-west-1.aiv-delivery.net
@@ -93,8 +91,6 @@ admin.dable.io
 www.dable.io
 a-0001.dc-msedge.net
 c-0001.dc-msedge.net
-dmdi.pl
-www.dmdi.pl
 api.drift.com
 bootstrap.api.drift.com
 proto2ad.durasite.net
@@ -113,6 +109,8 @@ gscounters.eu1.gigya.com
 gscounters.gigya.com
 go.ly
 www.go.ly
+grhb.me
+www.grhb.me
 p2-aahhyknavsj2m-wtnlrzkba6lht33q-if-v6exp3-v4.metric.gstatic.com
 p2-f6rp6piuxns4u-uzq4vp76bu3w2tso-if-v6exp3-v4.metric.gstatic.com
 p2-n3zurhre4jjvk-can5rb2f2a4urcxh-if-v6exp3-v4.metric.gstatic.com
@@ -712,8 +710,6 @@ replug.link
 roistat.com
 stash.roistat.com
 www.roistat.com
-rollercoin.com
-www.rollercoin.com
 rotf.lol
 www.rotf.lol
 track.rutarget.ru
@@ -724,9 +720,6 @@ dim-aigeir.ach.sch.gr
 2.chipde.damoh.schneevonmorgen.com
 1.gmxnet.damoh.schneevonmorgen.com
 homad-global-configs.schneevonmorgen.com
-sellpoint.net
-a.sellpoint.net
-www.sellpoint.net
 at-config.sensic.net
 pixel.solvemedia.com
 pixel-secure.solvemedia.com
@@ -766,6 +759,8 @@ vk.sv
 wa.sv
 webpush.jp
 www.webpush.jp
+damoh.welect.de
+1.damoh.welect.de
 whoisprivacyprotect.com
 www.whoisprivacyprotect.com
 wisepops.com

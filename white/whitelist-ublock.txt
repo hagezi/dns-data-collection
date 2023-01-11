@@ -81,11 +81,9 @@ ba.afl.rakuten.co.jp
 hb.afl.rakuten.co.jp
 lp.tfd-corp.co.jp
 s2.coinmarketcap.com
-adnews.com.br
 olx.com.br
 promotique.com.au
 rdstation.com.br
-click.uol.com.br
 connatix.com
 img.connatix.com
 vid.connatix.com
@@ -133,7 +131,6 @@ akinator.com.cdn.ezoic.net
 mensjournal.com.cdn.ezoic.net
 pxys.ezoic.net
 graph.facebook.com
-upload.facebook.com
 choice.faktor.io
 twimg.twitter.map.fastly.net
 m.faz.net
@@ -196,7 +193,6 @@ laredoute.com
 lequipe.fr
 livechatinc.com
 counter2.blog.livedoor.com
-localytics.com
 logsss.com
 analytics.logsss.com
 los40.com
@@ -217,7 +213,6 @@ mixpanel.com
 mm-syringe.com
 mb.moatads.com
 monetate.net
-secure.moneygram.com
 mopub.com
 mouseflow.com
 mparticle.com
@@ -281,7 +276,6 @@ video.repubblica.it
 revcatch.com
 tag.rightmessage.com
 ruokareseptit.online
-safelinking.net
 samash.com
 sammobile.com
 scanurl.net

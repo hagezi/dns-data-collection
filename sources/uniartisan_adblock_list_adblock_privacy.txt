@@ -24899,6 +24899,7 @@ tracker.fengkongcloud.com
 tracker.financialcontent.com
 tracker.giftd.ru
 tracker.gleanview.com
+tracker.hdtvcloud.com
 tracker.icerocket.com
 tracker.idocdn.com
 tracker.iltrovatore.it
@@ -25084,6 +25085,7 @@ tracking.americas.business.samsung.com
 tracking.analysis.hibu.com
 tracking.ancestry.com
 tracking.apac.business.samsung.com
+tracking-api-4lasu2nlcq-ew.a.run.app
 trackingapi.cloudapp.net
 tracking-api.hotmart.com
 trackingapi.kaufda.de

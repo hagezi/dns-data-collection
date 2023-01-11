@@ -13135,6 +13135,7 @@ tracker.nbcuas.com
 tracker.nitropay.com
 tracker.providence.org
 tracker.publico.pt
+tracker.ranker.com
 tracker-rec.smart-bdash.com
 tracker.roitesting.com
 tracker.services.vaix.ai
@@ -13185,6 +13186,7 @@ tracking.allopneus.com
 tracking.alphacard.com
 tracking.americaneagle.com
 tracking.apac.business.samsung.com
+tracking-api-4lasu2nlcq-ew.a.run.app
 trackingapi.cloudapp.net
 tracking.arabiancentres.com
 tracking.asialadies.de
