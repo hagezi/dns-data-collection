@@ -7,7 +7,6 @@ adx.4strokemedia.com
 cdnb.4strokemedia.com
 feed.4strokemedia.com
 ad.a-ads.com
-a-o.ninja
 ads.a-static.com
 abczdrowie.pl
 acea.it
@@ -447,7 +446,6 @@ truffeonline.com
 widget.trustpilot.com
 truyenaudiocv.com
 truyenaudiocv.net
-abpdemo.ttef.in
 fm.tuba.pl
 images.fm.tuba.pl
 play.tv3.ee

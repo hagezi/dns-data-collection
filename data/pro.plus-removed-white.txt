@@ -40,6 +40,7 @@ ac24horas.com
 graph.accountkit.com
 acdid.acdsystems.com
 actuabd.com
+ad-magazin.de
 www.ad-magazin.de
 adcell.com
 addthis.com
@@ -68,7 +69,6 @@ www.admitad.com
 ereg.adobe.com
 adobedtm.com
 assets.adobedtm.com
-www.adobedtm.com
 adocean.pl
 myao.adocean.pl
 www.adocean.pl
@@ -96,6 +96,7 @@ advertising.com
 adverts.ie
 adwolf.ru
 a.adwolf.ru
+www.adwolf.ru
 aerisapi.com
 api.aerisapi.com
 cdn.aerisapi.com
@@ -195,6 +196,7 @@ hbbtv01p.anixe.net
 cdn-116.anonfiles.com
 answerhub.com
 anura.io
+any.gs
 www.any.gs
 appboy-images.com
 appcast.io
@@ -286,7 +288,6 @@ api-glb-use2b.smoot.apple.com
 api-glb-use2c.smoot.apple.com
 api-glb-usw2b.smoot.apple.com
 api-glb-usw2c.smoot.apple.com
-api-siri.smoot.apple.com
 api2.smoot.apple.com
 cdn.smoot.apple.com
 cdn2.smoot.apple.com
@@ -308,6 +309,7 @@ stats.appsflyer.com
 t.appsflyer.com
 www.appsflyer.com
 mailfoogae.appspot.com
+appsumo.com
 www.appsumo.com
 apptimize.com
 brahe.apptimize.com
@@ -338,6 +340,7 @@ monitor.azure.com
 js.monitor.azure.com
 b23.ru
 t10.baidu.com
+baihe.com
 www.baihe.com
 bam-x.com
 www.bam-x.com
@@ -356,6 +359,7 @@ bestvpnrating.com
 bibblio.org
 bigmir.net
 www.bigmir.net
+bitly.com
 www.bitly.com
 bitmovin.com
 bizrate.com
@@ -385,6 +389,7 @@ bugherd.com
 www.bugherd.com
 buyeasy.by
 abeagle-public.buzzfeed.com
+bybit.com
 www.bybit.com
 c-ctrip.com
 beacon.ds-c-0003.c-msedge.net
@@ -513,6 +518,7 @@ www.cookiepro.com
 cookieq.com
 coralogix.com
 www.coralogix.com
+cotc.net
 www.cotc.net
 coveritlive.com
 cptrack.de
@@ -522,6 +528,7 @@ app.crazyegg.com
 core.crazyegg.com
 www.crazyegg.com
 cs.co
+cuci.nl
 www.cuci.nl
 customer.io
 cutcaptcha.com
@@ -558,6 +565,7 @@ dbankcloud.cn
 dbankcloud.ru
 a-0001.dc-msedge.net
 c-0001.dc-msedge.net
+s.deepl.com
 demdex.net
 dpm.demdex.net
 www.demdex.net
@@ -575,6 +583,7 @@ dealabs.digidip.net
 visit.digidip.net
 digitaladvisor.dk
 dmdi.pl
+www.dmdi.pl
 docodoco.jp
 api.docodoco.jp
 dotomi.com
@@ -637,7 +646,6 @@ carharttwip-de.arc.epoq.de
 carharttwip-gb.arc.epoq.de
 esmeyer-oxid6.arc.epoq.de
 gartenhaus-de.arc.epoq.de
-manor-ch.arc.epoq.de
 pinkorblue-it.arc.epoq.de
 rebopharm24-de.arc.epoq.de
 rosebikes-de.arc.epoq.de
@@ -678,8 +686,10 @@ mqtt-p4.facebook.com
 staticxx.facebook.com
 fapcat.com
 faronics.com
+fashionista.com
 www.fashionista.com
 mparticle.map.fastly.net
+fastly-analytics.com
 www.fastly-analytics.com
 fave.co
 consent.faz.net
@@ -700,6 +710,7 @@ s-usc1c-nss-249.firebaseio.com
 fireworkapi.com
 fitanalytics.com
 www.fitanalytics.com
+flvto.biz
 www.flvto.biz
 forexprostools.com
 freegeoip.net
@@ -723,6 +734,7 @@ www.getdrip.com
 getresponse.com
 www.getresponse.com
 cmp-cdn.ghostery.com
+gigya.com
 gscounters.au1.gigya.com
 cdn.gigya.com
 cdn1.gigya.com
@@ -745,6 +757,7 @@ go-mpulse.net
 go2cloud.org
 goatcounter.com
 goo.su
+www.goo.su
 ads.google.com
 linkhelp.clients.google.com
 analytics.clients6.google.com
@@ -776,6 +789,7 @@ playmoviesdfe-pa.googleapis.com
 semanticlocation-pa.googleapis.com
 userlocation.googleapis.com
 googletagmanager.com
+ww.googletagmanager.com
 www.googletagmanager.com
 afs.googleusercontent.com
 gotraffic.net
@@ -819,6 +833,7 @@ host-tracker.com
 www.host-tracker.com
 hostingprod.com
 hostip.info
+hotdogsandads.com
 www.hotdogsandads.com
 bifrost-api.hotstar.com
 hs-scripts.com
@@ -874,8 +889,8 @@ bkv28uhm-ios.mobile-sdk-api.intercom.io
 eriojnh3-android.mobile-sdk-api.intercom.io
 fjfoh75b-ios.mobile-sdk-api.intercom.io
 ifepaosc-ios.mobile-sdk-api.intercom.io
+lk7fprhb-ios.mobile-sdk-api.intercom.io
 riezdrz0-ios.mobile-sdk-api.intercom.io
-x88j33yc-ios.mobile-sdk-api.intercom.io
 yqs3zlze-ios.mobile-sdk-api.intercom.io
 ztawwxuu-android.mobile-sdk-api.intercom.io
 ztawwxuu-ios.mobile-sdk-api.intercom.io
@@ -888,8 +903,8 @@ investingchannel.com
 invol.co
 www.invol.co
 inx.lv
-iocnt.net
 relay-client-c03.iocnt.net
+rtl-relay.iocnt.net
 cloud-news.ionos.com
 iovation.com
 www.iovation.com
@@ -949,7 +964,6 @@ updateapis.kiwibrowser.com
 klaviyo.com
 a.klaviyo.com
 fast.a.klaviyo.com
-www.fast.a.klaviyo.com
 static.klaviyo.com
 klclick.com
 klclick1.com
@@ -1005,6 +1019,7 @@ blogroll.livedoor.net
 livefyre.com
 livejasmin.com
 www.livejasmin.com
+liveperson.com
 liveperson.net
 iad.liveperson.net
 server.iad.liveperson.net
@@ -1016,6 +1031,7 @@ www.lmy.de
 lnks.gd
 loadercdn.com
 loggly.com
+www.loggly.com
 loginfra.com
 logrocket.com
 lpsnmedia.net
@@ -1108,7 +1124,6 @@ p1.d.meituan.net
 p10.d.meituan.net
 p13.d.meituan.net
 p14.d.meituan.net
-p15.d.meituan.net
 p16.d.meituan.net
 p2.d.meituan.net
 p3.d.meituan.net
@@ -1120,7 +1135,6 @@ s0.d.meituan.net
 s1.d.meituan.net
 ddplus.meituan.net
 dreport.meituan.net
-babel-general.dreport.meituan.net
 babel-statistics-android.dreport.meituan.net
 data-sdk-uuid-report.dreport.meituan.net
 logan-rtl.dreport.meituan.net
@@ -1155,7 +1169,6 @@ s0.meituan.net
 s1.meituan.net
 s3.meituan.net
 s3plus.meituan.net
-s3plus-shon.meituan.net
 static.meituan.net
 vfile.meituan.net
 w.meituan.net
@@ -1250,6 +1263,7 @@ otf.msn.com
 mub.me
 mybluemix.net
 go.mybusinessacademy.ph
+myfreecams.com
 www.myfreecams.com
 mhc-sec-eu.myhomescreen.tv
 mhc-sec-us.myhomescreen.tv
@@ -1293,6 +1307,7 @@ adtech.nflximg.net
 tms-st.cdn.ngenix.net
 geo.ngtv.io
 nicequest.com
+nickles.de
 www.nickles.de
 nimiq.com
 www.nimiq.com
@@ -1306,6 +1321,7 @@ m2.nsimg.net
 ntv.io
 nuskin.com
 www.nuskin.com
+nutaku.com
 cdn1-images.nutaku.com
 www.nutaku.com
 events.gfe.nvidia.com
@@ -1361,12 +1377,14 @@ widgets.opinary.com
 optimizely.com
 cdn.optimizely.com
 a10083930701.cdn.optimizely.com
+a1010542634.cdn.optimizely.com
 a10135402646.cdn.optimizely.com
 a10196690105.cdn.optimizely.com
 a10198241005.cdn.optimizely.com
 a10304029299.cdn.optimizely.com
 a10453949094.cdn.optimizely.com
 a10471338148.cdn.optimizely.com
+a10494072270.cdn.optimizely.com
 a10519960003.cdn.optimizely.com
 a10561433763.cdn.optimizely.com
 a10650703775.cdn.optimizely.com
@@ -1391,12 +1409,13 @@ a11146190566.cdn.optimizely.com
 a11179690159.cdn.optimizely.com
 a11202468046.cdn.optimizely.com
 a112699136.cdn.optimizely.com
-a11330350730.cdn.optimizely.com
 a11347113422.cdn.optimizely.com
 a11391265293.cdn.optimizely.com
 a11490592095.cdn.optimizely.com
+a11492672549.cdn.optimizely.com
 a11506160254.cdn.optimizely.com
 a11673470095.cdn.optimizely.com
+a11699700304.cdn.optimizely.com
 a11806872970.cdn.optimizely.com
 a11925324355.cdn.optimizely.com
 a11952281403.cdn.optimizely.com
@@ -1412,11 +1431,13 @@ a12856330147.cdn.optimizely.com
 a12862740503.cdn.optimizely.com
 a12894770201.cdn.optimizely.com
 a13222550.cdn.optimizely.com
+a13270690418.cdn.optimizely.com
 a13296620007.cdn.optimizely.com
 a13302150067.cdn.optimizely.com
 a134224613.cdn.optimizely.com
 a134769299.cdn.optimizely.com
 a1370244502.cdn.optimizely.com
+a1401331559.cdn.optimizely.com
 a14069890047.cdn.optimizely.com
 a14073630164.cdn.optimizely.com
 a14127233.cdn.optimizely.com
@@ -1461,6 +1482,7 @@ a166211981.cdn.optimizely.com
 a166688199.cdn.optimizely.com
 a16721560778.cdn.optimizely.com
 a16844480238.cdn.optimizely.com
+a16853470015.cdn.optimizely.com
 a16854766608.cdn.optimizely.com
 a16868292551.cdn.optimizely.com
 a16901060538.cdn.optimizely.com
@@ -1470,7 +1492,6 @@ a16943174984.cdn.optimizely.com
 a16954880846.cdn.optimizely.com
 a17026340012.cdn.optimizely.com
 a17026851333.cdn.optimizely.com
-a17053551565.cdn.optimizely.com
 a1706490390.cdn.optimizely.com
 a17085262301.cdn.optimizely.com
 a17126690382.cdn.optimizely.com
@@ -1501,6 +1522,7 @@ a17831451227.cdn.optimizely.com
 a17843980021.cdn.optimizely.com
 a17853600003.cdn.optimizely.com
 a17870831401.cdn.optimizely.com
+a17893791009.cdn.optimizely.com
 a1790135602.cdn.optimizely.com
 a17906371784.cdn.optimizely.com
 a17908764894.cdn.optimizely.com
@@ -1520,12 +1542,14 @@ a18295143447.cdn.optimizely.com
 a18347140293.cdn.optimizely.com
 a18365751434.cdn.optimizely.com
 a18379630710.cdn.optimizely.com
+a18486820232.cdn.optimizely.com
 a18513981673.cdn.optimizely.com
 a18581841923.cdn.optimizely.com
 a1859010085.cdn.optimizely.com
 a1859790579.cdn.optimizely.com
 a18628381365.cdn.optimizely.com
 a18743582994.cdn.optimizely.com
+a18868670790.cdn.optimizely.com
 a18984920161.cdn.optimizely.com
 a19065870423.cdn.optimizely.com
 a19069622224.cdn.optimizely.com
@@ -1536,6 +1560,7 @@ a19189730953.cdn.optimizely.com
 a19205964212.cdn.optimizely.com
 a19308460131.cdn.optimizely.com
 a19311891251.cdn.optimizely.com
+a19318230244.cdn.optimizely.com
 a19424340941.cdn.optimizely.com
 a19529930113.cdn.optimizely.com
 a19558781057.cdn.optimizely.com
@@ -1577,12 +1602,15 @@ a20673560014.cdn.optimizely.com
 a20684771607.cdn.optimizely.com
 a20758793323.cdn.optimizely.com
 a208064236.cdn.optimizely.com
+a20807430341.cdn.optimizely.com
 a20843150475.cdn.optimizely.com
 a20864580600.cdn.optimizely.com
 a20883850312.cdn.optimizely.com
+a20896371799.cdn.optimizely.com
 a20898485993.cdn.optimizely.com
 a20920185503.cdn.optimizely.com
 a20925222669.cdn.optimizely.com
+a20936640092.cdn.optimizely.com
 a20976504213.cdn.optimizely.com
 a21006041081.cdn.optimizely.com
 a21006071257.cdn.optimizely.com
@@ -1605,6 +1633,7 @@ a21309085.cdn.optimizely.com
 a21358250631.cdn.optimizely.com
 a21362120414.cdn.optimizely.com
 a21362261371.cdn.optimizely.com
+a21367690825.cdn.optimizely.com
 a21370150440.cdn.optimizely.com
 a21371430802.cdn.optimizely.com
 a21375730384.cdn.optimizely.com
@@ -1631,12 +1660,14 @@ a22200992351.cdn.optimizely.com
 a2236295193.cdn.optimizely.com
 a22452380217.cdn.optimizely.com
 a22462820096.cdn.optimizely.com
+a22633721281.cdn.optimizely.com
 a22711502979.cdn.optimizely.com
 a2320460149.cdn.optimizely.com
 a2321860061.cdn.optimizely.com
 a2323230643.cdn.optimizely.com
 a2325110082.cdn.optimizely.com
 a234628017.cdn.optimizely.com
+a2350310814.cdn.optimizely.com
 a2401970420.cdn.optimizely.com
 a2427151003.cdn.optimizely.com
 a2443900815.cdn.optimizely.com
@@ -1677,6 +1708,7 @@ a3567930175.cdn.optimizely.com
 a3580442334.cdn.optimizely.com
 a3698060313.cdn.optimizely.com
 a3732210624.cdn.optimizely.com
+a3747760300.cdn.optimizely.com
 a3778780304.cdn.optimizely.com
 a387132995.cdn.optimizely.com
 a3896010113.cdn.optimizely.com
@@ -1695,6 +1727,7 @@ a4978460394.cdn.optimizely.com
 a5090114122.cdn.optimizely.com
 a523170811.cdn.optimizely.com
 a524690941.cdn.optimizely.com
+a5271073.cdn.optimizely.com
 a536963401.cdn.optimizely.com
 a539341702.cdn.optimizely.com
 a5414371492.cdn.optimizely.com
@@ -1710,8 +1743,11 @@ a61135178.cdn.optimizely.com
 a6131884851.cdn.optimizely.com
 a6136581106.cdn.optimizely.com
 a627150995.cdn.optimizely.com
+a6502622515.cdn.optimizely.com
 a6529002483.cdn.optimizely.com
+a6561280243.cdn.optimizely.com
 a659682401.cdn.optimizely.com
+a659861340.cdn.optimizely.com
 a6931781924.cdn.optimizely.com
 a72135589.cdn.optimizely.com
 a72168671.cdn.optimizely.com
@@ -1723,7 +1759,9 @@ a752092193.cdn.optimizely.com
 a752671897.cdn.optimizely.com
 a7544042.cdn.optimizely.com
 a7589613084.cdn.optimizely.com
+a7592613895.cdn.optimizely.com
 a7599971281.cdn.optimizely.com
+a7620104.cdn.optimizely.com
 a7635582009.cdn.optimizely.com
 a7740361315.cdn.optimizely.com
 a7779470749.cdn.optimizely.com
@@ -1758,6 +1796,7 @@ a8508271295.cdn.optimizely.com
 a8517651080.cdn.optimizely.com
 a8571253058.cdn.optimizely.com
 a8787468851.cdn.optimizely.com
+a8787894373.cdn.optimizely.com
 a9180765182.cdn.optimizely.com
 a9189275809.cdn.optimizely.com
 a9267520140.cdn.optimizely.com
@@ -1765,7 +1804,6 @@ a9440162678.cdn.optimizely.com
 a9514811012.cdn.optimizely.com
 a989617545.cdn.optimizely.com
 a9952002.cdn.optimizely.com
-telemetry.eu-frankfurt-1.oraclecloud.com
 console-telemetry.oci.oraclecloud.com
 orangeclickmedia.com
 ad.ourgame.com
@@ -1840,6 +1878,7 @@ l.qq.com
 vd.l.qq.com
 lmbsy.qq.com
 qqc.co
+qualtrics.com
 siteintercept.qualtrics.com
 zn1ynnliufrct75cb-paypalxm.siteintercept.qualtrics.com
 zn2rjw8v8ecfgyigt-paypalxm.siteintercept.qualtrics.com
@@ -1891,6 +1930,7 @@ prod.telemetry.ros.rockstargames.com
 roistat.com
 stash.roistat.com
 www.roistat.com
+rojadirecta.me
 www.rojadirecta.me
 rollbar.com
 cdn.rollbar.com
@@ -1926,6 +1966,7 @@ r.sascdn.com
 hbbtv.sat1.de
 car.saturn.de
 pvn.saturn.de
+save.tv
 www.save.tv
 sbcglobal.net
 scarabresearch.com
@@ -1953,10 +1994,23 @@ computerbildde.damoh.schneevonmorgen.com
 gigade.damoh.schneevonmorgen.com
 1.gmxnet.damoh.schneevonmorgen.com
 golemde.damoh.schneevonmorgen.com
+1.golemde.damoh.schneevonmorgen.com
 kickerde.damoh.schneevonmorgen.com
 1.kickerde.damoh.schneevonmorgen.com
+2.kickerde.damoh.schneevonmorgen.com
+3.kickerde.damoh.schneevonmorgen.com
 tonlinede.damoh.schneevonmorgen.com
 1.tonlinede.damoh.schneevonmorgen.com
+10.tonlinede.damoh.schneevonmorgen.com
+11.tonlinede.damoh.schneevonmorgen.com
+12.tonlinede.damoh.schneevonmorgen.com
+3.tonlinede.damoh.schneevonmorgen.com
+4.tonlinede.damoh.schneevonmorgen.com
+5.tonlinede.damoh.schneevonmorgen.com
+6.tonlinede.damoh.schneevonmorgen.com
+7.tonlinede.damoh.schneevonmorgen.com
+8.tonlinede.damoh.schneevonmorgen.com
+9.tonlinede.damoh.schneevonmorgen.com
 weltde.damoh.schneevonmorgen.com
 1.weltde.damoh.schneevonmorgen.com
 de1-homad-lb.schneevonmorgen.com
@@ -1967,12 +2021,13 @@ de19-homad-lb.schneevonmorgen.com
 de2-homad-lb.schneevonmorgen.com
 de3-homad-lb.schneevonmorgen.com
 de7-homad-lb.schneevonmorgen.com
-de8-homad-lb.schneevonmorgen.com
 homad-global-configs.schneevonmorgen.com
 embed.scribblelive.com
 seadform.net
 p3nlhclust404.shr.prod.phx3.secureserver.net
 info.seek.com
+segment.com
+cdn.segment.com
 segmentify.com
 cdn.segmentify.com
 per1.segmentify.com
@@ -1980,6 +2035,7 @@ per2.segmentify.com
 segpay.com
 sellpoint.net
 a.sellpoint.net
+www.sellpoint.net
 sematext.com
 www.sematext.com
 sendpulse.com
@@ -1996,6 +2052,8 @@ cdn.sgmntfy.com
 sh.st
 online.sh.cn
 shalltry.com
+shalom.it
+www.shalom.it
 shar.es
 static.share-videos.se
 www.shareasale-analytics.com
@@ -2033,11 +2091,13 @@ www.snrcdn.net
 ib.snssdk.com
 sodimac.cl
 www.sodimac.cl
+softicons.com
 www.softicons.com
 softonic.com
 images.sohu.com
 sojern.com
 hbbtvapp.sonnenklar.tv
+soso.com
 www.soso.com
 ccpa.sp-prod.net
 ccpa-service.sp-prod.net
@@ -2227,6 +2287,7 @@ viafoura.co
 viafoura.net
 videoadex.com
 ads.videoadex.com
+www.videoadex.com
 videoplaza.tv
 videoproc.com
 www.videoproc.com
@@ -2260,12 +2321,12 @@ www3.webhostingtalk.com
 weblockapp.com
 weborama.fr
 webpower.eu
+anwb.webpower.eu
 webpush.jp
 www.webpush.jp
 webtrends.com
 weekli.systems
 damoh.welect.de
-1.damoh.welect.de
 wfcdn.de
 i.wfcdn.de
 j.wfcdn.de
@@ -2316,6 +2377,7 @@ ai.yimg.jp
 us.i1.yimg.com
 l.yimg.com
 yospace.com
+youbora.com
 www.youbora.com
 s.youtube.com
 s2.youtube.com
@@ -2341,3 +2403,4 @@ zopim.com
 cdn.zopim.com
 de08.zopim.com
 de10.zopim.com
+zpr.io

@@ -152,6 +152,8 @@ ink1001.com
 mobile-sdk-api.intercom.io
 invol.co
 inx.lv
+relay-client-c03.iocnt.net
+rtl-relay.iocnt.net
 cloud-news.ionos.com
 iovation.com
 iplogger.com
@@ -268,11 +270,13 @@ cdn.scarabresearch.com
 recommender.scarabresearch.com
 tv-static.scdn.co
 seadform.net
+segment.com
 sensic.net
 at-config.sensic.net
 cdn.sgmntfy.com
 sh.st
 online.sh.cn
+shalom.it
 shar.es
 sharethis.com
 content.sheerid.com
@@ -330,7 +334,6 @@ webgains.com
 weborama.fr
 webpower.eu
 damoh.welect.de
-1.damoh.welect.de
 engage.windows.com
 wisepops.com
 xxxjmp.com

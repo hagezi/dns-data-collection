@@ -8892,6 +8892,7 @@ px.wp.pl
 pylon.micstatic.com
 p.yotpo.com
 pzapi-ij.com
+pzapi-kg.com
 pzd.rakuten.co.jp
 pzimff.com
 pzscub.prestiter.it
@@ -12548,6 +12549,7 @@ tagger.opecloud.com
 tagger.ope.scmp.com
 tag.goldenbees.fr
 tag.leadplace.fr
+tag.lexer.io
 tag-manager.playbuzz.com
 tagm.eduscho.at
 tagm.tchibo.de
@@ -14146,6 +14148,7 @@ typicalteeth.com
 tyvjyt.rivers.com.au
 tyvuwf.lameteoagricole.net
 tzegilo.com
+t.zulily.com
 tzwaw.pw
 u0crsrah75fy.camberlion.com
 u299.libelle-lekker.be

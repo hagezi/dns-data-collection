@@ -13,6 +13,7 @@ s0.2mdn.net
 56.com
 www.56.com
 6ms.biz
+888poker.com
 www.888poker.com
 9nl.com
 analytics.console.aws.a2z.com
@@ -95,6 +96,7 @@ bin5y4muil.execute-api.us-east-1.amazonaws.com
 qe6evcafs0.execute-api.us-east-1.amazonaws.com
 v4vw4ytvo4.execute-api.us-east-2.amazonaws.com
 explore.amd.com
+amgload.net
 www1.amnhealthcare.com
 amplitude.com
 analytics.amplitude.com
@@ -102,6 +104,7 @@ aniview.com
 play.aniview.com
 answerhub.com
 anura.io
+any.gs
 www.any.gs
 appboy-images.com
 appcast.io
@@ -135,6 +138,7 @@ player.avplayer.com
 awin1.com
 monitor.azure.com
 b23.ru
+baihe.com
 www.baihe.com
 bam-x.com
 www.bam-x.com
@@ -250,12 +254,14 @@ privacyportal.cookiepro.com
 cookieq.com
 coralogix.com
 www.coralogix.com
+cotc.net
 www.cotc.net
 coveritlive.com
 cptrack.de
 crazyegg.com
 app.crazyegg.com
 www.crazyegg.com
+cuci.nl
 www.cuci.nl
 customer.io
 cxense.com
@@ -272,10 +278,12 @@ damro.lk
 dartsearch.net
 datadoghq.com
 logs.datadoghq.com
+datadoghq-browser-agent.com
 www.datadoghq-browser-agent.com
 datadome.co
 dbankcloud.cn
 dbankcloud.ru
+s.deepl.com
 demdex.net
 dpm.demdex.net
 www.demdex.net
@@ -317,6 +325,7 @@ now.eloqua.com
 secure.eloqua.com
 en25.com
 img.en25.com
+enhance.com
 www.enhance.com
 eulatracking-public-service-prod06.ol.epicgames.com
 tracking.epicgames.com
@@ -325,13 +334,13 @@ babymarkt-de.arc.epoq.de
 carharttwip-de.arc.epoq.de
 carharttwip-gb.arc.epoq.de
 esmeyer-oxid6.arc.epoq.de
-manor-ch.arc.epoq.de
 pinkorblue-it.arc.epoq.de
 roseoubleu-fr.arc.epoq.de
 dcf.espn.com
 dcfdata.espn.com
 esprima.org
 estream.to
+ethn.io
 www.ethn.io
 msg.ettoday.net
 everesttech.net
@@ -348,6 +357,7 @@ extreme-ip-lookup.com
 ezoic.net
 fapcat.com
 mparticle.map.fastly.net
+fastly-analytics.com
 www.fastly-analytics.com
 fave.co
 sonar-iad.xx.fbcdn.net
@@ -356,6 +366,7 @@ files.im
 fireworkapi.com
 fitanalytics.com
 www.fitanalytics.com
+flvto.biz
 www.flvto.biz
 forexprostools.com
 freebitco.in
@@ -376,6 +387,7 @@ getblueshift.com
 getdrip.com
 getresponse.com
 cmp-cdn.ghostery.com
+gigya.com
 cdn.gigya.com
 cdn2.gigya.com
 cdn3.gigya.com
@@ -384,9 +396,11 @@ gscounters.gigya.com
 gscounters.us1.gigya.com
 www.gigya.com
 player-feedback-v1.glomex.com
+gm99.com
 go-mpulse.net
 go2cloud.org
 goatcounter.com
+goo.su
 ads.google.com
 s0-2mdn-net.l.google.com
 smartlock.google.com
@@ -409,9 +423,11 @@ host-tracker.com
 www.host-tracker.com
 hostingprod.com
 hostip.info
+hotdogsandads.com
 www.hotdogsandads.com
 hs-scripts.com
 t2.hulu.com
+hxtrack.com
 www.hxtrack.com
 i2i.jp
 icptrack.com
@@ -434,7 +450,8 @@ hit.interia.pl
 gdpr.internetbrands.com
 investingchannel.com
 invol.co
-iocnt.net
+relay-client-c03.iocnt.net
+rtl-relay.iocnt.net
 cloud-news.ionos.com
 iovation.com
 www.iovation.com
@@ -460,7 +477,6 @@ mobilesdk-us.kampyle.com
 klaviyo.com
 a.klaviyo.com
 fast.a.klaviyo.com
-www.fast.a.klaviyo.com
 static.klaviyo.com
 klclick.com
 klclick1.com
@@ -500,6 +516,7 @@ loadercdn.com
 loggly.com
 loginfra.com
 logrocket.com
+lpsnmedia.net
 www.lpsnmedia.net
 macromill.com
 magiskmanager.com
@@ -555,6 +572,7 @@ v20.events.data.microsoft.com
 vortex-win.data.microsoft.com
 v10.vortex-win.data.microsoft.com
 v20.vortex-win.data.microsoft.com
+diagnostics.support.microsoft.com
 midasplayer.com
 minexmr.com
 assets.minutemediacdn.com
@@ -609,6 +627,7 @@ m2.nsimg.net
 ntv.io
 nuskin.com
 www.nuskin.com
+nutaku.com
 www.nutaku.com
 ad.nwi.jp
 ens.nzz.ch
@@ -635,13 +654,16 @@ h-cards.citidirect.online-metrix.net
 bdc-cdn.com.online-metrix.net
 h-tm.bdc-cdn.com.online-metrix.net
 ddcprod.online-metrix.net
+h-worldpay.ddcprod.online-metrix.net
 eu-aa.online-metrix.net
 h.online-metrix.net
 a-sac.h.online-metrix.net
+h-2ql3c6py.online-metrix.net
 h-3z5dc3wi.online-metrix.net
 h-6rj18la4.online-metrix.net
 h-859g1sil.online-metrix.net
 h-87rxrdob.online-metrix.net
+h-accountonline.online-metrix.net
 h-accurint.online-metrix.net
 h-adp.online-metrix.net
 h-afterpay.online-metrix.net
@@ -657,6 +679,7 @@ h-bmo.online-metrix.net
 h-bmoharris2.online-metrix.net
 h-bos.online-metrix.net
 h-cas.online-metrix.net
+h-cco37scf.online-metrix.net
 h-cdiscount.online-metrix.net
 h-chase.online-metrix.net
 h-citibank-hk.online-metrix.net
@@ -665,7 +688,9 @@ h-citibank-mx.online-metrix.net
 h-citibankonline.online-metrix.net
 h-citidirect.online-metrix.net
 h-citizensbankonline.online-metrix.net
+h-citizenscommercial.online-metrix.net
 h-cjwi5pjh.online-metrix.net
+h-coutts.online-metrix.net
 h-cybersource.online-metrix.net
 h-dell.online-metrix.net
 h-dstssc.online-metrix.net
@@ -674,6 +699,7 @@ h-ebay.online-metrix.net
 h-ebay-kleinanzeigen.online-metrix.net
 h-elsevier-fame.online-metrix.net
 h-emirates.online-metrix.net
+h-fedex.online-metrix.net
 h-fisglobal.online-metrix.net
 h-goldmanimd.online-metrix.net
 h-goldmansachs2.online-metrix.net
@@ -714,6 +740,7 @@ h-standardcharteredbank.online-metrix.net
 h-svbconnect.online-metrix.net
 h-tdbank.online-metrix.net
 h-tesco.online-metrix.net
+h-thumbtack.online-metrix.net
 h-twctexas.online-metrix.net
 h-ups.online-metrix.net
 h-uptodate.online-metrix.net
@@ -737,7 +764,6 @@ a234628017.cdn.optimizely.com
 a275532918.cdn.optimizely.com
 orangeclickmedia.com
 ad.ourgame.com
-www.pardot.com
 partner-ads.com
 stats.paypal.com
 b.stats.paypal.com
@@ -792,6 +818,7 @@ researchnow.com
 resellerclub.com
 static.cdn.responsys.net
 roistat.com
+rojadirecta.me
 www.rojadirecta.me
 rollbar.com
 rollercoin.com
@@ -816,6 +843,7 @@ oempprd.samsungcloudsolution.net
 osb-ussvc.samsungqbe.com
 sascdn.com
 ec-ns.sascdn.com
+save.tv
 www.save.tv
 sbcglobal.net
 scarabresearch.com
@@ -828,6 +856,8 @@ schibsted.io
 1.gmxnet.damoh.schneevonmorgen.com
 seadform.net
 info.seek.com
+segment.com
+cdn.segment.com
 segmentify.com
 cdn.segmentify.com
 per1.segmentify.com
@@ -865,6 +895,7 @@ smi2.ru
 news.smi2.ru
 snap.com
 ib.snssdk.com
+softicons.com
 www.softicons.com
 softonic.com
 images.sohu.com
@@ -908,6 +939,7 @@ technical-service.net
 te.technical-service.net
 www.technical-service.net
 tenping.kr
+test-iq.org
 thecounter.com
 www.thecounter.com
 thench.net
@@ -976,6 +1008,7 @@ valuecommerce.com
 vgwort.de
 videoadex.com
 ads.videoadex.com
+www.videoadex.com
 videoplaza.tv
 vidible.tv
 cdn.vidible.tv
@@ -988,6 +1021,7 @@ www.visualwebsiteoptimizer.com
 vk.sv
 mplusps.ims.vodafone.com
 mpluswf.ims.vodafone.com
+vxcash.net
 www.vxcash.net
 omniture.walmart.com
 cpm.wargaming.net
@@ -999,7 +1033,6 @@ webpower.eu
 webpush.jp
 webtrends.com
 damoh.welect.de
-1.damoh.welect.de
 activity.windows.com
 assets.activity.windows.com
 engage.windows.com
@@ -1024,6 +1057,7 @@ yhd.com
 ai.yimg.jp
 us.i1.yimg.com
 yospace.com
+youbora.com
 www.youbora.com
 s.youtube.com
 s2.youtube.com

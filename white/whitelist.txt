@@ -97,6 +97,7 @@ iphone-ld.origin-apple.com.akadns.net
 # mask.icloud.com
 ocsp*.apple.com
 # securemvt.apple.com
+# CNAME: apple.tt.omtrdc.net
 smp-device-content.apple.com
 stats.gc.apple.com
 trackingshipment.apple.com
@@ -1310,9 +1311,9 @@ videos.kino.de
 learn.cisecurity.org
 
 # Videos on RTL.de
-rtl-relay.iocnt.net
-relay-client-c03.iocnt.net
-data-191b2429e8.rtl.de
+*.rtl-relay.iocnt.net
+*.relay-client-c03.iocnt.net
+*.data-*.rtl.de
 #+ googletagmanager.com
 
 # Site layout on https://www.mybestbrands.de/
@@ -2322,4 +2323,13 @@ puc-cdn.exponea.com
 # https://github.com/hagezi/dns-blocklists/issues/180
 ssl.o.auspost.com.au
 o.auspost.com.au.ssl.d2.sc.omtrdc.net
+
+# News website in Italy
+shalom.it
+
+# https://github.com/hagezi/dns-blocklists/issues/189
+s.deepl.com
+
+# Navigation on various sites - fender.com
+cdn.segment.com
 

@@ -23,6 +23,7 @@ yu.ac.kr
 ac24horas.com
 acdid.acdsystems.com
 activehosted.com
+ad-magazin.de
 www.ad-magazin.de
 adf.ly
 counter.adguard.com
@@ -35,7 +36,6 @@ ccf.admeen.org
 tcf.admeen.org
 adobedtm.com
 assets.adobedtm.com
-www.adobedtm.com
 adv.li
 advcash.com
 wallet.advcash.com
@@ -116,6 +116,7 @@ aniview.com
 play.aniview.com
 cdn-116.anonfiles.com
 answerhub.com
+any.gs
 www.any.gs
 appboy-images.com
 codepush.appcenter.ms
@@ -201,7 +202,6 @@ api-glb-use2b.smoot.apple.com
 api-glb-use2c.smoot.apple.com
 api-glb-usw2b.smoot.apple.com
 api-glb-usw2c.smoot.apple.com
-api-siri.smoot.apple.com
 api2.smoot.apple.com
 cdn.smoot.apple.com
 cdn2.smoot.apple.com
@@ -212,6 +212,7 @@ stats.gc.fe.apple-dns.net
 applicationinsights.io
 aimon.applicationinsights.io
 breeze.aimon.applicationinsights.io
+appsumo.com
 www.appsumo.com
 arcpublishing.com
 licenses.ashampoo.com
@@ -229,11 +230,13 @@ js.monitor.azure.com
 excel-telemetry.wac.trafficmanager.net.b-0016.b-dc-msedge.net.b-0016.b-msedge.net
 b23.ru
 t10.baidu.com
+baihe.com
 www.baihe.com
 banggood.com
 bc0a.com
 marvel-b1-cdn.bc0a.com
 bestgore.fun
+bitly.com
 www.bitly.com
 bitmovin.com
 geoim.bloomberght.com
@@ -337,6 +340,7 @@ dbankcloud.cn
 dbankcloud.ru
 a-0001.dc-msedge.net
 c-0001.dc-msedge.net
+s.deepl.com
 deskpi.com
 de.dhgate.com
 tag.dickssportinggoods.com
@@ -349,6 +353,7 @@ images.updates.digicert.com
 digidip.net
 dealabs.digidip.net
 dmdi.pl
+www.dmdi.pl
 doublepimp.com
 phn.doublepimp.com
 engine.phn.doublepimp.com
@@ -382,7 +387,6 @@ carharttwip-de.arc.epoq.de
 carharttwip-gb.arc.epoq.de
 esmeyer-oxid6.arc.epoq.de
 gartenhaus-de.arc.epoq.de
-manor-ch.arc.epoq.de
 pinkorblue-it.arc.epoq.de
 rebopharm24-de.arc.epoq.de
 rosebikes-de.arc.epoq.de
@@ -411,12 +415,14 @@ ff-01.com
 ff-02.com
 ff-03.com
 files.im
+flvto.biz
 www.flvto.biz
 fssquad.com
 fumacrom.com
 geni.us
 smarticon.geotrust.com
 getblueshift.com
+gigya.com
 gscounters.au1.gigya.com
 cdn.gigya.com
 cdn1.gigya.com
@@ -436,6 +442,7 @@ go.ly
 www.go.ly
 goatcounter.com
 goo.su
+www.goo.su
 linkhelp.clients.google.com
 analytics.clients6.google.com
 consent.google.com
@@ -487,8 +494,8 @@ bkv28uhm-ios.mobile-sdk-api.intercom.io
 eriojnh3-android.mobile-sdk-api.intercom.io
 fjfoh75b-ios.mobile-sdk-api.intercom.io
 ifepaosc-ios.mobile-sdk-api.intercom.io
+lk7fprhb-ios.mobile-sdk-api.intercom.io
 riezdrz0-ios.mobile-sdk-api.intercom.io
-x88j33yc-ios.mobile-sdk-api.intercom.io
 yqs3zlze-ios.mobile-sdk-api.intercom.io
 ztawwxuu-android.mobile-sdk-api.intercom.io
 ztawwxuu-ios.mobile-sdk-api.intercom.io
@@ -518,6 +525,7 @@ jwpltx.com
 prd.jwpltx.com
 kamibox.de
 www.kamibox.de
+kantar.com
 www.kantar.com
 oasjs.kataweb.it
 kbit.co
@@ -533,7 +541,6 @@ updateapis.kiwibrowser.com
 klaviyo.com
 a.klaviyo.com
 fast.a.klaviyo.com
-www.fast.a.klaviyo.com
 static.klaviyo.com
 klevu.com
 js.klevu.com
@@ -565,6 +572,7 @@ presence.teams.live.com
 stats.live-video.net
 player.stats.live-video.net
 blogroll.livedoor.net
+liveperson.com
 liveperson.net
 lptag.liveperson.net
 va.v.liveperson.net
@@ -645,7 +653,6 @@ p1.d.meituan.net
 p10.d.meituan.net
 p13.d.meituan.net
 p14.d.meituan.net
-p15.d.meituan.net
 p16.d.meituan.net
 p2.d.meituan.net
 p3.d.meituan.net
@@ -657,7 +664,6 @@ s0.d.meituan.net
 s1.d.meituan.net
 ddplus.meituan.net
 dreport.meituan.net
-babel-general.dreport.meituan.net
 babel-statistics-android.dreport.meituan.net
 data-sdk-uuid-report.dreport.meituan.net
 logan-rtl.dreport.meituan.net
@@ -692,7 +698,6 @@ s0.meituan.net
 s1.meituan.net
 s3.meituan.net
 s3plus.meituan.net
-s3plus-shon.meituan.net
 static.meituan.net
 vfile.meituan.net
 w.meituan.net
@@ -759,8 +764,10 @@ nrdp.nccp.netflix.com
 p.nfltags.com
 adtech.nflximg.net
 metric.nflxvideo.net
+nickles.de
 www.nickles.de
 g.msn.com.nsatc.net
+nutaku.com
 cdn1-images.nutaku.com
 www.nutaku.com
 events.gfe.nvidia.com
@@ -831,6 +838,7 @@ go.qb.by
 sdk.qikify.com
 lmbsy.qq.com
 qqc.co
+qualtrics.com
 siteintercept.qualtrics.com
 zn1ynnliufrct75cb-paypalxm.siteintercept.qualtrics.com
 zn2rjw8v8ecfgyigt-paypalxm.siteintercept.qualtrics.com
@@ -866,6 +874,7 @@ surveymyopinion.researchnow.com
 responsys.net
 static.cdn.responsys.net
 locale.roblox.com
+rojadirecta.me
 www.rojadirecta.me
 rotf.lol
 www.rotf.lol
@@ -880,6 +889,7 @@ gpm.samsungqbe.com
 osb-ussvc.samsungqbe.com
 car.saturn.de
 pvn.saturn.de
+save.tv
 www.save.tv
 scarabresearch.com
 cdn.scarabresearch.com
@@ -905,10 +915,23 @@ computerbildde.damoh.schneevonmorgen.com
 gigade.damoh.schneevonmorgen.com
 1.gmxnet.damoh.schneevonmorgen.com
 golemde.damoh.schneevonmorgen.com
+1.golemde.damoh.schneevonmorgen.com
 kickerde.damoh.schneevonmorgen.com
 1.kickerde.damoh.schneevonmorgen.com
+2.kickerde.damoh.schneevonmorgen.com
+3.kickerde.damoh.schneevonmorgen.com
 tonlinede.damoh.schneevonmorgen.com
 1.tonlinede.damoh.schneevonmorgen.com
+10.tonlinede.damoh.schneevonmorgen.com
+11.tonlinede.damoh.schneevonmorgen.com
+12.tonlinede.damoh.schneevonmorgen.com
+3.tonlinede.damoh.schneevonmorgen.com
+4.tonlinede.damoh.schneevonmorgen.com
+5.tonlinede.damoh.schneevonmorgen.com
+6.tonlinede.damoh.schneevonmorgen.com
+7.tonlinede.damoh.schneevonmorgen.com
+8.tonlinede.damoh.schneevonmorgen.com
+9.tonlinede.damoh.schneevonmorgen.com
 weltde.damoh.schneevonmorgen.com
 1.weltde.damoh.schneevonmorgen.com
 de1-homad-lb.schneevonmorgen.com
@@ -919,7 +942,6 @@ de19-homad-lb.schneevonmorgen.com
 de2-homad-lb.schneevonmorgen.com
 de3-homad-lb.schneevonmorgen.com
 de7-homad-lb.schneevonmorgen.com
-de8-homad-lb.schneevonmorgen.com
 homad-global-configs.schneevonmorgen.com
 tracker.scoober.com
 embed.scribblelive.com
@@ -936,6 +958,8 @@ cdn.sgmntfy.com
 sh.st
 online.sh.cn
 shalltry.com
+shalom.it
+www.shalom.it
 shar.es
 static.share-videos.se
 sharethis.com
@@ -959,6 +983,7 @@ www.sodimac.cl
 softonic.com
 api.solvvy.com
 cdn.solvvy.com
+soso.com
 www.soso.com
 sp-prod.net
 ccpa.sp-prod.net
@@ -1057,6 +1082,7 @@ urlzs.com
 go.usa.gov
 videoadex.com
 ads.videoadex.com
+www.videoadex.com
 vk.sv
 mplusps.ims.vodafone.com
 mpluswf.ims.vodafone.com
@@ -1064,7 +1090,6 @@ fy.v.vrv.co
 wa.sv
 wabetainfo.com
 damoh.welect.de
-1.damoh.welect.de
 wfcdn.de
 i.wfcdn.de
 j.wfcdn.de
@@ -1103,3 +1128,4 @@ cdn.zopim.com
 de08.zopim.com
 de10.zopim.com
 widget-mediator.zopim.com
+zpr.io

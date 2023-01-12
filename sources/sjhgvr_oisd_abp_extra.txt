@@ -225,7 +225,6 @@ centersession.com
 cfr.us.v2.we-stats.com
 chartboosts.com
 chlcotrk.com
-cisnc.it
 cj.mplxtms.com
 clck.yandex.ru
 clean-search.com
@@ -268,7 +267,6 @@ c.webengage.com
 cyber-ad01.cc
 d1z2jf7jlzjs58.cloudfront.net
 d2cmedia.ca
-dacui.online
 dadparty.com
 dai-stablecoin.com
 dap.digitalgov.gov
@@ -369,7 +367,6 @@ hitgraph.jp
 hit.stat24.com
 homewares.org
 hook.integromat.com
-hoteldostyk.com
 hotjar.com
 hspx.hotstar.com
 huanqiucaijing.cn
@@ -402,7 +399,6 @@ irony.world
 irs01.com
 iteratehq.com
 i-younet.ne.jp
-izeltelekom.com
 izu.co.jp
 japscat.org
 jfashop.net
@@ -476,7 +472,6 @@ media.richrelevance.com
 mediaz.asia
 mediba.jp
 members.iinet.net.au
-meonhanong.com
 merryholidays.org
 metrics.cancer.gov
 metrics.claspws.tv
@@ -618,7 +613,6 @@ shorte.st
 singular.net
 siteintercept.qualtrics.com
 skimresources.com
-skyscan.com
 slc.stats.paypal.com
 smac-ssp.com
 smartclip.net

@@ -8948,6 +8948,7 @@ d-log.tv-asahi.co.jp
 dl.orders.express-scripts.com
 dlqxtm.sssports.com
 dlrdmw.zanui.com.au
+dls2s.appsflyer.com
 dl-stage.zola.com
 dlswbr.baidu.com
 dlxpix.net
@@ -17603,6 +17604,7 @@ python.mux.com
 pywiia.lfmall.co.kr
 pzajdh.guicheweb.com.br
 pzapi-ij.com
+pzapi-kg.com
 pzd.rakuten.co.jp
 pzimff.com
 pzscub.prestiter.it
@@ -23809,6 +23811,7 @@ tagger.ope.scmp.com
 tag.goldenbees.fr
 tag.karte.io
 tag.leadplace.fr
+tag.lexer.io
 tagmanager1.citibank.com
 tagmanager1.citibankonline.com
 tagmanager1.citicards.com
@@ -26923,6 +26926,7 @@ tzegilo.com
 t.zhipin.com
 tz.met.vgwort.de
 tzovkp.aboutyou.at
+t.zulily.com
 tzwaw.pw
 u0crsrah75fy.camberlion.com
 u299.libelle-lekker.be

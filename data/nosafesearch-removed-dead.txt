@@ -6,6 +6,7 @@ www.finden.tk
 search.gougeul.org
 searx.guillaumea.fr
 searx.handskemager.xyz
+searx.kvch.me
 searx.lambda.li
 searx.laquadrature.net
 searx.likkle.monster
@@ -22,5 +23,7 @@ searx.privatenet.cf
 searx.pwoss.org
 searx.rxyz.rocks
 searx.ro
+searx.slash-dev.de
+search.snopyta.org
 tromland.org
 unmonito.red

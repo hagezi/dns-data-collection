@@ -170,6 +170,7 @@
 2ip.ua
 2kgam.es
 2kgames.com
+2link.cc
 2long.cc
 2.ly
 2mdn.net
@@ -2371,7 +2372,9 @@ bigbank.ee
 bigboobsalert.com
 big-boss-tracker.net
 bigcartel.com
+bigcc.cc
 bigcommerce.com
+biggo.tw
 biglion.ru
 biglobe.ne.jp
 bigmir.net
@@ -3967,6 +3970,7 @@ crimsontrace.com
 criptointercambio.com
 crl.moog.cloud.axiadids.net
 cr.ma
+crm-cdn.peek-cloppenburg.com
 crm-static.wondershare.cc
 croatiabanka.hr
 crobanet.croatiabanka.hr
@@ -4147,7 +4151,6 @@ darty.com
 da-services.ch
 dashlane.com
 da.slickdeals.net
-data-191b2429e8.rtl.de
 data-bg.net
 data.cnn.com
 datadoghq-browser-agent.com
@@ -4160,6 +4163,7 @@ data.jsdelivr.com"
 dataknet.com
 data.microsoft.com
 data.mistat.intl.xiaomi.com
+*.data-*.rtl.de
 datascene.net
 data.sensor.community
 data.terabox.com
@@ -4239,6 +4243,7 @@ dec.fazenda.df.gov.br
 de.dhgate.com
 dedibox.fr
 deejay.it
+deepl.com
 deezer.com
 defendershield.com
 defly.io
@@ -7454,7 +7459,6 @@ inv.riverside.rocks
 inx.lv
 iobnet.co.in
 ioc.exchange
-iocnt.net
 ioffer.com
 ioffice.kz
 ionos.com
@@ -8361,6 +8365,7 @@ lnky.fr
 ln.mtahost.co
 lnnk.in
 lnp.sn
+lnv.gy
 loadbt.com
 loader.adrelayer.com
 loadercdn.com
@@ -9480,6 +9485,7 @@ ngenix.net
 ngfts.lge.com
 nginx.com
 nginx.org
+ngrid.com
 ngtv.io
 nhk.or.jp
 nhn.no
@@ -9522,6 +9528,7 @@ niuza.com
 nivoli.com
 njalla.net
 nj.com
+nkbp.jp
 nkcbank.ru
 nle.nl
 *.nl-go.kelkoogroup.net
@@ -10471,6 +10478,7 @@ pdt.tradedoubler.com
 pdxint.at
 peakgames.net
 peckservers.com
+peek-cloppenburg.com
 peerfect.org
 peerius.com
 pega.com
@@ -11043,6 +11051,7 @@ pvp.net
 pvtag.yahoo.co.jp
 pvu.nets.no
 pw2.ro
+pwc.to
 px.a8.net
 *.px-cloud.net
 *.pxf.io
@@ -11563,7 +11572,7 @@ reg.ru
 reise.lc
 reisub.nsupdate.info
 rekcart.duckdns.org
-relay-client-c03.iocnt.net
+*.relay-client-c03.iocnt.net
 release.calyxinstitute.org
 release.narrativ.com
 relink.fr
@@ -11800,8 +11809,7 @@ rt.com
 rtd-tm.everesttech.net
 rtep.msgamestudios.com
 rtl2.de
-rtl.de
-rtl-relay.iocnt.net
+*.rtl-relay.iocnt.net
 rtoaster.jp
 rt.optizone.ru
 rtsbank.ru
@@ -12074,6 +12082,7 @@ sd-161673.dedibox.fr
 sdacdn.com
 sdb.lk
 sdbmobilec.sdb.lk
+s.deepl.com
 sdf.org
 sdk-02.moengage.com
 sdk-bockum-hoevel.de
@@ -12300,6 +12309,7 @@ shadowshq.eddie4.nl
 shadowshq.yi.org
 shallalist.de
 shalltry.com
+shalom.it
 shapeshift.com
 shar.as
 shareasale-analytics.com
@@ -12394,6 +12404,7 @@ shrunken.com
 sh.st
 shure.com
 shutterstock.com
+shxj.pw
 shy.si
 shz-amp-prod.shazamcloud.com
 siab.ru
@@ -13123,6 +13134,7 @@ s.ss2.us
 ssu.li
 ssur.cc
 s.swiftypecdn.com
+st8.fm
 stabila.com
 stackblitz.com
 stackoverflow.com
@@ -14838,6 +14850,7 @@ usgs.gov
 us.hbomaxcdn.com
 us.hismileteeth.com
 us.hsbc.com
+u.shxj.pw
 us.i1.yimg.com
 us.lgtvsdp.com
 usnews.com
@@ -15998,6 +16011,7 @@ www.2ip.ua
 www2.jugra.ru
 www.2kgam.es
 www.2kgames.com
+www.2link.cc
 www.2long.cc
 www.2.ly
 www.2mdn.net
@@ -16952,7 +16966,9 @@ www.bigbank.ee
 www.bigboobsalert.com
 www.big-boss-tracker.net
 www.bigcartel.com
+www.bigcc.cc
 www.bigcommerce.com
+www.biggo.tw
 www.biglion.ru
 www.bigmir.net
 www.big.pt
@@ -17944,6 +17960,7 @@ www.deb.li
 www.debuz.com
 www.dedibox.fr
 www.deejay.it
+www.deepl.com
 www.deezer.com
 www.defendershield.com
 www.defly.io
@@ -19797,7 +19814,6 @@ www.invidious.io
 www.invol.co
 www.inx.lv
 www.ioc.exchange
-www.iocnt.net
 www.ioffer.com
 www.ioffice.kz
 www.ionos.com
@@ -20452,6 +20468,7 @@ www.lnk.sk
 www.lnky.fr
 www.lnnk.in
 www.lnp.sn
+www.lnv.gy
 www.loadbt.com
 www.loadercdn.com
 www.loadfast1.com
@@ -21160,6 +21177,7 @@ www.nfusionsolutions.com
 www.ngenix.net
 www.nginx.com
 www.nginx.org
+www.ngrid.com
 www.ngtv.io
 www.nhn.no
 www.nhs.uk
@@ -21193,6 +21211,7 @@ www.niuza.com
 www.nivoli.com
 www.njalla.net
 www.nj.com
+www.nkbp.jp
 www.nkcbank.ru
 www.nle.nl
 www.nlrb.gov
@@ -21698,6 +21717,7 @@ www.pdst.fm
 www.pdxint.at
 www.peakgames.net
 www.peckservers.com
+www.peek-cloppenburg.com
 www.peerfect.org
 www.peerius.com
 www.pega.com
@@ -22057,6 +22077,7 @@ www.puzz.com
 www.puzzleweb.ru
 www.pvp.net
 www.pw2.ro
+www.pwc.to
 www.pxf.io
 www.pximg.net
 www.pxlme.me
@@ -22678,7 +22699,6 @@ www.rtbk.ru
 www.rtb.ru
 www.rt.com
 www.rtl2.de
-www.rtl.de
 www.rtoaster.jp
 www.rtsbank.ru
 www.rt.se
@@ -22960,6 +22980,7 @@ www.sgkb.de
 www.sgmntfy.com
 www.shallalist.de
 www.shalltry.com
+www.shalom.it
 www.shapeshift.com
 www.shar.as
 www.shareasale-analytics.com
@@ -23028,6 +23049,7 @@ www.shrunken.com
 www.sh.st
 www.shure.com
 www.shutterstock.com
+www.shxj.pw
 www.shy.si
 www.siab.ru
 www.sia.eu
@@ -23607,6 +23629,7 @@ www.ssl-images-amazon.com
 www.sslip.io
 www.ssu.li
 www.ssur.cc
+www.st8.fm
 www.stabila.com
 www.stackblitz.com
 www.stackoverflow.com

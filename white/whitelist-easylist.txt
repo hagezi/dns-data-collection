@@ -909,6 +909,7 @@ mediazavod.ru
 megaup.net
 menshealth.es
 mentalmarket.io
+merlincdn.net
 metal-hammer.de
 mgid.com
 admin.mgid.com
@@ -1431,7 +1432,6 @@ usercentrics.eu
 v2rayssr.com
 vacancies.club
 valuecommerce.com
-vcdn.biz
 vercanalestv.com
 verdirectotv.com
 signin.verizon.com
